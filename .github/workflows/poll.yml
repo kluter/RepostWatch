@@ -2,7 +2,8 @@ name: poll
 
 on:
   schedule:
-    - cron: "30 16 * * *"  # 18:30 CEST (GitHub cron is UTC, so 17:30 local in winter/CET)
+    - cron: "30 10 * * *"  # 12:30 CEST (11:30 CET in winter) — midday, catches same-day churn
+    - cron: "30 16 * * *"  # 18:30 CEST (17:30 CET in winter) — after HR wraps up
   workflow_dispatch:
   push:
     branches: [main]

@@ -2,7 +2,7 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-07-09T14:11:52+00:00",
+ "fetched_at": "2026-07-09T18:15:11+00:00",
  "job_count": 121,
  "jobs": [
   {
@@ -442,8 +442,8 @@
   },
   {
    "job_id": "4776546101",
-   "lineage_key": "senior-systems-safety-engineer@munich",
-   "title": "(Senior) Systems Safety Engineer",
+   "lineage_key": "senior-systems-safety-engineer-air@munich",
+   "title": "(Senior) Systems Safety Engineer - Air",
    "department": "Hardware Engineering",
    "team": "",
    "location": "Munich",
@@ -1327,11 +1327,11 @@
   },
   {
    "job_id": "4880852101",
-   "lineage_key": "graphic-designer@munich",
+   "lineage_key": "graphic-designer@berlin",
    "title": "Graphic Designer",
    "department": "Marketing & Communications",
    "team": "",
-   "location": "Munich",
+   "location": "Berlin",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
@@ -1776,21 +1776,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4921364101",
-   "lineage_key": "systems-technical-writer@munich",
-   "title": "Systems Technical Writer",
-   "department": "Hardware Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-07T10:58:58-04:00",
-   "url": "https://helsing.ai/jobs/4921364101?gh_jid=4921364101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4921704101",
    "lineage_key": "radio-engineer@munich",
    "title": "Radio Engineer",
@@ -1818,6 +1803,21 @@
    "is_remote": false,
    "published_at": "2026-07-09T08:55:59-04:00",
    "url": "https://helsing.ai/jobs/4923741101?gh_jid=4923741101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4923845101",
+   "lineage_key": "wireless-communications-systems-engineer@munich",
+   "title": "Wireless Communications Systems Engineer",
+   "department": "AI & Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-09T10:46:25-04:00",
+   "url": "https://helsing.ai/jobs/4923845101?gh_jid=4923845101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

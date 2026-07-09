@@ -418,6 +418,7 @@ def run_company(cfg: dict, now: datetime) -> dict:
     events_path = company_dir / "events.jsonl"
     now_iso = now.isoformat(timespec="seconds")
 
+    prev_jobs = None
     if state_path.exists():
         prev_jobs = json.loads(state_path.read_text(encoding="utf-8"))["jobs"]
         if not cur_jobs and prev_jobs:
@@ -425,7 +426,7 @@ def run_company(cfg: dict, now: datetime) -> dict:
             # once; emitting a wave of closes here would poison the event log.
             print(f"  {slug}: feed returned 0 listed jobs while {len(prev_jobs)} were known; "
                   f"skipping diff, keeping previous state", file=sys.stderr)
-            return {"slug": slug, "skipped": True}
+            return {"slug": slug, "skipped": True, "locations": [j["location"] for j in prev_jobs]}
         recent_closes = load_recent_closes(events_path)
         events = diff_events(slug, ats, prev_jobs, cur_jobs, recent_closes, now)
     else:
@@ -437,15 +438,18 @@ def run_company(cfg: dict, now: datetime) -> dict:
     tag_batches(events)
     events.sort(key=lambda e: (e["type"] != "closed", e["published_at"], e["title"]))
 
-    state = {
-        "company": slug,
-        "source": ats,
-        "board": board,
-        "fetched_at": now_iso,
-        "job_count": len(cur_jobs),
-        "jobs": cur_jobs,
-    }
-    state_path.write_text(json.dumps(state, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+    # Only rewrite the snapshot when the jobs actually changed. Otherwise a no-op poll
+    # would still bump fetched_at and produce a daily commit with no real data in it.
+    if prev_jobs is None or cur_jobs != prev_jobs:
+        state = {
+            "company": slug,
+            "source": ats,
+            "board": board,
+            "fetched_at": now_iso,
+            "job_count": len(cur_jobs),
+            "jobs": cur_jobs,
+        }
+        state_path.write_text(json.dumps(state, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
 
     if events:
         with events_path.open("a", encoding="utf-8") as f:
@@ -505,15 +509,15 @@ def geocode_new_locations(locations) -> None:
         GEOCACHE_PATH.write_text(json.dumps(cache, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
 
 
-def write_company_index(companies: list[dict], now: datetime) -> None:
-    # Pass company entries through as-is so the dashboard sees name/website/facts.
-    index = {
-        "generated_at": now.isoformat(timespec="seconds"),
-        "companies": companies,
-    }
+def write_company_index(companies: list[dict]) -> None:
+    # Company entries pass through as-is so the dashboard sees name/website/facts.
+    # No generated_at timestamp: it would change every run and force an empty commit.
+    # Only (re)write when the config actually differs from what's on disk.
     DATA_DIR.mkdir(exist_ok=True)
-    (DATA_DIR / "index.json").write_text(
-        json.dumps(index, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+    path = DATA_DIR / "index.json"
+    new = json.dumps({"companies": companies}, indent=1, ensure_ascii=False) + "\n"
+    if not path.exists() or path.read_text(encoding="utf-8") != new:
+        path.write_text(new, encoding="utf-8")
 
 
 def main() -> int:
@@ -533,7 +537,7 @@ def main() -> int:
             print(f"  {cfg.get('slug', '?')}: FAILED — {exc}", file=sys.stderr)
 
     geocode_new_locations(all_locations)   # one pass over the shared cache for the whole poll
-    write_company_index(companies, now)
+    write_company_index(companies)
 
     if failures:
         print(f"{len(failures)} company poll(s) failed", file=sys.stderr)

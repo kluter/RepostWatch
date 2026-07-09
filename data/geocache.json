@@ -61,7 +61,6 @@
    "lon": -70.6693,
    "label": "Santiago, Chile"
   },
-  "remote": null,
   "new dehli": {
    "lat": 28.6139,
    "lon": 77.209,
@@ -112,12 +111,8 @@
    "lon": -77.0363849,
    "label": "Washington"
   },
-  "liveeo belgium (remote)": null,
-  "liveeo emea (remote)": null,
   "liveeo gmbh berlin (onsite)": null,
   "liveeo gmbh berlin office (hybrid)": null,
-  "liveeo inc. usa (remote)": null,
-  "liveeo united kingdom (remote)": null,
   "athens, greece": {
    "lat": 37.9755648,
    "lon": 23.7348324,
@@ -158,6 +153,103 @@
    "lat": 39.7837304,
    "lon": -100.445882,
    "label": "United States"
+  },
+  "abu dhabi, uae": {
+   "lat": 24.4538352,
+   "lon": 54.3774014,
+   "label": "أبو ظبي"
+  },
+  "arlington, va": {
+   "lat": 38.8769326,
+   "lon": -77.0893094,
+   "label": "Arlington County"
+  },
+  "graz, austria": {
+   "lat": 47.0708678,
+   "lon": 15.4382786,
+   "label": "Graz"
+  },
+  "haarlem, netherlands": {
+   "lat": 52.3885317,
+   "lon": 4.6388048,
+   "label": "Haarlem"
+  },
+  "ljubljana, slovenia": {
+   "lat": 46.0500268,
+   "lon": 14.5069289,
+   "label": "Ljubljana"
+  },
+  "san francisco, ca": {
+   "lat": 37.7879363,
+   "lon": -122.4075201,
+   "label": "San Francisco"
+  },
+  "san francisco, california": {
+   "lat": 37.7879363,
+   "lon": -122.4075201,
+   "label": "San Francisco"
+  },
+  "stockholm, sweden": {
+   "lat": 59.3251172,
+   "lon": 18.0710935,
+   "label": "Stockholm"
+  },
+  "washington dc": {
+   "lat": 38.8950982,
+   "lon": -77.0363849,
+   "label": "Washington"
+  },
+  "apac, remote": null,
+  "canada, remote": {
+   "lat": 61.0666922,
+   "lon": -107.991707,
+   "label": "Canada",
+   "remote": true
+  },
+  "europe, remote": null,
+  "france, remote": {
+   "lat": 46.603354,
+   "lon": 1.8883335,
+   "label": "France",
+   "remote": true
+  },
+  "germany, remote": {
+   "lat": 51.1638175,
+   "lon": 10.4478313,
+   "label": "Germany",
+   "remote": true
+  },
+  "japan, remote": {
+   "lat": 36.5748441,
+   "lon": 139.2394179,
+   "label": "Japan",
+   "remote": true
+  },
+  "latam, remote": null,
+  "netherlands, remote": {
+   "lat": 52.2434979,
+   "lon": 5.6343227,
+   "label": "Netherlands",
+   "remote": true
+  },
+  "remote": null,
+  "sweden, remote": {
+   "lat": 59.6749712,
+   "lon": 14.5208584,
+   "label": "Sweden",
+   "remote": true
+  },
+  "united kingdom, remote": {
+   "lat": 54.7023545,
+   "lon": -3.2765753,
+   "label": "United Kingdom",
+   "remote": true
+  },
+  "united states, remote": {
+   "lat": 39.7837304,
+   "lon": -100.445882,
+   "label": "United States",
+   "remote": true
   }
  }
 }

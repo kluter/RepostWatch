@@ -84,6 +84,23 @@
     "Reflex Aerospace (satellites)",
     "ESA InCubed"
    ]
+  },
+  {
+   "slug": "planet",
+   "ats": "greenhouse",
+   "board": "planetlabs",
+   "name": "Planet Labs",
+   "website": "https://www.planet.com",
+   "logo": "assets/companies/planet.svg",
+   "facts": {
+    "Founded": "2010",
+    "HQ": "San Francisco, USA",
+    "Industry": "Earth-observation satellites & data"
+   },
+   "partners": [
+    "Google (equity, data)",
+    "SpaceX (launch)"
+   ]
   }
  ]
 }

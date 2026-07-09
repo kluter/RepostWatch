@@ -1,0 +1,63 @@
+# One entry per tracked company. Adding a company is a config change, not a code change.
+#   slug:   directory name under data/
+#   ats:    adapter to use (ashby | greenhouse | recruitee | personio | teamtailor)
+#   board:  board identifier in the ATS public feed URL:
+#             ashby      -> job-board name          (api.ashbyhq.com/.../{board})
+#             greenhouse -> board token             (boards-api.greenhouse.io/.../{board}/jobs)
+#             recruitee  -> subdomain               ({board}.recruitee.com/api/offers/)
+#             personio   -> subdomain               ({board}.jobs.personio.de/xml)
+#             teamtailor -> careers host            (https://{board}/jobs.rss)
+#   name / website / facts: shown in the dashboard sidebar (all optional).
+#   A logo dropped at assets/companies/{slug}.png (dark-on-transparent) is picked up automatically.
+- slug: iceye
+  ats: ashby
+  board: iceye
+  name: ICEYE
+  website: https://www.iceye.com
+  facts:
+    Founded: "2014"
+    HQ: Espoo, Finland
+    Industry: SAR Earth-observation satellites
+  partners:
+    - Rheinmetall (JV)
+    - SpaceX (launch)
+
+- slug: constellr
+  ats: recruitee
+  board: constellr
+  name: constellr
+  website: https://www.constellr.com
+  logo_invert: false        # brand logo is blue, not black — keep its colour
+  facts:
+    HQ: Freiburg, Germany
+    Industry: Thermal Earth observation
+
+- slug: opencosmos
+  ats: teamtailor
+  board: careers.open-cosmos.com
+  name: Open Cosmos
+  website: https://www.open-cosmos.com
+  logo: assets/companies/opencosmos.svg
+  facts:
+    HQ: Harwell, United Kingdom
+    Industry: Satellite missions & data
+
+- slug: helsing
+  ats: greenhouse
+  board: helsing
+  name: Helsing
+  website: https://helsing.ai
+  logo: assets/companies/helsing.svg
+  facts:
+    HQ: Munich, Germany
+    Industry: Defence AI
+
+- slug: liveeo
+  ats: personio
+  board: liveeo-gmbh
+  name: LiveEO
+  website: https://www.live-eo.com
+  logo: assets/companies/liveeo.svg
+  facts:
+    HQ: Berlin, Germany
+    Industry: Satellite infrastructure monitoring

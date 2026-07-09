@@ -1,0 +1,69 @@
+{
+ "generated_at": "2026-07-09T13:30:42+00:00",
+ "companies": [
+  {
+   "slug": "iceye",
+   "ats": "ashby",
+   "board": "iceye",
+   "name": "ICEYE",
+   "website": "https://www.iceye.com",
+   "facts": {
+    "Founded": "2014",
+    "HQ": "Espoo, Finland",
+    "Industry": "SAR Earth-observation satellites"
+   },
+   "partners": [
+    "Rheinmetall (JV)",
+    "SpaceX (launch)"
+   ]
+  },
+  {
+   "slug": "constellr",
+   "ats": "recruitee",
+   "board": "constellr",
+   "name": "constellr",
+   "website": "https://www.constellr.com",
+   "logo_invert": false,
+   "facts": {
+    "HQ": "Freiburg, Germany",
+    "Industry": "Thermal Earth observation"
+   }
+  },
+  {
+   "slug": "opencosmos",
+   "ats": "teamtailor",
+   "board": "careers.open-cosmos.com",
+   "name": "Open Cosmos",
+   "website": "https://www.open-cosmos.com",
+   "logo": "assets/companies/opencosmos.svg",
+   "facts": {
+    "HQ": "Harwell, United Kingdom",
+    "Industry": "Satellite missions & data"
+   }
+  },
+  {
+   "slug": "helsing",
+   "ats": "greenhouse",
+   "board": "helsing",
+   "name": "Helsing",
+   "website": "https://helsing.ai",
+   "logo": "assets/companies/helsing.svg",
+   "facts": {
+    "HQ": "Munich, Germany",
+    "Industry": "Defence AI"
+   }
+  },
+  {
+   "slug": "liveeo",
+   "ats": "personio",
+   "board": "liveeo-gmbh",
+   "name": "LiveEO",
+   "website": "https://www.live-eo.com",
+   "logo": "assets/companies/liveeo.svg",
+   "facts": {
+    "HQ": "Berlin, Germany",
+    "Industry": "Satellite infrastructure monitoring"
+   }
+  }
+ ]
+}

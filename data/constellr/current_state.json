@@ -1,0 +1,69 @@
+{
+ "company": "constellr",
+ "source": "recruitee",
+ "board": "constellr",
+ "fetched_at": "2026-07-09T13:30:42+00:00",
+ "job_count": 4,
+ "jobs": [
+  {
+   "job_id": "2614405",
+   "lineage_key": "software-assurance-engineer-satellites@berlin-germany",
+   "title": "Software Assurance Engineer (Satellites)",
+   "department": "Program Mng",
+   "team": "",
+   "location": "Berlin, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-05-22T15:52:53+00:00",
+   "url": "https://constellr.recruitee.com/o/software-assurance-engineer-satellites",
+   "description_sha256": "357a46f814cf9f25bcef94b490862c10261a1099987060a3ad4a6548f3f64587"
+  },
+  {
+   "job_id": "2619045",
+   "lineage_key": "embedded-flight-software-engineer@berlin-germany",
+   "title": "Embedded Flight Software Engineer",
+   "department": "Satellite Tech",
+   "team": "",
+   "location": "Berlin, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-05-28T10:22:30+00:00",
+   "url": "https://constellr.recruitee.com/o/embedded-flight-software-engineer",
+   "description_sha256": "7504eada84707d7970d81693f3e316b0542b9b43ec5c6a105465851255fde3d3"
+  },
+  {
+   "job_id": "2619575",
+   "lineage_key": "project-and-procurement-manager@munich-germany",
+   "title": "Project and Procurement Manager",
+   "department": "Program Mng",
+   "team": "",
+   "location": "Munich, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-05-28T13:43:12+00:00",
+   "url": "https://constellr.recruitee.com/o/project-and-procurement-manager-4",
+   "description_sha256": "374d8a9a216964e65957e309c90fa02e86c8030fe8895c351beee35436bcfd00"
+  },
+  {
+   "job_id": "2664498",
+   "lineage_key": "mission-control-engineer@berlin-germany",
+   "title": "Mission Control Engineer",
+   "department": "Satellite Tech",
+   "team": "",
+   "location": "Berlin, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-07-02T13:00:52+00:00",
+   "url": "https://constellr.recruitee.com/o/mission-control-engineer",
+   "description_sha256": "4953a33e4684b7d46776b27d2c00bfe3d3d1a17bdeaba0c9f8261c77af1dad5b"
+  }
+ ]
+}

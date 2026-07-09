@@ -1,0 +1,11 @@
+# Force LF everywhere so the Windows working copy and the Linux Actions bot never
+# disagree on line endings (that would show up as spurious diffs / merge conflicts).
+* text=auto eol=lf
+
+# Binary assets: leave them untouched.
+*.png binary
+*.ico binary
+
+# The event logs are append-only; on merge, keep lines from BOTH sides instead of
+# conflicting, so a local run and the bot's run reconcile automatically.
+data/**/events.jsonl merge=union

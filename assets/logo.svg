@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="rw-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00c8ff"/>
+      <stop offset="1" stop-color="#0072d2"/>
+    </linearGradient>
+  </defs>
+  <circle cx="32" cy="32" r="31.5" fill="url(#rw-grad)"/>
+  <g fill="#ffffff" transform="translate(32 32) scale(0.74) translate(-32 -32)">
+    <!-- up arrow (left) with its bar running right along the bottom -->
+    <polygon points="7,27 31,27 19,12"/>
+    <path d="M14.5,27 h9 v7 h7 v9 h-16 Z"/>
+    <!-- down arrow (right) with its bar running left along the top: 180deg rotation -->
+    <polygon points="57,37 33,37 45,52"/>
+    <path d="M49.5,37 h-9 v-7 h-7 v-9 h16 Z"/>
+  </g>
+</svg>

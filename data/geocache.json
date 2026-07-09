@@ -1,0 +1,163 @@
+{
+ "note": "location string (trimmed, lowercased) -> {lat, lon, label} or null if unresolvable. poll.py fills new locations via Nominatim; committed so the dashboard never geocodes client-side.",
+ "locations": {
+  "espoo": {
+   "lat": 60.2055,
+   "lon": 24.6559,
+   "label": "Espoo, Finland"
+  },
+  "valencia": {
+   "lat": 39.4699,
+   "lon": -0.3763,
+   "label": "Valencia, Spain"
+  },
+  "valencia, spain": {
+   "lat": 39.4699,
+   "lon": -0.3763,
+   "label": "Valencia, Spain"
+  },
+  "warsaw": {
+   "lat": 52.2297,
+   "lon": 21.0122,
+   "label": "Warsaw, Poland"
+  },
+  "berlin": {
+   "lat": 52.52,
+   "lon": 13.405,
+   "label": "Berlin, Germany"
+  },
+  "greece": {
+   "lat": 37.9838,
+   "lon": 23.7275,
+   "label": "Athens, Greece"
+  },
+  "athens": {
+   "lat": 37.9838,
+   "lon": 23.7275,
+   "label": "Athens, Greece"
+  },
+  "tokyo": {
+   "lat": 35.6762,
+   "lon": 139.6503,
+   "label": "Tokyo, Japan"
+  },
+  "united arab emirates": {
+   "lat": 24.4539,
+   "lon": 54.3773,
+   "label": "Abu Dhabi, UAE"
+  },
+  "lisbon": {
+   "lat": 38.7223,
+   "lon": -9.1393,
+   "label": "Lisbon, Portugal"
+  },
+  "uk": {
+   "lat": 51.5074,
+   "lon": -0.1278,
+   "label": "London, UK"
+  },
+  "santiago": {
+   "lat": -33.4489,
+   "lon": -70.6693,
+   "label": "Santiago, Chile"
+  },
+  "remote": null,
+  "new dehli": {
+   "lat": 28.6139,
+   "lon": 77.209,
+   "label": "New Delhi, India"
+  },
+  "netherlands": {
+   "lat": 52.3676,
+   "lon": 4.9041,
+   "label": "Amsterdam, Netherlands"
+  },
+  "kyiv": {
+   "lat": 50.4501,
+   "lon": 30.5234,
+   "label": "Kyiv, Ukraine"
+  },
+  "indonesia": {
+   "lat": -6.2088,
+   "lon": 106.8456,
+   "label": "Jakarta, Indonesia"
+  },
+  "berlin, germany": {
+   "lat": 52.5173885,
+   "lon": 13.3951309,
+   "label": "Berlin"
+  },
+  "munich, germany": {
+   "lat": 48.1371079,
+   "lon": 11.5753822,
+   "label": "München"
+  },
+  "barcelona": {
+   "lat": 41.3825802,
+   "lon": 2.177073,
+   "label": "Barcelona"
+  },
+  "london": {
+   "lat": 51.5074456,
+   "lon": -0.1277653,
+   "label": "Greater London"
+  },
+  "munich": {
+   "lat": 48.1371079,
+   "lon": 11.5753822,
+   "label": "München"
+  },
+  "washington, dc": {
+   "lat": 38.8950982,
+   "lon": -77.0363849,
+   "label": "Washington"
+  },
+  "liveeo belgium (remote)": null,
+  "liveeo emea (remote)": null,
+  "liveeo gmbh berlin (onsite)": null,
+  "liveeo gmbh berlin office (hybrid)": null,
+  "liveeo inc. usa (remote)": null,
+  "liveeo united kingdom (remote)": null,
+  "athens, greece": {
+   "lat": 37.9755648,
+   "lon": 23.7348324,
+   "label": "Αθήνα"
+  },
+  "barcelona, spain": {
+   "lat": 41.3825802,
+   "lon": 2.177073,
+   "label": "Barcelona"
+  },
+  "coimbra, portugal": {
+   "lat": 40.2111931,
+   "lon": -8.4294632,
+   "label": "Coimbra"
+  },
+  "harwell, uk": {
+   "lat": 51.5999743,
+   "lon": -1.2909164,
+   "label": "Harwell"
+  },
+  "porto, portugal": {
+   "lat": 41.1502195,
+   "lon": -8.6103497,
+   "label": "Porto"
+  },
+  "belgium": {
+   "lat": 50.6402809,
+   "lon": 4.6667145,
+   "label": "België / Belgique / Belgien"
+  },
+  "united kingdom": {
+   "lat": 54.7023545,
+   "lon": -3.2765753,
+   "label": "United Kingdom"
+  },
+  "emea": null,
+  "usa": {
+   "lat": 39.7837304,
+   "lon": -100.445882,
+   "label": "United States"
+  }
+ }
+}

@@ -245,7 +245,7 @@
             const g = locs[key];
             if (!g) continue;   // unknown, or deliberately null (e.g. "Remote")
             const ck = `${g.lat.toFixed(3)},${g.lon.toFixed(3)}`;
-            const cur = agg.get(ck) || { lat: g.lat, lon: g.lon, label: g.label, count: 0 };
+            const cur = agg.get(ck) || { lat: g.lat, lon: g.lon, label: g.label, count: 0, remote: !!g.remote };
             cur.count++; agg.set(ck, cur);
         }
         const map = L.map(el, { scrollWheelZoom: false, worldCopyJump: true });
@@ -259,13 +259,19 @@
         const maxC = Math.max(...pts.map(p => p.count));
         const markers = pts.map(p => {
             const r = 6 + Math.sqrt(p.count / maxC) * 15;
+            // remote roles pin to a region centroid — draw them red so they read as
+            // "somewhere in this region", distinct from the blue on-site markers.
             const m = L.circleMarker([p.lat, p.lon], {
-                radius: r, color: "#8fbcf2", weight: 1.5, fillColor: "#3987e5", fillOpacity: 0.55,
+                radius: r, weight: 1.5,
+                color: p.remote ? C.red : "#8fbcf2",
+                fillColor: p.remote ? C.red : "#3987e5",
+                fillOpacity: p.remote ? 0.3 : 0.55,
             });
+            const kind = p.remote ? "remote" : "open";
             m.bindPopup(h("div", {}, h("b", {}, p.label), h("br"),
-                `${p.count} open role${p.count > 1 ? "s" : ""}`));
+                `${p.count} ${kind} role${p.count > 1 ? "s" : ""}`));
             // DOM node (not a string) so Leaflet doesn't parse the label as HTML
-            m.bindTooltip(h("span", {}, `${p.label}: ${p.count}`), { direction: "top", offset: [0, -4] });
+            m.bindTooltip(h("span", {}, `${p.label}: ${p.count}${p.remote ? " (remote)" : ""}`), { direction: "top", offset: [0, -4] });
             return m.addTo(map);
         });
         map.fitBounds(L.featureGroup(markers).getBounds().pad(0.3), { maxZoom: 6 });

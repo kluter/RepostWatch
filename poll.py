@@ -478,25 +478,40 @@ def geocode_new_locations(locations) -> None:
         cache = json.loads(GEOCACHE_PATH.read_text(encoding="utf-8"))
     locs = cache.setdefault("locations", {})
 
-    # regions / non-places that Nominatim would mis-resolve to a random point
-    NON_PLACES = {"emea", "apac", "amer", "amers", "global", "worldwide", "anywhere", "remote", "international"}
+    # macro-regions / non-places Nominatim would mis-resolve to a random point
+    NON_PLACES = {"emea", "apac", "amer", "amers", "namer", "na", "latam", "europe",
+                  "global", "worldwide", "anywhere", "remote", "international"}
+
+    def anchor(raw: str) -> str:
+        # Drop "(Remote)"-style modes, then strip 'remote' and macro-region tokens,
+        # leaving the geographic part to geocode: "Canada, Remote" -> "Canada".
+        s = re.sub(r"\s*\([^)]*\)\s*", " ", raw)
+        parts = [p.strip() for p in re.split(r"[,/]", s) if p.strip()]
+        return ", ".join(p for p in parts if p.lower() not in NON_PLACES)
 
     changed = False
     for loc in sorted({(l or "").strip() for l in locations}):
         key = loc.lower()
         if not key or key in locs:
             continue
-        if key in NON_PLACES:
+        is_remote = re.search(r"\bremote\b", key) is not None
+        geo = anchor(loc)
+        if not geo:                         # bare/macro remote ("APAC, Remote") -> no map point
             locs[key] = None
             changed = True
+            print(f"  geocoded {loc!r} -> None (remote, no fixed place)")
             continue
         try:
             url = "https://nominatim.openstreetmap.org/search?" + urlencode(
-                {"q": loc, "format": "json", "limit": 1})
+                {"q": geo, "format": "json", "limit": 1})
             data = http_get_json(url)
             if data:
-                locs[key] = {"lat": float(data[0]["lat"]), "lon": float(data[0]["lon"]),
-                             "label": data[0].get("display_name", loc).split(",")[0]}
+                entry = {"lat": float(data[0]["lat"]), "lon": float(data[0]["lon"]),
+                         # remote roles anchor to a region — keep that region as the label
+                         "label": geo if is_remote else data[0].get("display_name", loc).split(",")[0]}
+                if is_remote:
+                    entry["remote"] = True
+                locs[key] = entry
             else:
                 locs[key] = None            # cache the miss so we don't re-query forever
             changed = True

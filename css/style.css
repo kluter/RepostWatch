@@ -325,9 +325,9 @@ section h2 {
 .chip.sev-stale   { color: var(--st-serious);  background: #ec835a1e; }
 .chip.sev-flagged { color: var(--st-critical); background: #d03b3b22; }
 
-/* severity legend — a column beside the event log. The heading row (Event log /
-   Repost severity) aligns, and the pills stretch to the table's height — ending at the
-   last row (the pager sits outside the grid, so the legend never overshoots past it). */
+/* severity legend — a column beside the event log.
+   Grid shares one heading row (Event log / Repost severity) and one body row
+   (table / pills), so the titles align and the pills stretch to the table height. */
 .log-grid { display: grid; grid-template-columns: minmax(0, 1fr) 250px; column-gap: 12px; align-items: stretch; }
 .log-main { min-width: 0; display: flex; flex-direction: column; }
 .log-legend { min-width: 0; display: flex; flex-direction: column; }
@@ -339,7 +339,7 @@ section h2 {
 .log-legend-pills { flex: 1; display: flex; flex-direction: column; gap: 8px; }
 .log-legend-pills .sev-pill { flex: 1; }
 .sev-pill {
-    display: flex; align-items: center; gap: 11px; min-height: 54px;
+    display: flex; align-items: center; gap: 11px;
     background: var(--panel); border: 1px solid var(--border); border-radius: 6px;
     padding: 10px 14px; cursor: pointer;
     transition: border-color 0.14s, background 0.14s, transform 0.14s;
@@ -418,6 +418,8 @@ td a:hover { color: var(--accent); }
 }
 #log-toggle:hover { background: #2a2a2a; color: #fff; }
 
+.footnote { font-size: 10.5px; color: var(--faint); margin-top: 24px; line-height: 1.6; }
+.footnote a { color: var(--muted); }
 
 @media (max-width: 640px) {
     #poll-meta { display: none; }

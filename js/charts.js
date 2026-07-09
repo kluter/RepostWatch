@@ -74,25 +74,14 @@ const Charts = (() => {
         const r = Math.min(4, hgt, w / 2);
         return `M${x},${yTop + hgt} V${yTop + r} A${r},${r} 0 0 1 ${x + r},${yTop} H${x + w - r} A${r},${r} 0 0 1 ${x + w},${yTop + r} V${yTop + hgt} Z`;
     }
-    function niceStep(range, n = 4) {
-        const raw = (range || 1) / n;
-        const mag = Math.pow(10, Math.floor(Math.log10(raw)));
-        return [1, 2, 2.5, 5, 10].map(m => m * mag).find(s => s >= raw) || 10 * mag;
-    }
     function niceTicks(maxVal, n = 4) {
         if (maxVal <= 0) return [0, 1];
-        const step = niceStep(maxVal, n);
+        const raw = maxVal / n;
+        const mag = Math.pow(10, Math.floor(Math.log10(raw)));
+        const step = [1, 2, 2.5, 5, 10].map(m => m * mag).find(s => s >= raw) || 10 * mag;
         const ticks = [];
         for (let v = 0; v <= maxVal + 1e-9; v += step) ticks.push(Math.round(v * 100) / 100);
         if (ticks[ticks.length - 1] < maxVal) ticks.push(ticks[ticks.length - 1] + step);
-        return ticks;
-    }
-    // ticks over an arbitrary [min,max] band (for zoomed, non-zero-based axes)
-    function niceTicksRange(min, max, n = 4) {
-        const step = niceStep(max - min, n);
-        const lo = Math.floor(min / step) * step, hi = Math.ceil(max / step) * step;
-        const ticks = [];
-        for (let v = lo; v <= hi + 1e-9; v += step) ticks.push(Math.round(v * 100) / 100);
         return ticks;
     }
     const fmt = n => n.toLocaleString("en-US");
@@ -226,21 +215,10 @@ const Charts = (() => {
 
         let t0 = Math.min(...all.map(p => +p.t)), t1 = Math.max(...all.map(p => +p.t));
         if (t0 === t1) { t0 -= 86400e3 * 3; t1 += 86400e3 * 3; }   // single point: pad the domain
-        const dataMax = Math.max(...all.map(p => p.v)), dataMin = Math.min(...all.map(p => p.v));
-        let ticks, vMin, yMax;
-        if (opts.zeroBase === false) {
-            // zoom to the data band with padding so small ups/downs are visible instead of
-            // being flattened against a 0 baseline; snap the bounds to round tick values.
-            // pad >= 2 keeps the span >= 4 so counts get whole-number ticks, not 123.5.
-            const pad = Math.max(2, (dataMax - dataMin) * 0.35);
-            ticks = niceTicksRange(Math.max(0, dataMin - pad), dataMax + pad);
-            vMin = ticks[0];
-            yMax = ticks[ticks.length - 1];
-        } else {
-            ticks = niceTicks(dataMax);
-            vMin = 0;
-            yMax = ticks[ticks.length - 1];
-        }
+        const vMax = Math.max(...all.map(p => p.v));
+        const vMin = opts.zeroBase === false ? Math.min(...all.map(p => p.v)) : 0;
+        const ticks = niceTicks(vMax);
+        const yMax = ticks[ticks.length - 1];
         const x = t => padL + ((+t - t0) / (t1 - t0)) * plotW;
         const y = v => padT + plotH - ((v - vMin) / (yMax - vMin || 1)) * plotH;
 
@@ -250,18 +228,13 @@ const Charts = (() => {
             el("text", { x: padL - 5, y: y(t) + 3, "text-anchor": "end", class: "axis-label" }, s).textContent = fmt(t);
         }
 
-        // x labels at ACTUAL data days, evenly spaced by index (so we never land on a
-        // mid-day fraction that truncates to a duplicate date on short ranges)
+        // x ticks: 4 evenly spaced dates
         const fmtDate = d => `${d.getUTCFullYear()}-${String(d.getUTCMonth() + 1).padStart(2, "0")}-${String(d.getUTCDate()).padStart(2, "0")}`;
-        const dayVals = [...new Set(all.map(p => +p.t))].sort((a, b) => a - b);
-        const nLab = Math.min(width > 500 ? 5 : 3, dayVals.length);
-        const labelIdx = [...new Set(Array.from({ length: nLab }, (_, i) =>
-            nLab <= 1 ? 0 : Math.round(i * (dayVals.length - 1) / (nLab - 1))))];
-        for (const idx of labelIdx) {
-            const tt = dayVals[idx];
+        for (let i = 0; i <= 3; i++) {
+            const tt = t0 + (i / 3) * (t1 - t0);
             el("text", {
                 x: x(tt), y: height - 6,
-                "text-anchor": idx === 0 ? "start" : idx === dayVals.length - 1 ? "end" : "middle", class: "axis-label",
+                "text-anchor": i === 0 ? "start" : i === 3 ? "end" : "middle", class: "axis-label",
             }, s).textContent = fmtDate(new Date(tt));
         }
 

@@ -6,6 +6,7 @@ The way a company treats its job posts:
 - how often they recycle them, 
 - how long roles sit open, 
 - whether they quietly republish the same thing for months, 
+
 says a lot about what's actually going on inside. RepostWatch is my window into that.
 
 ## How it works

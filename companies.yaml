@@ -29,8 +29,13 @@
   website: https://www.constellr.com
   logo_invert: false        # brand logo is blue, not black — keep its colour
   facts:
+    Founded: "2020"
     HQ: Freiburg, Germany
     Industry: Thermal Earth observation
+  partners:
+    - Airbus (mission)
+    - ESA (Copernicus)
+    - Fraunhofer EMI (spin-out)
 
 - slug: opencosmos
   ats: teamtailor
@@ -39,8 +44,12 @@
   website: https://www.open-cosmos.com
   logo: assets/companies/opencosmos.svg
   facts:
+    Founded: "2015"
     HQ: Harwell, United Kingdom
     Industry: Satellite missions & data
+  partners:
+    - ESA (missions)
+    - UK Space Agency
 
 - slug: helsing
   ats: greenhouse
@@ -49,8 +58,12 @@
   website: https://helsing.ai
   logo: assets/companies/helsing.svg
   facts:
+    Founded: "2021"
     HQ: Munich, Germany
     Industry: Defence AI
+  partners:
+    - Saab (strategic, equity)
+    - Airbus (Wingman)
 
 - slug: liveeo
   ats: personio
@@ -59,5 +72,9 @@
   website: https://www.live-eo.com
   logo: assets/companies/liveeo.svg
   facts:
+    Founded: "2018"
     HQ: Berlin, Germany
     Industry: Satellite infrastructure monitoring
+  partners:
+    - Reflex Aerospace (satellites)
+    - ESA InCubed

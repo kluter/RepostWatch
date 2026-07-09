@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "30 16 * * *"  # 18:30 CEST (GitHub cron is UTC, so 17:30 local in winter/CET)
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - companies.yaml       # editing the company list rebuilds data/index.json right away
 
 permissions:
   contents: write

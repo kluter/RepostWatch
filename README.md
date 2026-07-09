@@ -2,7 +2,7 @@
 
 Job postings that keep getting reposted over and over are a pet peeve of mine. So I built this little tool that keeps me up to date on the companies that I find interesting. RepostWatch shows me how fresh each posting really is.
 
-The way a company treats its job posts: how often they recycle them, how long roles sit open, whether they quietly republish the same thing for months, says a lot about what's actually going on inside. RepostWatch is my window into that: the sudden burst of near-identical openings that hints at a whole new team spinning up, the role that's been "fresh" for six months because nobody is really hiring, the same seat that keeps reopening because people keep leaving it.
+The way a company treats its job posts: how often they recycle them, how long roles sit open, whether they quietly republish the same thing for months, says a lot about what's actually going on inside. RepostWatch is my window into that.
 
 ## How it works
 

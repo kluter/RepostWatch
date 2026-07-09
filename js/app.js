@@ -43,6 +43,10 @@
     let logPage = 0;          // current page when expanded
     const LOG_PAGE_SIZE = 50;
     const LOG_COLLAPSED = 10;
+    let closedQuery = "";
+    let closedPage = 0;
+    let closedSev = new Set();
+    const CLOSED_PAGE_SIZE = 25;
     const defaultSort = () => ({ col: 5, dir: -1 });   // 5 = Published, newest first
     let logSort = defaultSort();
     const cap = s => s ? s[0].toUpperCase() + s.slice(1) : s;
@@ -150,6 +154,40 @@
 
     function chip(type) { return h("span", { class: `chip ${type}` }, type); }
     function chip2(cls, label) { return h("span", { class: `chip ${cls}` }, label); }
+
+    const SEV = ["fresh", "aging", "stale", "flagged"];
+    const SEV_RULES = {
+        fresh: "under 45 days, no reposts",
+        aging: "1 repost or 45+ days",
+        stale: "2 reposts or 90+ days",
+        flagged: "3+ reposts or 120+ days",
+    };
+    const sevByDays = (days, reposts) => {
+        if (reposts >= 3 || days >= 120) return "flagged";
+        if (reposts >= 2 || days >= 90) return "stale";
+        if (reposts >= 1 || days >= 45) return "aging";
+        return "fresh";
+    };
+    // severity legend column, also a filter: toggle a pill to constrain the adjacent
+    // table to that severity (multiple active); onToggle re-renders that table.
+    function severityLegend(counts, activeSet, onToggle) {
+        return h("div", { class: "log-legend" },
+            h("div", { class: "log-legend-title" }, "Repost severity"),
+            h("div", { class: "log-legend-pills" },
+                SEV.map(s => {
+                    const pill = h("div", {
+                        class: `sev-pill${activeSet.has(s) ? " active" : ""}`,
+                        title: `Filter to ${s}`,
+                        onclick: () => {
+                            activeSet.has(s) ? activeSet.delete(s) : activeSet.add(s);
+                            pill.classList.toggle("active", activeSet.has(s));
+                            onToggle();
+                        },
+                    }, h("b", {}, String(counts[s] || 0)),
+                        h("div", {}, chip2(`sev-${s}`, s), h("div", { class: "sev-rule" }, SEV_RULES[s])));
+                    return pill;
+                })));
+    }
 
     // only http(s) links become clickable — a feed's URL is untrusted, so never let a
     // javascript:/data: scheme through into an href.
@@ -314,43 +352,14 @@
         // the role (lineage) has actually been republished. So several distinct, concurrent
         // roles that merely share a title+location never drag each other's severity — a
         // brand-new posting reads fresh even if an older sibling has lingered for months.
-        const SEV = ["fresh", "aging", "stale", "flagged"];
-        const sevFor = (publishedAt, reposts) => {
-            const days = publishedAt ? Math.floor((Date.now() - Date.parse(publishedAt)) / 86400e3) : 0;
-            if (reposts >= 3 || days >= 120) return "flagged";
-            if (reposts >= 2 || days >= 90) return "stale";
-            if (reposts >= 1 || days >= 45) return "aging";
-            return "fresh";
-        };
+        const sevFor = (publishedAt, reposts) =>
+            sevByDays(publishedAt ? Math.floor((Date.now() - Date.parse(publishedAt)) / 86400e3) : 0, reposts);
         const jobSev = j => sevFor(j.published_at, republishesOf(j.lineage_key));
         const eventSev = ev => ["opened", "closed", "republished", "initialized"].includes(ev.type)
             ? sevFor(ev.published_at, republishesOf(ev.lineage_key)) : null;
         const sevCounts = Object.fromEntries(SEV.map(s => [s, jobs.filter(j => jobSev(j) === s).length]));
-        const SEV_RULES = {
-            fresh: "under 45 days, no reposts",
-            aging: "1 repost or 45+ days",
-            stale: "2 reposts or 90+ days",
-            flagged: "3+ reposts or 120+ days",
-        };
-        // severity legend — also a filter: click a pill to constrain the log to that
-        // severity (multiple can be active); click again to release it.
-        const logLegend = h("div", { class: "log-legend" },
-            h("div", { class: "log-legend-title" }, "Repost severity"),
-            h("div", { class: "log-legend-pills" },
-                SEV.map(s => {
-                    const pill = h("div", {
-                        class: `sev-pill${logSev.has(s) ? " active" : ""}`,
-                        title: `Filter the log to ${s}`,
-                        onclick: () => {
-                            logSev.has(s) ? logSev.delete(s) : logSev.add(s);
-                            pill.classList.toggle("active", logSev.has(s));
-                            logPage = 0;
-                            refreshLog();
-                        },
-                    }, h("b", {}, String(sevCounts[s])),
-                        h("div", {}, chip2(`sev-${s}`, s), h("div", { class: "sev-rule" }, SEV_RULES[s])));
-                    return pill;
-                })));
+        // click a pill to filter the event log to that severity (multiple active)
+        const logLegend = severityLegend(sevCounts, logSev, () => { logPage = 0; refreshLog(); });
 
         document.getElementById("poll-meta").textContent =
             `Updated ${fmtDate(state.fetched_at)}, ${state.fetched_at.slice(11, 16)} UTC`;
@@ -404,7 +413,7 @@
             card("Open roles over time", "one point per poll day, replayed from the event log",
                 p => oot.length < 2
                     ? Charts.emptyNote(p, `${oot.length} data point so far (${state.job_count} open roles). Accrues with each daily poll.`)
-                    : Charts.timeLine(p, [{ name: "open roles", color: C.blue, points: oot }], { area: true })),
+                    : Charts.timeLine(p, [{ name: "open roles", color: C.blue, points: oot }], { area: true, zeroBase: false })),
             card("Events per week", "Stacked by type; batch-tagged events get their own segment. Initial import excluded.",
                 p => Charts.columns(p, weeks, wkSeries,
                     { emptyMsg: "No post-import events yet. Fills in as the daily polls observe changes." })),
@@ -438,7 +447,11 @@
         // --- event log ---
         // (batch publishes have no section of their own: the batch_id column
         //  in the log and the weekly chart's segment carry them)
-        const allLogEvents = events.filter(e => e.type !== "headcount_manual");   // headcount lives in its tile/chart
+        // the event log is the live roster: only events for postings still in the feed.
+        // once a posting closes (its id leaves the feed) it drops out of here and lives
+        // solely in the Closed roles section below.
+        const openJobIds = new Set(jobs.map(j => j.job_id));
+        const allLogEvents = events.filter(e => e.type !== "headcount_manual" && openJobIds.has(e.job_id));
         const matchQuery = ev => {
             const q = logQuery.trim().toLowerCase();
             if (!q) return true;
@@ -520,14 +533,73 @@
                         h("h2", {}, "Event log"),
                         searchInput,
                         logControls),
-                    logBody,
-                    bottomWrap),
-                logLegend));
+                    logBody),
+                logLegend),
+            bottomWrap);   // pager/collapse below the grid, so the legend stops at the last row
 
-        const footnote = h("p", { class: "footnote" },
-            "Structural metadata only, read from the company's own public ATS feed. ",
-            "No content scraping, no LinkedIn automation, no tracking of individuals. ",
-            h("a", { href: "https://github.com/kluter/RepostWatch" }, "Source & data on GitHub"), ".");
+        // --- closed roles --- (searchable, paginated log of jobs that left the feed)
+        const closedAll = events.filter(e => e.type === "closed")
+            .sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0));
+        // days a posting was listed = publish date -> the poll that saw it drop out
+        const daysListedNum = ev => (ev.published_at && ev.date)
+            ? Math.max(0, Math.floor((Date.parse(ev.date) - Date.parse(ev.published_at)) / 86400e3)) : 0;
+        const daysListed = ev => (ev.published_at && ev.date) ? String(daysListedNum(ev)) : "";
+        // severity a role had WHEN IT CLOSED (from how long it was listed, not "now")
+        const closedSevOf = ev => sevByDays(daysListedNum(ev), republishesOf(ev.lineage_key));
+        const CLOSED_COLS = [
+            { label: "Closed", w: 96 }, { label: "Title", w: 0 }, { label: "Location", w: 130 },
+            { label: "Severity", w: 100 }, { label: "Published", w: 150 }, { label: "Days listed", w: 120 },
+        ];
+        let closedSection;
+        if (!closedAll.length) {
+            closedSection = h("section", {}, h("h2", {}, "Closed roles"),
+                h("p", { class: "caption" }, "No roles have closed since tracking began."));
+        } else {
+            const closedSevCounts = Object.fromEntries(SEV.map(s => [s, closedAll.filter(ev => closedSevOf(ev) === s).length]));
+            const closedMatch = ev => {
+                const q = closedQuery.trim().toLowerCase();
+                return !q || (ev.title || "").toLowerCase().includes(q) || (ev.location || "").toLowerCase().includes(q);
+            };
+            const closedBody = h("div");
+            const closedPager = h("div");
+            const refreshClosed = () => {
+                const filtered = closedAll.filter(ev =>
+                    closedMatch(ev) && (closedSev.size === 0 || closedSev.has(closedSevOf(ev))));
+                const pages = Math.max(1, Math.ceil(filtered.length / CLOSED_PAGE_SIZE));
+                closedPage = Math.min(Math.max(closedPage, 0), pages - 1);
+                const shown = filtered.slice(closedPage * CLOSED_PAGE_SIZE, closedPage * CLOSED_PAGE_SIZE + CLOSED_PAGE_SIZE);
+                closedBody.replaceChildren(h("div", { class: "tablewrap" },
+                    h("table", { class: "log-table" },
+                        h("colgroup", {}, CLOSED_COLS.map(c => h("col", c.w ? { style: `width:${c.w}px` } : {}))),
+                        h("thead", {}, h("tr", {}, CLOSED_COLS.map(c => h("th", {}, c.label)))),
+                        h("tbody", {}, shown.map(ev => h("tr", {},
+                            h("td", { class: "dt" }, fmtDate(ev.date)),
+                            h("td", { class: "wrap" }, jobLink(ev)),
+                            h("td", {}, ev.location || ""),
+                            h("td", {}, chip2(`sev-${closedSevOf(ev)}`, closedSevOf(ev))),
+                            h("td", { class: "dt" }, fmtDT(ev.published_at)),
+                            h("td", { class: "num" }, daysListed(ev))))))));
+                closedPager.replaceChildren(...(pages > 1 ? [h("div", { class: "log-pager" },
+                    h("button", { class: "mini-btn", disabled: closedPage === 0, onclick: () => { closedPage--; refreshClosed(); } }, "‹ Prev"),
+                    h("span", { class: "log-pageinfo" },
+                        `${closedPage * CLOSED_PAGE_SIZE + 1}–${Math.min(filtered.length, (closedPage + 1) * CLOSED_PAGE_SIZE)} of ${filtered.length}`),
+                    h("button", { class: "mini-btn", disabled: closedPage >= pages - 1, onclick: () => { closedPage++; refreshClosed(); } }, "Next ›"))] : []));
+            };
+            const closedSearch = h("input", {
+                class: "log-search", type: "search", placeholder: "Filter closed roles…",
+                value: closedQuery, "aria-label": "Filter closed roles",
+                oninput: e => { closedQuery = e.target.value; closedPage = 0; refreshClosed(); },
+            });
+            const closedLegend = severityLegend(closedSevCounts, closedSev, () => { closedPage = 0; refreshClosed(); });
+            refreshClosed();
+            closedSection = h("section", {},
+                h("div", { class: "log-grid" },
+                    h("div", { class: "log-main" },
+                        h("div", { class: "sect-head" }, h("h2", {}, "Closed roles"), closedSearch),
+                        closedBody),
+                    closedLegend),
+                closedPager);   // pager below the grid, so the legend stops at the last row
+        }
 
         app.replaceChildren(...[
             hero,
@@ -535,7 +607,7 @@
             h("section", {}, h("h2", {}, "Current picture"), gridNow),    // stat graphs below
             h("section", {}, h("h2", {}, "Over time"), gridTime),
             repSection,                                                   // null until a role repeats
-            footnote,
+            closedSection,                                                // closed-jobs log at the bottom
         ].filter(Boolean));
 
         setupMap(mapEl, jobs);   // must run after the element is attached to the DOM
@@ -614,7 +686,11 @@
         companies = index.companies;
         geocache = geo;
         initSwitcher();
-        addEventListener("hashchange", () => { logExpanded = false; logQuery = ""; logSev = new Set(); logPage = 0; logSort = defaultSort(); route(); });
+        addEventListener("hashchange", () => {
+            logExpanded = false; logQuery = ""; logSev = new Set(); logPage = 0; logSort = defaultSort();
+            closedQuery = ""; closedPage = 0; closedSev = new Set();
+            route();
+        });
         let rt = null;
         addEventListener("resize", () => { clearTimeout(rt); rt = setTimeout(route, 200); });
         await route();

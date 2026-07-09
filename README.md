@@ -11,7 +11,7 @@ says a lot about what's actually going on inside. RepostWatch is my window into 
 
 ## How it works
 
-Every day a GitHub Action runs [poll.py](poll.py), which pulls each company's public job feed and compares it against yesterday's snapshot. Anything that opened, closed, or got republished gets logged, and the new history is committed straight back to the repo. GitHub Pages then serves a static dashboard that reads all of that right in the browser.
+Every day a GitHub Action runs [poll.py](poll.py), which pulls each company's public job feed and compares it against the previous snapshot. Anything that opened, closed, or got republished gets logged, and the new history is committed straight back to the repo. GitHub Pages then serves a static dashboard that reads all of that right in the browser.
 
 No server, no database. Just the data and a page to look at it.
 

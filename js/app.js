@@ -627,7 +627,7 @@
                 "It reads only public applicant-tracking feeds, never LinkedIn or anything behind a login."),
             h("p", {},
                 h("b", {}, name), " runs its hiring on ", h("b", {}, ats),
-                ", the recruiting platform behind its public careers page. RepostWatch polls that feed once a day ",
+                ", the recruiting platform behind its public careers page. RepostWatch polls that feed a couple of times a day ",
                 "and logs every change, so a role that quietly reappears month after month, or lingers open far too long, ",
                 "surfaces here instead of blending in."),
         ];

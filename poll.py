@@ -2,8 +2,7 @@
 """Poll public ATS job feeds, diff against the previous snapshot, append structural events.
 
 Tracks job-posting metadata only (no content scraping): when roles open, close,
-get republished with a fresh timestamp or a new job id, and when several
-near-identical roles are published together as a batch.
+and get republished with a fresh timestamp or a new job id.
 
 Data layout, per company:
     data/{slug}/current_state.json  -- overwritten every run; normalized snapshot of listed jobs
@@ -29,11 +28,6 @@ GEOCACHE_PATH = DATA_DIR / "geocache.json"
 
 # A close followed by a matching reappearance within this window counts as a republish.
 REPUBLISH_WINDOW_DAYS = 60
-# Minimum number of near-identical postings published in one burst to tag as a batch.
-BATCH_MIN_SIZE = 3
-# Max gap between consecutive publish timestamps inside one batch. Gap-based rather
-# than calendar-hour so a burst straddling an hour boundary stays one batch.
-BATCH_MAX_GAP = timedelta(hours=1)
 
 USER_AGENT = "RepostWatch (public ATS metadata poller; github.com/kluter/RepostWatch)"
 
@@ -61,24 +55,6 @@ def parse_ts(s: str):
 def lineage_key(job: dict) -> str:
     """Stable identity for a role across republishes (job ids regenerate every time)."""
     return f"{norm(job['title'])}@{norm(job['location'])}"
-
-
-def title_template(title: str, location: str) -> str:
-    """Title with location cues removed, for grouping near-identical batch postings.
-
-    'Forward Deployed Geospatial Engineer - SAR Intelligence, Berlin' and the
-    Espoo/Athens/... variants must all map to the same template. The trailing
-    comma segment is stripped only when short, and tokens from the location
-    field are dropped (the two don't always agree in real feeds).
-    """
-    t = (title or "").strip()
-    if "," in t:
-        head, tail = t.rsplit(",", 1)
-        if len(tail.split()) <= 3:
-            t = head
-    loc_tokens = set(norm(location).split("-"))
-    kept = [tok for tok in norm(t).split("-") if tok and tok not in loc_tokens]
-    return "-".join(kept) or norm(title)
 
 
 def http_get_json(url: str) -> dict:
@@ -369,39 +345,6 @@ def diff_events(company, source, prev_jobs, cur_jobs, recent_closes, now) -> lis
     return events
 
 
-def tag_batches(events: list[dict]) -> None:
-    """Tag bursts of >= BATCH_MIN_SIZE near-identical postings with a shared batch_id.
-
-    Every event still gets its own full row; the batch is only visible through
-    the shared batch_id, never as a rollup.
-    """
-    def flush(cluster, template):
-        if len(cluster) < BATCH_MIN_SIZE:
-            return
-        first = parse_ts(cluster[0]["published_at"])
-        short = "-".join(template.split("-")[:4])
-        batch_id = f"{first.date().isoformat()}-{short}"
-        for ev in cluster:
-            ev["batch_id"] = batch_id
-
-    by_template = {}
-    for ev in events:
-        if ev["type"] in ("opened", "republished", "initialized") and parse_ts(ev["published_at"]):
-            key = title_template(ev["title"], ev["location"])
-            by_template.setdefault(key, []).append(ev)
-
-    for template, evs in by_template.items():
-        evs.sort(key=lambda e: parse_ts(e["published_at"]))
-        cluster = [evs[0]]
-        for ev in evs[1:]:
-            if parse_ts(ev["published_at"]) - parse_ts(cluster[-1]["published_at"]) <= BATCH_MAX_GAP:
-                cluster.append(ev)
-            else:
-                flush(cluster, template)
-                cluster = [ev]
-        flush(cluster, template)
-
-
 # --------------------------------------------------------------------------- per-company run
 
 def run_company(cfg: dict, now: datetime) -> dict:
@@ -435,7 +378,6 @@ def run_company(cfg: dict, now: datetime) -> dict:
         # carries the real feed timestamp.
         events = [make_event("initialized", slug, ats, job, now_iso) for job in cur_jobs]
 
-    tag_batches(events)
     events.sort(key=lambda e: (e["type"] != "closed", e["published_at"], e["title"]))
 
     # Only rewrite the snapshot when the jobs actually changed. Otherwise a no-op poll
@@ -459,9 +401,7 @@ def run_company(cfg: dict, now: datetime) -> dict:
     counts = {}
     for ev in events:
         counts[ev["type"]] = counts.get(ev["type"], 0) + 1
-    batches = sorted({ev["batch_id"] for ev in events if "batch_id" in ev})
-    print(f"  {slug}: {len(cur_jobs)} listed jobs; events: {counts or 'none'}"
-          + (f"; batches: {', '.join(batches)}" if batches else ""))
+    print(f"  {slug}: {len(cur_jobs)} listed jobs; events: {counts or 'none'}")
     return {"slug": slug, "job_count": len(cur_jobs), "events": counts,
             "locations": [j["location"] for j in cur_jobs]}
 

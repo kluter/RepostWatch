@@ -414,20 +414,18 @@
         }
         const weekEvents = events.filter(e => ["opened", "closed", "republished"].includes(e.type));
         const weeks = [...new Set(weekEvents.map(e => weekStart(e.date)))].sort().slice(-16);
-        const wkKind = e => e.batch_id ? "batch publish" : e.type;
         const wkSeries = [
             { name: "opened", color: C.aqua },
             { name: "republished", color: C.yellow },
-            { name: "batch publish", color: C.violet },
             { name: "closed", color: C.red },
-        ].map(s => ({ ...s, values: weeks.map(w => weekEvents.filter(e => wkKind(e) === s.name && weekStart(e.date) === w).length) }));
+        ].map(s => ({ ...s, values: weeks.map(w => weekEvents.filter(e => e.type === s.name && weekStart(e.date) === w).length) }));
 
         const gridTime = h("div", { class: "chart-grid" },
             card("Open roles over time", "replayed from the event log, carried forward to today",
                 p => oot.length < 2
                     ? Charts.emptyNote(p, `${oot.length} data point so far (${state.job_count} open roles). The line fills in once tracking spans a day.`)
                     : Charts.timeLine(p, [{ name: "open roles", color: C.blue, points: oot }], { area: true, zeroBase: false })),
-            card("Events per week", "Stacked by type; batch-tagged events get their own segment. Initial import excluded.",
+            card("Events per week", "Stacked by type. Initial import excluded.",
                 p => Charts.columns(p, weeks, wkSeries,
                     { emptyMsg: "No post-import events yet. Fills in as the daily polls observe changes." })),
             card("Headcount", "manual entries only (public annual sources, never automated)",
@@ -459,8 +457,6 @@
             : null;
 
         // --- event log ---
-        // (batch publishes have no section of their own: the batch_id column
-        //  in the log and the weekly chart's segment carry them)
         // the event log is the live roster: only events for postings still in the feed.
         // once a posting closes (its id leaves the feed) it drops out of here and lives
         // solely in the Closed roles section below.

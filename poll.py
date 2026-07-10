@@ -262,12 +262,36 @@ def fetch_teamtailor(board: str) -> list[dict]:
     return jobs
 
 
+def fetch_workable(board: str) -> list[dict]:
+    # board is the Workable account slug; the public widget feed needs no auth.
+    data = http_get_json(f"https://apply.workable.com/api/v1/widget/accounts/{board}?details=true")
+    jobs = []
+    for j in data.get("jobs", []):
+        loc0 = (j.get("locations") or [{}])[0]
+        city = (loc0.get("city") or j.get("city") or "").strip()
+        country = (loc0.get("country") or j.get("country") or "").strip()
+        remote = bool(j.get("telecommuting"))
+        location = ", ".join(x for x in (city, country) if x) or ("Remote" if remote else "")
+        pub = j.get("published_on") or j.get("created_at") or ""
+        if pub and "T" not in pub:                     # "2026-07-07" -> full ISO
+            pub = pub + "T00:00:00+00:00"
+        code = j.get("shortcode") or ""
+        jobs.append(normalize_job(
+            code, j.get("title"), location, pub,
+            j.get("url") or j.get("shortlink") or f"https://apply.workable.com/j/{code}",
+            department=j.get("department") or "", is_remote=remote,
+            desc=j.get("description") or ""))
+    jobs.sort(key=lambda j: j["job_id"])
+    return jobs
+
+
 ADAPTERS = {
     "ashby": fetch_ashby,
     "greenhouse": fetch_greenhouse,
     "recruitee": fetch_recruitee,
     "personio": fetch_personio,
     "teamtailor": fetch_teamtailor,
+    "workable": fetch_workable,
 }
 
 

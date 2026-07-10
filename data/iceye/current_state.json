@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-07-09T14:11:52+00:00",
+ "fetched_at": "2026-07-10T12:40:59+00:00",
  "job_count": 123,
  "jobs": [
   {
@@ -479,6 +479,21 @@
    "description_sha256": "0fe4ca53d2c55b838c829ecb7640366f87b53a5d056e83b56842ca71e25a5a93"
   },
   {
+   "job_id": "50ea94b9-1799-49ed-98f2-fdf29bf4fef8",
+   "lineage_key": "facility-management-team-lead@espoo",
+   "title": "Facility Management Team Lead",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-07-10T08:44:13.214+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/50ea94b9-1799-49ed-98f2-fdf29bf4fef8",
+   "description_sha256": "bfbf14de06e5dc8074d8134aeeed6c5a15f4e7790bd40d89cda98dce1737dd5d"
+  },
+  {
    "job_id": "54476294-191e-4e00-96a2-922d3ac4ca16",
    "lineage_key": "quality-control-technician-mechanical@athens",
    "title": "Quality Control Technician - Mechanical",
@@ -567,21 +582,6 @@
    "published_at": "2026-04-27T13:16:32.945+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/5d8393c0-ab67-4a3b-b39f-3a183a4665fb",
    "description_sha256": "decdd73e527b02e09f876c0ac65b4bc40ededdc2009f25a8e699eed4a7151276"
-  },
-  {
-   "job_id": "5f89bac0-6ec6-4e5a-94a2-9b4f260123c7",
-   "lineage_key": "senior-manager-supply-chain-strategy@espoo",
-   "title": "Senior Manager Supply Chain, Strategy",
-   "department": "Global Manufacturing Organization",
-   "team": "Global Supply Chain",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-04-12T16:32:00.887+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/5f89bac0-6ec6-4e5a-94a2-9b4f260123c7",
-   "description_sha256": "eb8e0d8dc91f41c24fa2ce179dd20584472a8222f3ab46639401ffbe7281f64d"
   },
   {
    "job_id": "5fac41b2-14eb-419b-8bf7-d10e5603c2fa",
@@ -1678,7 +1678,7 @@
    "is_remote": false,
    "published_at": "2026-07-08T15:09:44.591+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/d9a4bdaa-a0bc-4e10-85e2-f99a2ed9b17b",
-   "description_sha256": "007ddc77b528deba55d436b0ec2110875b95a21fd0feda0a09639e059623d69f"
+   "description_sha256": "c0391bf3fc0e36c7ab51e6aed89db4bebc5fa3f516ca948882d3e6662a5190e5"
   },
   {
    "job_id": "d9af7181-4e5c-4ab4-9bca-db371c5c19d6",

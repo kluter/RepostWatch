@@ -2,8 +2,8 @@
  "company": "liveeo",
  "source": "personio",
  "board": "liveeo-gmbh",
- "fetched_at": "2026-07-09T14:11:52+00:00",
- "job_count": 14,
+ "fetched_at": "2026-07-10T12:40:59+00:00",
+ "job_count": 13,
  "jobs": [
   {
    "job_id": "2006503",
@@ -108,21 +108,6 @@
    "is_remote": false,
    "published_at": "2026-04-24T09:59:10+00:00",
    "url": "https://liveeo-gmbh.jobs.personio.de/job/2612671",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "2661017",
-   "lineage_key": "senior-product-designer-f-m-x@berlin",
-   "title": "Senior Product Designer (f/m/x)",
-   "department": "TradeAware",
-   "team": "",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-08T11:58:26+00:00",
-   "url": "https://liveeo-gmbh.jobs.personio.de/job/2661017",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

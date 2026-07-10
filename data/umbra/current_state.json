@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-07-10T18:35:32+00:00",
- "job_count": 32,
+ "fetched_at": "2026-07-10T19:14:06+00:00",
+ "job_count": 35,
  "jobs": [
   {
    "job_id": "018AB5761D",
@@ -289,6 +289,51 @@
    "published_at": "2026-06-25T00:00:00+00:00",
    "url": "https://apply.workable.com/j/71AA98A76F",
    "description_sha256": "89d5f1b7d96006e847335cdc12a7cab69b03a16da73be9cf0a763c9be3d519c4"
+  },
+  {
+   "job_id": "8D14D01C75",
+   "lineage_key": "embedded-flight-software-engineer-rust@santa-barbara-united-states",
+   "title": "Embedded Flight Software Engineer (Rust)",
+   "department": "Space Systems",
+   "team": "",
+   "location": "Santa Barbara, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-10T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/8D14D01C75",
+   "description_sha256": "52750a1696ff6a370887a46ec53d654ed3121d090c50573f6eee3e7c16c50a75"
+  },
+  {
+   "job_id": "8D14D01C75",
+   "lineage_key": "embedded-flight-software-engineer-rust@arlington-united-states",
+   "title": "Embedded Flight Software Engineer (Rust)",
+   "department": "Space Systems",
+   "team": "",
+   "location": "Arlington, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-10T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/8D14D01C75",
+   "description_sha256": "52750a1696ff6a370887a46ec53d654ed3121d090c50573f6eee3e7c16c50a75"
+  },
+  {
+   "job_id": "8D14D01C75",
+   "lineage_key": "embedded-flight-software-engineer-rust@reston-united-states",
+   "title": "Embedded Flight Software Engineer (Rust)",
+   "department": "Space Systems",
+   "team": "",
+   "location": "Reston, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-10T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/8D14D01C75",
+   "description_sha256": "52750a1696ff6a370887a46ec53d654ed3121d090c50573f6eee3e7c16c50a75"
   },
   {
    "job_id": "8EFDA0C89E",

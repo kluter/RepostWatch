@@ -405,6 +405,13 @@
 
         // --- over time ---
         const oot = openOverTime(events);
+        // A stable roster still tells a story: carry the current count forward to today so it
+        // draws a flat line to the present instead of stopping dead at the last change.
+        if (oot.length) {
+            const today = new Date(new Date().toISOString().slice(0, 10) + "T00:00:00Z");
+            const last = oot[oot.length - 1];
+            if (+today > +last.t) oot.push({ t: today, v: last.v });
+        }
         const weekEvents = events.filter(e => ["opened", "closed", "republished"].includes(e.type));
         const weeks = [...new Set(weekEvents.map(e => weekStart(e.date)))].sort().slice(-16);
         const wkKind = e => e.batch_id ? "batch publish" : e.type;
@@ -416,9 +423,9 @@
         ].map(s => ({ ...s, values: weeks.map(w => weekEvents.filter(e => wkKind(e) === s.name && weekStart(e.date) === w).length) }));
 
         const gridTime = h("div", { class: "chart-grid" },
-            card("Open roles over time", "one point per poll day, replayed from the event log",
+            card("Open roles over time", "replayed from the event log, carried forward to today",
                 p => oot.length < 2
-                    ? Charts.emptyNote(p, `${oot.length} data point so far (${state.job_count} open roles). Accrues with each daily poll.`)
+                    ? Charts.emptyNote(p, `${oot.length} data point so far (${state.job_count} open roles). The line fills in once tracking spans a day.`)
                     : Charts.timeLine(p, [{ name: "open roles", color: C.blue, points: oot }], { area: true, zeroBase: false })),
             card("Events per week", "Stacked by type; batch-tagged events get their own segment. Initial import excluded.",
                 p => Charts.columns(p, weeks, wkSeries,
@@ -441,7 +448,8 @@
                         h("th", {}, "Role"), h("th", {}, "Location"), h("th", {}, "Times published"),
                         h("th", {}, "First seen"), h("th", {}, "Last published"), h("th", {}, "Status"))),
                     h("tbody", {}, repeats.map(([key, r]) => h("tr", {},
-                        h("td", { class: "wrap" }, r.title),
+                        h("td", { class: "wrap" },
+                            h("span", { class: "chip republished" }, "republished"), " ", r.title),
                         h("td", {}, r.location || ""),
                         h("td", { class: "num" }, String(r.republishes + 1)),
                         h("td", { class: "dt" }, fmtDate(r.first)),
@@ -610,9 +618,9 @@
         app.replaceChildren(...[
             hero,
             logSection,                                                   // event log up top
+            repSection,                                                   // republished roles — flagship view, above the graphs
             h("section", {}, h("h2", {}, "Current picture"), gridNow),    // stat graphs below
             h("section", {}, h("h2", {}, "Over time"), gridTime),
-            repSection,                                                   // null until a role repeats
             closedSection,                                                // closed-jobs log at the bottom
         ].filter(Boolean));
 

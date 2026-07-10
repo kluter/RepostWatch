@@ -250,18 +250,35 @@ const Charts = (() => {
             el("text", { x: padL - 5, y: y(t) + 3, "text-anchor": "end", class: "axis-label" }, s).textContent = fmt(t);
         }
 
-        // x labels at ACTUAL data days, evenly spaced by index (so we never land on a
-        // mid-day fraction that truncates to a duplicate date on short ranges)
+        // x labels: even PIXEL targets snapped to real days, then de-collided using each
+        // label's box. Pixel spacing (not index spacing) keeps labels apart when points
+        // bunch up in time — e.g. the "today" anchor sitting a day after the last event.
         const fmtDate = d => `${d.getUTCFullYear()}-${String(d.getUTCMonth() + 1).padStart(2, "0")}-${String(d.getUTCDate()).padStart(2, "0")}`;
         const dayVals = [...new Set(all.map(p => +p.t))].sort((a, b) => a - b);
-        const nLab = Math.min(width > 500 ? 5 : 3, dayVals.length);
-        const labelIdx = [...new Set(Array.from({ length: nLab }, (_, i) =>
-            nLab <= 1 ? 0 : Math.round(i * (dayVals.length - 1) / (nLab - 1))))];
-        for (const idx of labelIdx) {
-            const tt = dayVals[idx];
+        const maxLab = Math.min(width > 500 ? 5 : 3, dayVals.length);
+        const targets = Array.from({ length: maxLab }, (_, i) =>
+            padL + (maxLab <= 1 ? 0 : i * plotW / (maxLab - 1)));
+        let picked = [...new Set(targets.map(tx =>
+            dayVals.reduce((b, v) => Math.abs(x(v) - tx) < Math.abs(x(b) - tx) ? v : b, dayVals[0])))]
+            .sort((a, b) => a - b);
+        // start/end labels are anchored inward, so their box leans one way; middles are centred.
+        const HALF = 32;   // ~half a 10px "YYYY-MM-DD" label, in px
+        const boxOf = (d, i, n) => i === 0 ? [x(d), x(d) + 2 * HALF]
+            : i === n - 1 ? [x(d) - 2 * HALF, x(d)] : [x(d) - HALF, x(d) + HALF];
+        for (let again = true; again; ) {          // drop overlapping middle labels until none touch
+            again = false;
+            for (let i = 1; i < picked.length - 1 && !again; i++) {
+                const [l, r] = boxOf(picked[i], i, picked.length);
+                if (l < boxOf(picked[i - 1], i - 1, picked.length)[1] + 4
+                    || r > boxOf(picked[i + 1], i + 1, picked.length)[0] - 4) { picked.splice(i, 1); again = true; }
+            }
+        }
+        if (picked.length === 2 && boxOf(picked[0], 0, 2)[1] > boxOf(picked[1], 1, 2)[0]) picked.shift();
+        for (let k = 0; k < picked.length; k++) {
+            const tt = picked[k];
             el("text", {
                 x: x(tt), y: height - 6,
-                "text-anchor": idx === 0 ? "start" : idx === dayVals.length - 1 ? "end" : "middle", class: "axis-label",
+                "text-anchor": k === 0 ? "start" : k === picked.length - 1 ? "end" : "middle", class: "axis-label",
             }, s).textContent = fmtDate(new Date(tt));
         }
 

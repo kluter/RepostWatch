@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-07-10T12:40:59+00:00",
- "job_count": 123,
+ "fetched_at": "2026-07-10T18:06:26+00:00",
+ "job_count": 124,
  "jobs": [
   {
    "job_id": "06f113d6-1702-4346-9369-97d70d68738b",
@@ -1120,6 +1120,21 @@
    "description_sha256": "ff1ef95f4bfe0febe4fef58090c49a2ded8aa0f54900bcde3e9462441d037414"
   },
   {
+   "job_id": "9649c999-70dc-4620-9487-e664767fa88d",
+   "lineage_key": "satellite-production-senior-technician-rf-systems-software@valencia",
+   "title": "Satellite Production Senior Technician, RF, Systems & Software",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-07-10T16:00:13.635+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/9649c999-70dc-4620-9487-e664767fa88d",
+   "description_sha256": "ccb3dd28af5661625d67b520567acab21668d6d166067439f020f2d9d991d72f"
+  },
+  {
    "job_id": "96932d24-c2d0-4fe1-b1f6-97221b32ee8e",
    "lineage_key": "release-engineer@espoo",
    "title": "Release Engineer",
@@ -1513,7 +1528,7 @@
    "is_remote": false,
    "published_at": "2026-04-09T09:04:17.141+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/c5cd00d7-ebd8-4ece-a6e1-be65efb0c783",
-   "description_sha256": "0ca469d844ce10ee8bdca661f01ec03a461a1d95c90891ef3fbe215899e036b1"
+   "description_sha256": "39c01d7bb2171fd1b1963e5b5e77900a4d01ea3c0e406fd20ba171d18a599240"
   },
   {
    "job_id": "c6b51b8b-94af-4007-8464-4a4b858fa5e7",

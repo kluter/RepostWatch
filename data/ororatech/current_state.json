@@ -1,0 +1,24 @@
+{
+ "company": "ororatech",
+ "source": "personio",
+ "board": "ororatech",
+ "fetched_at": "2026-07-10T18:35:32+00:00",
+ "job_count": 1,
+ "jobs": [
+  {
+   "job_id": "2682815",
+   "lineage_key": "senior-compliance-manager-export-control-compliance-officer-m-f-d@munich",
+   "title": "Senior Compliance Manager (Export Control) / Compliance Officer (m/f/d)",
+   "department": "Legal & Compliance",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-06-23T09:07:03+00:00",
+   "url": "https://ororatech.jobs.personio.de/job/2682815",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+ ]
+}

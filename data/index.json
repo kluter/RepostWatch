@@ -101,6 +101,90 @@
     "Google (equity, data)",
     "SpaceX (launch)"
    ]
+  },
+  {
+   "slug": "capella",
+   "ats": "greenhouse",
+   "board": "capellaspace",
+   "name": "Capella Space",
+   "website": "https://www.capellaspace.com",
+   "logo": "assets/companies/capella.png",
+   "facts": {
+    "Founded": "2016",
+    "HQ": "San Francisco, USA",
+    "Industry": "SAR Earth-observation satellites"
+   },
+   "partners": [
+    "AWS (ground)",
+    "SpaceX (launch)"
+   ]
+  },
+  {
+   "slug": "ororatech",
+   "ats": "personio",
+   "board": "ororatech",
+   "name": "OroraTech",
+   "website": "https://ororatech.com",
+   "logo": "assets/companies/ororatech.png",
+   "facts": {
+    "Founded": "2018",
+    "HQ": "Munich, Germany",
+    "Industry": "Thermal wildfire-detection satellites"
+   },
+   "partners": [
+    "ESA (InCubed)",
+    "SpaceX (launch)"
+   ]
+  },
+  {
+   "slug": "isar",
+   "ats": "greenhouse",
+   "board": "isaraerospace",
+   "name": "Isar Aerospace",
+   "website": "https://www.isaraerospace.com",
+   "logo": "assets/companies/isar.png",
+   "facts": {
+    "Founded": "2018",
+    "HQ": "Ottobrunn, Germany",
+    "Industry": "Orbital launch vehicles"
+   },
+   "partners": [
+    "Andøya Spaceport (launch site)",
+    "Airbus Ventures (backer)"
+   ]
+  },
+  {
+   "slug": "spire",
+   "ats": "greenhouse",
+   "board": "spire",
+   "name": "Spire Global",
+   "website": "https://spire.com",
+   "logo": "assets/companies/spire.png",
+   "facts": {
+    "Founded": "2012",
+    "HQ": "Vienna, Virginia, USA",
+    "Industry": "Nanosatellite data & analytics"
+   },
+   "partners": [
+    "NASA (R&D)",
+    "SpaceX (launch)"
+   ]
+  },
+  {
+   "slug": "umbra",
+   "ats": "workable",
+   "board": "umbra-1",
+   "name": "Umbra",
+   "website": "https://umbra.space",
+   "logo": "assets/companies/umbra.png",
+   "facts": {
+    "Founded": "2015",
+    "HQ": "Santa Barbara, USA",
+    "Industry": "SAR Earth-observation satellites"
+   },
+   "partners": [
+    "SpaceX (launch)"
+   ]
   }
  ]
 }

@@ -250,6 +250,98 @@
    "lon": -100.445882,
    "label": "United States",
    "remote": true
+  },
+  "andenes, nordland, norway": {
+   "lat": 69.3122989,
+   "lon": 16.1057085,
+   "label": "Andenes"
+  },
+  "arlington, united states": {
+   "lat": 32.7355816,
+   "lon": -97.1071186,
+   "label": "Arlington"
+  },
+  "boulder": {
+   "lat": 40.0149856,
+   "lon": -105.270545,
+   "label": "Boulder"
+  },
+  "boulder, co": {
+   "lat": 40.0149856,
+   "lon": -105.270545,
+   "label": "Boulder"
+  },
+  "boulder, colorado, united states": {
+   "lat": 40.0149856,
+   "lon": -105.270545,
+   "label": "Boulder"
+  },
+  "cambridge, ontario, canada": {
+   "lat": 43.3600536,
+   "lon": -80.3123023,
+   "label": "Cambridge"
+  },
+  "glasgow": {
+   "lat": 55.861155,
+   "lon": -4.2501687,
+   "label": "Glasgow"
+  },
+  "glasgow, scotland, united kingdom": {
+   "lat": 55.861155,
+   "lon": -4.2501687,
+   "label": "Glasgow"
+  },
+  "glasgow, uk": {
+   "lat": 55.861155,
+   "lon": -4.2501687,
+   "label": "Glasgow"
+  },
+  "kiruna, norrbotten, sweden": {
+   "lat": 67.8496111,
+   "lon": 20.30625,
+   "label": "Kiruna"
+  },
+  "louisville, co": {
+   "lat": 39.977763,
+   "lon": -105.1319296,
+   "label": "Louisville"
+  },
+  "munich, bavaria, germany": {
+   "lat": 48.1371079,
+   "lon": 11.5753822,
+   "label": "München"
+  },
+  "ottobrunn, bavaria, germany": {
+   "lat": 48.0648406,
+   "lon": 11.6647814,
+   "label": "Ottobrunn"
+  },
+  "parsdorf, bavaria, germany": {
+   "lat": 48.1418976,
+   "lon": 11.787412,
+   "label": "Parsdorf"
+  },
+  "remote, us": {
+   "lat": 39.7837304,
+   "lon": -100.445882,
+   "label": "US",
+   "remote": true
+  },
+  "reston, united states": {
+   "lat": 38.953282,
+   "lon": -77.3464516,
+   "label": "Reston"
+  },
+  "san francisco, ca, louisville, co or remote": null,
+  "santa barbara, united states": {
+   "lat": 34.4221319,
+   "lon": -119.702667,
+   "label": "Santa Barbara"
+  },
+  "washington, district of columbia, united states": {
+   "lat": 38.8950982,
+   "lon": -77.0363849,
+   "label": "Washington"
   }
  }
 }

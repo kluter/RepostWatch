@@ -2,7 +2,7 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-07-10T12:40:59+00:00",
+ "fetched_at": "2026-07-11T11:32:51+00:00",
  "job_count": 82,
  "jobs": [
   {
@@ -243,21 +243,6 @@
    "is_remote": true,
    "published_at": "2026-02-19T16:21:00-05:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7622544",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7644560",
-   "lineage_key": "senior-camera-hardware-engineer@san-francisco-ca",
-   "title": "Senior Camera Hardware Engineer",
-   "department": "RF, Comms & Electrical Engineering",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-03-16T17:23:11-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7644560",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1218,6 +1203,21 @@
    "is_remote": false,
    "published_at": "2026-07-07T09:42:05-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8042428",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8045328",
+   "lineage_key": "flight-dynamics-engineer-orbits-r-d@san-francisco-ca",
+   "title": "Flight Dynamics Engineer, Orbits R&D",
+   "department": "Orbits R&D",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-10T18:44:20-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8045328",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

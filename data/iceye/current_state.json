@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-07-10T18:06:26+00:00",
- "job_count": 124,
+ "fetched_at": "2026-07-12T11:40:07+00:00",
+ "job_count": 123,
  "jobs": [
   {
    "job_id": "06f113d6-1702-4346-9369-97d70d68738b",
@@ -663,23 +663,6 @@
    "published_at": "2026-04-12T20:59:28.760+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/688e6eed-057d-444e-afc2-de87f2d9ba2c",
    "description_sha256": "816bcde00778067c088c62b705ef0f9dd4bf9da908d70d0cd5a92afe1afa9981"
-  },
-  {
-   "job_id": "6b6bb95e-b594-4e5e-be73-7e25be96d7c3",
-   "lineage_key": "business-development-manager-missions-spain-portugal@valencia",
-   "title": "Business Development Manager, Missions - Spain & Portugal",
-   "department": "Missions",
-   "team": "Missions Sales",
-   "location": "Valencia",
-   "secondary_locations": [
-    "Lisbon"
-   ],
-   "employment_type": "FullTime",
-   "workplace_type": "Remote",
-   "is_remote": true,
-   "published_at": "2026-06-14T15:09:37.897+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/6b6bb95e-b594-4e5e-be73-7e25be96d7c3",
-   "description_sha256": "10c7036e6ee72c095b08332719e083e355816edc7b739a05dfc95a9afe4027d3"
   },
   {
    "job_id": "6c374442-a611-40d4-8ba7-4366bd623885",

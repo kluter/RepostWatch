@@ -2,8 +2,8 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-07-09T21:16:35+00:00",
- "job_count": 79,
+ "fetched_at": "2026-07-12T11:40:07+00:00",
+ "job_count": 76,
  "jobs": [
   {
    "job_id": "063679a7-77f0-4e6d-8296-bcff69f4ec4f",
@@ -111,21 +111,6 @@
    "description_sha256": "54a047d7c81303ccdc16de21d90574c33f4f88ffacc620567db688bf198a2bbe"
   },
   {
-   "job_id": "13b7466f-75cc-48f3-ba92-390055afb2a6",
-   "lineage_key": "automation-engineer-mission-operations@harwell-uk",
-   "title": "Automation Engineer (Mission Operations)",
-   "department": "MISSION OPERATIONS",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2025-12-16T07:15:38+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/6934707-automation-engineer-mission-operations",
-   "description_sha256": "37b36f83fbf732d64f348ecf82c091708af2a1632a34104fd65c23faf834d847"
-  },
-  {
    "job_id": "13b7869e-4e7f-489c-81df-67c95d6e5701",
    "lineage_key": "rams-engineer@harwell-uk",
    "title": "RAMS Engineer",
@@ -150,10 +135,10 @@
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
-   "is_remote": true,
+   "is_remote": false,
    "published_at": "2026-03-22T22:39:43+00:00",
    "url": "https://careers.open-cosmos.com/jobs/7441125-supplier-quality-assurance-sqa-manager",
-   "description_sha256": "99198e008e9b7de8c003ae57149e4116279e78221b686538a5bfa553b9616d95"
+   "description_sha256": "03f343e9361b3a17e23e6a9125ead0febc080556f753d81e79e16883df6c7fc9"
   },
   {
    "job_id": "182c7f46-3faa-40d3-8677-cdeb63b94214",
@@ -420,10 +405,10 @@
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
-   "is_remote": true,
+   "is_remote": false,
    "published_at": "2025-12-17T06:25:07+00:00",
    "url": "https://careers.open-cosmos.com/jobs/6943939-quality-product-assurance-qpa-intern-spain",
-   "description_sha256": "16f8d1e1886fbacfbe75706c6e71170d47db9327039c3ada306b2588c9613f21"
+   "description_sha256": "5fe783450057ac94d181405fa28f896205f7f669af63c30080c5771dcd90b12b"
   },
   {
    "job_id": "59078e7a-233f-41ef-91cd-7ae57aaf885b",
@@ -453,7 +438,7 @@
    "is_remote": false,
    "published_at": "2025-08-01T13:38:28+01:00",
    "url": "https://careers.open-cosmos.com/jobs/6255243-quality-and-product-assurance-manager",
-   "description_sha256": "509ea1bc77f5523b6121f1689ec18d080df9ce7f687137af8d2a90b4a76359bb"
+   "description_sha256": "d698aa4679dde085da9ba66b5f6d21f64f2ed8d134e52d92a002cb325a167cbf"
   },
   {
    "job_id": "5f4038e2-d87b-4660-aab2-514cd41f7906",
@@ -469,21 +454,6 @@
    "published_at": "2026-04-28T10:36:01+01:00",
    "url": "https://careers.open-cosmos.com/jobs/7648623-thermal-systems-engineer",
    "description_sha256": "feb5f4fa1cdbbf2faee0f6d088dee89f23478ba7c981c3ec02e4c62b18dc328a"
-  },
-  {
-   "job_id": "663dc65a-245f-4fed-9456-48b897afc8a8",
-   "lineage_key": "embedded-electronics-engineer@harwell-uk",
-   "title": "Embedded Electronics Engineer",
-   "department": "ELECTRONICS",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-02-14T16:43:29+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/7231072-embedded-electronics-engineer",
-   "description_sha256": "67b70c3162c1d0cb53d0dc26db79bb8b0d6602921ebe64ccdbcea20aa3e724c9"
   },
   {
    "job_id": "670e9b42-155a-4fbc-b674-b94167ef8779",
@@ -904,21 +874,6 @@
    "published_at": "2026-05-20T16:19:57+01:00",
    "url": "https://careers.open-cosmos.com/jobs/7768719-operations-mission-manager",
    "description_sha256": "7de96fca437ff3d439ddc8d852eca32af81f48daf5b69797cf1c18aa62c7eac9"
-  },
-  {
-   "job_id": "bc2cddf8-c8f8-444d-ad8f-37ef9998f7d8",
-   "lineage_key": "senior-software-engineer-ground-segment@harwell-uk",
-   "title": "Senior Software Engineer (Ground Segment)",
-   "department": "GROUND SEGMENT",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-02-15T21:47:26+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/7231671-senior-software-engineer-ground-segment",
-   "description_sha256": "35bfe62e5d7b5f27d80d845921682f6e1106db3e8c1ea59916ea357b58b1fda4"
   },
   {
    "job_id": "c4b43ff8-d510-4903-b679-48792093591e",

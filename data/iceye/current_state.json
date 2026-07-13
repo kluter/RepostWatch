@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-07-13T13:01:28+00:00",
- "job_count": 134,
+ "fetched_at": "2026-07-13T18:20:15+00:00",
+ "job_count": 135,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -686,7 +686,7 @@
    "is_remote": true,
    "published_at": "2026-07-05T18:02:59.695+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/5666cc2e-53f7-4e19-b971-b183adb5555c",
-   "description_sha256": "0723446a8a27183f134609bde7fcca6acc090657a9b22259b3c8c500aa08214e"
+   "description_sha256": "b820b5ed7bb2637d0735157c6b5cfd4f7bcdab5b1356902d7592d6696034c6d1"
   },
   {
    "job_id": "5bc4767f-7ae6-429a-a784-a9d260680462",
@@ -894,8 +894,8 @@
   },
   {
    "job_id": "728ba3dc-5ab4-4f86-b7cc-5bd24c37f2d4",
-   "lineage_key": "ait-engineer@warsaw",
-   "title": "AIT Engineer",
+   "lineage_key": "optical-ait-engineer@warsaw",
+   "title": "Optical AIT Engineer",
    "department": "Global Manufacturing Organization",
    "team": "Production Poland",
    "location": "Warsaw",
@@ -2044,6 +2044,21 @@
    "published_at": "2026-07-01T13:57:44.571+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/f6d34236-1ec0-4567-8b6a-fb6d3eb6bb87",
    "description_sha256": "c3718473e7a46d68c67aa350394aadac4a6e30e14facece3dfe79a28a2223370"
+  },
+  {
+   "job_id": "feed753d-0e9a-4c2e-a7e2-ee3e588e5149",
+   "lineage_key": "rf-ait-engineer@valencia",
+   "title": "RF AIT Engineer",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-07-13T15:31:54.535+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/feed753d-0e9a-4c2e-a7e2-ee3e588e5149",
+   "description_sha256": "4dda78618ff9724fa8fafaa7431274754df201859c945ef56104e6bf11b47279"
   }
  ]
 }

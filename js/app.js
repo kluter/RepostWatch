@@ -288,7 +288,7 @@
         // (logo_invert: false in config) are only brightened so they keep their hue.
         const logo = h("img", {
             src: cfg.logo || `assets/companies/${slug}.png`, alt: `${cfg.name || slug} logo`,
-            class: cfg.logo_invert === false ? "logo-keep" : "",
+            class: cfg.logo_invert === false ? "logo-keep" : "", "data-co": slug,
         });
         const logoBox = h("div", { class: "side-logo" }, logo);
         logo.onerror = () => {                      // no logo file: show the name big instead
@@ -378,7 +378,7 @@
             tile(republishes, "republishes observed", null, "repost",
                 "Times a listed role got a fresh publish date or reappeared under a new id since tracking began."),
             tile(events.length, "events logged", `since ${firstPoll}`, "list",
-                "Every change recorded — opened, closed, republished — since tracking began."),
+                "Every change recorded (opened, closed, republished) since tracking began."),
             lastHc ? tile(lastHc.value.toLocaleString("en-US"), "headcount",
                 `${lastHc.source}, ${fmtDate(lastHc.date)}, manual`, "users",
                 "Most recent headcount, entered by hand from a public source. Never scraped or automated.") : null);
@@ -626,7 +626,7 @@
     // ---- routing ----
     function currentSlug() {
         const hash = location.hash.replace(/^#\/?/, "");
-        return companies.some(c => c.slug === hash) ? hash : companies[0]?.slug;
+        return companies.some(c => c.slug === hash) ? hash : "";   // "" -> overview home
     }
 
     function introParagraphs(cfg, slug) {
@@ -645,7 +645,8 @@
 
     async function route() {
         const slug = currentSlug();
-        if (!slug) return;
+        document.body.classList.toggle("home", !slug);
+        if (!slug) { await renderHome(); return; }
         const cfg = companies.find(c => c.slug === slug) || {};
         document.getElementById("cs-name").textContent = cfg.name || slug;
         try {
@@ -654,6 +655,164 @@
             document.getElementById("app").replaceChildren(
                 h("p", { class: "caption" }, `Failed to load data for ${slug}: ${err.message}`));
         }
+    }
+
+    // ---- overview home ----
+    function relTime(iso) {
+        const d = Math.floor((Date.now() - Date.parse(iso)) / 86400e3);
+        if (d <= 0) return "today";
+        if (d === 1) return "yesterday";
+        if (d < 30) return `${d}d ago`;
+        if (d < 365) return `${Math.floor(d / 30)}mo ago`;
+        return `${Math.floor(d / 365)}y ago`;
+    }
+
+    function summarize(cfg, state, events) {
+        const reps = new Map();
+        let last = null, lastHc = null, changes = 0;
+        for (const ev of events) {
+            if (ev.type === "republished") reps.set(ev.lineage_key, (reps.get(ev.lineage_key) || 0) + 1);
+            if (["opened", "closed", "republished"].includes(ev.type)) {
+                changes++;
+                if (!last || ev.date > last) last = ev.date;
+            }
+            if (ev.type === "headcount_manual") lastHc = ev.value;
+        }
+        const now = Date.now();
+        const sev = { fresh: 0, aging: 0, stale: 0, flagged: 0 };
+        for (const j of state.jobs) {
+            const days = j.published_at ? Math.floor((now - Date.parse(j.published_at)) / 86400e3) : 0;
+            sev[sevByDays(days, reps.get(j.lineage_key) || 0)]++;
+        }
+        // "repost pressure": how stale/recycled the roster reads — used to rank the cards
+        const score = sev.flagged * 3 + sev.stale * 2 + sev.aging;
+        return { cfg, jobs: state.job_count, sev, score, last, headcount: lastHc, changes };
+    }
+
+    const sevColor = s => tok({ fresh: "--st-good", aging: "--st-warning", stale: "--st-serious", flagged: "--st-critical" }[s]);
+
+    function plainCard(title, caption, render) {
+        const plot = h("div", { class: "plot" });
+        render(plot);
+        return h("div", { class: "pcard" }, h("h3", {}, title), h("p", { class: "caption" }, caption), plot);
+    }
+
+    function moveStat(n, label, color) {
+        return h("div", { class: "move-stat" }, h("b", { style: `color:${color}` }, String(n)), h("span", {}, label));
+    }
+
+    function recentMovement(loaded) {
+        const evs = [];
+        for (const d of loaded) for (const e of d.events)
+            if (["opened", "closed", "republished"].includes(e.type))
+                evs.push({ type: e.type, title: e.title, date: e.date, company: d.cfg.name || d.cfg.slug });
+        evs.sort((a, b) => (a.date < b.date ? 1 : -1));
+        const since = Date.now() - 7 * 86400e3;
+        const wk = evs.filter(e => Date.parse(e.date) >= since);
+        const n = t => wk.filter(e => e.type === t).length;
+        return { opened: n("opened"), closed: n("closed"), republished: n("republished"), feed: evs.slice(0, 8) };
+    }
+
+    // slim company row for the overview sidebar nav: logo + a severity mini-bar
+    function navItem(r) {
+        const cfg = r.cfg;
+        const logo = h("img", { src: cfg.logo || `assets/companies/${cfg.slug}.png`, alt: "",
+            class: cfg.logo_invert === false ? "logo-keep" : "" });
+        const box = h("span", { class: "nav-logo" }, logo);
+        logo.onerror = () => box.replaceChildren(h("b", { class: "nav-fallback" }, cfg.name || cfg.slug));
+        return h("a", { class: "nav-co", href: `#${cfg.slug}`, "data-co": cfg.slug, title: `${cfg.name || cfg.slug}: ${r.jobs} open, ${r.sev.flagged} flagged` }, box);
+    }
+
+    async function renderHome() {
+        document.getElementById("cs-name").textContent = "Overview";
+        const app = document.getElementById("app");
+        app.replaceChildren(h("p", { class: "caption" }, "Loading overview…"));
+
+        const loaded = await Promise.all(companies.map(async c => {
+            try { const { state, events } = await loadCompany(c.slug); return { cfg: c, state, events }; }
+            catch { return { cfg: c, state: { jobs: [], job_count: 0 }, events: [] }; }
+        }));
+        const rows = loaded.map(d => summarize(d.cfg, d.state, d.events))
+            .sort((a, b) => b.score - a.score || b.jobs - a.jobs);
+
+        // last-updated = the freshest snapshot timestamp across all companies
+        const lastUpdate = loaded.map(d => d.state && d.state.fetched_at).filter(Boolean).sort().pop();
+        document.getElementById("poll-meta").textContent = lastUpdate
+            ? `Updated ${fmtDate(lastUpdate)}, ${lastUpdate.slice(11, 16)} UTC` : "";
+
+        const tot = { fresh: 0, aging: 0, stale: 0, flagged: 0 };
+        let open = 0, changes = 0;
+        for (const r of rows) { open += r.jobs; changes += r.changes || 0; for (const s of SEV) tot[s] += r.sev[s]; }
+        const concern = tot.stale + tot.flagged;
+
+        // ---- sidebar: short intro + company nav (alphabetical) ----
+        const nav = [...rows].sort((a, b) =>
+            (a.cfg.name || a.cfg.slug).localeCompare(b.cfg.name || b.cfg.slug, undefined, { sensitivity: "base" }));
+        document.getElementById("sidebar").replaceChildren(
+            h("div", { class: "side-intro" },
+                h("p", {},
+                    h("b", {}, "RepostWatch"),
+                    ` scrapes the public job feeds of ${rows.length} space, Earth-observation and defence companies and logs every time a role opens, closes, or is quietly republished.`,
+                    h("br"),
+                    "How a company treats its postings is a quiet tell of what it is up to.")),
+            h("div", { class: "side-sect" }, "Companies"),
+            h("nav", { class: "co-nav" }, nav.map(navItem)));
+
+        // ---- recent movement ----
+        const mv = recentMovement(loaded);
+        const movement = h("section", {},
+            h("div", { class: "home-cards-head" }, h("h2", {}, "Recent movement"),
+                h("span", { class: "caption" }, "opens, closes and reposts across every company, last 7 days")),
+            h("div", { class: "move-row" },
+                moveStat(mv.opened, "opened", sevColor("fresh")),
+                moveStat(mv.republished, "republished", sevColor("aging")),
+                moveStat(mv.closed, "closed", sevColor("flagged"))),
+            mv.feed.length
+                ? h("ul", { class: "move-feed" }, mv.feed.map(f => h("li", {},
+                    h("span", { class: `chip ${f.type}` }, f.type),
+                    h("span", { class: "mf-role" }, f.title),
+                    h("span", { class: "mf-co" }, f.company),
+                    h("span", { class: "mf-when" }, relTime(f.date)))))
+                : h("p", { class: "caption" }, "No changes logged yet. Fills in as the polls observe opens and closes."),
+            (mv.opened + mv.closed + mv.republished) > mv.feed.length
+                ? h("p", { class: "move-more" }, `Showing the ${mv.feed.length} most recent of ${(mv.opened + mv.closed + mv.republished).toLocaleString("en-US")} changes this week.`)
+                : null);
+
+        // ---- trend charts ----
+        const charts = h("section", {},
+            h("h2", {}, "Trends"),
+            h("div", { class: "home-charts" },
+                plainCard("Severity of all open roles", "how fresh or stale the whole watchlist reads",
+                    p => p.replaceChildren(
+                        h("div", { class: "sevbar-track" },
+                            SEV.map(s => tot[s] ? h("span", { class: `hc-seg sev-${s}`, style: `flex:${tot[s]}`, title: `${tot[s]} ${s}` }) : null).filter(Boolean)),
+                        h("div", { class: "sevbar-legend" },
+                            SEV.map(s => h("span", { class: "sevbar-key", title: SEV_RULES[s] },
+                                h("i", { class: `dot sev-${s}` }), h("b", {}, tot[s].toLocaleString("en-US")), " ", s))))),
+                h("div", { class: "home-charts-2" },
+                    plainCard("Hiring intensity", "open roles per 100 staff, who is hiring hardest for their size",
+                        p => Charts.barsH(p, rows.filter(r => r.headcount)
+                            .map(r => ({ label: r.cfg.name || r.cfg.slug, value: Math.round(r.jobs / r.headcount * 1000) / 10 }))
+                            .sort((a, b) => b.value - a.value), { color: C.blue, unit: "per 100" })),
+                    plainCard("Flagged roles by company", "roles 120+ days old or heavily reposted",
+                        p => Charts.barsH(p, rows.map(r => ({ label: r.cfg.name || r.cfg.slug, value: r.sev.flagged }))
+                            .filter(r => r.value).sort((a, b) => b.value - a.value), { color: sevColor("flagged"), unit: "flagged" })))));
+
+        // lead with the single most telling read: hardest hirer for its size + worst repost pressure
+        const topHi = rows.filter(r => r.headcount).map(r => ({ cfg: r.cfg, per: r.jobs / r.headcount * 100 }))
+            .sort((a, b) => b.per - a.per)[0];
+        const topFl = rows.filter(r => r.sev.flagged).sort((a, b) => b.sev.flagged - a.sev.flagged)[0];
+        const same = topHi && topFl && topHi.cfg.slug === topFl.cfg.slug;
+        const callout = same
+            ? [h("b", {}, topHi.cfg.name || topHi.cfg.slug),
+                ` is hiring hardest for its size (${Math.round(topHi.per)} open roles per 100 staff) and carries the most stale or reposted roles (${topFl.sev.flagged} flagged).`]
+            : [...(topHi ? [h("b", {}, topHi.cfg.name || topHi.cfg.slug), ` is hiring hardest for its size, ${Math.round(topHi.per)} open roles per 100 staff. `] : []),
+                ...(topFl ? [h("b", {}, topFl.cfg.name || topFl.cfg.slug), ` carries the most stale or reposted roles, ${topFl.sev.flagged} flagged.`] : [])];
+        const hero = h("section", { class: "home-hero-lead" },
+            h("h1", {}, "The hiring pulse of space and defence tech"),
+            h("p", { class: "hero-callout" }, callout));
+
+        app.replaceChildren(hero, h("hr", { class: "home-rule" }), movement, charts);
     }
 
     function initSwitcher() {
@@ -688,7 +847,51 @@
         if (companies.length < 2) search.style.display = "none";
     }
 
+    // subtle drifting constellation behind the page (nods to satellite constellations)
+    function initBackground() {
+        const cv = document.getElementById("bg-constellation");
+        if (!cv) return;
+        const ctx = cv.getContext("2d");
+        const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+        const N = 130, R = 145;
+        let w, h, pts;
+        const seed = () => {
+            w = cv.width = innerWidth; h = cv.height = innerHeight;
+            pts = Array.from({ length: N }, () => ({
+                x: Math.random() * w, y: Math.random() * h,
+                vx: (Math.random() - 0.5) * 0.14, vy: (Math.random() - 0.5) * 0.14,
+            }));
+        };
+        seed();
+        let rt = null;
+        addEventListener("resize", () => { clearTimeout(rt); rt = setTimeout(seed, 200); });
+        const draw = () => {
+            ctx.clearRect(0, 0, w, h);
+            for (const p of pts) {
+                if (!reduce) { p.x += p.vx; p.y += p.vy; }
+                if (p.x < 0 || p.x > w) p.vx *= -1;
+                if (p.y < 0 || p.y > h) p.vy *= -1;
+            }
+            for (let i = 0; i < N; i++) {
+                const a = pts[i];
+                ctx.fillStyle = "rgba(120,180,255,0.55)";
+                ctx.fillRect(a.x, a.y, 1.4, 1.4);
+                for (let j = i + 1; j < N; j++) {
+                    const b = pts[j], d = Math.hypot(a.x - b.x, a.y - b.y);
+                    if (d < R) {
+                        ctx.strokeStyle = `rgba(0,170,255,${0.15 * (1 - d / R)})`;
+                        ctx.lineWidth = 1;
+                        ctx.beginPath(); ctx.moveTo(a.x, a.y); ctx.lineTo(b.x, b.y); ctx.stroke();
+                    }
+                }
+            }
+            if (!reduce) requestAnimationFrame(draw);
+        };
+        draw();
+    }
+
     async function init() {
+        initBackground();
         const [index, geo] = await Promise.all([
             fetch("data/index.json").then(r => r.json()),
             fetch("data/geocache.json").then(r => r.json()).catch(() => ({ locations: {} })),

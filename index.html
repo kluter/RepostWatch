@@ -15,12 +15,17 @@
     <link rel="icon" href="assets/logo.svg" type="image/svg+xml">
 </head>
 <body>
+    <canvas id="bg-constellation" aria-hidden="true"></canvas>
     <nav id="navbar">
-        <div class="brand">
+        <a class="brand" href="#" aria-label="RepostWatch overview">
             <img src="assets/logo.svg" alt="RepostWatch logo">
             <h1>Repost<span class="accent">Watch</span></h1>
-        </div>
+        </a>
         <div class="nav-main">
+            <a id="btn-overview" class="nav-btn" href="#" title="Back to the overview">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" width="14" height="14"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>
+                Overview
+            </a>
             <div id="company-switcher">
                 <button id="cs-btn" aria-haspopup="listbox" aria-expanded="false">
                     <span class="cs-label">Company</span>

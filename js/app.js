@@ -705,7 +705,7 @@
         const evs = [];
         for (const d of loaded) for (const e of d.events)
             if (["opened", "closed", "republished"].includes(e.type))
-                evs.push({ type: e.type, title: e.title, date: e.date, company: d.cfg.name || d.cfg.slug });
+                evs.push({ type: e.type, title: e.title, date: e.date, company: d.cfg.name || d.cfg.slug, url: e.url });
         evs.sort((a, b) => (a.date < b.date ? 1 : -1));
         const since = Date.now() - 7 * 86400e3;
         const wk = evs.filter(e => Date.parse(e.date) >= since);
@@ -770,7 +770,9 @@
             mv.feed.length
                 ? h("ul", { class: "move-feed" }, mv.feed.map(f => h("li", {},
                     h("span", { class: `chip ${f.type}` }, f.type),
-                    h("span", { class: "mf-role" }, f.title),
+                    f.type !== "closed" && safeUrl(f.url)
+                        ? h("a", { class: "mf-role", href: safeUrl(f.url), target: "_blank", rel: "noopener" }, f.title)
+                        : h("span", { class: "mf-role", title: f.type === "closed" ? "this role has since closed" : "" }, f.title),
                     h("span", { class: "mf-co" }, f.company),
                     h("span", { class: "mf-when" }, relTime(f.date)))))
                 : h("p", { class: "caption" }, "No changes logged yet. Fills in as the polls observe opens and closes."),

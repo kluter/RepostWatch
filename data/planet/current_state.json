@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-07-11T11:32:51+00:00",
- "job_count": 82,
+ "fetched_at": "2026-07-14T11:59:11+00:00",
+ "job_count": 79,
  "jobs": [
   {
    "job_id": "7374533",
@@ -306,21 +306,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "7758323",
-   "lineage_key": "senior-software-engineer@haarlem-netherlands",
-   "title": "Senior Software Engineer",
-   "department": "D&I Solutions (SWE)",
-   "team": "",
-   "location": "Haarlem, Netherlands",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-04-14T10:36:48-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7758323",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "7774850",
    "lineage_key": "senior-spacecraft-systems-engineer-san-francisco-office@san-francisco-ca",
    "title": "Senior Spacecraft Systems Engineer (San Francisco Office)",
@@ -333,21 +318,6 @@
    "is_remote": false,
    "published_at": "2026-04-08T10:59:13-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7774850",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7782580",
-   "lineage_key": "ai-engineer-marketing@san-francisco-ca",
-   "title": "AI Engineer, Marketing",
-   "department": "Growth Marketing",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-04-15T13:07:47-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7782580",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -378,21 +348,6 @@
    "is_remote": true,
    "published_at": "2026-05-13T19:50:03-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7785112",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7785364",
-   "lineage_key": "senior-software-engineer@ljubljana-slovenia",
-   "title": "Senior Software Engineer",
-   "department": "D&I Solutions (SWE)",
-   "team": "",
-   "location": "Ljubljana, Slovenia",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-04-14T10:36:49-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7785364",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

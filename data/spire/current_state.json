@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-07-10T18:35:32+00:00",
- "job_count": 46,
+ "fetched_at": "2026-07-14T11:59:11+00:00",
+ "job_count": 47,
  "jobs": [
   {
    "job_id": "6521832",
@@ -693,6 +693,21 @@
    "is_remote": false,
    "published_at": "2026-07-10T04:25:14-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8054968&gh_jid=8054968",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8060147",
+   "lineage_key": "senior-corporate-counsel@washington-dc",
+   "title": "Senior Corporate Counsel",
+   "department": "Legal",
+   "team": "",
+   "location": "Washington, DC",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-13T14:25:06-04:00",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8060147&gh_jid=8060147",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

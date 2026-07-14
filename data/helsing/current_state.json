@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-07-14T11:59:11+00:00",
- "job_count": 126,
+ "fetched_at": "2026-07-14T17:46:01+00:00",
+ "job_count": 127,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -1296,6 +1296,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4879598101",
+   "lineage_key": "hpc-applications-engineer@munich",
+   "title": "HPC Applications Engineer",
+   "department": "Systems Architecture",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-06-01T10:18:57-04:00",
+   "url": "https://helsing.ai/jobs/4879598101?gh_jid=4879598101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4880174101",
    "lineage_key": "mechanical-engineer-kinematic-systems-and-mechanisms@munich",
    "title": "Mechanical Engineer, Kinematic Systems and Mechanisms",
@@ -1476,21 +1491,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4897990101",
-   "lineage_key": "environmental-test-engineer-generalist-and-lethality-package@munich",
-   "title": "Environmental Test Engineer – Generalist and Lethality Package",
-   "department": "Hardware Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-15T12:02:51-04:00",
-   "url": "https://helsing.ai/jobs/4897990101?gh_jid=4897990101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4898125101",
    "lineage_key": "team-assistant@london",
    "title": "Team Assistant",
@@ -1608,21 +1608,6 @@
    "is_remote": false,
    "published_at": "2026-06-17T11:07:33-04:00",
    "url": "https://helsing.ai/jobs/4900888101?gh_jid=4900888101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4901373101",
-   "lineage_key": "embedded-test-software-engineer-hardware-interface-automation@munich",
-   "title": "Embedded Test Software Engineer – Hardware Interface & Automation",
-   "department": "Hardware Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-18T09:53:13-04:00",
-   "url": "https://helsing.ai/jobs/4901373101?gh_jid=4901373101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1806,6 +1791,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4923775101",
+   "lineage_key": "prototyping-engineer@london",
+   "title": "Prototyping Engineer",
+   "department": "Hardware Engineering",
+   "team": "",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-14T08:17:40-04:00",
+   "url": "https://helsing.ai/jobs/4923775101?gh_jid=4923775101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4923845101",
    "lineage_key": "wireless-communications-systems-engineer@munich",
    "title": "Wireless Communications Systems Engineer",
@@ -1867,11 +1867,11 @@
   },
   {
    "job_id": "4924427101",
-   "lineage_key": "senior-systems-engineer-ea-antenna-payload-design@berlin",
+   "lineage_key": "senior-systems-engineer-ea-antenna-payload-design@munich",
    "title": "Senior Systems Engineer – EA Antenna & Payload Design",
    "department": "AI & Engineering",
    "team": "",
-   "location": "Berlin",
+   "location": "Munich",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
@@ -1893,6 +1893,21 @@
    "is_remote": false,
    "published_at": "2026-07-14T05:54:51-04:00",
    "url": "https://helsing.ai/jobs/4924433101?gh_jid=4924433101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4927386101",
+   "lineage_key": "director-finance-platform@munich",
+   "title": "Director Finance Platform",
+   "department": "Finance",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-14T08:45:32-04:00",
+   "url": "https://helsing.ai/jobs/4927386101?gh_jid=4927386101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

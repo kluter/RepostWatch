@@ -2,13 +2,13 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-07-14T11:59:11+00:00",
- "job_count": 140,
+ "fetched_at": "2026-07-14T17:46:01+00:00",
+ "job_count": 139,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
-   "lineage_key": "launch-specialist@warsaw",
-   "title": "Launch Specialist",
+   "lineage_key": "satellite-launch-specialist@warsaw",
+   "title": "Satellite Launch Specialist",
    "department": "Global Manufacturing Organization",
    "team": "Global Manufacturing Organization",
    "location": "Warsaw",
@@ -18,7 +18,7 @@
    "is_remote": true,
    "published_at": "2026-07-13T09:04:06.453+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/055bf193-bb2c-4af9-8cd8-96e421ae2940",
-   "description_sha256": "dfe64ddfe5c9d68a8adfac455e1f42fe9af79ee63fa8c947805ce5fe4cd9e5a7"
+   "description_sha256": "6c17d25f990193d9db1e7f88946373dff91c62ab8093e2e14be80b7212db3a94"
   },
   {
    "job_id": "06f113d6-1702-4346-9369-97d70d68738b",
@@ -263,21 +263,6 @@
    "published_at": "2026-04-23T07:35:17.458+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/21ab33e4-31f0-4324-8fd0-96de29e808b1",
    "description_sha256": "a870956e3deaa2a4a0355260ee01c8f4b9046147f22222bc19264af8a0d0df12"
-  },
-  {
-   "job_id": "23e4203c-bd9c-4b4b-b78a-9ce998829005",
-   "lineage_key": "logistics-manager@espoo",
-   "title": "Logistics Manager",
-   "department": "Global Manufacturing Organization",
-   "team": "Global Manufacturing Organization",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-06-04T05:50:38.100+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/23e4203c-bd9c-4b4b-b78a-9ce998829005",
-   "description_sha256": "922b801f82febefa8b6993977b9906baa5cca0c37bacf0e4c1ddcda26b31e76c"
   },
   {
    "job_id": "245a08c3-81a1-4cee-8867-72bbf034f15d",
@@ -1785,8 +1770,8 @@
   },
   {
    "job_id": "cb38954e-a97b-4340-aa5a-61fd0eeefc55",
-   "lineage_key": "launch-specialist@valencia",
-   "title": "Launch Specialist",
+   "lineage_key": "satellite-launch-specialist@valencia",
+   "title": "Satellite Launch Specialist",
    "department": "Global Manufacturing Organization",
    "team": "Global Manufacturing Organization",
    "location": "Valencia",
@@ -1796,7 +1781,7 @@
    "is_remote": false,
    "published_at": "2026-07-13T09:01:44.124+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/cb38954e-a97b-4340-aa5a-61fd0eeefc55",
-   "description_sha256": "d3b6883b62144d5ce25f1c5cbc280cbf6f8797bd27e0aeae003f4a280374abb9"
+   "description_sha256": "bce5439c37b5821cc4ff7e15955dacd4eba1c18a770d138d9a37a2a0a96971bb"
   },
   {
    "job_id": "cc0b017f-f910-4e64-9dd6-4b4da5538089",

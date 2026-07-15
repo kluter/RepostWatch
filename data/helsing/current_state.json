@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-07-14T17:46:01+00:00",
- "job_count": 127,
+ "fetched_at": "2026-07-15T12:03:24+00:00",
+ "job_count": 132,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -1416,6 +1416,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4890512101",
+   "lineage_key": "manufacturing-engineer@munich",
+   "title": "Manufacturing Engineer",
+   "department": "Production Operations",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-06-09T09:34:00-04:00",
+   "url": "https://helsing.ai/jobs/4890512101?gh_jid=4890512101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4893273101",
    "lineage_key": "it-support-specialist@munich",
    "title": "IT Support Specialist",
@@ -1473,6 +1488,21 @@
    "is_remote": false,
    "published_at": "2026-06-11T10:07:27-04:00",
    "url": "https://helsing.ai/jobs/4895594101?gh_jid=4895594101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4895679101",
+   "lineage_key": "technical-project-manager-production@munich",
+   "title": "Technical Project Manager - Production",
+   "department": "Physical Products",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-06-12T03:08:23-04:00",
+   "url": "https://helsing.ai/jobs/4895679101?gh_jid=4895679101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1908,6 +1938,51 @@
    "is_remote": false,
    "published_at": "2026-07-14T08:45:32-04:00",
    "url": "https://helsing.ai/jobs/4927386101?gh_jid=4927386101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4927641101",
+   "lineage_key": "senior-accountant@munich",
+   "title": "Senior Accountant",
+   "department": "Core Operations",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-15T07:51:35-04:00",
+   "url": "https://helsing.ai/jobs/4927641101?gh_jid=4927641101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4928128101",
+   "lineage_key": "senior-capex-fixed-assets-accountant@munich",
+   "title": "Senior CAPEX & Fixed Assets Accountant",
+   "department": "Core Operations",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-15T07:52:41-04:00",
+   "url": "https://helsing.ai/jobs/4928128101?gh_jid=4928128101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4928133101",
+   "lineage_key": "senior-inventory-accountant@munich",
+   "title": "Senior Inventory Accountant",
+   "department": "Core Operations",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-15T07:53:47-04:00",
+   "url": "https://helsing.ai/jobs/4928133101?gh_jid=4928133101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

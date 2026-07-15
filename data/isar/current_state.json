@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-07-10T18:35:32+00:00",
- "job_count": 91,
+ "fetched_at": "2026-07-15T12:03:24+00:00",
+ "job_count": 90,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -621,21 +621,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4828217101",
-   "lineage_key": "senior-accounts-payable-specialist-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Senior Accounts Payable Specialist (m/f/d)",
-   "department": "Finance",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-04-06T18:00:02-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4828217101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4830255101",
    "lineage_key": "manufacturing-engineer-cad-or-tooling-engineer-cad-m-f-d@ottobrunn-bavaria-germany",
    "title": "Manufacturing Engineer CAD or Tooling Engineer CAD (m/f/d)",
@@ -1086,21 +1071,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4893178101",
-   "lineage_key": "senior-thermal-test-engineer-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Senior Thermal Test Engineer (m/f/d)",
-   "department": "Spectrum AIT",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-16T18:00:01-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4893178101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4893391101",
    "lineage_key": "junior-brand-specialist-mf-d@ottobrunn-bavaria-germany",
    "title": "Junior Brand Specialist (mf/d)",
@@ -1323,6 +1293,21 @@
    "is_remote": false,
    "published_at": "2026-07-07T10:09:50-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4921413101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4922381101",
+   "lineage_key": "bid-manager-f-m-d@ottobrunn-bavaria-germany",
+   "title": "Bid Manager (f/m/d)",
+   "department": "Commercial",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-14T18:00:00-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4922381101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

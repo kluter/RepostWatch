@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-07-14T11:59:11+00:00",
- "job_count": 79,
+ "fetched_at": "2026-07-15T12:03:24+00:00",
+ "job_count": 81,
  "jobs": [
   {
    "job_id": "7374533",
@@ -246,6 +246,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "7644560",
+   "lineage_key": "senior-camera-systems-engineer@san-francisco-ca",
+   "title": "Senior Camera Systems Engineer",
+   "department": "RF, Comms & Electrical Engineering",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-03-16T17:23:11-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7644560",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "7645730",
    "lineage_key": "senior-manufacturing-test-engineer@berlin-germany",
    "title": "Senior Manufacturing Test Engineer",
@@ -303,6 +318,21 @@
    "is_remote": false,
    "published_at": "2026-03-27T19:02:12-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7740653",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "7772699",
+   "lineage_key": "customer-success-manager-d-i-south-korea-anz@australia-remote",
+   "title": "Customer Success Manager  (D&I - South Korea & ANZ)",
+   "department": "Customer Success Management",
+   "team": "",
+   "location": "Australia, Remote",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-04-14T20:57:54-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7772699",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -498,21 +528,6 @@
    "is_remote": false,
    "published_at": "2026-05-19T13:11:20-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7916941",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7926442",
-   "lineage_key": "talent-sourcer@san-francisco-california",
-   "title": "Talent Sourcer",
-   "department": "Talent Acquisition",
-   "team": "",
-   "location": "San Francisco, California",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-22T15:28:58-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7926442",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1158,6 +1173,21 @@
    "is_remote": false,
    "published_at": "2026-07-07T09:42:05-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8042428",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8044691",
+   "lineage_key": "data-visualization-engineer@san-francisco-ca",
+   "title": "Data Visualization Engineer",
+   "department": "Creative",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-14T16:44:21-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8044691",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

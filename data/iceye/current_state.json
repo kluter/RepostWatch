@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-07-14T17:46:01+00:00",
- "job_count": 139,
+ "fetched_at": "2026-07-15T12:03:24+00:00",
+ "job_count": 140,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -507,6 +507,21 @@
    "description_sha256": "fafc3a6e62a2bb9859663f45728f621926f92c7f9c52a381d64216ddf4a975d4"
   },
   {
+   "job_id": "3e47e1ff-b441-40cd-894b-b0e8df3a90d8",
+   "lineage_key": "management-assistant@new-dehli",
+   "title": "Management Assistant",
+   "department": "Missions",
+   "team": "Local Subsidiaries",
+   "location": "New Dehli",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-15T07:02:27.934+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/3e47e1ff-b441-40cd-894b-b0e8df3a90d8",
+   "description_sha256": "4d47d668fb99cd889361ac3967f30e5fa240d2603d84ced06c0e8326e757c302"
+  },
+  {
    "job_id": "3eb0f7b1-ab19-4d41-b633-dfeea0990086",
    "lineage_key": "configuration-specialist@espoo",
    "title": "Configuration Specialist",
@@ -734,21 +749,6 @@
    "description_sha256": "decdd73e527b02e09f876c0ac65b4bc40ededdc2009f25a8e699eed4a7151276"
   },
   {
-   "job_id": "5fac41b2-14eb-419b-8bf7-d10e5603c2fa",
-   "lineage_key": "flood-data-scientist@espoo",
-   "title": "Flood Data Scientist",
-   "department": "Solutions",
-   "team": "Product Engineering",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-04-15T04:31:54.088+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/5fac41b2-14eb-419b-8bf7-d10e5603c2fa",
-   "description_sha256": "31ec0e56d195836ce2b716348053dc3b8cddb1f9bb501b99db4819818e8303f8"
-  },
-  {
    "job_id": "63ba947b-f760-4432-99cb-0c4428eca916",
    "lineage_key": "small-opportunities-seller-business-development-specialist@espoo",
    "title": "Small Opportunities Seller / Business Development Specialist",
@@ -801,8 +801,8 @@
   },
   {
    "job_id": "688e6eed-057d-444e-afc2-de87f2d9ba2c",
-   "lineage_key": "stock-manager-athens@greece",
-   "title": "Stock Manager - Athens",
+   "lineage_key": "stock-logistics-manager-athens@greece",
+   "title": "Stock & Logistics Manager - Athens",
    "department": "Global Manufacturing Organization",
    "team": "GR Stock Management",
    "location": "Greece",
@@ -813,6 +813,23 @@
    "published_at": "2026-04-12T20:59:28.760+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/688e6eed-057d-444e-afc2-de87f2d9ba2c",
    "description_sha256": "816bcde00778067c088c62b705ef0f9dd4bf9da908d70d0cd5a92afe1afa9981"
+  },
+  {
+   "job_id": "6b5378f4-9af0-4092-9e75-e1d0d0bbaad9",
+   "lineage_key": "senior-global-payroll-manager@warsaw",
+   "title": "Senior Global Payroll Manager",
+   "department": "Finance",
+   "team": "Finance",
+   "location": "Warsaw",
+   "secondary_locations": [
+    "Espoo"
+   ],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-07-15T08:56:26.374+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/6b5378f4-9af0-4092-9e75-e1d0d0bbaad9",
+   "description_sha256": "a51da4a783a92798decb8b418180569a8fcfaf7ddfc760698923dcfe9313324e"
   },
   {
    "job_id": "6c374442-a611-40d4-8ba7-4366bd623885",
@@ -1349,7 +1366,7 @@
    "lineage_key": "pmo-manager@espoo",
    "title": "PMO Manager",
    "department": "Missions",
-   "team": "Missions",
+   "team": "Missions Programs",
    "location": "Espoo",
    "secondary_locations": [],
    "employment_type": "FullTime",
@@ -1886,7 +1903,7 @@
    "is_remote": false,
    "published_at": "2026-04-30T16:28:31.188+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/d2ea34a4-3f2a-47cb-b107-aefe4628532e",
-   "description_sha256": "66d65d0e2b911ba0cdc877f98e642e895ff7f14bf7916c59642ec6f5a9ab882f"
+   "description_sha256": "d24ffaa38f473da9f80646a9417aebe584e33afcdeead71dfaf924c8a19b3aad"
   },
   {
    "job_id": "d9a4bdaa-a0bc-4e10-85e2-f99a2ed9b17b",

@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-07-15T12:03:24+00:00",
- "job_count": 81,
+ "fetched_at": "2026-07-15T17:51:54+00:00",
+ "job_count": 79,
  "jobs": [
   {
    "job_id": "7374533",
@@ -348,21 +348,6 @@
    "is_remote": false,
    "published_at": "2026-04-08T10:59:13-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7774850",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7782587",
-   "lineage_key": "ai-engineer-marketing@arlington-va",
-   "title": "AI Engineer, Marketing",
-   "department": "Growth Marketing",
-   "team": "",
-   "location": "Arlington, VA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-04-15T13:07:49-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7782587",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -843,21 +828,6 @@
    "is_remote": false,
    "published_at": "2026-06-12T13:00:01-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7988595",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7988605",
-   "lineage_key": "software-engineering-manager-area-monitoring-lpis@ljubljana-slovenia",
-   "title": "Software Engineering Manager, Area Monitoring & LPIS",
-   "department": "Civ Gov and Commercial Solutions (SWE)",
-   "team": "",
-   "location": "Ljubljana, Slovenia",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-15T08:07:05-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7988605",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

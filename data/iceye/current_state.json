@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-07-15T12:03:24+00:00",
- "job_count": 140,
+ "fetched_at": "2026-07-15T17:51:54+00:00",
+ "job_count": 138,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -248,21 +248,6 @@
    "published_at": "2026-04-13T16:12:46.683+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/2048d1e8-7667-466a-a72a-d754cbcb42f2",
    "description_sha256": "63744517323f55c3d9a5c951fd880215b0a69008856c53d5312480a3c4919738"
-  },
-  {
-   "job_id": "21ab33e4-31f0-4324-8fd0-96de29e808b1",
-   "lineage_key": "staff-software-engineer-fleet-control-and-satellite-communications@espoo",
-   "title": "Staff Software Engineer (Fleet Control and Satellite Communications)",
-   "department": "Engineering",
-   "team": "Fleet Control and Communications",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-04-23T07:35:17.458+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/21ab33e4-31f0-4324-8fd0-96de29e808b1",
-   "description_sha256": "a870956e3deaa2a4a0355260ee01c8f4b9046147f22222bc19264af8a0d0df12"
   },
   {
    "job_id": "245a08c3-81a1-4cee-8867-72bbf034f15d",
@@ -1375,21 +1360,6 @@
    "published_at": "2026-06-26T07:26:56.661+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/97cfd417-d59b-41f6-b06a-b6a8defa4054",
    "description_sha256": "c9860d0bf2ddf9896b5ad2d5686eccead7bb8794bef214849e579d21b5860a10"
-  },
-  {
-   "job_id": "99486007-7a9b-470f-a7ff-e4f886a9c477",
-   "lineage_key": "quality-management-system-qms-specialist@greece",
-   "title": "Quality Management System (QMS) Specialist",
-   "department": "Global Manufacturing Organization",
-   "team": "Process Implementation and Standardization",
-   "location": "Greece",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-05-25T07:51:21.720+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/99486007-7a9b-470f-a7ff-e4f886a9c477",
-   "description_sha256": "512e90805465002f0962918431099e67ecb3112dda559af71e8a00627a7753e9"
   },
   {
    "job_id": "9967722a-e9f3-4b30-9b4c-23bb7586f6c9",

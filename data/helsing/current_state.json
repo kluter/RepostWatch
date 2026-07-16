@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-07-15T17:51:54+00:00",
- "job_count": 130,
+ "fetched_at": "2026-07-16T12:04:47+00:00",
+ "job_count": 128,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -501,21 +501,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4786360101",
-   "lineage_key": "senior-procurement-manager@munich",
-   "title": "Senior Procurement Manager",
-   "department": "Operations",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-02-19T09:21:24-05:00",
-   "url": "https://helsing.ai/jobs/4786360101?gh_jid=4786360101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4787205101",
    "lineage_key": "systems-engineer-command-and-control-air@munich",
    "title": "Systems Engineer - Command and Control (Air)",
@@ -738,21 +723,6 @@
    "is_remote": false,
    "published_at": "2026-04-16T04:27:03-04:00",
    "url": "https://helsing.ai/jobs/4842894101?gh_jid=4842894101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4851120101",
-   "lineage_key": "supply-chain-manager@london",
-   "title": "Supply Chain Manager",
-   "department": "Operations",
-   "team": "",
-   "location": "London",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-04-28T07:47:20-04:00",
-   "url": "https://helsing.ai/jobs/4851120101?gh_jid=4851120101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

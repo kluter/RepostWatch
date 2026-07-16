@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-07-15T12:03:24+00:00",
- "job_count": 39,
+ "fetched_at": "2026-07-16T12:04:47+00:00",
+ "job_count": 41,
  "jobs": [
   {
    "job_id": "018AB5761D",
@@ -49,6 +49,21 @@
    "published_at": "2026-03-23T00:00:00+00:00",
    "url": "https://apply.workable.com/j/076F11402A",
    "description_sha256": "d4ddd42f82d6bbc6dcb6a8386314a0041ca3d147519e25fa06362d5844cc473e"
+  },
+  {
+   "job_id": "0A5C0881FE",
+   "lineage_key": "senior-antenna-rf-design-engineer@reston-united-states",
+   "title": "Senior Antenna & RF Design Engineer",
+   "department": "Mission Solutions",
+   "team": "",
+   "location": "Reston, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-15T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/0A5C0881FE",
+   "description_sha256": "3f5a2316b90975eb8345d46d941248d370f0c3d3d49a8e6042e97be936f5883f"
   },
   {
    "job_id": "1956636B85",
@@ -574,6 +589,21 @@
    "published_at": "2026-06-30T00:00:00+00:00",
    "url": "https://apply.workable.com/j/E0BD4B4469",
    "description_sha256": "7c8685186222c7505a27966e7af1ed693d4ee48c82b6ceb4df899b310005a6bc"
+  },
+  {
+   "job_id": "E8CFDC747B",
+   "lineage_key": "ground-systems-engineer-architect@reston-united-states",
+   "title": "Ground Systems Engineer & Architect",
+   "department": "Mission Solutions",
+   "team": "",
+   "location": "Reston, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-15T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/E8CFDC747B",
+   "description_sha256": "b62dbc2209392f8cecf20876a4f1eabdd9232e487745778721dd419cf03be7da"
   },
   {
    "job_id": "F0F2DD7F5D",

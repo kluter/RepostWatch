@@ -348,6 +348,11 @@
    "lon": 134.755,
    "label": "Australia",
    "remote": true
+  },
+  "australia": {
+   "lat": -24.7761086,
+   "lon": 134.755,
+   "label": "Australia"
   }
  }
 }

@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-07-15T17:51:54+00:00",
- "job_count": 138,
+ "fetched_at": "2026-07-16T12:04:47+00:00",
+ "job_count": 135,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -492,21 +492,6 @@
    "description_sha256": "fafc3a6e62a2bb9859663f45728f621926f92c7f9c52a381d64216ddf4a975d4"
   },
   {
-   "job_id": "3e47e1ff-b441-40cd-894b-b0e8df3a90d8",
-   "lineage_key": "management-assistant@new-dehli",
-   "title": "Management Assistant",
-   "department": "Missions",
-   "team": "Local Subsidiaries",
-   "location": "New Dehli",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-15T07:02:27.934+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/3e47e1ff-b441-40cd-894b-b0e8df3a90d8",
-   "description_sha256": "4d47d668fb99cd889361ac3967f30e5fa240d2603d84ced06c0e8326e757c302"
-  },
-  {
    "job_id": "3eb0f7b1-ab19-4d41-b633-dfeea0990086",
    "lineage_key": "configuration-specialist@espoo",
    "title": "Configuration Specialist",
@@ -687,6 +672,21 @@
    "published_at": "2026-07-05T18:02:59.695+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/5666cc2e-53f7-4e19-b971-b183adb5555c",
    "description_sha256": "b820b5ed7bb2637d0735157c6b5cfd4f7bcdab5b1356902d7592d6696034c6d1"
+  },
+  {
+   "job_id": "5782feaa-cbfc-465c-baf3-bed2bd3446c1",
+   "lineage_key": "business-development-manager-anz@australia",
+   "title": "Business Development Manager, ANZ",
+   "department": "Missions",
+   "team": "Missions Sales",
+   "location": "Australia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Remote",
+   "is_remote": true,
+   "published_at": "2026-07-16T07:46:28.121+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/5782feaa-cbfc-465c-baf3-bed2bd3446c1",
+   "description_sha256": "c46f2c996dcc3535e306a70683fab7a6ea93fedb8ef340e0efbfd3e6f6449a5a"
   },
   {
    "job_id": "5bc4767f-7ae6-429a-a784-a9d260680462",
@@ -1452,21 +1452,6 @@
    "description_sha256": "9b9295572ff25a6f9d06eaf14f0781e97bbf78d957fa08686084b5b863a3d57b"
   },
   {
-   "job_id": "aabf95c8-9cc7-4de2-95e1-89ff3ca605b9",
-   "lineage_key": "software-engineer-unmanned-aircraft-avionics-firmware-autopilot@valencia-spain",
-   "title": "Software Engineer, Unmanned Aircraft (Avionics, Firmware, Autopilot)",
-   "department": "Engineering",
-   "team": "Flight Software",
-   "location": "Valencia, Spain",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-05-07T10:08:45.549+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/aabf95c8-9cc7-4de2-95e1-89ff3ca605b9",
-   "description_sha256": "b4639d6ae86c9a311057a7a95d4e119869d4d4ab1142a73366917a472dd25677"
-  },
-  {
    "job_id": "af4bb424-4f4e-451d-b34a-aa86611a61b5",
    "lineage_key": "satellite-electronics-production-team-lead@valencia",
    "title": "Satellite Electronics Production Team Lead",
@@ -1771,21 +1756,6 @@
    "description_sha256": "bce5439c37b5821cc4ff7e15955dacd4eba1c18a770d138d9a37a2a0a96971bb"
   },
   {
-   "job_id": "cc0b017f-f910-4e64-9dd6-4b4da5538089",
-   "lineage_key": "senior-radio-frequency-engineer@valencia-spain",
-   "title": "Senior Radio Frequency Engineer",
-   "department": "Engineering",
-   "team": "SIGINT",
-   "location": "Valencia, Spain",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-05-27T14:49:35.217+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/cc0b017f-f910-4e64-9dd6-4b4da5538089",
-   "description_sha256": "9a394d9849100298e5fbf72f7fef6169a996b7fe626144682955964cae630b1c"
-  },
-  {
    "job_id": "ce6b9391-c11e-4831-a3f8-39ebd6c23f39",
    "lineage_key": "rf-engineer-radar-payload-team@espoo",
    "title": "RF Engineer, Radar Payload Team",
@@ -1859,21 +1829,6 @@
    "published_at": "2026-07-01T07:39:44.482+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/d06fbee7-df97-49e4-90e5-1f9136482c56",
    "description_sha256": "9eb13bdb6750f9bda3e805e3deffa72806d0e863958da86e1f724fcc6085196d"
-  },
-  {
-   "job_id": "d2ea34a4-3f2a-47cb-b107-aefe4628532e",
-   "lineage_key": "manufacturing-technician-unmanned-aircraft-fabrication-and-integration@valencia",
-   "title": "Manufacturing Technician, Unmanned Aircraft (Fabrication and Integration)",
-   "department": "Engineering",
-   "team": "HAPS Manufacturing",
-   "location": "Valencia",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-04-30T16:28:31.188+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/d2ea34a4-3f2a-47cb-b107-aefe4628532e",
-   "description_sha256": "d24ffaa38f473da9f80646a9417aebe584e33afcdeead71dfaf924c8a19b3aad"
   },
   {
    "job_id": "d9a4bdaa-a0bc-4e10-85e2-f99a2ed9b17b",

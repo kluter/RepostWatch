@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-07-15T12:03:24+00:00",
- "job_count": 90,
+ "fetched_at": "2026-07-16T12:04:47+00:00",
+ "job_count": 91,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -1353,6 +1353,21 @@
    "is_remote": false,
    "published_at": "2026-07-10T07:01:02-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4924585101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4929454101",
+   "lineage_key": "senior-systems-engineer-m-f-d@ottobrunn-bavaria-germany",
+   "title": "(Senior) Systems Engineer (m/f/d)",
+   "department": "Spectrum",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-16T04:10:40-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4929454101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

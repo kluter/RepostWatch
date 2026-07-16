@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-07-16T12:04:47+00:00",
- "job_count": 128,
+ "fetched_at": "2026-07-16T17:50:01+00:00",
+ "job_count": 126,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -771,21 +771,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4861198101",
-   "lineage_key": "incoming-inspector-production-quality@munich",
-   "title": "Incoming Inspector - Production Quality",
-   "department": "Production Operations",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-08T09:17:14-04:00",
-   "url": "https://helsing.ai/jobs/4861198101?gh_jid=4861198101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4862545101",
    "lineage_key": "operational-buyer@munich",
    "title": "Operational Buyer",
@@ -798,21 +783,6 @@
    "is_remote": false,
    "published_at": "2026-05-08T09:28:11-04:00",
    "url": "https://helsing.ai/jobs/4862545101?gh_jid=4862545101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4862586101",
-   "lineage_key": "quality-inspector-production-quality@munich",
-   "title": "Quality Inspector - Production Quality",
-   "department": "Production Operations",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-08T09:17:15-04:00",
-   "url": "https://helsing.ai/jobs/4862586101?gh_jid=4862586101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -999,7 +969,7 @@
    "job_id": "4871824101",
    "lineage_key": "systems-engineer-requirements-manager-aviation@munich",
    "title": "Systems Engineer (Requirements Manager), Aviation",
-   "department": "Systems Architecture",
+   "department": "AI & Engineering",
    "team": "",
    "location": "Munich",
    "secondary_locations": [],
@@ -1551,21 +1521,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4900771101",
-   "lineage_key": "warehouse-clerk@munich",
-   "title": "Warehouse Clerk",
-   "department": "Physical Products",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-17T04:36:50-04:00",
-   "url": "https://helsing.ai/jobs/4900771101?gh_jid=4900771101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4900888101",
    "lineage_key": "lead-systems-engineer-active-rf-sensing@munich",
    "title": "Lead Systems Engineer - Active RF Sensing",
@@ -1923,6 +1878,21 @@
    "is_remote": false,
    "published_at": "2026-07-15T07:53:47-04:00",
    "url": "https://helsing.ai/jobs/4928133101?gh_jid=4928133101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4929843101",
+   "lineage_key": "head-of-communications@washington-dc",
+   "title": "Head of Communications",
+   "department": "Marketing & Communications",
+   "team": "",
+   "location": "Washington, DC",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-16T09:25:43-04:00",
+   "url": "https://helsing.ai/jobs/4929843101?gh_jid=4929843101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

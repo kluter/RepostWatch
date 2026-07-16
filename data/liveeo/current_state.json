@@ -2,8 +2,8 @@
  "company": "liveeo",
  "source": "personio",
  "board": "liveeo-gmbh",
- "fetched_at": "2026-07-15T17:51:54+00:00",
- "job_count": 13,
+ "fetched_at": "2026-07-16T17:50:01+00:00",
+ "job_count": 12,
  "jobs": [
   {
    "job_id": "2006503",
@@ -183,21 +183,6 @@
    "is_remote": true,
    "published_at": "2026-07-03T15:22:38+00:00",
    "url": "https://liveeo-gmbh.jobs.personio.de/job/2698347",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "2704119",
-   "lineage_key": "freelance-full-stack-engineer-f-m-x@berlin",
-   "title": "Freelance Full-Stack Engineer (f/m/x)",
-   "department": "TradeAware",
-   "team": "",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-08T10:55:39+00:00",
-   "url": "https://liveeo-gmbh.jobs.personio.de/job/2704119",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

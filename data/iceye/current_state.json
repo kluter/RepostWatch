@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-07-17T11:54:25+00:00",
- "job_count": 136,
+ "fetched_at": "2026-07-17T17:43:43+00:00",
+ "job_count": 138,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -600,8 +600,8 @@
   },
   {
    "job_id": "50ea94b9-1799-49ed-98f2-fdf29bf4fef8",
-   "lineage_key": "facility-management-team-lead@espoo",
-   "title": "Facility Management Team Lead",
+   "lineage_key": "maite-facility-management-team-lead@espoo",
+   "title": "MAITE Facility Management Team Lead",
    "department": "Global Manufacturing Organization",
    "team": "Global Manufacturing Organization",
    "location": "Espoo",
@@ -832,6 +832,21 @@
    "description_sha256": "9821eb2f148265216accb68f29b6f7012f4900f2d5e621bdbd8247d59f4c0253"
   },
   {
+   "job_id": "6cabbd48-43b5-467d-8ca1-9ffd48a24da5",
+   "lineage_key": "knowledge-management-specialist@espoo",
+   "title": "Knowledge Management Specialist",
+   "department": "Data",
+   "team": "Customer Continuous Improvement",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-07-17T12:12:29.585+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/6cabbd48-43b5-467d-8ca1-9ffd48a24da5",
+   "description_sha256": "c9237e25f5d5d3e5458c6f309cb9938784b9b54b91051102b83177054f8fdbb0"
+  },
+  {
    "job_id": "6e531bd0-02f1-4191-91dd-f16910246d23",
    "lineage_key": "senior-rf-engineer-radar-payload-team@espoo",
    "title": "Senior RF Engineer, Radar Payload Team",
@@ -953,6 +968,21 @@
    "published_at": "2026-07-13T19:18:15.803+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/75364193-c8d1-4969-9dbb-57d914a40fbb",
    "description_sha256": "33a86df21af857bb73d1456e2580fa91fae2e670fe6daf1e384f52f09bee19ea"
+  },
+  {
+   "job_id": "75a61359-7509-4cbe-a965-ff7bd3f24883",
+   "lineage_key": "customer-excellence-specialist@espoo",
+   "title": "Customer Excellence Specialist",
+   "department": "Data",
+   "team": "Customer Continuous Improvement",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-07-17T12:12:48.991+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/75a61359-7509-4cbe-a965-ff7bd3f24883",
+   "description_sha256": "5224031896535d08dfa7060f96ba908264da1bdbbbdf9566208cab98f85057b4"
   },
   {
    "job_id": "76565bc2-919e-4acb-aa0a-96b93d3f4c39",

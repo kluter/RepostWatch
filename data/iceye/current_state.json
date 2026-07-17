@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-07-16T12:04:47+00:00",
- "job_count": 135,
+ "fetched_at": "2026-07-17T11:54:25+00:00",
+ "job_count": 136,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -1829,6 +1829,21 @@
    "published_at": "2026-07-01T07:39:44.482+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/d06fbee7-df97-49e4-90e5-1f9136482c56",
    "description_sha256": "9eb13bdb6750f9bda3e805e3deffa72806d0e863958da86e1f724fcc6085196d"
+  },
+  {
+   "job_id": "d2ea34a4-3f2a-47cb-b107-aefe4628532e",
+   "lineage_key": "manufacturing-technician-unmanned-aircraft-fabrication-and-integration@valencia",
+   "title": "Manufacturing Technician, Unmanned Aircraft (Fabrication and Integration)",
+   "department": "Engineering",
+   "team": "HAPS Manufacturing",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-07-17T05:59:46.417+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/d2ea34a4-3f2a-47cb-b107-aefe4628532e",
+   "description_sha256": "d24ffaa38f473da9f80646a9417aebe584e33afcdeead71dfaf924c8a19b3aad"
   },
   {
    "job_id": "d9a4bdaa-a0bc-4e10-85e2-f99a2ed9b17b",

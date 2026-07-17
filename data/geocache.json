@@ -353,6 +353,11 @@
    "lat": -24.7761086,
    "lon": 134.755,
    "label": "Australia"
+  },
+  "washington d.c": {
+   "lat": 38.8950982,
+   "lon": -77.0363849,
+   "label": "Washington"
   }
  }
 }

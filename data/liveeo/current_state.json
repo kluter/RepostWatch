@@ -2,8 +2,8 @@
  "company": "liveeo",
  "source": "personio",
  "board": "liveeo-gmbh",
- "fetched_at": "2026-07-16T17:50:01+00:00",
- "job_count": 12,
+ "fetched_at": "2026-07-17T11:54:25+00:00",
+ "job_count": 13,
  "jobs": [
   {
    "job_id": "2006503",
@@ -183,6 +183,21 @@
    "is_remote": true,
    "published_at": "2026-07-03T15:22:38+00:00",
    "url": "https://liveeo-gmbh.jobs.personio.de/job/2698347",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "2715963",
+   "lineage_key": "senior-ml-engineer-f-m-x-computer-vision-for-earth-observation@berlin",
+   "title": "Senior ML Engineer (f/m/x) - Computer Vision for Earth Observation",
+   "department": "Governmental Solutions",
+   "team": "",
+   "location": "Berlin",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-16T16:16:22+00:00",
+   "url": "https://liveeo-gmbh.jobs.personio.de/job/2715963",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-07-16T17:50:01+00:00",
- "job_count": 126,
+ "fetched_at": "2026-07-17T11:54:25+00:00",
+ "job_count": 123,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -591,21 +591,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4816569101",
-   "lineage_key": "security-officer@munich",
-   "title": "Security Officer",
-   "department": "Corporate Security",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-03-19T10:37:46-04:00",
-   "url": "https://helsing.ai/jobs/4816569101?gh_jid=4816569101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4818340101",
    "lineage_key": "senior-expert-export-control@munich",
    "title": "(Senior) Expert Export Control",
@@ -738,21 +723,6 @@
    "is_remote": false,
    "published_at": "2026-05-01T11:28:04-04:00",
    "url": "https://helsing.ai/jobs/4856801101?gh_jid=4856801101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4857323101",
-   "lineage_key": "information-security-officer@munich",
-   "title": "Information Security Officer",
-   "department": "Corporate Security",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-05T08:25:40-04:00",
-   "url": "https://helsing.ai/jobs/4857323101?gh_jid=4857323101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1443,21 +1413,6 @@
    "is_remote": false,
    "published_at": "2026-06-16T02:39:39-04:00",
    "url": "https://helsing.ai/jobs/4898125101?gh_jid=4898125101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4898201101",
-   "lineage_key": "learning-and-development-lead@munich",
-   "title": "Learning and Development Lead",
-   "department": "People",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-16T04:49:28-04:00",
-   "url": "https://helsing.ai/jobs/4898201101?gh_jid=4898201101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

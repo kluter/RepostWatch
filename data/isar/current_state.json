@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-07-16T12:04:47+00:00",
- "job_count": 91,
+ "fetched_at": "2026-07-17T11:54:25+00:00",
+ "job_count": 89,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -741,21 +741,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4845892101",
-   "lineage_key": "senior-plm-business-analyst-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Senior PLM Business Analyst (m/f/d)",
-   "department": "Spectrum",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-04-26T18:00:01-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4845892101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4846323101",
    "lineage_key": "working-student-tax-m-f-d@ottobrunn-bavaria-germany",
    "title": "Working Student Tax (m/f/d)",
@@ -1053,21 +1038,6 @@
    "is_remote": false,
    "published_at": "2026-06-07T11:20:01-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4878717101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4889198101",
-   "lineage_key": "working-student-launch-vehicle-ait@ottobrunn-bavaria-germany",
-   "title": "Working Student Launch Vehicle AIT",
-   "department": "Launch Vehicle Structures",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-14T23:45:00-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4889198101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

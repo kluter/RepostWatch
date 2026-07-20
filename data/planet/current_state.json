@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-07-20T12:35:15+00:00",
- "job_count": 76,
+ "fetched_at": "2026-07-20T18:31:47+00:00",
+ "job_count": 77,
  "jobs": [
   {
    "job_id": "7374533",
@@ -183,6 +183,21 @@
    "is_remote": true,
    "published_at": "2026-02-10T12:47:16-05:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7593419",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "7603801",
+   "lineage_key": "senior-engineering-manager-ai-geospatial-assistant-team@san-francisco-ca",
+   "title": "Senior Engineering Manager - AI Geospatial Assistant Team",
+   "department": "Data Availability",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-02-20T15:52:06-05:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7603801",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -802,8 +817,8 @@
   },
   {
    "job_id": "7992931",
-   "lineage_key": "working-student-onboarding-specialist@berlin-germany",
-   "title": "Working Student, Onboarding Specialist",
+   "lineage_key": "working-student-customer-onboarding-specialist@berlin-germany",
+   "title": "Working Student, Customer Onboarding Specialist",
    "department": "Education and Enablement",
    "team": "",
    "location": "Berlin, Germany",

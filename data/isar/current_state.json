@@ -2,7 +2,7 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-07-20T12:35:15+00:00",
+ "fetched_at": "2026-07-20T18:31:47+00:00",
  "job_count": 90,
  "jobs": [
   {
@@ -532,8 +532,8 @@
   },
   {
    "job_id": "4797555101",
-   "lineage_key": "senior-production-engineer-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Senior Production Engineer (m/f/d)",
+   "lineage_key": "production-engineer-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Production Engineer (m/f/d)",
    "department": "Production",
    "team": "",
    "location": "Ottobrunn, Bavaria, Germany",

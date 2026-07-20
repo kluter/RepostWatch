@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-07-20T12:35:15+00:00",
- "job_count": 141,
+ "fetched_at": "2026-07-20T18:31:47+00:00",
+ "job_count": 142,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -1225,6 +1225,21 @@
    "description_sha256": "d8b01f04bb68b83bab6c286c3707ab47d2f5c82e2fe8f6e25d9c1ec0a153a8b1"
   },
   {
+   "job_id": "8cd31dcc-0c3e-4966-b49c-2343840f1268",
+   "lineage_key": "management-assistant-office-manager@united-arab-emirates",
+   "title": "Management Assistant / Office Manager",
+   "department": "Missions",
+   "team": "Local Subsidiaries",
+   "location": "United Arab Emirates",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-07-20T12:36:25.864+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/8cd31dcc-0c3e-4966-b49c-2343840f1268",
+   "description_sha256": "3123588c21de39ca0a39f63870e4902e86096b76e683ffa9d5a3522c88791fde"
+  },
+  {
    "job_id": "8f1aaed7-9418-49f5-9dcf-c71359b0bc8e",
    "lineage_key": "supply-chain-specialist-mechanics-structures@espoo",
    "title": "Supply Chain Specialist (Mechanics & Structures)",
@@ -1918,7 +1933,7 @@
    "is_remote": false,
    "published_at": "2026-07-17T05:59:46.417+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/d2ea34a4-3f2a-47cb-b107-aefe4628532e",
-   "description_sha256": "d24ffaa38f473da9f80646a9417aebe584e33afcdeead71dfaf924c8a19b3aad"
+   "description_sha256": "e217b5cdfe2c7b9d9e9118eb51ed695cd0855d3184ce99a7920dc1ac28430a88"
   },
   {
    "job_id": "d9a4bdaa-a0bc-4e10-85e2-f99a2ed9b17b",

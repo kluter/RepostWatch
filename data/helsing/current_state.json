@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-07-20T12:35:15+00:00",
- "job_count": 123,
+ "fetched_at": "2026-07-20T18:31:47+00:00",
+ "job_count": 122,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -963,21 +963,6 @@
    "is_remote": false,
    "published_at": "2026-05-29T11:14:54-04:00",
    "url": "https://helsing.ai/jobs/4872445101?gh_jid=4872445101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4872937101",
-   "lineage_key": "talent-acquisition-partner-engineering@washington-dc",
-   "title": "Talent Acquisition Partner, Engineering",
-   "department": "Talent Acquisition",
-   "team": "",
-   "location": "Washington, DC",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-21T10:20:35-04:00",
-   "url": "https://helsing.ai/jobs/4872937101?gh_jid=4872937101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

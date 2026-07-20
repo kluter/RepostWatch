@@ -2,7 +2,7 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-07-17T11:54:25+00:00",
+ "fetched_at": "2026-07-20T12:35:15+00:00",
  "job_count": 123,
  "jobs": [
   {
@@ -1371,21 +1371,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4895679101",
-   "lineage_key": "technical-project-manager-production@munich",
-   "title": "Technical Project Manager - Production",
-   "department": "Physical Products",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-12T03:08:23-04:00",
-   "url": "https://helsing.ai/jobs/4895679101?gh_jid=4895679101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4897813101",
    "lineage_key": "head-of-aerodynamics-thermal@munich",
    "title": "Head of Aerodynamics & Thermal",
@@ -1833,6 +1818,21 @@
    "is_remote": false,
    "published_at": "2026-07-15T07:53:47-04:00",
    "url": "https://helsing.ai/jobs/4928133101?gh_jid=4928133101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4929769101",
+   "lineage_key": "programme-manager@paris",
+   "title": "Programme Manager",
+   "department": "Campaigns & Programmes",
+   "team": "",
+   "location": "Paris",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-16T10:13:01-04:00",
+   "url": "https://helsing.ai/jobs/4929769101?gh_jid=4929769101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

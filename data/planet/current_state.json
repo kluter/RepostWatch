@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-07-17T11:54:25+00:00",
- "job_count": 77,
+ "fetched_at": "2026-07-20T12:35:15+00:00",
+ "job_count": 76,
  "jobs": [
   {
    "job_id": "7374533",
@@ -363,21 +363,6 @@
    "is_remote": false,
    "published_at": "2026-04-08T10:59:13-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7774850",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7785112",
-   "lineage_key": "regional-manager-customer-success-d-i-apj@apac-remote",
-   "title": "Regional Manager, Customer Success (D&I - APJ)",
-   "department": "Customer Success Management",
-   "team": "",
-   "location": "APAC, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-05-13T19:50:03-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7785112",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

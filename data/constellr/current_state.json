@@ -2,8 +2,8 @@
  "company": "constellr",
  "source": "recruitee",
  "board": "constellr",
- "fetched_at": "2026-07-09T14:11:52+00:00",
- "job_count": 4,
+ "fetched_at": "2026-07-20T12:35:15+00:00",
+ "job_count": 8,
  "jobs": [
   {
    "job_id": "2614405",
@@ -64,6 +64,66 @@
    "published_at": "2026-07-02T13:00:52+00:00",
    "url": "https://constellr.recruitee.com/o/mission-control-engineer",
    "description_sha256": "4953a33e4684b7d46776b27d2c00bfe3d3d1a17bdeaba0c9f8261c77af1dad5b"
+  },
+  {
+   "job_id": "2681827",
+   "lineage_key": "senior-ait-technician-optical-payloads@munich-germany",
+   "title": "Senior AIT Technician (Optical Payloads)",
+   "department": "Satellite Tech",
+   "team": "",
+   "location": "Munich, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-20T10:19:19+00:00",
+   "url": "https://constellr.recruitee.com/o/senior-ait-technician-optical-payloads",
+   "description_sha256": "03e6416502846de0a8a946e4d1e9a1a292bd7f9da7253f9bd8f16671fe6f0c9d"
+  },
+  {
+   "job_id": "2681828",
+   "lineage_key": "satellite-systems-engineer-with-adcs-background@munich-germany",
+   "title": "Satellite Systems Engineer (with ADCS Background)",
+   "department": "Satellite Tech",
+   "team": "",
+   "location": "Munich, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-20T10:00:19+00:00",
+   "url": "https://constellr.recruitee.com/o/satellite-systems-engineer-with-adcs-background",
+   "description_sha256": "fe759766990457d8b60a5fe83178942c5c238c08a75a8e2dd5d8530e00b9f7f4"
+  },
+  {
+   "job_id": "2681830",
+   "lineage_key": "payload-system-engineer@munich-germany",
+   "title": "Payload System Engineer",
+   "department": "Satellite Tech",
+   "team": "",
+   "location": "Munich, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-20T09:13:32+00:00",
+   "url": "https://constellr.recruitee.com/o/payload-system-engineer-1",
+   "description_sha256": "825037009fa0f6a6122d18b6b0937cff17c1b12fb38f2eb4632a790da7e33dc2"
+  },
+  {
+   "job_id": "2682754",
+   "lineage_key": "satellite-systems-engineer-with-electrical-background@munich-germany",
+   "title": "Satellite Systems Engineer (with Electrical Background)",
+   "department": "Satellite Tech",
+   "team": "",
+   "location": "Munich, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-20T09:39:46+00:00",
+   "url": "https://constellr.recruitee.com/o/satellite-systems-engineer-with-electrical-background-1",
+   "description_sha256": "5398537d35c00c798b3a8fbc28899100374125298fdcbf5824489a4b37baf2c2"
   }
  ]
 }

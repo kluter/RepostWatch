@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-07-17T17:43:43+00:00",
- "job_count": 91,
+ "fetched_at": "2026-07-20T12:35:15+00:00",
+ "job_count": 90,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -168,21 +168,6 @@
    "is_remote": false,
    "published_at": "2025-10-29T04:00:06-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4697662101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4698874101",
-   "lineage_key": "manager-electrical-engineering-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Manager Electrical Engineering (m/f/d)",
-   "department": "AGNC",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2025-11-04T01:45:00-05:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4698874101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1011,21 +996,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4875375101",
-   "lineage_key": "mission-analysis-engineer-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Mission Analysis Engineer (m/f/d)",
-   "department": "Mission & Launch Operations",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-01T00:00:15-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4875375101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4878717101",
    "lineage_key": "communications-specialist-m-f-d@ottobrunn-bavaria-germany",
    "title": "Communications Specialist (m/f/d)",
@@ -1342,8 +1312,8 @@
   },
   {
    "job_id": "4930992101",
-   "lineage_key": "intern-logistic-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Intern Logistic (m/f/d)",
+   "lineage_key": "summer-intern-logistic-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Summer Intern Logistic (m/f/d)",
    "department": "Production",
    "team": "",
    "location": "Ottobrunn, Bavaria, Germany",
@@ -1357,8 +1327,8 @@
   },
   {
    "job_id": "4931009101",
-   "lineage_key": "intern-procurement-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Intern Procurement (m/f/d)",
+   "lineage_key": "summer-intern-procurement-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Summer Intern Procurement (m/f/d)",
    "department": "Production",
    "team": "",
    "location": "Ottobrunn, Bavaria, Germany",
@@ -1368,6 +1338,21 @@
    "is_remote": false,
    "published_at": "2026-07-17T11:16:38-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4931009101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4931908101",
+   "lineage_key": "working-student-computer-science-f-m-d@ottobrunn-bavaria-germany",
+   "title": "Working Student Computer Science (f/m/d)",
+   "department": "Ground Systems",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-20T03:32:25-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4931908101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

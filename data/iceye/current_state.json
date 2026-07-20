@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-07-18T17:39:07+00:00",
- "job_count": 139,
+ "fetched_at": "2026-07-20T12:35:15+00:00",
+ "job_count": 141,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -614,6 +614,21 @@
    "description_sha256": "d31034e4a8e976664dff93331b9c4651b04d53e0f6287d8c1e8b9d8a277af1fa"
   },
   {
+   "job_id": "4f00e104-a4a1-4fa3-ac73-3c8c3f64b123",
+   "lineage_key": "engineering-manager-electronics@warsaw",
+   "title": "Engineering Manager, Electronics",
+   "department": "Engineering",
+   "team": "Optical",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-07-20T12:10:21.083+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/4f00e104-a4a1-4fa3-ac73-3c8c3f64b123",
+   "description_sha256": "2ec4f325796b4dd042431127f7bea9039c4bac6743c419a0cdbb00aecf2b6cc7"
+  },
+  {
    "job_id": "50ea94b9-1799-49ed-98f2-fdf29bf4fef8",
    "lineage_key": "maite-facility-management-team-lead@espoo",
    "title": "MAITE Facility Management Team Lead",
@@ -953,21 +968,6 @@
    "published_at": "2026-06-29T17:07:34.404+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/728ba3dc-5ab4-4f86-b7cc-5bd24c37f2d4",
    "description_sha256": "237803fac3cc1d9f94a98af26945cea68f3c0399b503edbd358bc2e1821afb5c"
-  },
-  {
-   "job_id": "7461dbdc-282d-4ba4-afff-8393fc46b277",
-   "lineage_key": "engineering-lead-mechanical-engineering@warsaw",
-   "title": "Engineering Lead, Mechanical Engineering",
-   "department": "Engineering",
-   "team": "Optical",
-   "location": "Warsaw",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-04-09T14:22:39.992+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/7461dbdc-282d-4ba4-afff-8393fc46b277",
-   "description_sha256": "dd0da1e8dce0eac0a55a784e0980a5e0823dc268485008d109d51346a2ea0cf9"
   },
   {
    "job_id": "75364193-c8d1-4969-9dbb-57d914a40fbb",
@@ -1497,6 +1497,21 @@
    "description_sha256": "9b9295572ff25a6f9d06eaf14f0781e97bbf78d957fa08686084b5b863a3d57b"
   },
   {
+   "job_id": "aabf95c8-9cc7-4de2-95e1-89ff3ca605b9",
+   "lineage_key": "software-engineer-unmanned-aircraft-avionics-firmware-autopilot@valencia-spain",
+   "title": "Software Engineer, Unmanned Aircraft (Avionics, Firmware, Autopilot)",
+   "department": "Engineering",
+   "team": "Flight Software",
+   "location": "Valencia, Spain",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-07-20T06:01:29.442+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/aabf95c8-9cc7-4de2-95e1-89ff3ca605b9",
+   "description_sha256": "c41ea42c27ea5769f9d9e630b84ab32b9ee4c9da52708fa946e95b58c835735c"
+  },
+  {
    "job_id": "af4bb424-4f4e-451d-b34a-aa86611a61b5",
    "lineage_key": "satellite-electronics-production-team-lead@valencia",
    "title": "Satellite Electronics Production Team Lead",
@@ -1799,6 +1814,21 @@
    "published_at": "2026-07-13T09:01:44.124+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/cb38954e-a97b-4340-aa5a-61fd0eeefc55",
    "description_sha256": "bce5439c37b5821cc4ff7e15955dacd4eba1c18a770d138d9a37a2a0a96971bb"
+  },
+  {
+   "job_id": "cc0b017f-f910-4e64-9dd6-4b4da5538089",
+   "lineage_key": "senior-radio-frequency-engineer@valencia-spain",
+   "title": "Senior Radio Frequency Engineer",
+   "department": "Engineering",
+   "team": "SIGINT",
+   "location": "Valencia, Spain",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-07-20T06:01:05.344+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/cc0b017f-f910-4e64-9dd6-4b4da5538089",
+   "description_sha256": "9a394d9849100298e5fbf72f7fef6169a996b7fe626144682955964cae630b1c"
   },
   {
    "job_id": "ce6b9391-c11e-4831-a3f8-39ebd6c23f39",

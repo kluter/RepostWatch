@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-07-20T18:31:47+00:00",
- "job_count": 77,
+ "fetched_at": "2026-07-21T12:10:13+00:00",
+ "job_count": 78,
  "jobs": [
   {
    "job_id": "7374533",
@@ -1143,6 +1143,21 @@
    "is_remote": false,
    "published_at": "2026-07-10T03:59:10-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8052727",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8053281",
+   "lineage_key": "senior-manager-of-product-imagery@san-francisco-ca",
+   "title": "Senior Manager of Product, Imagery",
+   "department": "Imagery",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-20T17:14:36-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8053281",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

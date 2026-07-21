@@ -2,7 +2,7 @@
  "company": "constellr",
  "source": "recruitee",
  "board": "constellr",
- "fetched_at": "2026-07-20T12:35:15+00:00",
+ "fetched_at": "2026-07-21T12:10:13+00:00",
  "job_count": 8,
  "jobs": [
   {
@@ -37,8 +37,8 @@
   },
   {
    "job_id": "2619575",
-   "lineage_key": "project-and-procurement-manager@munich-germany",
-   "title": "Project and Procurement Manager",
+   "lineage_key": "project-procurement-manager@munich-germany",
+   "title": "Project Procurement Manager",
    "department": "Program Mng",
    "team": "",
    "location": "Munich, Germany",
@@ -47,7 +47,7 @@
    "workplace_type": "",
    "is_remote": true,
    "published_at": "2026-05-28T13:43:12+00:00",
-   "url": "https://constellr.recruitee.com/o/project-and-procurement-manager-4",
+   "url": "https://constellr.recruitee.com/o/project-procurement-manager-1",
    "description_sha256": "374d8a9a216964e65957e309c90fa02e86c8030fe8895c351beee35436bcfd00"
   },
   {

@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-07-20T18:31:47+00:00",
- "job_count": 142,
+ "fetched_at": "2026-07-21T12:10:13+00:00",
+ "job_count": 143,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -232,7 +232,7 @@
    "is_remote": true,
    "published_at": "2026-06-02T08:05:25.484+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/1ffce4d4-4088-4336-9007-622dc10399fb",
-   "description_sha256": "b74dd552c06225649ab21d3f2a60c73ed0b692fd663f2982c7850c5e3948ee24"
+   "description_sha256": "2be8740c61899be97b4abf1bbdae517f86c0a0b43dec3da580523c0a82c9b732"
   },
   {
    "job_id": "2048d1e8-7667-466a-a72a-d754cbcb42f2",
@@ -920,6 +920,21 @@
    "published_at": "2026-06-18T06:27:04.087+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/7072cbcc-12a0-4ee5-a9ff-cbd6dd3d4764",
    "description_sha256": "174dd99b90633842f2698c05879afe186ad006bcd2c400d84360c9f550aec365"
+  },
+  {
+   "job_id": "70a60904-6a6a-4cc8-9427-f64f35046cae",
+   "lineage_key": "chief-of-staff-japan@tokyo",
+   "title": "Chief of Staff, Japan",
+   "department": "Missions",
+   "team": "Local Subsidiary, Japan",
+   "location": "Tokyo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-07-21T10:55:01.125+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/70a60904-6a6a-4cc8-9427-f64f35046cae",
+   "description_sha256": "835b63455de5f5ffe223395f9da1683f81d7e53e8b262be16cc68e913a84e040"
   },
   {
    "job_id": "70cdbf0b-0e31-4c03-a74f-5cb2d72dd857",
@@ -2019,8 +2034,8 @@
   },
   {
    "job_id": "e4d89d32-5bee-4090-8bd0-5634803b6d3f",
-   "lineage_key": "satellite-subsystem-test-automation-engineer@espoo",
-   "title": "Satellite Subsystem Test Automation Engineer",
+   "lineage_key": "smart-manufacturing-engineer-software@espoo",
+   "title": "Smart Manufacturing Engineer, Software",
    "department": "Global Manufacturing Organization",
    "team": "Digital Transformation & Smart Manufacturing",
    "location": "Espoo",
@@ -2030,7 +2045,7 @@
    "is_remote": true,
    "published_at": "2026-05-29T06:59:32.047+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e4d89d32-5bee-4090-8bd0-5634803b6d3f",
-   "description_sha256": "1bd01fd066c95b8f38f70c84a000ffe025ea1e8f98a65b46f617e917cf54709d"
+   "description_sha256": "6b6d3b01b83814ba591147effa8fd16d42ce8e2443513dc61c98a11a5426e6bd"
   },
   {
    "job_id": "ea6fcf8b-f800-4abb-a254-cb82596b5c98",

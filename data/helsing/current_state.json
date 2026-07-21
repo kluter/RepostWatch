@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-07-20T18:31:47+00:00",
- "job_count": 122,
+ "fetched_at": "2026-07-21T12:10:13+00:00",
+ "job_count": 121,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -528,21 +528,6 @@
    "is_remote": false,
    "published_at": "2026-02-26T05:51:23-05:00",
    "url": "https://helsing.ai/jobs/4788891101?gh_jid=4788891101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4790417101",
-   "lineage_key": "product-manager-ai-assurance-simulation@munich",
-   "title": "Product Manager - AI Assurance & Simulation",
-   "department": "Product Management",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-02-26T11:49:57-05:00",
-   "url": "https://helsing.ai/jobs/4790417101?gh_jid=4790417101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

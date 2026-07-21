@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-07-20T18:31:47+00:00",
- "job_count": 90,
+ "fetched_at": "2026-07-21T12:10:13+00:00",
+ "job_count": 91,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -757,8 +757,8 @@
   },
   {
    "job_id": "4851725101",
-   "lineage_key": "data-engineer-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Data Engineer (m/f/d)",
+   "lineage_key": "data-backend-software-engineer-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Data & Backend Software Engineer (m/f/d)",
    "department": "Ground Systems",
    "team": "",
    "location": "Ottobrunn, Bavaria, Germany",
@@ -1353,6 +1353,21 @@
    "is_remote": false,
    "published_at": "2026-07-20T03:32:25-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4931908101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4933280101",
+   "lineage_key": "intern-composite-manufacturing-engineering-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Intern, Composite Manufacturing Engineering (m/f/d)",
+   "department": "Spectrum",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-21T04:10:59-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4933280101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

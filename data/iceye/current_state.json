@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-07-21T12:10:13+00:00",
- "job_count": 143,
+ "fetched_at": "2026-07-21T17:57:19+00:00",
+ "job_count": 146,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -477,6 +477,21 @@
    "description_sha256": "b76f890341520c9ad8a509f41d0204e77d1c997ed64faba841b9dbd46c6019d5"
   },
   {
+   "job_id": "384d50b9-b40f-46bf-9939-9005a03ec272",
+   "lineage_key": "machinist@espoo",
+   "title": "Machinist",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-07-21T14:12:41.024+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/384d50b9-b40f-46bf-9939-9005a03ec272",
+   "description_sha256": "1d005d91cb221e4032bd58efdbf70f71141070a4db11305f75a6396580048e0a"
+  },
+  {
    "job_id": "38a65e7e-1063-4071-8aba-0184ab09f996",
    "lineage_key": "missions-sales-director-indonesia@indonesia",
    "title": "Missions Sales Director, Indonesia",
@@ -816,11 +831,11 @@
   },
   {
    "job_id": "688e6eed-057d-444e-afc2-de87f2d9ba2c",
-   "lineage_key": "stock-logistics-manager-athens@greece",
+   "lineage_key": "stock-logistics-manager-athens@athens",
    "title": "Stock & Logistics Manager - Athens",
    "department": "Global Manufacturing Organization",
    "team": "GR Stock Management",
-   "location": "Greece",
+   "location": "Athens",
    "secondary_locations": [],
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
@@ -1497,6 +1512,21 @@
    "description_sha256": "ddf11ba33f6cfb6944766f6814abe9eb1164fd82967c316f70a48958054487e1"
   },
   {
+   "job_id": "a6d0bba0-2219-4f01-8c79-f4d945de5af7",
+   "lineage_key": "electronics-engineer@valencia-spain",
+   "title": "Electronics Engineer",
+   "department": "Engineering",
+   "team": "SIGINT",
+   "location": "Valencia, Spain",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-07-21T12:14:33.756+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/a6d0bba0-2219-4f01-8c79-f4d945de5af7",
+   "description_sha256": "121c5ad26cdec87018cd525dd2b49d29a926de1afc3092ab1a234bc040c8e4a5"
+  },
+  {
    "job_id": "a6db612f-b49f-4be4-a4d4-7639649a1cf7",
    "lineage_key": "head-of-production-maite-finland@espoo",
    "title": "Head of Production, MAITE Finland",
@@ -1934,6 +1964,21 @@
    "published_at": "2026-07-01T07:39:44.482+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/d06fbee7-df97-49e4-90e5-1f9136482c56",
    "description_sha256": "9eb13bdb6750f9bda3e805e3deffa72806d0e863958da86e1f724fcc6085196d"
+  },
+  {
+   "job_id": "d2e387fd-dc80-4c66-b47b-5d3536a135c9",
+   "lineage_key": "manufacturing-engineer@valencia",
+   "title": "Manufacturing Engineer",
+   "department": "Engineering",
+   "team": "SIGINT",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-07-21T12:47:54.769+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/d2e387fd-dc80-4c66-b47b-5d3536a135c9",
+   "description_sha256": "1cc6907b3b5b4c65d3307fc82709e03ee95376f0509828836374d419de429e76"
   },
   {
    "job_id": "d2ea34a4-3f2a-47cb-b107-aefe4628532e",

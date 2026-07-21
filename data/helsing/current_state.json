@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-07-21T12:10:13+00:00",
- "job_count": 121,
+ "fetched_at": "2026-07-21T17:57:19+00:00",
+ "job_count": 119,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -846,6 +846,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4865991101",
+   "lineage_key": "technical-programme-manager-air@munich",
+   "title": "Technical Programme Manager - Air",
+   "department": "Campaigns & Programmes",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-05-15T07:48:23-04:00",
+   "url": "https://helsing.ai/jobs/4865991101?gh_jid=4865991101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4869481101",
    "lineage_key": "product-manager-electronic-warfare-offboard-cross-platform@munich",
    "title": "Product Manager — Electronic Warfare (Offboard & Cross-Platform)",
@@ -876,21 +891,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4871555101",
-   "lineage_key": "principal-sap-finance-data@munich",
-   "title": "Principal SAP Finance & Data",
-   "department": "Finance",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-20T06:12:10-04:00",
-   "url": "https://helsing.ai/jobs/4871555101?gh_jid=4871555101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4871604101",
    "lineage_key": "finance-data-engineer@munich",
    "title": "Finance Data Engineer",
@@ -918,21 +918,6 @@
    "is_remote": false,
    "published_at": "2026-05-20T06:09:54-04:00",
    "url": "https://helsing.ai/jobs/4871611101?gh_jid=4871611101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4871824101",
-   "lineage_key": "systems-engineer-requirements-manager-aviation@munich",
-   "title": "Systems Engineer (Requirements Manager), Aviation",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-22T04:37:11-04:00",
-   "url": "https://helsing.ai/jobs/4871824101?gh_jid=4871824101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1353,21 +1338,6 @@
    "is_remote": false,
    "published_at": "2026-07-07T10:58:40-04:00",
    "url": "https://helsing.ai/jobs/4897813101?gh_jid=4897813101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4898125101",
-   "lineage_key": "team-assistant@london",
-   "title": "Team Assistant",
-   "department": "Operations",
-   "team": "",
-   "location": "London",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-16T02:39:39-04:00",
-   "url": "https://helsing.ai/jobs/4898125101?gh_jid=4898125101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

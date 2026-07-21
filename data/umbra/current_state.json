@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-07-18T11:31:25+00:00",
- "job_count": 42,
+ "fetched_at": "2026-07-21T17:57:19+00:00",
+ "job_count": 45,
  "jobs": [
   {
    "job_id": "018AB5761D",
@@ -576,6 +576,36 @@
    "description_sha256": "7c8685186222c7505a27966e7af1ed693d4ee48c82b6ceb4df899b310005a6bc"
   },
   {
+   "job_id": "E548043C79",
+   "lineage_key": "senior-cryptographic-systems-engineer@reston-united-states",
+   "title": "Senior Cryptographic Systems Engineer",
+   "department": "Mission Solutions",
+   "team": "",
+   "location": "Reston, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-21T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/E548043C79",
+   "description_sha256": "bd03fa7d5dab0c29cb2079b55aec7abbfb093c426bc90770deb19544df754505"
+  },
+  {
+   "job_id": "E548043C79",
+   "lineage_key": "senior-cryptographic-systems-engineer@arlington-united-states",
+   "title": "Senior Cryptographic Systems Engineer",
+   "department": "Mission Solutions",
+   "team": "",
+   "location": "Arlington, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-21T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/E548043C79",
+   "description_sha256": "bd03fa7d5dab0c29cb2079b55aec7abbfb093c426bc90770deb19544df754505"
+  },
+  {
    "job_id": "E8CFDC747B",
    "lineage_key": "ground-systems-engineer-architect@reston-united-states",
    "title": "Ground Systems Engineer & Architect",
@@ -588,7 +618,22 @@
    "is_remote": false,
    "published_at": "2026-07-15T00:00:00+00:00",
    "url": "https://apply.workable.com/j/E8CFDC747B",
-   "description_sha256": "b62dbc2209392f8cecf20876a4f1eabdd9232e487745778721dd419cf03be7da"
+   "description_sha256": "d83e1079c2b43596a2c9cf0ef33cc322c329cec8cb950549df943cf69c1701ce"
+  },
+  {
+   "job_id": "E8CFDC747B",
+   "lineage_key": "ground-systems-engineer-architect@arlington-united-states",
+   "title": "Ground Systems Engineer & Architect",
+   "department": "Mission Solutions",
+   "team": "",
+   "location": "Arlington, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-15T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/E8CFDC747B",
+   "description_sha256": "d83e1079c2b43596a2c9cf0ef33cc322c329cec8cb950549df943cf69c1701ce"
   },
   {
    "job_id": "F0F2DD7F5D",

@@ -2,13 +2,13 @@
  "company": "constellr",
  "source": "recruitee",
  "board": "constellr",
- "fetched_at": "2026-07-21T12:10:13+00:00",
+ "fetched_at": "2026-07-21T17:57:19+00:00",
  "job_count": 8,
  "jobs": [
   {
    "job_id": "2614405",
    "lineage_key": "software-assurance-engineer-satellites@berlin-germany",
-   "title": "Software Assurance Engineer (Satellites)",
+   "title": "Software Assurance Engineer - Satellites",
    "department": "Program Mng",
    "team": "",
    "location": "Berlin, Germany",
@@ -68,7 +68,7 @@
   {
    "job_id": "2681827",
    "lineage_key": "senior-ait-technician-optical-payloads@munich-germany",
-   "title": "Senior AIT Technician (Optical Payloads)",
+   "title": "Senior AIT Technician - Optical Payloads",
    "department": "Satellite Tech",
    "team": "",
    "location": "Munich, Germany",
@@ -82,8 +82,8 @@
   },
   {
    "job_id": "2681828",
-   "lineage_key": "satellite-systems-engineer-with-adcs-background@munich-germany",
-   "title": "Satellite Systems Engineer (with ADCS Background)",
+   "lineage_key": "satellite-systems-engineer-adcs@munich-germany",
+   "title": "Satellite Systems Engineer - ADCS",
    "department": "Satellite Tech",
    "team": "",
    "location": "Munich, Germany",
@@ -92,8 +92,8 @@
    "workplace_type": "",
    "is_remote": false,
    "published_at": "2026-07-20T10:00:19+00:00",
-   "url": "https://constellr.recruitee.com/o/satellite-systems-engineer-with-adcs-background",
-   "description_sha256": "fe759766990457d8b60a5fe83178942c5c238c08a75a8e2dd5d8530e00b9f7f4"
+   "url": "https://constellr.recruitee.com/o/satellite-systems-engineer-adcs",
+   "description_sha256": "972d56ca8def2419ef20bc9a8297476433c9dbfa3e0832e23354725d9fd14e88"
   },
   {
    "job_id": "2681830",
@@ -112,8 +112,8 @@
   },
   {
    "job_id": "2682754",
-   "lineage_key": "satellite-systems-engineer-with-electrical-background@munich-germany",
-   "title": "Satellite Systems Engineer (with Electrical Background)",
+   "lineage_key": "satellite-systems-engineer-electrical@munich-germany",
+   "title": "Satellite Systems Engineer - Electrical",
    "department": "Satellite Tech",
    "team": "",
    "location": "Munich, Germany",
@@ -122,7 +122,7 @@
    "workplace_type": "",
    "is_remote": false,
    "published_at": "2026-07-20T09:39:46+00:00",
-   "url": "https://constellr.recruitee.com/o/satellite-systems-engineer-with-electrical-background-1",
+   "url": "https://constellr.recruitee.com/o/satellite-systems-engineer-electrical",
    "description_sha256": "5398537d35c00c798b3a8fbc28899100374125298fdcbf5824489a4b37baf2c2"
   }
  ]

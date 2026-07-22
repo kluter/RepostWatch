@@ -2,8 +2,8 @@
  "company": "liveeo",
  "source": "personio",
  "board": "liveeo-gmbh",
- "fetched_at": "2026-07-17T11:54:25+00:00",
- "job_count": 13,
+ "fetched_at": "2026-07-22T17:52:02+00:00",
+ "job_count": 12,
  "jobs": [
   {
    "job_id": "2006503",
@@ -93,21 +93,6 @@
    "is_remote": true,
    "published_at": "2026-04-22T14:33:39+00:00",
    "url": "https://liveeo-gmbh.jobs.personio.de/job/2610152",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "2612585",
-   "lineage_key": "senior-institutional-business-development-manager-f-m-x-government-program-eu@belgium",
-   "title": "Senior Institutional Business Development Manager (f/m/x) - Government Program (EU)",
-   "department": "Governmental Sales",
-   "team": "",
-   "location": "Belgium",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-04-24T09:15:07+00:00",
-   "url": "https://liveeo-gmbh.jobs.personio.de/job/2612585",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

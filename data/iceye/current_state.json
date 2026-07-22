@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-07-22T12:13:27+00:00",
+ "fetched_at": "2026-07-22T17:52:02+00:00",
  "job_count": 148,
  "jobs": [
   {
@@ -1375,21 +1375,6 @@
    "description_sha256": "4d72669975344a8c3da36a8cb6e4d9173510bdd911cb6bedb6b9294717f31a54"
   },
   {
-   "job_id": "957356a9-acdf-4504-a1a8-f57c1e98ffcf",
-   "lineage_key": "satellite-production-technician-systems-and-software@espoo",
-   "title": "Satellite Production Technician, Systems and Software",
-   "department": "Global Manufacturing Organization",
-   "team": "FI Satellite Production Systems and Software",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-06-04T15:10:16.912+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/957356a9-acdf-4504-a1a8-f57c1e98ffcf",
-   "description_sha256": "ff1ef95f4bfe0febe4fef58090c49a2ded8aa0f54900bcde3e9462441d037414"
-  },
-  {
    "job_id": "9649c999-70dc-4620-9487-e664767fa88d",
    "lineage_key": "satellite-production-senior-technician-rf-systems-software@valencia",
    "title": "Satellite Production Senior Technician, RF, Systems & Software",
@@ -1450,6 +1435,21 @@
    "published_at": "2026-05-05T06:59:43.638+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/97431c12-691a-41f4-b7cd-1a6896f43fbd",
    "description_sha256": "6eb3928b53dcb777b2f3c3f6d72f49fbd1a38d0bb6bab3bf0bbed0fa1a7d4b1b"
+  },
+  {
+   "job_id": "975d1e9a-19e1-442e-8384-69c6dc8ab9a8",
+   "lineage_key": "security-officer-classified-information-greece@athens",
+   "title": "Security Officer - Classified Information (Greece)",
+   "department": "Missions",
+   "team": "Local Subsidiary, Greece",
+   "location": "Athens",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-07-22T17:32:35.832+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/975d1e9a-19e1-442e-8384-69c6dc8ab9a8",
+   "description_sha256": "55f6720f34127cfc47110e10026098a982b6a41a1bcd160eaec78c390c39e945"
   },
   {
    "job_id": "97cfd417-d59b-41f6-b06a-b6a8defa4054",

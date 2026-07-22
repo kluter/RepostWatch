@@ -363,6 +363,12 @@
    "lat": 48.8534951,
    "lon": 2.3483915,
    "label": "Paris"
+  },
+  "south korea, remote": {
+   "lat": 36.638392,
+   "lon": 127.6961188,
+   "label": "South Korea",
+   "remote": true
   }
  }
 }

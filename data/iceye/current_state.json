@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-07-21T17:57:19+00:00",
- "job_count": 146,
+ "fetched_at": "2026-07-22T12:13:27+00:00",
+ "job_count": 148,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -505,6 +505,21 @@
    "published_at": "2026-06-26T07:51:36.367+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/38a65e7e-1063-4071-8aba-0184ab09f996",
    "description_sha256": "fafc3a6e62a2bb9859663f45728f621926f92c7f9c52a381d64216ddf4a975d4"
+  },
+  {
+   "job_id": "3e47e1ff-b441-40cd-894b-b0e8df3a90d8",
+   "lineage_key": "management-assistant@new-dehli",
+   "title": "Management Assistant",
+   "department": "Missions",
+   "team": "Local Subsidiaries",
+   "location": "New Dehli",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-22T11:41:03.762+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/3e47e1ff-b441-40cd-894b-b0e8df3a90d8",
+   "description_sha256": "9208e1d3ef66de4d820f418144cee6221416146dd3f0b0484429a406e8b52d09"
   },
   {
    "job_id": "3eb0f7b1-ab19-4d41-b633-dfeea0990086",
@@ -1754,6 +1769,21 @@
    "published_at": "2026-06-18T15:26:34.304+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/c40aa252-a920-4809-8a35-3e7baf59fb11",
    "description_sha256": "dac61c3b6289b9e1802c79d20e3d1129d6bd729d915e6daa23a59ae8bf777102"
+  },
+  {
+   "job_id": "c4e73cc7-2fb0-4cc9-a335-f41a3eb70073",
+   "lineage_key": "senior-thermal-system-engineer@espoo",
+   "title": "Senior Thermal System Engineer",
+   "department": "Engineering",
+   "team": "Thermal",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-07-22T08:19:58.786+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/c4e73cc7-2fb0-4cc9-a335-f41a3eb70073",
+   "description_sha256": "fec233350dfa61dfb8dff068e909537b84f83d6866c51f4e9ad1ca858c099289"
   },
   {
    "job_id": "c51065ca-6ecb-4ce9-9dcb-d48b397dabdd",

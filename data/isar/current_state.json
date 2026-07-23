@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-07-23T12:11:33+00:00",
- "job_count": 94,
+ "fetched_at": "2026-07-23T17:59:28+00:00",
+ "job_count": 95,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -1312,8 +1312,8 @@
   },
   {
    "job_id": "4930992101",
-   "lineage_key": "summer-intern-logistic-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Summer Intern Logistic (m/f/d)",
+   "lineage_key": "summer-job-logistic-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Summer Job Logistic (m/f/d)",
    "department": "Production",
    "team": "",
    "location": "Ottobrunn, Bavaria, Germany",
@@ -1413,6 +1413,21 @@
    "is_remote": false,
    "published_at": "2026-07-22T04:14:37-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4934396101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4936418101",
+   "lineage_key": "senior-program-manager-launch-services-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Senior Program Manager Launch Services (m/f/d)",
+   "department": "Mission & Launch Operations",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-23T11:40:04-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4936418101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

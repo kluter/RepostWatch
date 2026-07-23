@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-07-23T12:11:33+00:00",
- "job_count": 146,
+ "fetched_at": "2026-07-23T17:59:28+00:00",
+ "job_count": 148,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -550,6 +550,21 @@
    "published_at": "2026-07-18T14:35:33.941+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/42ec11f9-2c5a-417d-aca7-1ff6740dea7d",
    "description_sha256": "228dcc7a57021cd50c91ef7c7bd31ddba0c98dc9994366ad4ceec9e52bbb423b"
+  },
+  {
+   "job_id": "431b37e8-c369-4cb9-9993-a2fdfe46c249",
+   "lineage_key": "senior-thermal-system-engineer@valencia",
+   "title": "Senior Thermal System Engineer",
+   "department": "Engineering",
+   "team": "SIGINT",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-07-23T14:38:56.793+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/431b37e8-c369-4cb9-9993-a2fdfe46c249",
+   "description_sha256": "6ae216615133c0def147ec991ff7d14b881636a0a837e1aad9de8d294e31af75"
   },
   {
    "job_id": "431baaab-347b-485b-a52a-67d18dcbc2be",
@@ -1208,6 +1223,21 @@
    "published_at": "2026-07-06T14:58:13.935+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/855f4bf7-1b9a-4fd9-bff5-d850a487eabb",
    "description_sha256": "2839d703514c434aa5b24dbc5197fad3ceaf99366056f706d0ab8d7489d0f6f4"
+  },
+  {
+   "job_id": "87472167-0929-46d4-9d75-075fba6907b8",
+   "lineage_key": "staff-mechanical-engineer@valencia-spain",
+   "title": "Staff Mechanical Engineer",
+   "department": "Engineering",
+   "team": "SIGINT",
+   "location": "Valencia, Spain",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-07-23T12:22:01.311+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/87472167-0929-46d4-9d75-075fba6907b8",
+   "description_sha256": "ebb79dc4a50fc336327fcfc1011d88bf8bf38662ee2e18ab2f06d7b06366203e"
   },
   {
    "job_id": "879b620d-c9c0-4d71-b642-814fc3996688",

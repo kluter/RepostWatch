@@ -374,6 +374,11 @@
    "lat": 49.8158683,
    "lon": 6.1296751,
    "label": "Lëtzebuerg"
+  },
+  "washington, d.c.": {
+   "lat": 38.8950982,
+   "lon": -77.0363849,
+   "label": "Washington"
   }
  }
 }

@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-07-22T17:52:02+00:00",
- "job_count": 80,
+ "fetched_at": "2026-07-23T12:11:33+00:00",
+ "job_count": 79,
  "jobs": [
   {
    "job_id": "7374533",
@@ -648,21 +648,6 @@
    "is_remote": true,
    "published_at": "2026-06-22T16:30:32-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7967527",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7967531",
-   "lineage_key": "electrical-engineer-power@san-francisco-ca",
-   "title": "Electrical Engineer (Power)",
-   "department": "RF, Comms & Electrical Engineering",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-16T14:57:17-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7967531",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

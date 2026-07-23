@@ -369,6 +369,11 @@
    "lon": 127.6961188,
    "label": "South Korea",
    "remote": true
+  },
+  "luxembourg": {
+   "lat": 49.8158683,
+   "lon": 6.1296751,
+   "label": "Lëtzebuerg"
   }
  }
 }

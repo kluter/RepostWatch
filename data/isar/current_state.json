@@ -2,7 +2,7 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-07-22T17:52:02+00:00",
+ "fetched_at": "2026-07-23T12:11:33+00:00",
  "job_count": 94,
  "jobs": [
   {
@@ -398,7 +398,7 @@
   {
    "job_id": "4756747101",
    "lineage_key": "senior-project-manager-ground-systems-m-f-d@ottobrunn-bavaria-germany",
-   "title": "(Senior) Project Manager - Ground Systems (m/f/d)",
+   "title": "Senior Project Manager - Ground Systems (m/f/d)",
    "department": "Ground Systems",
    "team": "",
    "location": "Ottobrunn, Bavaria, Germany",

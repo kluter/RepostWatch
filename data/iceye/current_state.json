@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-07-22T17:52:02+00:00",
- "job_count": 148,
+ "fetched_at": "2026-07-23T12:11:33+00:00",
+ "job_count": 146,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -780,11 +780,11 @@
   },
   {
    "job_id": "5d8393c0-ab67-4a3b-b39f-3a183a4665fb",
-   "lineage_key": "cleanroom-lab-manager-athens@greece",
+   "lineage_key": "cleanroom-lab-manager-athens@athens",
    "title": "Cleanroom & Lab Manager - Athens",
    "department": "Global Manufacturing Organization",
-   "team": "Production Greece",
-   "location": "Greece",
+   "team": "GR Satellite Production",
+   "location": "Athens",
    "secondary_locations": [],
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
@@ -983,21 +983,6 @@
    "published_at": "2026-06-15T13:53:58.265+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/70cdbf0b-0e31-4c03-a74f-5cb2d72dd857",
    "description_sha256": "8d87bf129f1c7f08457096e2b220c2e4411569de6b04df2afd4425c77a87b9ee"
-  },
-  {
-   "job_id": "72390ec6-b528-445e-b37f-18a61378aaf2",
-   "lineage_key": "it-site-engineer-japan@tokyo",
-   "title": "IT Site Engineer - Japan",
-   "department": "Operations",
-   "team": "IT Service & Operations",
-   "location": "Tokyo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-04-09T09:19:36.211+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/72390ec6-b528-445e-b37f-18a61378aaf2",
-   "description_sha256": "2facf6b8d140170c7a5d7e7475ee68ca91401296623e607c6d0d4f910b4292b3"
   },
   {
    "job_id": "728ba3dc-5ab4-4f86-b7cc-5bd24c37f2d4",
@@ -1282,7 +1267,7 @@
    "is_remote": true,
    "published_at": "2026-07-20T12:36:25.864+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/8cd31dcc-0c3e-4966-b49c-2343840f1268",
-   "description_sha256": "3123588c21de39ca0a39f63870e4902e86096b76e683ffa9d5a3522c88791fde"
+   "description_sha256": "91a65c28bdf13abb971e32fa51603bd5d06215433143a80ab321912a49c18080"
   },
   {
    "job_id": "8f1aaed7-9418-49f5-9dcf-c71359b0bc8e",
@@ -1528,8 +1513,8 @@
   },
   {
    "job_id": "a6d0bba0-2219-4f01-8c79-f4d945de5af7",
-   "lineage_key": "electronics-engineer@valencia-spain",
-   "title": "Electronics Engineer",
+   "lineage_key": "senior-electronics-engineer@valencia-spain",
+   "title": "Senior Electronics Engineer",
    "department": "Engineering",
    "team": "SIGINT",
    "location": "Valencia, Spain",
@@ -1555,21 +1540,6 @@
    "published_at": "2026-06-12T15:44:42.371+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/a6db612f-b49f-4be4-a4d4-7639649a1cf7",
    "description_sha256": "ce179b3e7df509f9c69b60e0f4779d874d5e5fde7dd5955e550832190aedff48"
-  },
-  {
-   "job_id": "a878fefb-6160-427a-b74f-8300ec76d77b",
-   "lineage_key": "it-engineer@espoo",
-   "title": "IT Engineer",
-   "department": "Operations",
-   "team": "IT",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-05-13T12:00:00.636+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/a878fefb-6160-427a-b74f-8300ec76d77b",
-   "description_sha256": "9b9295572ff25a6f9d06eaf14f0781e97bbf78d957fa08686084b5b863a3d57b"
   },
   {
    "job_id": "aabf95c8-9cc7-4de2-95e1-89ff3ca605b9",

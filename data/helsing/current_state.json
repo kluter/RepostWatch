@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-07-23T12:11:33+00:00",
- "job_count": 121,
+ "fetched_at": "2026-07-24T12:03:53+00:00",
+ "job_count": 122,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -1173,6 +1173,21 @@
    "is_remote": false,
    "published_at": "2026-06-02T04:23:53-04:00",
    "url": "https://helsing.ai/jobs/4880212101?gh_jid=4880212101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4880330101",
+   "lineage_key": "senior-project-manager@munich",
+   "title": "Senior Project Manager",
+   "department": "Campaigns & Programmes",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-06-02T05:12:36-04:00",
+   "url": "https://helsing.ai/jobs/4880330101?gh_jid=4880330101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

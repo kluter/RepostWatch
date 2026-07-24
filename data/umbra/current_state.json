@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-07-23T17:59:28+00:00",
- "job_count": 46,
+ "fetched_at": "2026-07-24T12:03:53+00:00",
+ "job_count": 47,
  "jobs": [
   {
    "job_id": "018AB5761D",
@@ -246,21 +246,6 @@
    "description_sha256": "83cc9cc4acf3c5da6960080a6cd8d19223847c2028bb605380cb7752bcc6e905"
   },
   {
-   "job_id": "5C1A12B72B",
-   "lineage_key": "ground-software-engineer@reston-united-states",
-   "title": "Ground Software Engineer",
-   "department": "Mission Solutions",
-   "team": "",
-   "location": "Reston, United States",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-23T00:00:00+00:00",
-   "url": "https://apply.workable.com/j/5C1A12B72B",
-   "description_sha256": "fc497dfa4f73737e9f4c9546ac88d193113dbff4267c4acb82c53a98cf3d5238"
-  },
-  {
    "job_id": "63E33F2615",
    "lineage_key": "senior-radar-systems-engineer@santa-barbara-united-states",
    "title": "Senior Radar Systems Engineer",
@@ -409,6 +394,36 @@
    "published_at": "2026-07-14T00:00:00+00:00",
    "url": "https://apply.workable.com/j/A08B6F29D1",
    "description_sha256": "a9595a9c39ce29f5ac480ebf67d1c55638a8a923cb85c0c26a84dfd05ae95e5a"
+  },
+  {
+   "job_id": "A6F8E3AB69",
+   "lineage_key": "program-manager@arlington-united-states",
+   "title": "Program Manager",
+   "department": "Mission Solutions",
+   "team": "",
+   "location": "Arlington, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-23T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/A6F8E3AB69",
+   "description_sha256": "b2ca6f2cc3504b1b6db3a03b3e764b9eb1b3769104ec180cc4f8d3b4102d4a5e"
+  },
+  {
+   "job_id": "A6F8E3AB69",
+   "lineage_key": "program-manager@reston-united-states",
+   "title": "Program Manager",
+   "department": "Mission Solutions",
+   "team": "",
+   "location": "Reston, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-23T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/A6F8E3AB69",
+   "description_sha256": "b2ca6f2cc3504b1b6db3a03b3e764b9eb1b3769104ec180cc4f8d3b4102d4a5e"
   },
   {
    "job_id": "AFAC52DD12",

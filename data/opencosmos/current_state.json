@@ -2,8 +2,8 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-07-17T11:54:25+00:00",
- "job_count": 65,
+ "fetched_at": "2026-07-24T12:03:53+00:00",
+ "job_count": 60,
  "jobs": [
   {
    "job_id": "063679a7-77f0-4e6d-8296-bcff69f4ec4f",
@@ -96,6 +96,21 @@
    "description_sha256": "bd12ca5413c99340549b0b984be77803c7a578ea3e4f5445b49076cb84f11a07"
   },
   {
+   "job_id": "144c4c5d-e0bf-4af2-a9b6-df7f9807ebb2",
+   "lineage_key": "satellite-payload-processing-engineer@harwell-uk",
+   "title": "Satellite Payload Processing Engineer",
+   "department": "DATA",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-07-24T09:39:40+01:00",
+   "url": "https://careers.open-cosmos.com/jobs/8123131-satellite-payload-processing-engineer",
+   "description_sha256": "c31209ece250ee8c5c0cf0b27f28073d60aae60439e010c514869f6c7d2c247c"
+  },
+  {
    "job_id": "182c7f46-3faa-40d3-8677-cdeb63b94214",
    "lineage_key": "automation-engineer@harwell-uk",
    "title": "Automation Engineer",
@@ -169,21 +184,6 @@
    "published_at": "2026-05-06T16:52:13+01:00",
    "url": "https://careers.open-cosmos.com/jobs/7693838-senior-access-layer-engineer",
    "description_sha256": "50c707a65653a72fe3933befcd4592242f86f6a3f12f4c0de171cf02160a69aa"
-  },
-  {
-   "job_id": "34c00e32-bda7-461e-b474-30bd12bf1930",
-   "lineage_key": "bid-manager@harwell-uk",
-   "title": "Bid Manager",
-   "department": "GROWTH",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2025-11-20T14:24:58+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/6815827-bid-manager",
-   "description_sha256": "e18ed03e896a26da9dde9b392db2003f9fdf635b8f8a225a646f732c0655abdc"
   },
   {
    "job_id": "365a70d4-f2e3-424c-ab30-9f47334b16b2",
@@ -304,21 +304,6 @@
    "published_at": "2026-04-15T09:30:10+01:00",
    "url": "https://careers.open-cosmos.com/jobs/7570517-customer-support-specialist-datacosmos",
    "description_sha256": "ad553f91836c22d36c7fdccfa15368d1bd88c147cca9b081b4d2756c85c6013e"
-  },
-  {
-   "job_id": "582c9ea9-b373-4bb6-869a-fa2e1f21a182",
-   "lineage_key": "quality-product-assurance-qpa-intern-spain@barcelona-spain",
-   "title": "Quality & Product Assurance (QPA) Intern - Spain",
-   "department": "QUALITY & PRODUCT ASSURANCE",
-   "team": "",
-   "location": "Barcelona, Spain",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2025-12-17T06:25:07+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/6943939-quality-product-assurance-qpa-intern-spain",
-   "description_sha256": "5fe783450057ac94d181405fa28f896205f7f669af63c30080c5771dcd90b12b"
   },
   {
    "job_id": "5c046be8-6bdd-41aa-9d14-c1dfe5563ede",
@@ -501,21 +486,6 @@
    "description_sha256": "fb202830cc392b20194ebada2636211a99df5a12ad06e7d8351cbe2962680c85"
   },
   {
-   "job_id": "903229c9-324a-4511-9cfc-34b74958949e",
-   "lineage_key": "inventory-logistics-coordinator-harwell-oxfordshire@harwell-uk",
-   "title": "Inventory & Logistics Coordinator (Harwell, Oxfordshire)",
-   "department": "PROCUREMENT & SUPPLY CHAIN",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-02-14T18:04:31+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/7231083-inventory-logistics-coordinator-harwell-oxfordshire",
-   "description_sha256": "ac8d808cae80f77bd879742816195f80ea9c16dce5cdbb1ae762b5a0ca72bebe"
-  },
-  {
    "job_id": "94c0b48d-e75c-4bab-add2-6dd1de81d473",
    "lineage_key": "senior-react-frontend-developer-data@harwell-uk",
    "title": "Senior React Frontend Developer (Data)",
@@ -591,21 +561,6 @@
    "description_sha256": "cc9d138b1089cd3cec9ac8d362a29b99c05880039193ac9f58e9f412b9c6fc70"
   },
   {
-   "job_id": "a003f78f-3f8d-486a-bf02-06df97efbd62",
-   "lineage_key": "product-procurement-specialist-launch-specialism@harwell-uk",
-   "title": "Product Procurement Specialist (Launch specialism)",
-   "department": "PROCUREMENT & SUPPLY CHAIN",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-02-14T20:44:54+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/7231117-product-procurement-specialist-launch-specialism",
-   "description_sha256": "7b1e999c4fd5c0ded90e04d698f16e699893f7f2e9ee0dad3b3c40c9a02514ca"
-  },
-  {
    "job_id": "a4b3535d-381c-4c5b-80a7-05b6616e8e31",
    "lineage_key": "data-customer-success-manager@athens-greece",
    "title": "Data Customer Success Manager",
@@ -634,21 +589,6 @@
    "published_at": "2025-12-16T07:23:43+00:00",
    "url": "https://careers.open-cosmos.com/jobs/6934774-senior-flight-software-engineer",
    "description_sha256": "c51b612ac06f5b33aaddac784c996228ed1d6c7aa693194efabc8b85e3c040ba"
-  },
-  {
-   "job_id": "aaf9b135-48c3-4b26-832a-153209a5e763",
-   "lineage_key": "senior-frontend-engineer-ground-segment@harwell-uk",
-   "title": "Senior Frontend Engineer (Ground Segment)",
-   "department": "GROUND SEGMENT",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2025-09-25T19:11:42+01:00",
-   "url": "https://careers.open-cosmos.com/jobs/6514932-senior-frontend-engineer-ground-segment",
-   "description_sha256": "ad740300da44fad10c24c113c974fee0995c0347bf6a4fff2677da60ee841368"
   },
   {
    "job_id": "b00ff0b2-2321-4d39-99b4-1d8f18732401",
@@ -889,21 +829,6 @@
    "published_at": "2026-04-28T09:07:34+01:00",
    "url": "https://careers.open-cosmos.com/jobs/7647342-site-reliability-engineer-datacosmos",
    "description_sha256": "d0737b646df47917f5252fdc4e007c701b802d31126491534a8cdaeaa5c3b495"
-  },
-  {
-   "job_id": "e77ade83-bb67-48d9-a99c-b2c231dab0d5",
-   "lineage_key": "facilities-manager-harwell-campus@harwell-uk",
-   "title": "Facilities Manager, Harwell Campus",
-   "department": "OPERATIONS",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-03-12T12:51:25+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/7375841-facilities-manager-harwell-campus",
-   "description_sha256": "f5320c5f88b64e135bca40e7ce64217560b1733b9ccbe540a058bba93cca1c5e"
   },
   {
    "job_id": "e8b4ee21-37b7-4946-b29b-f35d985cddb5",

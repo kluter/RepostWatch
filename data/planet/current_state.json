@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-07-23T17:59:28+00:00",
- "job_count": 79,
+ "fetched_at": "2026-07-24T12:03:53+00:00",
+ "job_count": 80,
  "jobs": [
   {
    "job_id": "7374533",
@@ -243,6 +243,21 @@
    "is_remote": true,
    "published_at": "2026-02-19T16:21:00-05:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7622544",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "7644560",
+   "lineage_key": "senior-camera-systems-engineer@san-francisco-ca",
+   "title": "Senior Camera Systems Engineer",
+   "department": "Spacecraft Systems Engineering",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-03-16T17:23:11-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7644560",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

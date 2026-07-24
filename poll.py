@@ -28,6 +28,10 @@ GEOCACHE_PATH = DATA_DIR / "geocache.json"
 
 # A close followed by a matching reappearance within this window counts as a republish.
 REPUBLISH_WINDOW_DAYS = 60
+# A newly-seen id whose posting is already older than this is treated as a relisting, not a
+# fresh open: no genuinely new role shows up in a feed with a weeks-old publish date. Catches
+# reposts we couldn't witness the close of (e.g. the role was down before tracking began).
+STALE_APPEARANCE_DAYS = 45
 
 USER_AGENT = "RepostWatch (public ATS metadata poller; github.com/kluter/RepostWatch)"
 
@@ -352,9 +356,16 @@ def diff_events(company, source, prev_jobs, cur_jobs, recent_closes, now) -> lis
     for jid, job in cur_by_id.items():
         if jid not in prev_by_id:
             closed_at = recent_closes.get(lineage_key(job))
+            pub = parse_ts(job.get("published_at"))
             if closed_at is not None and now - closed_at <= timedelta(days=REPUBLISH_WINDOW_DAYS):
+                # we watched this exact role leave the feed and reappear under a new id
                 events.append(make_event("republished", company, source, job, now_iso,
                                          mechanism="new_job_id"))
+            elif pub is not None and now - pub > timedelta(days=STALE_APPEARANCE_DAYS):
+                # a "new" id whose posting predates its appearance by weeks: a relisting of an
+                # old role we never witnessed close (often taken down before tracking began)
+                events.append(make_event("republished", company, source, job, now_iso,
+                                         mechanism="aged_relist"))
             else:
                 events.append(make_event("opened", company, source, job, now_iso))
         else:

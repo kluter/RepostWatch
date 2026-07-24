@@ -112,7 +112,7 @@
             // a published_at bump keeps the same listing, so it's net zero.
             const d = ev.type === "closed" ? -1
                 : (ev.type === "opened" || ev.type === "initialized") ? 1
-                : (ev.type === "republished" && ev.mechanism === "new_job_id") ? 1 : 0;
+                : (ev.type === "republished" && (ev.mechanism === "new_job_id" || ev.mechanism === "aged_relist")) ? 1 : 0;
             if (d) deltaByDay.set(day, (deltaByDay.get(day) || 0) + d);
         }
         let acc = 0;

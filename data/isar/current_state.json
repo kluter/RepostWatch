@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-07-24T12:03:53+00:00",
- "job_count": 94,
+ "fetched_at": "2026-07-24T18:04:28+00:00",
+ "job_count": 95,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -142,8 +142,8 @@
   },
   {
    "job_id": "4695891101",
-   "lineage_key": "launcher-assembly-technician-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Launcher Assembly Technician (m/f/d)",
+   "lineage_key": "avionics-technician-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Avionics Technician (m/f/d)",
    "department": "Spectrum AIT",
    "team": "",
    "location": "Ottobrunn, Bavaria, Germany",
@@ -1413,6 +1413,21 @@
    "is_remote": false,
    "published_at": "2026-07-23T11:40:04-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4936418101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4937173101",
+   "lineage_key": "working-student-propulsion-m-w-f@ottobrunn-bavaria-germany",
+   "title": "Working Student Propulsion (m/w/f)",
+   "department": "Propulsion",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-24T09:34:51-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4937173101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

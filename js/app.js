@@ -37,12 +37,10 @@
     let cache = {};        // slug -> {state, events}
     let geocache = { locations: {} };
     let mapInstance = null;
-    let logExpanded = false;
     let logQuery = "";
     let logSev = new Set();   // active severity filters (empty = show all)
-    let logPage = 0;          // current page when expanded
-    const LOG_PAGE_SIZE = 50;
-    const LOG_COLLAPSED = 10;
+    let logPage = 0;          // current page in the event log
+    const LOG_PAGE_SIZE = 10;
     let closedQuery = "";
     let closedPage = 0;
     let closedSev = new Set();
@@ -469,7 +467,6 @@
                 || (ev.location || "").toLowerCase().includes(q)
                 || (ev.type || "").toLowerCase().includes(q);
         };
-        const toggleLog = () => { logExpanded = !logExpanded; logPage = 0; refreshLog(); };
         const onSort = i => {
             if (logSort.col === i) logSort.dir *= -1;
             else logSort = { col: i, dir: LOG_COLS[i].defDir };
@@ -494,46 +491,33 @@
             const total = decorated.length;
             const ds = defaultSort();
             const filtering = logQuery.trim() || logSev.size;
-            const modified = logExpanded || filtering || logSort.col !== ds.col || logSort.dir !== ds.dir;
+            const modified = filtering || logSort.col !== ds.col || logSort.dir !== ds.dir;
 
-            let shown, pages = 1;
-            if (!logExpanded) {
-                shown = decorated.slice(0, LOG_COLLAPSED);
-            } else {
-                pages = Math.max(1, Math.ceil(total / LOG_PAGE_SIZE));
-                logPage = Math.min(Math.max(logPage, 0), pages - 1);
-                shown = decorated.slice(logPage * LOG_PAGE_SIZE, logPage * LOG_PAGE_SIZE + LOG_PAGE_SIZE);
-            }
+            const pages = Math.max(1, Math.ceil(total / LOG_PAGE_SIZE));
+            logPage = Math.min(Math.max(logPage, 0), pages - 1);
+            const shown = decorated.slice(logPage * LOG_PAGE_SIZE, logPage * LOG_PAGE_SIZE + LOG_PAGE_SIZE);
             logBody.replaceChildren(logTable(shown, onSort));
 
             logControls.replaceChildren(...[
-                total > LOG_COLLAPSED ? h("button", { class: "mini-btn", onclick: toggleLog },
-                    logExpanded ? "Collapse" : `Show all ${total}${filtering ? " matches" : " events"}`) : null,
                 modified ? h("button", {
                     class: "mini-btn",
-                    onclick: () => { logExpanded = false; logQuery = ""; logSev = new Set(); logPage = 0; logSort = defaultSort(); route(); },
+                    onclick: () => { logQuery = ""; logSev = new Set(); logPage = 0; logSort = defaultSort(); route(); },
                 }, "Reset") : null,
             ].filter(Boolean));
 
-            // bottom: pager when expanded across multiple pages, else a Collapse button
-            if (logExpanded && pages > 1) {
-                const from = logPage * LOG_PAGE_SIZE + 1, to = Math.min(total, (logPage + 1) * LOG_PAGE_SIZE);
-                bottomWrap.replaceChildren(h("div", { class: "log-pager" },
-                    h("button", { class: "mini-btn", disabled: logPage === 0,
-                        onclick: () => { logPage--; refreshLog(); } }, "‹ Prev"),
-                    h("span", { class: "log-pageinfo" }, `${from}–${to} of ${total} · page ${logPage + 1}/${pages}`),
-                    h("button", { class: "mini-btn", disabled: logPage >= pages - 1,
-                        onclick: () => { logPage++; refreshLog(); } }, "Next ›"),
-                    h("button", { class: "mini-btn", onclick: toggleLog }, "Collapse")));
-            } else {
-                bottomWrap.replaceChildren(...(logExpanded
-                    ? [h("button", { id: "log-toggle", onclick: toggleLog }, "Collapse")] : []));
-            }
+            // bottom: Prev/Next pager, matching Closed roles (shown when more than one page)
+            bottomWrap.replaceChildren(...(pages > 1 ? [h("div", { class: "log-pager" },
+                h("button", { class: "mini-btn", disabled: logPage === 0,
+                    onclick: () => { logPage--; refreshLog(); } }, "‹ Prev"),
+                h("span", { class: "log-pageinfo" },
+                    `${logPage * LOG_PAGE_SIZE + 1}–${Math.min(total, (logPage + 1) * LOG_PAGE_SIZE)} of ${total}`),
+                h("button", { class: "mini-btn", disabled: logPage >= pages - 1,
+                    onclick: () => { logPage++; refreshLog(); } }, "Next ›"))] : []));
         }
         const searchInput = h("input", {
             class: "log-search", type: "search", placeholder: "Filter by title…",
             value: logQuery, "aria-label": "Filter event log",
-            oninput: e => { logQuery = e.target.value; logExpanded = false; logPage = 0; refreshLog(); },
+            oninput: e => { logQuery = e.target.value; logPage = 0; refreshLog(); },
         });
         refreshLog();
         const logSection = h("section", {},
@@ -545,7 +529,7 @@
                         logControls),
                     logBody),
                 logLegend),
-            bottomWrap);   // pager/collapse below the grid, so the legend stops at the last row
+            bottomWrap);   // pager below the grid, so the legend stops at the last row
 
         // --- closed roles --- (searchable, paginated log of jobs that left the feed)
         const closedAll = events.filter(e => e.type === "closed")
@@ -902,7 +886,7 @@
         geocache = geo;
         initSwitcher();
         addEventListener("hashchange", () => {
-            logExpanded = false; logQuery = ""; logSev = new Set(); logPage = 0; logSort = defaultSort();
+            logQuery = ""; logSev = new Set(); logPage = 0; logSort = defaultSort();
             closedQuery = ""; closedPage = 0; closedSev = new Set();
             route();
         });

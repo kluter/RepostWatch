@@ -46,7 +46,7 @@
     let closedQuery = "";
     let closedPage = 0;
     let closedSev = new Set();
-    const CLOSED_PAGE_SIZE = 25;
+    const CLOSED_PAGE_SIZE = 10;
     const defaultSort = () => ({ col: 5, dir: -1 });   // 5 = Published, newest first
     let logSort = defaultSort();
     const cap = s => s ? s[0].toUpperCase() + s.slice(1) : s;

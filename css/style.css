@@ -388,7 +388,29 @@ section h2 {
 /* event log: fixed column widths so sorting never reshuffles the layout */
 .log-table { table-layout: fixed; min-width: 760px; }
 .log-table th, .log-table td { overflow: hidden; text-overflow: ellipsis; }
-.log-table td.wrap { white-space: normal; overflow-wrap: break-word; min-width: 0; }
+/* single-line rows of a fixed height: every page is the same height, so the Prev/Next
+   pager never moves and there is no scrollbar. Long titles truncate with an ellipsis
+   (full text on hover). Height (32px) clears the ~30px severity/type chips. */
+.log-table td.wrap { white-space: nowrap; min-width: 0; }
+.log-table tbody td { height: 32px; }
+
+/* per-listing history: a posting with more than one event expands an inline history row.
+   The caret sits before the title; non-expandable rows get a same-width gap so titles align. */
+.row-toggle, .row-toggle-gap { display: inline-block; width: 20px; margin-right: 4px; text-align: center; }
+.row-toggle {
+    background: none; border: none; padding: 0; cursor: pointer; color: var(--accent);
+    font-size: 15px; line-height: 1; vertical-align: middle;
+    transition: transform 0.14s, color 0.14s;
+}
+.row-toggle:hover { color: #fff; }
+.row-toggle.open { transform: rotate(90deg); }
+.log-table tr.log-detail-row td,
+.log-table tr.log-detail-row:hover td {
+    height: auto; white-space: normal; overflow: visible; padding: 0; background: var(--panel-2);
+}
+.log-history { list-style: none; margin: 0; padding: 6px 14px 8px 33px; display: flex; flex-direction: column; gap: 5px; }
+.log-history li { display: flex; align-items: center; gap: 10px; font-size: 11px; }
+.log-history-date { color: var(--text-2); min-width: 82px; }
 
 /* sortable table headers */
 th.sortable { cursor: pointer; user-select: none; }

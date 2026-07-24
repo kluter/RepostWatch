@@ -40,11 +40,17 @@
     let logQuery = "";
     let logSev = new Set();   // active severity filters (empty = show all)
     let logPage = 0;          // current page in the event log
-    const LOG_PAGE_SIZE = 10;
+    let logSize = 10;         // rows per page; toggles 10 <-> 25
+    let logOpen = new Set();   // job_ids whose per-listing history is expanded inline
     let closedQuery = "";
     let closedPage = 0;
     let closedSev = new Set();
-    const CLOSED_PAGE_SIZE = 10;
+    let closedSize = 10;
+    // rows are a fixed height (see .log-table tbody td in the CSS) so every page is the same
+    // height and the Prev/Next pager never moves — and no scrollbar. This reserves a full
+    // page of height via min-height, so a short last page doesn't pull the pager up.
+    const ROW_H = 32, HEAD_H = 30;                       // must match the CSS row / header height
+    const bodyHeight = n => `${HEAD_H + n * ROW_H}px`;
     const defaultSort = () => ({ col: 5, dir: -1 });   // 5 = Published, newest first
     let logSort = defaultSort();
     const cap = s => s ? s[0].toUpperCase() + s.slice(1) : s;
@@ -208,26 +214,49 @@
         { label: "Published", w: 150, val: r => r.ev.published_at || "",          defDir: -1 },
     ];
 
-    // Renders an already-sorted, already-paged list of { ev, sev } rows. Sorting and
-    // paging live in refreshLog so a header click stays local (no full re-render).
-    function logTable(rows, onSort) {
+    // Renders an already-sorted, already-paged list of { ev, sev, history } rows. Sorting and
+    // paging live in refreshLog so a header click stays local (no full re-render). A posting
+    // with more than one lifecycle event gets a caret that expands an inline history row.
+    function logTable(rows, onSort, onToggle, heightPx) {
         const head = h("tr", {}, LOG_COLS.map((c, i) => h("th", {
             class: "sortable",
             onclick: () => onSort(i),
         }, c.label, logSort.col === i ? h("span", { class: "sort-arrow" }, logSort.dir === 1 ? "▲" : "▼") : null)));
-        const body = rows.map(({ ev, sev }) => h("tr", {},
-            h("td", { class: "dt" }, fmtDate(ev.date)),
-            h("td", {}, chip(ev.type)),
-            h("td", { class: "wrap" },
-                ev.type === "headcount_manual" ? `headcount = ${ev.value} (${ev.source})`
-                : ev.type === "noted_manual" ? h("span", {}, jobLink(ev), `, first seen ${ev.first_seen} (${ev.source})`)
-                : jobLink(ev)),
-            h("td", {}, ev.location || ""),
-            h("td", {}, sev ? chip2(`sev-${sev}`, sev) : ""),
-            h("td", { class: "dt" }, fmtDT(ev.published_at))));
+        const body = [];
+        for (const { ev, sev, history } of rows) {
+            const expandable = (history || []).length > 1;
+            const open = expandable && logOpen.has(ev.job_id);
+            const toggle = expandable
+                ? h("button", {
+                    class: "row-toggle" + (open ? " open" : ""),
+                    title: open ? "Hide history" : `Show history (${history.length} events)`,
+                    "aria-label": "Toggle history",
+                    onclick: e => { e.stopPropagation(); onToggle(ev.job_id); },
+                }, "▸")
+                : h("span", { class: "row-toggle-gap" });
+            body.push(h("tr", { class: expandable ? "has-history" : "" },
+                h("td", { class: "dt" }, fmtDate(ev.date)),
+                h("td", {}, chip(ev.type)),
+                h("td", { class: "wrap", title: ev.title || "" },
+                    toggle,
+                    ev.type === "headcount_manual" ? `headcount = ${ev.value} (${ev.source})`
+                    : ev.type === "noted_manual" ? h("span", {}, jobLink(ev), `, first seen ${ev.first_seen} (${ev.source})`)
+                    : jobLink(ev)),
+                h("td", {}, ev.location || ""),
+                h("td", {}, sev ? chip2(`sev-${sev}`, sev) : ""),
+                h("td", { class: "dt" }, fmtDT(ev.published_at))));
+            if (open) {
+                body.push(h("tr", { class: "log-detail-row" },
+                    h("td", { colspan: LOG_COLS.length },
+                        h("ol", { class: "log-history" }, history.map(hv =>
+                            h("li", {},
+                                h("span", { class: "dt log-history-date" }, fmtDate(hv.date)),
+                                chip(hv.type)))))));
+            }
+        }
         const colgroup = h("colgroup", {}, LOG_COLS.map(c =>
             h("col", c.w ? { style: `width:${c.w}px` } : {})));
-        return h("div", { class: "tablewrap" },
+        return h("div", { class: "tablewrap", style: heightPx ? `min-height:${heightPx}` : "" },
             h("table", { class: "log-table" }, colgroup, h("thead", {}, head), h("tbody", {}, body)));
     }
 
@@ -455,11 +484,24 @@
             : null;
 
         // --- event log ---
-        // the event log is the live roster: only events for postings still in the feed.
-        // once a posting closes (its id leaves the feed) it drops out of here and lives
-        // solely in the Closed roles section below.
+        // the event log is the live roster: one row per posting still in the feed, showing that
+        // posting's most recent non-closed event (its current status). the full lifecycle of each
+        // posting — including its closures and reopens — is kept in historyByJob, so a row with
+        // more than one event can be expanded inline to show that specific listing's story.
         const openJobIds = new Set(jobs.map(j => j.job_id));
-        const allLogEvents = events.filter(e => e.type !== "headcount_manual" && openJobIds.has(e.job_id));
+        const historyByJob = new Map();          // job_id -> its events, newest first
+        for (const e of events) {
+            if (e.type === "headcount_manual" || !openJobIds.has(e.job_id)) continue;
+            let list = historyByJob.get(e.job_id);
+            if (!list) historyByJob.set(e.job_id, list = []);
+            list.push(e);
+        }
+        const allLogEvents = [];                 // one roster row per posting: its latest non-closed event
+        for (const list of historyByJob.values()) {
+            list.sort((a, b) => Date.parse(b.date) - Date.parse(a.date));   // newest first
+            const latest = list.find(e => e.type !== "closed");             // roster row = current status
+            if (latest) allLogEvents.push(latest);
+        }
         const matchQuery = ev => {
             const q = logQuery.trim().toLowerCase();
             if (!q) return true;
@@ -473,6 +515,7 @@
             logPage = 0;
             refreshLog();   // local: no full re-render, so the map/charts aren't rebuilt
         };
+        const toggleRow = jid => { logOpen.has(jid) ? logOpen.delete(jid) : logOpen.add(jid); refreshLog(); };
 
         // The table and its controls re-render locally on search / sort / paging so the
         // search box keeps focus and the rest of the page (map, charts) isn't rebuilt.
@@ -483,7 +526,7 @@
             const col = LOG_COLS[logSort.col];
             const decorated = allLogEvents
                 .filter(ev => matchQuery(ev) && (logSev.size === 0 || logSev.has(eventSev(ev))))
-                .map(ev => ({ ev, sev: eventSev(ev) }));
+                .map(ev => ({ ev, sev: eventSev(ev), history: historyByJob.get(ev.job_id) || [] }));
             decorated.sort((a, b) => {
                 const va = col.val(a), vb = col.val(b);
                 return (va < vb ? -1 : va > vb ? 1 : 0) * logSort.dir;
@@ -493,15 +536,19 @@
             const filtering = logQuery.trim() || logSev.size;
             const modified = filtering || logSort.col !== ds.col || logSort.dir !== ds.dir;
 
-            const pages = Math.max(1, Math.ceil(total / LOG_PAGE_SIZE));
+            const pages = Math.max(1, Math.ceil(total / logSize));
             logPage = Math.min(Math.max(logPage, 0), pages - 1);
-            const shown = decorated.slice(logPage * LOG_PAGE_SIZE, logPage * LOG_PAGE_SIZE + LOG_PAGE_SIZE);
-            logBody.replaceChildren(logTable(shown, onSort));
+            const shown = decorated.slice(logPage * logSize, logPage * logSize + logSize);
+            logBody.replaceChildren(logTable(shown, onSort, toggleRow, bodyHeight(Math.min(logSize, total))));
 
             logControls.replaceChildren(...[
+                total > 10 ? h("button", {
+                    class: "mini-btn",
+                    onclick: () => { logSize = logSize === 10 ? 25 : 10; logPage = 0; refreshLog(); },
+                }, logSize === 10 ? "Show 25" : "Show 10") : null,
                 modified ? h("button", {
                     class: "mini-btn",
-                    onclick: () => { logQuery = ""; logSev = new Set(); logPage = 0; logSort = defaultSort(); route(); },
+                    onclick: () => { logQuery = ""; logSev = new Set(); logPage = 0; logSize = 10; logOpen = new Set(); logSort = defaultSort(); route(); },
                 }, "Reset") : null,
             ].filter(Boolean));
 
@@ -510,7 +557,7 @@
                 h("button", { class: "mini-btn", disabled: logPage === 0,
                     onclick: () => { logPage--; refreshLog(); } }, "‹ Prev"),
                 h("span", { class: "log-pageinfo" },
-                    `${logPage * LOG_PAGE_SIZE + 1}–${Math.min(total, (logPage + 1) * LOG_PAGE_SIZE)} of ${total}`),
+                    `${logPage * logSize + 1}–${Math.min(total, (logPage + 1) * logSize)} of ${total}`),
                 h("button", { class: "mini-btn", disabled: logPage >= pages - 1,
                     onclick: () => { logPage++; refreshLog(); } }, "Next ›"))] : []));
         }
@@ -556,27 +603,32 @@
             };
             const closedBody = h("div");
             const closedPager = h("div");
+            const closedControls = h("span", { class: "log-controls" });
             const refreshClosed = () => {
                 const filtered = closedAll.filter(ev =>
                     closedMatch(ev) && (closedSev.size === 0 || closedSev.has(closedSevOf(ev))));
-                const pages = Math.max(1, Math.ceil(filtered.length / CLOSED_PAGE_SIZE));
+                const pages = Math.max(1, Math.ceil(filtered.length / closedSize));
                 closedPage = Math.min(Math.max(closedPage, 0), pages - 1);
-                const shown = filtered.slice(closedPage * CLOSED_PAGE_SIZE, closedPage * CLOSED_PAGE_SIZE + CLOSED_PAGE_SIZE);
-                closedBody.replaceChildren(h("div", { class: "tablewrap" },
+                const shown = filtered.slice(closedPage * closedSize, closedPage * closedSize + closedSize);
+                closedBody.replaceChildren(h("div", { class: "tablewrap", style: `min-height:${bodyHeight(Math.min(closedSize, filtered.length))}` },
                     h("table", { class: "log-table" },
                         h("colgroup", {}, CLOSED_COLS.map(c => h("col", c.w ? { style: `width:${c.w}px` } : {}))),
                         h("thead", {}, h("tr", {}, CLOSED_COLS.map(c => h("th", {}, c.label)))),
                         h("tbody", {}, shown.map(ev => h("tr", {},
                             h("td", { class: "dt" }, fmtDate(ev.date)),
-                            h("td", { class: "wrap" }, jobLink(ev)),
+                            h("td", { class: "wrap", title: ev.title || "" }, jobLink(ev)),
                             h("td", {}, ev.location || ""),
                             h("td", {}, chip2(`sev-${closedSevOf(ev)}`, closedSevOf(ev))),
                             h("td", { class: "dt" }, fmtDT(ev.published_at)),
                             h("td", { class: "num" }, daysListed(ev))))))));
+                closedControls.replaceChildren(...(filtered.length > 10 ? [h("button", {
+                    class: "mini-btn",
+                    onclick: () => { closedSize = closedSize === 10 ? 25 : 10; closedPage = 0; refreshClosed(); },
+                }, closedSize === 10 ? "Show 25" : "Show 10")] : []));
                 closedPager.replaceChildren(...(pages > 1 ? [h("div", { class: "log-pager" },
                     h("button", { class: "mini-btn", disabled: closedPage === 0, onclick: () => { closedPage--; refreshClosed(); } }, "‹ Prev"),
                     h("span", { class: "log-pageinfo" },
-                        `${closedPage * CLOSED_PAGE_SIZE + 1}–${Math.min(filtered.length, (closedPage + 1) * CLOSED_PAGE_SIZE)} of ${filtered.length}`),
+                        `${closedPage * closedSize + 1}–${Math.min(filtered.length, (closedPage + 1) * closedSize)} of ${filtered.length}`),
                     h("button", { class: "mini-btn", disabled: closedPage >= pages - 1, onclick: () => { closedPage++; refreshClosed(); } }, "Next ›"))] : []));
             };
             const closedSearch = h("input", {
@@ -589,7 +641,7 @@
             closedSection = h("section", {},
                 h("div", { class: "log-grid" },
                     h("div", { class: "log-main" },
-                        h("div", { class: "sect-head" }, h("h2", {}, "Closed roles"), closedSearch),
+                        h("div", { class: "sect-head" }, h("h2", {}, "Closed roles"), closedSearch, closedControls),
                         closedBody),
                     closedLegend),
                 closedPager);   // pager below the grid, so the legend stops at the last row
@@ -886,8 +938,8 @@
         geocache = geo;
         initSwitcher();
         addEventListener("hashchange", () => {
-            logQuery = ""; logSev = new Set(); logPage = 0; logSort = defaultSort();
-            closedQuery = ""; closedPage = 0; closedSev = new Set();
+            logQuery = ""; logSev = new Set(); logPage = 0; logSize = 10; logOpen = new Set(); logSort = defaultSort();
+            closedQuery = ""; closedPage = 0; closedSev = new Set(); closedSize = 10;
             route();
         });
         let rt = null;

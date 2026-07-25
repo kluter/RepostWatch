@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-07-24T12:03:53+00:00",
- "job_count": 47,
+ "fetched_at": "2026-07-25T11:46:50+00:00",
+ "job_count": 49,
  "jobs": [
   {
    "job_id": "018AB5761D",
@@ -48,7 +48,22 @@
    "is_remote": false,
    "published_at": "2026-03-23T00:00:00+00:00",
    "url": "https://apply.workable.com/j/076F11402A",
-   "description_sha256": "d4ddd42f82d6bbc6dcb6a8386314a0041ca3d147519e25fa06362d5844cc473e"
+   "description_sha256": "df98748b9eb5dabde6585be361fe8d38e43f5ed766cdb7f32e990283226eef0b"
+  },
+  {
+   "job_id": "076F11402A",
+   "lineage_key": "staff-space-mission-systems-engineer@arlington-united-states",
+   "title": "Staff Space Mission Systems Engineer",
+   "department": "Mission Solutions",
+   "team": "",
+   "location": "Arlington, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-03-23T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/076F11402A",
+   "description_sha256": "df98748b9eb5dabde6585be361fe8d38e43f5ed766cdb7f32e990283226eef0b"
   },
   {
    "job_id": "0A5C0881FE",
@@ -78,7 +93,22 @@
    "is_remote": false,
    "published_at": "2026-06-22T00:00:00+00:00",
    "url": "https://apply.workable.com/j/1956636B85",
-   "description_sha256": "ab08b0060f283dad7da1981903318c70db5e94df2b7027f6f6621f51b58176aa"
+   "description_sha256": "c06a16089660f3ffaefa9d4a883128f59f680bd11593b9ee3859748665edef49"
+  },
+  {
+   "job_id": "1956636B85",
+   "lineage_key": "engineering-manager@arlington-united-states",
+   "title": "Engineering Manager",
+   "department": "Space Systems",
+   "team": "",
+   "location": "Arlington, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-06-22T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/1956636B85",
+   "description_sha256": "c06a16089660f3ffaefa9d4a883128f59f680bd11593b9ee3859748665edef49"
   },
   {
    "job_id": "206837042F",

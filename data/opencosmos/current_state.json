@@ -2,8 +2,8 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-07-26T11:45:59+00:00",
- "job_count": 62,
+ "fetched_at": "2026-07-26T17:41:22+00:00",
+ "job_count": 60,
  "jobs": [
   {
    "job_id": "063679a7-77f0-4e6d-8296-bcff69f4ec4f",
@@ -486,21 +486,6 @@
    "description_sha256": "fb202830cc392b20194ebada2636211a99df5a12ad06e7d8351cbe2962680c85"
   },
   {
-   "job_id": "903229c9-324a-4511-9cfc-34b74958949e",
-   "lineage_key": "inventory-logistics-coordinator-harwell-oxfordshire@harwell-uk",
-   "title": "Inventory & Logistics Coordinator (Harwell, Oxfordshire)",
-   "department": "PROCUREMENT & SUPPLY CHAIN",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-02-14T18:04:31+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/7231083-inventory-logistics-coordinator-harwell-oxfordshire",
-   "description_sha256": "ac8d808cae80f77bd879742816195f80ea9c16dce5cdbb1ae762b5a0ca72bebe"
-  },
-  {
    "job_id": "94c0b48d-e75c-4bab-add2-6dd1de81d473",
    "lineage_key": "senior-react-frontend-developer-data@harwell-uk",
    "title": "Senior React Frontend Developer (Data)",
@@ -844,21 +829,6 @@
    "published_at": "2026-04-28T09:07:34+01:00",
    "url": "https://careers.open-cosmos.com/jobs/7647342-site-reliability-engineer-datacosmos",
    "description_sha256": "d0737b646df47917f5252fdc4e007c701b802d31126491534a8cdaeaa5c3b495"
-  },
-  {
-   "job_id": "e77ade83-bb67-48d9-a99c-b2c231dab0d5",
-   "lineage_key": "facilities-manager-harwell-campus@harwell-uk",
-   "title": "Facilities Manager, Harwell Campus",
-   "department": "OPERATIONS",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-03-12T12:51:25+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/7375841-facilities-manager-harwell-campus",
-   "description_sha256": "f5320c5f88b64e135bca40e7ce64217560b1733b9ccbe540a058bba93cca1c5e"
   },
   {
    "job_id": "e8b4ee21-37b7-4946-b29b-f35d985cddb5",

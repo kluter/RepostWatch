@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-07-27T13:25:55+00:00",
- "job_count": 94,
+ "fetched_at": "2026-07-27T18:12:06+00:00",
+ "job_count": 93,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -1023,21 +1023,6 @@
    "is_remote": false,
    "published_at": "2026-06-19T08:36:36-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4903574101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4906820101",
-   "lineage_key": "manager-data-analytics-f-m-d@ottobrunn-bavaria-germany",
-   "title": "Manager Data & Analytics (f/m/d)",
-   "department": "Ground Systems",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-30T18:00:02-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4906820101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

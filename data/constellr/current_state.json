@@ -2,7 +2,7 @@
  "company": "constellr",
  "source": "recruitee",
  "board": "constellr",
- "fetched_at": "2026-07-22T17:52:02+00:00",
+ "fetched_at": "2026-07-27T13:25:55+00:00",
  "job_count": 8,
  "jobs": [
   {
@@ -67,8 +67,8 @@
   },
   {
    "job_id": "2681827",
-   "lineage_key": "senior-ait-technician-optical-payloads@munich-germany",
-   "title": "Senior AIT Technician - Optical Payloads",
+   "lineage_key": "senior-ait-technician@munich-germany",
+   "title": "Senior AIT Technician",
    "department": "Satellite Tech",
    "team": "",
    "location": "Munich, Germany",
@@ -77,7 +77,7 @@
    "workplace_type": "",
    "is_remote": false,
    "published_at": "2026-07-20T10:19:19+00:00",
-   "url": "https://constellr.recruitee.com/o/senior-ait-technician-optical-payloads",
+   "url": "https://constellr.recruitee.com/o/senior-ait-technician",
    "description_sha256": "03e6416502846de0a8a946e4d1e9a1a292bd7f9da7253f9bd8f16671fe6f0c9d"
   },
   {

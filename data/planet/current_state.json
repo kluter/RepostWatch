@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-07-25T11:46:50+00:00",
- "job_count": 81,
+ "fetched_at": "2026-07-27T13:25:55+00:00",
+ "job_count": 79,
  "jobs": [
   {
    "job_id": "7374533",
@@ -153,21 +153,6 @@
    "is_remote": true,
    "published_at": "2026-02-10T12:47:19-05:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7555019",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7564777",
-   "lineage_key": "account-executive-defence-intelligence@japan-remote",
-   "title": "Account Executive, Defence & Intelligence",
-   "department": "Account Executive",
-   "team": "",
-   "location": "Japan, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-02-17T11:14:02-05:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7564777",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -453,21 +438,6 @@
    "is_remote": false,
    "published_at": "2026-06-25T17:37:17-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7907756",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7907771",
-   "lineage_key": "visiting-staff-scientist@san-francisco-ca",
-   "title": "Visiting Staff Scientist",
-   "department": "RF, Comms & Electrical Engineering",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-12T12:25:42-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7907771",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

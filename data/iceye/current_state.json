@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-07-25T17:39:41+00:00",
- "job_count": 148,
+ "fetched_at": "2026-07-27T13:25:55+00:00",
+ "job_count": 154,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -114,18 +114,18 @@
   },
   {
    "job_id": "1197834e-3203-4546-8f55-2bde6fe39546",
-   "lineage_key": "c-engineer-satellite-real-time-control-systems@espoo",
+   "lineage_key": "c-engineer-satellite-real-time-control-systems@warsaw",
    "title": "C++ Engineer - Satellite Real-Time Control Systems",
    "department": "Engineering",
    "team": "Attitude and Orbit Control System Software",
-   "location": "Espoo",
+   "location": "Warsaw",
    "secondary_locations": [],
    "employment_type": "FullTime",
    "workplace_type": "Hybrid",
    "is_remote": true,
    "published_at": "2026-05-22T12:10:55.236+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/1197834e-3203-4546-8f55-2bde6fe39546",
-   "description_sha256": "6d29c53da7c3ffab568ad07a5d11bf7fa9aee638221f104e0f7d4c984bd89347"
+   "description_sha256": "fbbe0de0784909ce6f41d5340465421ab5fc06c49f1cd1562466005e487175b7"
   },
   {
    "job_id": "12ed4968-bb78-4bba-81c8-843536d39a78",
@@ -205,6 +205,21 @@
    "description_sha256": "56ffa19daf621b7032e204379eac691b2ae0bb3d36a010705051468868e22056"
   },
   {
+   "job_id": "1d549489-1557-489d-8cb4-1d6ec124f624",
+   "lineage_key": "operations-systems-engineer-spectrum@warsaw",
+   "title": "Operations Systems Engineer (Spectrum)",
+   "department": "Engineering",
+   "team": "CONNECT and Ground Stations",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-07-27T07:35:20.742+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/1d549489-1557-489d-8cb4-1d6ec124f624",
+   "description_sha256": "4c0830410c53976334695e1ad414a490d00025d1a44494d9ddc82a04e3211fb1"
+  },
+  {
    "job_id": "1db756b7-7d44-4232-aaae-4632e727850f",
    "lineage_key": "staff-product-designer@espoo",
    "title": "Staff Product Designer",
@@ -236,18 +251,18 @@
   },
   {
    "job_id": "2048d1e8-7667-466a-a72a-d754cbcb42f2",
-   "lineage_key": "senior-c-engineer-satellite-real-time-control-systems@espoo",
+   "lineage_key": "senior-c-engineer-satellite-real-time-control-systems@warsaw",
    "title": "Senior C++ Engineer - Satellite Real-Time Control Systems",
    "department": "Engineering",
    "team": "Attitude and Orbit Control System",
-   "location": "Espoo",
+   "location": "Warsaw",
    "secondary_locations": [],
    "employment_type": "FullTime",
    "workplace_type": "Hybrid",
    "is_remote": true,
    "published_at": "2026-04-13T16:12:46.683+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/2048d1e8-7667-466a-a72a-d754cbcb42f2",
-   "description_sha256": "63744517323f55c3d9a5c951fd880215b0a69008856c53d5312480a3c4919738"
+   "description_sha256": "7f99983f603ab05ffd206dd45834c7545a5e77f0a5f8020c9b73e25054df9fba"
   },
   {
    "job_id": "245a08c3-81a1-4cee-8867-72bbf034f15d",
@@ -522,6 +537,21 @@
    "description_sha256": "dc60ab842eafe6f95ade9bc00b853160f85629ca274537480e151e13633425cd"
   },
   {
+   "job_id": "3cc1954a-b537-4d7b-8a79-a51ad07e97f2",
+   "lineage_key": "senior-backend-software-engineer@espoo",
+   "title": "Senior Backend Software Engineer",
+   "department": "Engineering",
+   "team": "Acquisition Planning",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-07-27T07:52:16.610+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/3cc1954a-b537-4d7b-8a79-a51ad07e97f2",
+   "description_sha256": "23fd6caa67e37a781c68159399b5377886d2dd8928f751b612353fd5bfc4373a"
+  },
+  {
    "job_id": "3e47e1ff-b441-40cd-894b-b0e8df3a90d8",
    "lineage_key": "management-assistant@new-dehli",
    "title": "Management Assistant",
@@ -672,6 +702,21 @@
    "published_at": "2026-07-13T07:16:41.993+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/482053f5-a2b0-4be8-b513-ec9524346fd6",
    "description_sha256": "d31034e4a8e976664dff93331b9c4651b04d53e0f6287d8c1e8b9d8a277af1fa"
+  },
+  {
+   "job_id": "4c5b752a-7f68-4b50-9084-e50abb61c6f3",
+   "lineage_key": "chief-of-staff-uae@united-arab-emirates",
+   "title": "Chief of Staff, UAE",
+   "department": "CEO Office",
+   "team": "CEO Office",
+   "location": "United Arab Emirates",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-07-26T17:59:43.884+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/4c5b752a-7f68-4b50-9084-e50abb61c6f3",
+   "description_sha256": "4dbadd104bfee3193bb772b3527184f2556cad59cc4e24e1ecbe4fe059149396"
   },
   {
    "job_id": "4f00e104-a4a1-4fa3-ac73-3c8c3f64b123",
@@ -872,7 +917,7 @@
    "is_remote": false,
    "published_at": "2026-06-18T09:48:38.960+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/680034d6-e73c-47d8-8916-4a4d3f5f1c91",
-   "description_sha256": "3c64b8ce7c2942523e56df3f1d599e39030f287d8f5cceca38d8ae221facbc6a"
+   "description_sha256": "f66bce93e02202e6c60c9c7e4ed424c342d50c9ac1f40375d28e6398668d3fa6"
   },
   {
    "job_id": "6b5378f4-9af0-4092-9e75-e1d0d0bbaad9",
@@ -1253,6 +1298,21 @@
    "published_at": "2026-06-26T12:18:45.905+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/879b620d-c9c0-4d71-b642-814fc3996688",
    "description_sha256": "bdbb0c5a79f3529325eccd95c12c7a6ffef75a8510c15d749968a4eaca9ceb8c"
+  },
+  {
+   "job_id": "8a6bfe22-bf26-49da-a1ce-b64b314897ee",
+   "lineage_key": "devops-engineer@espoo",
+   "title": "DevOps Engineer",
+   "department": "Engineering",
+   "team": "CONNECT and Ground Stations",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-07-27T10:03:55.576+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/8a6bfe22-bf26-49da-a1ce-b64b314897ee",
+   "description_sha256": "db74180da52e0c48f065764fe78391824a4c295e74547f986ca55badf32722d4"
   },
   {
    "job_id": "8bbb61b2-e417-4d48-b6e2-45843174e21c",
@@ -1831,6 +1891,21 @@
    "description_sha256": "1c41ce53c95a1579db83b0076352969136f18f3be2603176b631d35fd8a8e6b2"
   },
   {
+   "job_id": "c589bb54-3684-4fc0-a923-867f40023aec",
+   "lineage_key": "senior-aocs-system-engineer@warsaw",
+   "title": "Senior AOCS System Engineer",
+   "department": "Engineering",
+   "team": "Engineering",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-07-27T11:57:38.414+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/c589bb54-3684-4fc0-a923-867f40023aec",
+   "description_sha256": "ae31494143385da488326f5c709af6eaccc2c2988319d71a3563ad119b995c81"
+  },
+  {
    "job_id": "c5cd00d7-ebd8-4ece-a6e1-be65efb0c783",
    "lineage_key": "stock-and-logistics-manager@valencia",
    "title": "Stock and Logistics Manager",
@@ -2056,6 +2131,21 @@
    "published_at": "2026-06-10T13:56:16.419+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/d9af7181-4e5c-4ab4-9bca-db371c5c19d6",
    "description_sha256": "bed4f424ce5405083abdc6bf7c03af4baef1691ce63c303cddce57f7dfa750a5"
+  },
+  {
+   "job_id": "d9c1cb3c-a38a-40d6-827e-ad42bec71684",
+   "lineage_key": "senior-software-engineer-telemetry@espoo",
+   "title": "Senior Software Engineer (Telemetry)",
+   "department": "Engineering",
+   "team": "Fleet Automation",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-07-27T07:37:04.572+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/d9c1cb3c-a38a-40d6-827e-ad42bec71684",
+   "description_sha256": "2fb666c6b6bb0f7c606db9a0aa7d8975fbd91c159c21c0b6042a271470b0fe08"
   },
   {
    "job_id": "dae508db-181a-4d9d-a394-4cc0dbf2950b",

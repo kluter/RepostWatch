@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-07-23T12:11:33+00:00",
- "job_count": 53,
+ "fetched_at": "2026-07-28T18:02:04+00:00",
+ "job_count": 50,
  "jobs": [
   {
    "job_id": "6521832",
@@ -276,36 +276,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "7749148",
-   "lineage_key": "senior-gnc-engineer@glasgow",
-   "title": "Senior GNC Engineer",
-   "department": "Engineering",
-   "team": "",
-   "location": "Glasgow",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-03-25T10:56:21-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7749148&gh_jid=7749148",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7821394",
-   "lineage_key": "salesforce-administrator-developer@munich",
-   "title": "Salesforce Administrator & Developer",
-   "department": "Marketing",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-07T12:08:41-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7821394&gh_jid=7821394",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "7831466",
    "lineage_key": "growth-marketing-manager@boulder",
    "title": "Growth Marketing Manager",
@@ -393,21 +363,6 @@
    "is_remote": false,
    "published_at": "2026-05-13T10:12:24-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=7904561&gh_jid=7904561",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7904697",
-   "lineage_key": "salesforce-administrator-developer@glasgow",
-   "title": "Salesforce Administrator & Developer",
-   "department": "Marketing",
-   "team": "",
-   "location": "Glasgow",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-07T12:08:42-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7904697&gh_jid=7904697",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

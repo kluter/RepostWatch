@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-07-28T12:23:08+00:00",
- "job_count": 149,
+ "fetched_at": "2026-07-28T18:02:04+00:00",
+ "job_count": 148,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -1540,21 +1540,6 @@
    "published_at": "2026-07-01T07:40:17.099+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9967722a-e9f3-4b30-9b4c-23bb7586f6c9",
    "description_sha256": "7d7392a3cf5cc8c6b601b3711376f21d326a22e2cc0b9bc3cd118e698d75cb6d"
-  },
-  {
-   "job_id": "9f3a5bfe-a29a-4c87-9c89-8c0f7d5f77d9",
-   "lineage_key": "receptionist-and-management-assistant@valencia-spain",
-   "title": "Receptionist and Management Assistant",
-   "department": "Missions",
-   "team": "Local Subsidiary, Spain",
-   "location": "Valencia, Spain",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-07-01T14:49:18.926+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/9f3a5bfe-a29a-4c87-9c89-8c0f7d5f77d9",
-   "description_sha256": "24b9dc86424abae1d548946f777a966ab5cbfc35953d036c733ff404d1f469fa"
   },
   {
    "job_id": "a0c0d21d-7086-4579-8e61-3fa52a419804",

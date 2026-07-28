@@ -2,8 +2,8 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-07-27T13:25:55+00:00",
- "job_count": 62,
+ "fetched_at": "2026-07-28T12:23:08+00:00",
+ "job_count": 61,
  "jobs": [
   {
    "job_id": "063679a7-77f0-4e6d-8296-bcff69f4ec4f",
@@ -306,6 +306,21 @@
    "description_sha256": "ad553f91836c22d36c7fdccfa15368d1bd88c147cca9b081b4d2756c85c6013e"
   },
   {
+   "job_id": "57c10dd8-a769-4567-865b-e13710343566",
+   "lineage_key": "bid-manager@harwell-uk",
+   "title": "Bid Manager",
+   "department": "GROWTH",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-06-29T17:10:34+01:00",
+   "url": "https://careers.open-cosmos.com/jobs/7988782-bid-manager",
+   "description_sha256": "08ca0f8811053019197a205bb48203185c4fba4f548d2ae3f4be22653392b8d0"
+  },
+  {
    "job_id": "5c046be8-6bdd-41aa-9d14-c1dfe5563ede",
    "lineage_key": "quality-and-product-assurance-manager@athens-greece",
    "title": "Quality and Product Assurance Manager",
@@ -486,21 +501,6 @@
    "description_sha256": "fb202830cc392b20194ebada2636211a99df5a12ad06e7d8351cbe2962680c85"
   },
   {
-   "job_id": "903229c9-324a-4511-9cfc-34b74958949e",
-   "lineage_key": "inventory-logistics-coordinator-harwell-oxfordshire@harwell-uk",
-   "title": "Inventory & Logistics Coordinator (Harwell, Oxfordshire)",
-   "department": "PROCUREMENT & SUPPLY CHAIN",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-02-14T18:04:31+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/7231083-inventory-logistics-coordinator-harwell-oxfordshire",
-   "description_sha256": "ac8d808cae80f77bd879742816195f80ea9c16dce5cdbb1ae762b5a0ca72bebe"
-  },
-  {
    "job_id": "94c0b48d-e75c-4bab-add2-6dd1de81d473",
    "lineage_key": "senior-react-frontend-developer-data@harwell-uk",
    "title": "Senior React Frontend Developer (Data)",
@@ -529,6 +529,21 @@
    "published_at": "2025-12-16T07:00:40+00:00",
    "url": "https://careers.open-cosmos.com/jobs/6934614-operations-engineer-ait-production",
    "description_sha256": "10593ae5e7bce99f83cbcc4e0f6479cb85d4ee4355f59785b8ea157e99cd6244"
+  },
+  {
+   "job_id": "99df5758-340b-490f-a370-a9de81a5858e",
+   "lineage_key": "mechanical-engineer@porto-portugal",
+   "title": "Mechanical Engineer",
+   "department": "MECHANICS",
+   "team": "",
+   "location": "Porto, Portugal",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2025-12-18T15:10:44+00:00",
+   "url": "https://careers.open-cosmos.com/jobs/6957285-mechanical-engineer",
+   "description_sha256": "3c970e920b826f1bd10993a91b5bce288263bedeb369b6cec52a023c5559762d"
   },
   {
    "job_id": "9ae99afa-968c-4113-a528-51be5c0dd9df",
@@ -619,21 +634,6 @@
    "published_at": "2026-05-22T10:26:16+01:00",
    "url": "https://careers.open-cosmos.com/jobs/7780528-ait-technician",
    "description_sha256": "3bbc752da21b5938e05faa08e4eecb3eb251f2d516347503038b9885809e7d7f"
-  },
-  {
-   "job_id": "b069b406-77c3-4033-ad64-e805eb8d8448",
-   "lineage_key": "satellite-payload-processing-engineer@harwell-uk",
-   "title": "Satellite Payload Processing Engineer",
-   "department": "DATA",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-02-14T16:23:01+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/7231065-satellite-payload-processing-engineer",
-   "description_sha256": "1e360c3e6fd53438af679d7c06378f825b20f8d3c72fd8fbb22b36b70e19cfc4"
   },
   {
    "job_id": "b6c279a5-0191-47a4-b67d-1410cd2b440c",
@@ -844,21 +844,6 @@
    "published_at": "2026-04-28T09:07:34+01:00",
    "url": "https://careers.open-cosmos.com/jobs/7647342-site-reliability-engineer-datacosmos",
    "description_sha256": "d0737b646df47917f5252fdc4e007c701b802d31126491534a8cdaeaa5c3b495"
-  },
-  {
-   "job_id": "e77ade83-bb67-48d9-a99c-b2c231dab0d5",
-   "lineage_key": "facilities-manager-harwell-campus@harwell-uk",
-   "title": "Facilities Manager, Harwell Campus",
-   "department": "OPERATIONS",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-03-12T12:51:25+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/7375841-facilities-manager-harwell-campus",
-   "description_sha256": "f5320c5f88b64e135bca40e7ce64217560b1733b9ccbe540a058bba93cca1c5e"
   },
   {
    "job_id": "e8b4ee21-37b7-4946-b29b-f35d985cddb5",

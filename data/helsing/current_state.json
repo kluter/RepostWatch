@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-07-27T18:12:06+00:00",
- "job_count": 123,
+ "fetched_at": "2026-07-28T12:23:08+00:00",
+ "job_count": 126,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -276,21 +276,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4728006101",
-   "lineage_key": "financial-accountant@london",
-   "title": "Financial Accountant",
-   "department": "Finance",
-   "team": "",
-   "location": "London",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-01-05T10:12:22-05:00",
-   "url": "https://helsing.ai/jobs/4728006101?gh_jid=4728006101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4729613101",
    "lineage_key": "software-engineer-infrastructure@washington-dc",
    "title": "Software Engineer - Infrastructure",
@@ -558,6 +543,21 @@
    "is_remote": false,
    "published_at": "2026-03-25T05:26:26-04:00",
    "url": "https://helsing.ai/jobs/4813919101?gh_jid=4813919101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4816634101",
+   "lineage_key": "events-manager@munich",
+   "title": "Events Manager",
+   "department": "Marketing & Communications",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-06-04T08:56:57-04:00",
+   "url": "https://helsing.ai/jobs/4816634101?gh_jid=4816634101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1848,6 +1848,51 @@
    "is_remote": false,
    "published_at": "2026-07-23T04:49:44-04:00",
    "url": "https://helsing.ai/jobs/4936025101?gh_jid=4936025101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4938743101",
+   "lineage_key": "multimodal-sensing-and-fusion-engineer@munich",
+   "title": "Multimodal Sensing and Fusion Engineer",
+   "department": "Hardware Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-28T03:06:14-04:00",
+   "url": "https://helsing.ai/jobs/4938743101?gh_jid=4938743101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4939591101",
+   "lineage_key": "camera-engineer@munich",
+   "title": "Camera Engineer",
+   "department": "Hardware Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-28T07:14:09-04:00",
+   "url": "https://helsing.ai/jobs/4939591101?gh_jid=4939591101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4939612101",
+   "lineage_key": "security-manager@munich",
+   "title": "Security Manager",
+   "department": "Corporate Security",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-28T07:31:54-04:00",
+   "url": "https://helsing.ai/jobs/4939612101?gh_jid=4939612101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

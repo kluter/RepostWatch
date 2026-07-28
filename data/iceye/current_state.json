@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-07-27T18:12:06+00:00",
- "job_count": 153,
+ "fetched_at": "2026-07-28T12:23:08+00:00",
+ "job_count": 149,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -609,7 +609,7 @@
    "is_remote": false,
    "published_at": "2026-07-23T14:38:56.793+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/431b37e8-c369-4cb9-9993-a2fdfe46c249",
-   "description_sha256": "6ae216615133c0def147ec991ff7d14b881636a0a837e1aad9de8d294e31af75"
+   "description_sha256": "0d1f5ac802b3e1676a2cb46cdabdd83f5fe36d2fd62de5c3f0d376e8c83b2eee"
   },
   {
    "job_id": "431baaab-347b-485b-a52a-67d18dcbc2be",
@@ -1345,21 +1345,6 @@
    "description_sha256": "d8b01f04bb68b83bab6c286c3707ab47d2f5c82e2fe8f6e25d9c1ec0a153a8b1"
   },
   {
-   "job_id": "8cd31dcc-0c3e-4966-b49c-2343840f1268",
-   "lineage_key": "management-assistant-office-manager@united-arab-emirates",
-   "title": "Management Assistant / Office Manager",
-   "department": "Missions",
-   "team": "Local Subsidiaries",
-   "location": "United Arab Emirates",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-20T12:36:25.864+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/8cd31dcc-0c3e-4966-b49c-2343840f1268",
-   "description_sha256": "91a65c28bdf13abb971e32fa51603bd5d06215433143a80ab321912a49c18080"
-  },
-  {
    "job_id": "8f1aaed7-9418-49f5-9dcf-c71359b0bc8e",
    "lineage_key": "supply-chain-specialist-mechanics-structures@espoo",
    "title": "Supply Chain Specialist (Mechanics & Structures)",
@@ -1861,21 +1846,6 @@
    "description_sha256": "d208b0119191d86e52b085024664990b6f6d8b110da216b63e0526a61bf8777d"
   },
   {
-   "job_id": "c55cd2d6-021c-4efb-910e-65114b478055",
-   "lineage_key": "stock-logistics-manager@warsaw",
-   "title": "Stock & Logistics Manager",
-   "department": "Global Manufacturing Organization",
-   "team": "Global Manufacturing Organization",
-   "location": "Warsaw",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-07-03T15:24:56.265+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/c55cd2d6-021c-4efb-910e-65114b478055",
-   "description_sha256": "1c41ce53c95a1579db83b0076352969136f18f3be2603176b631d35fd8a8e6b2"
-  },
-  {
    "job_id": "c589bb54-3684-4fc0-a923-867f40023aec",
    "lineage_key": "senior-aocs-system-engineer@warsaw",
    "title": "Senior AOCS System Engineer",
@@ -1889,21 +1859,6 @@
    "published_at": "2026-07-27T11:57:38.414+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/c589bb54-3684-4fc0-a923-867f40023aec",
    "description_sha256": "ae31494143385da488326f5c709af6eaccc2c2988319d71a3563ad119b995c81"
-  },
-  {
-   "job_id": "c5cd00d7-ebd8-4ece-a6e1-be65efb0c783",
-   "lineage_key": "stock-and-logistics-manager@valencia",
-   "title": "Stock and Logistics Manager",
-   "department": "Global Manufacturing Organization",
-   "team": "ES Stock Management",
-   "location": "Valencia",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-04-09T09:04:17.141+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/c5cd00d7-ebd8-4ece-a6e1-be65efb0c783",
-   "description_sha256": "39c01d7bb2171fd1b1963e5b5e77900a4d01ea3c0e406fd20ba171d18a599240"
   },
   {
    "job_id": "c6b51b8b-94af-4007-8464-4a4b858fa5e7",
@@ -2226,21 +2181,6 @@
    "published_at": "2026-04-09T11:48:33.265+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/edf13659-c648-4ca9-9676-cbf002b6aaef",
    "description_sha256": "cd5db3cf1efa40dc4f67ab93317cb841fda6f38f4fcf729ea4bd17887dc46930"
-  },
-  {
-   "job_id": "ef22d62a-7c56-4e49-9d85-c62b045b71d6",
-   "lineage_key": "engineering-manager-new-satellite-build-qualification@warsaw",
-   "title": "Engineering Manager - New Satellite Build & Qualification",
-   "department": "Engineering",
-   "team": "Optical",
-   "location": "Warsaw",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-06-08T09:38:56.740+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/ef22d62a-7c56-4e49-9d85-c62b045b71d6",
-   "description_sha256": "5b74f090902de89b66750d8c3d498794e2adabd1c2512106cb80b6b34457d502"
   },
   {
    "job_id": "ef4c789d-85da-466c-ac71-0c20cc5a8023",

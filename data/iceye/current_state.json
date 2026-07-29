@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-07-28T18:02:04+00:00",
- "job_count": 148,
+ "fetched_at": "2026-07-29T12:32:05+00:00",
+ "job_count": 150,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -689,6 +689,21 @@
    "description_sha256": "8a01b3680c446f17c7904decb8cf0b8f8ee08bb1c0b53e42d54d16dad6e6816d"
   },
   {
+   "job_id": "45aee45a-8a66-4a88-8a1f-7b9e5d192241",
+   "lineage_key": "electrical-harness-design-engineer@espoo",
+   "title": "Electrical Harness Design Engineer",
+   "department": "Engineering",
+   "team": "Testing Engineering",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-07-29T07:08:14.094+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/45aee45a-8a66-4a88-8a1f-7b9e5d192241",
+   "description_sha256": "8852d56602858e097435d3a1bda6d26e5dc83e49350665bbb8e8013d7967aff3"
+  },
+  {
    "job_id": "482053f5-a2b0-4be8-b513-ec9524346fd6",
    "lineage_key": "it-site-engineer-germany@berlin",
    "title": "IT Site Engineer - Germany",
@@ -1043,6 +1058,21 @@
    "published_at": "2026-06-15T13:53:58.265+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/70cdbf0b-0e31-4c03-a74f-5cb2d72dd857",
    "description_sha256": "8d87bf129f1c7f08457096e2b220c2e4411569de6b04df2afd4425c77a87b9ee"
+  },
+  {
+   "job_id": "72390ec6-b528-445e-b37f-18a61378aaf2",
+   "lineage_key": "it-site-engineer-japan@tokyo",
+   "title": "IT Site Engineer - Japan",
+   "department": "Operations",
+   "team": "IT Service & Operations",
+   "location": "Tokyo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-07-29T08:36:16.398+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/72390ec6-b528-445e-b37f-18a61378aaf2",
+   "description_sha256": "2facf6b8d140170c7a5d7e7475ee68ca91401296623e607c6d0d4f910b4292b3"
   },
   {
    "job_id": "728ba3dc-5ab4-4f86-b7cc-5bd24c37f2d4",

@@ -2,8 +2,8 @@
  "company": "ororatech",
  "source": "personio",
  "board": "ororatech",
- "fetched_at": "2026-07-10T18:35:32+00:00",
- "job_count": 1,
+ "fetched_at": "2026-07-29T12:32:05+00:00",
+ "job_count": 2,
  "jobs": [
   {
    "job_id": "2682815",
@@ -18,6 +18,21 @@
    "is_remote": false,
    "published_at": "2026-06-23T09:07:03+00:00",
    "url": "https://ororatech.jobs.personio.de/job/2682815",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "2717409",
+   "lineage_key": "chief-of-staff-m-f-d@munich",
+   "title": "Chief of Staff (m/f/d)",
+   "department": "Management",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-17T14:23:45+00:00",
+   "url": "https://ororatech.jobs.personio.de/job/2717409",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

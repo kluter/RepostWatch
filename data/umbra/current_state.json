@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-07-28T12:23:08+00:00",
- "job_count": 47,
+ "fetched_at": "2026-07-29T12:32:05+00:00",
+ "job_count": 48,
  "jobs": [
   {
    "job_id": "076F11402A",
@@ -214,6 +214,21 @@
    "published_at": "2026-07-09T00:00:00+00:00",
    "url": "https://apply.workable.com/j/53B406B565",
    "description_sha256": "127e4e6ac1e245ddd72580b9cdb55c77b8223a8ee35765d037538ae5484acbc5"
+  },
+  {
+   "job_id": "55042A431C",
+   "lineage_key": "director-of-congressional-affairs@arlington-united-states",
+   "title": "Director of Congressional Affairs",
+   "department": "Shared Services",
+   "team": "",
+   "location": "Arlington, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-28T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/55042A431C",
+   "description_sha256": "ba280c9fdbdc6663e98c57618fb3b1b440ed7d35ec90b10828403dd1956b33f4"
   },
   {
    "job_id": "56DCFBD0A8",

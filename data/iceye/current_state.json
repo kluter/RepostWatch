@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-07-29T12:32:05+00:00",
- "job_count": 150,
+ "fetched_at": "2026-07-29T17:53:20+00:00",
+ "job_count": 153,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -173,6 +173,21 @@
    "description_sha256": "443f8280c1b1555d48b54858c570cc03aa30845782f069f1fc3874e346f9510d"
   },
   {
+   "job_id": "173676c5-440b-4305-bf98-6297aed07fd3",
+   "lineage_key": "electronics-r-d-test-lead@warsaw",
+   "title": "Electronics R&D Test Lead",
+   "department": "Engineering",
+   "team": "Optical System",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-07-29T15:54:01.154+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/173676c5-440b-4305-bf98-6297aed07fd3",
+   "description_sha256": "de2327fc7b13cf419bf1f5608d836e8235167b6197eec1a96401e0ea7bc47fc4"
+  },
+  {
    "job_id": "18952119-94cf-46c8-a6b8-9c05df99dd34",
    "lineage_key": "satellite-production-technician-integration-mechanical-thermal@valencia",
    "title": "Satellite Production Technician, Integration, Mechanical & Thermal",
@@ -186,6 +201,21 @@
    "published_at": "2026-07-13T09:30:11.898+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/18952119-94cf-46c8-a6b8-9c05df99dd34",
    "description_sha256": "e38a6d668698ee3cac8a903452fdd3eb98e32546a44a3c06086c645b675bd23e"
+  },
+  {
+   "job_id": "1a3ccdc2-fea0-42a9-92bd-dd8422b8ef71",
+   "lineage_key": "senior-electronics-r-d-test-engineer@warsaw",
+   "title": "Senior Electronics R&D Test Engineer",
+   "department": "Engineering",
+   "team": "Optical System",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-07-29T16:01:22.735+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/1a3ccdc2-fea0-42a9-92bd-dd8422b8ef71",
+   "description_sha256": "89af1e224abdc2a4c5d4df225eecef5e86e8f2004573c3b544011087abe3a9eb"
   },
   {
    "job_id": "1ac23b1c-f069-48c3-978f-1b37fdf0787f",
@@ -475,6 +505,21 @@
    "published_at": "2026-07-03T12:39:48.411+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/35528f9f-8244-465e-bf4b-799b8fffed53",
    "description_sha256": "4a8e71bd3f576ede667119c19721fac850af3860cd970987551af1d461e08c5f"
+  },
+  {
+   "job_id": "37b350c7-9a07-441b-b7a5-18b1aeff4d90",
+   "lineage_key": "staff-mechanical-engineer@warsaw",
+   "title": "Staff Mechanical Engineer",
+   "department": "Engineering",
+   "team": "Optical System",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-07-29T16:11:27.548+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/37b350c7-9a07-441b-b7a5-18b1aeff4d90",
+   "description_sha256": "adce9446af98a551d22a570ead7a44bb9847dfee2cf3ef125338d0a869b4a5ad"
   },
   {
    "job_id": "37ce25c9-e16c-45d7-8891-f808c76e1102",
@@ -1120,6 +1165,21 @@
    "description_sha256": "5224031896535d08dfa7060f96ba908264da1bdbbbdf9566208cab98f85057b4"
   },
   {
+   "job_id": "75c4cf4a-45d9-4cfc-99e0-164a3a1c877d",
+   "lineage_key": "mechanical-r-d-test-lead@warsaw",
+   "title": "Mechanical R&D Test Lead",
+   "department": "Engineering",
+   "team": "Optical System",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-07-29T16:05:04.173+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/75c4cf4a-45d9-4cfc-99e0-164a3a1c877d",
+   "description_sha256": "de144088b61d488a58c4bacb09a30bf01cf1978c92c671f4cd179e8813d0368f"
+  },
+  {
    "job_id": "76565bc2-919e-4acb-aa0a-96b93d3f4c39",
    "lineage_key": "engineering-operations-manager@espoo",
    "title": "Engineering Operations Manager",
@@ -1148,21 +1208,6 @@
    "published_at": "2026-06-05T08:34:30.592+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/766bfeea-9868-4f0c-a629-5822dce0fa51",
    "description_sha256": "c692b5517d736e1b56a50b3050eb5cafdfe166cb265fc09229b0af32bfeb22ba"
-  },
-  {
-   "job_id": "769ab01b-1036-4c86-9136-1b522452d8c2",
-   "lineage_key": "logistics-specialist-customs-espoo@espoo",
-   "title": "Logistics Specialist (Customs) - Espoo",
-   "department": "Global Manufacturing Organization",
-   "team": "Global Supply Chain",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-06-09T15:13:01.333+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/769ab01b-1036-4c86-9136-1b522452d8c2",
-   "description_sha256": "4c4526f88485e50a4102309af69ed7cd86b7e941412b436f56c3e4365214f92e"
   },
   {
    "job_id": "77ee1494-3ca4-4774-a0ad-9e731d63cec1",
@@ -2088,21 +2133,6 @@
    "description_sha256": "bed4f424ce5405083abdc6bf7c03af4baef1691ce63c303cddce57f7dfa750a5"
   },
   {
-   "job_id": "d9c1cb3c-a38a-40d6-827e-ad42bec71684",
-   "lineage_key": "senior-software-engineer-telemetry@espoo",
-   "title": "Senior Software Engineer (Telemetry)",
-   "department": "Engineering",
-   "team": "Fleet Automation",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-27T07:37:04.572+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/d9c1cb3c-a38a-40d6-827e-ad42bec71684",
-   "description_sha256": "2fb666c6b6bb0f7c606db9a0aa7d8975fbd91c159c21c0b6042a271470b0fe08"
-  },
-  {
    "job_id": "dae508db-181a-4d9d-a394-4cc0dbf2950b",
    "lineage_key": "mission-sales-director-nordics@remote",
    "title": "Mission Sales Director, Nordics",
@@ -2286,6 +2316,21 @@
    "published_at": "2026-07-13T15:31:54.535+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/feed753d-0e9a-4c2e-a7e2-ee3e588e5149",
    "description_sha256": "4dda78618ff9724fa8fafaa7431274754df201859c945ef56104e6bf11b47279"
+  },
+  {
+   "job_id": "fef6416f-b3cd-436f-ad19-2272027863c6",
+   "lineage_key": "senior-mechanical-r-d-test-engineer@warsaw",
+   "title": "Senior Mechanical R&D Test Engineer",
+   "department": "Engineering",
+   "team": "Optical System",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-07-29T16:08:50.708+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/fef6416f-b3cd-436f-ad19-2272027863c6",
+   "description_sha256": "d3b3facd02dd596effadfdb724897bbe0651985a5c34eb999fc42d5358dd7ae8"
   }
  ]
 }

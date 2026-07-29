@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-07-29T12:32:05+00:00",
- "job_count": 93,
+ "fetched_at": "2026-07-29T17:53:20+00:00",
+ "job_count": 92,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -708,21 +708,6 @@
    "is_remote": false,
    "published_at": "2026-04-26T18:00:01-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4847012101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4851725101",
-   "lineage_key": "data-backend-software-engineer-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Data & Backend Software Engineer (m/f/d)",
-   "department": "Ground Systems",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-03T18:00:00-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4851725101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-07-30T12:13:16+00:00",
- "job_count": 92,
+ "fetched_at": "2026-07-30T18:01:44+00:00",
+ "job_count": 90,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -381,21 +381,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4756747101",
-   "lineage_key": "senior-project-manager-ground-systems-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Senior Project Manager - Ground Systems (m/f/d)",
-   "department": "Ground Systems",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-01-22T18:00:00-05:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4756747101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4763928101",
    "lineage_key": "orbital-welding-technician-m-f-d@parsdorf-bavaria-germany",
    "title": "Orbital Welding Technician (m/f/d)",
@@ -498,21 +483,6 @@
    "is_remote": false,
    "published_at": "2026-02-18T04:28:16-05:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4785053101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4791646101",
-   "lineage_key": "senior-sap-s-4hana-ewm-pp-consultant-inhouse-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Senior SAP S/4HANA EWM/PP Consultant inhouse (m/f/d)",
-   "department": "Production",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-03-02T18:00:09-05:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4791646101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

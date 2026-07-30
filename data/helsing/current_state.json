@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-07-30T12:13:16+00:00",
- "job_count": 125,
+ "fetched_at": "2026-07-30T18:01:44+00:00",
+ "job_count": 128,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -696,6 +696,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4861198101",
+   "lineage_key": "incoming-inspector-production-quality@munich",
+   "title": "Incoming Inspector - Production Quality",
+   "department": "Production Operations",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-05-08T09:17:14-04:00",
+   "url": "https://helsing.ai/jobs/4861198101?gh_jid=4861198101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4862545101",
    "lineage_key": "operational-buyer@munich",
    "title": "Operational Buyer",
@@ -708,6 +723,21 @@
    "is_remote": false,
    "published_at": "2026-05-08T09:28:11-04:00",
    "url": "https://helsing.ai/jobs/4862545101?gh_jid=4862545101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4862586101",
+   "lineage_key": "quality-inspector-production-quality@munich",
+   "title": "Quality Inspector - Production Quality",
+   "department": "Production Operations",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-05-08T09:17:15-04:00",
+   "url": "https://helsing.ai/jobs/4862586101?gh_jid=4862586101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1878,6 +1908,21 @@
    "is_remote": false,
    "published_at": "2026-07-28T07:31:54-04:00",
    "url": "https://helsing.ai/jobs/4939612101?gh_jid=4939612101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4941957101",
+   "lineage_key": "ai-research-intern-phd-3d-computer-vision@barcelona",
+   "title": "AI Research Intern (PhD) – 3D Computer Vision",
+   "department": "AI & Engineering",
+   "team": "",
+   "location": "Barcelona",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-30T13:19:19-04:00",
+   "url": "https://helsing.ai/jobs/4941957101?gh_jid=4941957101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-07-30T12:13:16+00:00",
- "job_count": 151,
+ "fetched_at": "2026-07-30T18:01:44+00:00",
+ "job_count": 153,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -1178,6 +1178,21 @@
    "description_sha256": "b6f8d3a45535bd26821c780eff41bf9e5691e6b5f2f8e0d599cd726df555f44a"
   },
   {
+   "job_id": "781f4574-906c-44ef-a7b4-8a5d8e59ad4f",
+   "lineage_key": "senior-software-engineer-networking@espoo",
+   "title": "Senior Software Engineer (Networking)",
+   "department": "Engineering",
+   "team": "Fleet Automation",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-07-30T12:18:42.027+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/781f4574-906c-44ef-a7b4-8a5d8e59ad4f",
+   "description_sha256": "0fe59f1f68aa73f5fde4accfb1e5e04775e7d9c0494dda8fbd793fbd87527416"
+  },
+  {
    "job_id": "7939fd30-429c-4905-b5f1-cea49915ecfd",
    "lineage_key": "forward-deployed-geospatial-engineer-sar-intelligence-portugal@warsaw",
    "title": "Forward Deployed Geospatial Engineer - SAR Intelligence, Portugal",
@@ -1673,6 +1688,21 @@
    "published_at": "2026-06-10T17:24:29.643+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/b0ef3dc9-6d59-4388-a64e-1dd6ae77a599",
    "description_sha256": "38c463571bf0c956e79bde488e47e03d90522bfcf232e236cb964676d684f967"
+  },
+  {
+   "job_id": "b12fce39-5cbb-44ed-8f02-ca1654d41659",
+   "lineage_key": "senior-software-engineer-tasking-and-planning@valencia",
+   "title": "Senior Software Engineer - Tasking and Planning",
+   "department": "Engineering",
+   "team": "Engineering Management",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-07-13T13:26:54.622+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/b12fce39-5cbb-44ed-8f02-ca1654d41659",
+   "description_sha256": "490d1b30fc80d0ea51068b9312f9dbb47227bfb4e2236eb1f0d803837bf08393"
   },
   {
    "job_id": "b2c9f42a-04af-4cd1-8550-abec4a67e9e1",

@@ -315,32 +315,17 @@ def make_event(etype: str, company: str, source: str, job: dict, date_iso: str, 
     return ev
 
 
-def load_recent_closes(events_path: Path) -> dict:
-    """lineage_key -> datetime of most recent 'closed' event."""
-    closes = {}
+def load_history(events_path: Path):
+    """One pass over the event log, returning three things:
+      closes_by_lineage -- lineage_key -> datetime of its most recent 'closed'
+      closes_by_id      -- job_id -> datetime of its most recent 'closed'
+      seed              -- datetime of our first poll (the earliest event we recorded)
+    A job that reappears after we saw its lineage OR its exact id close is an observed
+    republish (the id survives a rename, which the lineage key does not). A job posted before
+    the seed was already up when we started watching -- a straggler, part of the baseline."""
+    closes_by_lineage, closes_by_id, seed = {}, {}, None
     if not events_path.exists():
-        return closes
-    for line in events_path.read_text(encoding="utf-8").splitlines():
-        line = line.strip()
-        if not line:
-            continue
-        ev = json.loads(line)
-        if ev.get("type") != "closed":
-            continue
-        lk = ev.get("lineage_key")
-        ts = parse_ts(ev.get("date", ""))
-        if lk and ts and (lk not in closes or ts > closes[lk]):
-            closes[lk] = ts
-    return closes
-
-
-def load_seed_date(events_path: Path):
-    """Datetime of our first poll of this company: the earliest event we recorded. A job that
-    turns up later but was posted before this was already up when we started watching (a
-    straggler our first poll missed), so it belongs to the baseline, not to a fresh open."""
-    if not events_path.exists():
-        return None
-    earliest = None
+        return closes_by_lineage, closes_by_id, seed
     for line in events_path.read_text(encoding="utf-8").splitlines():
         line = line.strip()
         if not line:
@@ -349,12 +334,21 @@ def load_seed_date(events_path: Path):
         if ev.get("type") == "headcount_manual":
             continue
         ts = parse_ts(ev.get("date", ""))
-        if ts and (earliest is None or ts < earliest):
-            earliest = ts
-    return earliest
+        if ts is None:
+            continue
+        if seed is None or ts < seed:
+            seed = ts
+        if ev.get("type") == "closed":
+            lk = ev.get("lineage_key")
+            if lk and (lk not in closes_by_lineage or ts > closes_by_lineage[lk]):
+                closes_by_lineage[lk] = ts
+            jid = ev.get("job_id")
+            if jid and (jid not in closes_by_id or ts > closes_by_id[jid]):
+                closes_by_id[jid] = ts
+    return closes_by_lineage, closes_by_id, seed
 
 
-def diff_events(company, source, prev_jobs, cur_jobs, recent_closes, seed, now) -> list[dict]:
+def diff_events(company, source, prev_jobs, cur_jobs, closes_by_lineage, closes_by_id, seed, now) -> list[dict]:
     prev_by_id = {j["job_id"]: j for j in prev_jobs}
     cur_by_id = {j["job_id"]: j for j in cur_jobs}
     now_iso = now.isoformat(timespec="seconds")
@@ -366,16 +360,20 @@ def diff_events(company, source, prev_jobs, cur_jobs, recent_closes, seed, now) 
         if jid not in cur_by_id:
             events.append(make_event("closed", company, source, job, now_iso))
             lk = lineage_key(job)
-            if lk not in recent_closes or now > recent_closes[lk]:
-                recent_closes[lk] = now
+            if lk not in closes_by_lineage or now > closes_by_lineage[lk]:
+                closes_by_lineage[lk] = now
+            if jid not in closes_by_id or now > closes_by_id[jid]:
+                closes_by_id[jid] = now
 
     for jid, job in cur_by_id.items():
         if jid not in prev_by_id:
-            closed_at = recent_closes.get(lineage_key(job))
             pub = parse_ts(job.get("published_at"))
+            # observed close of this role, by its lineage or by its exact id (survives a rename)
+            prior = [c for c in (closes_by_lineage.get(lineage_key(job)), closes_by_id.get(jid)) if c is not None]
+            closed_at = max(prior) if prior else None
             if closed_at is not None and now - closed_at <= timedelta(days=REPUBLISH_WINDOW_DAYS):
                 # only an observed repost: we watched this exact role leave the feed and
-                # reappear under a new id. we never guess a repost from an old posting date.
+                # reappear. we never guess a repost from an old posting date.
                 events.append(make_event("republished", company, source, job, now_iso,
                                          mechanism="new_job_id"))
             elif seed is not None and pub is not None and pub.date() < seed.date():
@@ -421,9 +419,8 @@ def run_company(cfg: dict, now: datetime) -> dict:
             print(f"  {slug}: feed returned 0 listed jobs while {len(prev_jobs)} were known; "
                   f"skipping diff, keeping previous state", file=sys.stderr)
             return {"slug": slug, "skipped": True, "locations": [j["location"] for j in prev_jobs]}
-        recent_closes = load_recent_closes(events_path)
-        seed = load_seed_date(events_path)
-        events = diff_events(slug, ats, prev_jobs, cur_jobs, recent_closes, seed, now)
+        closes_by_lineage, closes_by_id, seed = load_history(events_path)
+        events = diff_events(slug, ats, prev_jobs, cur_jobs, closes_by_lineage, closes_by_id, seed, now)
     else:
         # First run: seed the log. These roles were not observed opening today,
         # so they get their own type; date is observation time, published_at

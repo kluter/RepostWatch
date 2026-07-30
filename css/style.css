@@ -168,17 +168,6 @@ body {
     .card, .card.expanded { flex: none; }
 }
 
-#company-tabs { display: flex; align-items: center; gap: 6px; margin-left: 24px; flex: 1; overflow-x: auto; scrollbar-width: none; }
-#company-tabs::-webkit-scrollbar { display: none; }
-.company-tab {
-    background: var(--raise); color: #ccc; border: 1px solid var(--border-2);
-    padding: 5px 12px; border-radius: 4px; cursor: pointer;
-    font-size: 11px; white-space: nowrap; text-decoration: none;
-    transition: background 0.15s, color 0.15s, border-color 0.15s;
-}
-.company-tab:hover { background: #2a2a2a; color: #fff; }
-.company-tab.active { background: #003a55; color: var(--accent); border-color: var(--accent); font-weight: 600; }
-
 .navbar-right { display: flex; align-items: center; gap: 14px; flex-shrink: 0; margin-left: auto; }
 #poll-meta { font-size: 11px; color: var(--muted); white-space: nowrap; }
 #btn-github {
@@ -229,8 +218,6 @@ main { flex: 1; min-width: 0; max-width: 1200px; margin: 0 auto; padding: 20px 2
 .side-facts dd a:hover { text-decoration: underline; }
 .side-facts .row-stack { align-items: flex-start; }
 .side-facts .row-stack dd { display: flex; flex-direction: column; gap: 7px; line-height: 1.3; }
-.side-nav { display: flex; flex-direction: column; gap: 4px; }
-.side-nav .company-tab { display: block; text-align: left; }
 
 @media (max-width: 900px) {
     #layout { flex-direction: column; }
@@ -450,37 +437,6 @@ td a:hover { color: var(--accent); }
 
 /* ---- OVERVIEW HOME ---- */
 a.brand { text-decoration: none; color: inherit; }
-.home-head { margin: 2px 2px 16px; }
-.home-head h2 { margin: 0; }
-.home-head .caption { font-size: 11.5px; color: var(--muted); margin: 5px 0 0; }
-.home-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(232px, 1fr));
-    gap: 12px;
-}
-.home-card {
-    display: flex; flex-direction: column; gap: 11px;
-    background: var(--panel); border: 1px solid var(--border); border-radius: 6px;
-    padding: 16px; text-decoration: none; color: var(--text);
-    transition: transform 0.14s ease, border-color 0.14s ease;
-}
-.home-card:hover { transform: translateY(-3px); border-color: var(--accent); }
-.hc-logo { height: 44px; display: flex; align-items: center; justify-content: center; }
-.hc-logo img { max-width: 152px; max-height: 40px; filter: invert(1); opacity: 0.95; }
-.hc-logo img.logo-keep { filter: brightness(1.7); }
-.hc-fallback { font-size: 17px; color: #fff; }
-.hc-stat { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; font-size: 11px; color: var(--text-2); }
-.hc-stat .hc-open b { font-size: 21px; font-weight: 600; color: #fff; }
-.hc-flag  { color: var(--st-critical); }
-.hc-stale { color: var(--st-serious); }
-.hc-ok    { color: var(--faint); }
-.hc-bar { display: flex; height: 6px; border-radius: 3px; overflow: hidden; background: var(--raise); }
-.hc-seg { display: block; min-width: 2px; }
-.hc-seg.sev-fresh   { background: var(--st-good); }
-.hc-seg.sev-aging   { background: var(--st-warning); }
-.hc-seg.sev-stale   { background: var(--st-serious); }
-.hc-seg.sev-flagged { background: var(--st-critical); }
-.hc-foot { display: flex; justify-content: space-between; gap: 8px; font-size: 10.5px; color: var(--faint); }
 
 /* nav: Overview button (company pages) + hide the switcher on the overview itself */
 .nav-btn {
@@ -493,18 +449,17 @@ a.brand { text-decoration: none; color: inherit; }
 .nav-btn svg { flex-shrink: 0; }
 body.home #company-switcher, body.home #btn-overview { display: none; }
 
-/* landing keeps the sidebar (like every page); it holds the aggregate stat tiles */
 #sidebar .side-sect:first-child { margin-top: 2px; }
-.side-stats { display: flex; flex-direction: column; gap: 10px; }
 
-/* landing intro + aggregate stats */
-.home-hero { margin-bottom: 12px; }
-.home-tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(165px, 1fr)); gap: 10px; margin-bottom: 18px; }
 .home-cards-head { display: flex; align-items: baseline; flex-wrap: wrap; gap: 4px 10px; margin: 0 2px 9px; }
 .home-cards-head h2 { margin: 0; }
 .home-cards-head .caption { font-size: 11.5px; color: var(--muted); }
-.home-sevbar { margin: 0 0 14px; }
 .sevbar-track { display: flex; height: 8px; border-radius: 4px; overflow: hidden; background: var(--raise); }
+.sevbar-seg { display: block; min-width: 2px; }
+.sevbar-seg.sev-fresh   { background: var(--st-good); }
+.sevbar-seg.sev-aging   { background: var(--st-warning); }
+.sevbar-seg.sev-stale   { background: var(--st-serious); }
+.sevbar-seg.sev-flagged { background: var(--st-critical); }
 .sevbar-legend { display: flex; flex-wrap: wrap; gap: 8px 16px; margin-top: 9px; font-size: 11px; color: var(--muted); }
 .sevbar-key { display: inline-flex; align-items: center; gap: 6px; }
 .sevbar-key b { color: var(--text); font-weight: 600; }
@@ -536,7 +491,6 @@ a.mf-role:hover { color: var(--accent); text-decoration: underline; }
 .move-more { font-size: 10.5px; color: var(--faint); margin: 8px 2px 0; }
 
 .home-charts { display: flex; flex-direction: column; gap: 12px; margin-bottom: 6px; }
-.home-charts-3 { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 12px; }
 .pcard { background: var(--panel); border: 1px solid var(--border); border-radius: 6px; padding: 12px 14px; min-width: 0; }
 .pcard h3 { margin: 0 0 2px; font-size: 13px; font-weight: 600; color: var(--text); }
 .pcard .caption { font-size: 11.5px; color: var(--muted); margin: 2px 0 12px; line-height: 1.5; }
@@ -544,18 +498,8 @@ a.mf-role:hover { color: var(--accent); text-decoration: underline; }
 .pcard svg { display: block; width: 100%; }
 .pcard .sevbar-track { height: 16px; margin-top: 2px; }
 .pcard .sevbar-legend { margin-top: 12px; }
-.overlay-legend { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
-.ol-chip { background: var(--raise); color: var(--text-2); border: 1px solid var(--border-2); border-radius: 4px; padding: 3px 9px; font-size: 11px; cursor: pointer; font-family: inherit; transition: color .12s, border-color .12s; }
-.ol-chip:hover { color: #fff; }
-.ol-chip.on { color: #fff; border-color: var(--accent); background: rgba(0, 170, 255, 0.14); }
-.donut-center { fill: #fff; font-size: 22px; font-weight: 600; }
-.donut-center-sub { fill: var(--muted); font-size: 10px; }
-.home-key { margin: 0 2px 12px; font-size: 11px; color: var(--muted); }
 
-/* overview sidebar: short intro + company nav as centered-logo menu buttons */
-.side-intro { margin-bottom: 6px; }
-.side-intro p { font-size: 12px; line-height: 1.6; color: var(--text-2); margin: 0 0 12px; }
-.side-intro b { color: var(--accent); font-weight: 600; }
+/* overview sidebar: company nav as centered-logo menu buttons */
 .co-nav { display: flex; flex-direction: column; gap: 5px; margin-bottom: 8px; }
 .nav-co {
     display: flex; align-items: center; justify-content: center;

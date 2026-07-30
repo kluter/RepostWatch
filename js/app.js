@@ -823,7 +823,7 @@
                 plainCard("Severity of all open roles", "how fresh or stale the whole watchlist reads",
                     p => p.replaceChildren(
                         h("div", { class: "sevbar-track" },
-                            SEV.map(s => tot[s] ? h("span", { class: `hc-seg sev-${s}`, style: `flex:${tot[s]}`, title: `${tot[s]} ${s}` }) : null).filter(Boolean)),
+                            SEV.map(s => tot[s] ? h("span", { class: `sevbar-seg sev-${s}`, style: `flex:${tot[s]}`, title: `${tot[s]} ${s}` }) : null).filter(Boolean)),
                         h("div", { class: "sevbar-legend" },
                             SEV.map(s => h("span", { class: "sevbar-key", title: SEV_RULES[s] },
                                 h("i", { class: `dot sev-${s}` }), h("b", {}, tot[s].toLocaleString("en-US")), " ", s))))),

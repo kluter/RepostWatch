@@ -334,7 +334,27 @@ def load_recent_closes(events_path: Path) -> dict:
     return closes
 
 
-def diff_events(company, source, prev_jobs, cur_jobs, recent_closes, now) -> list[dict]:
+def load_seed_date(events_path: Path):
+    """Datetime of our first poll of this company: the earliest event we recorded. A job that
+    turns up later but was posted before this was already up when we started watching (a
+    straggler our first poll missed), so it belongs to the baseline, not to a fresh open."""
+    if not events_path.exists():
+        return None
+    earliest = None
+    for line in events_path.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        ev = json.loads(line)
+        if ev.get("type") == "headcount_manual":
+            continue
+        ts = parse_ts(ev.get("date", ""))
+        if ts and (earliest is None or ts < earliest):
+            earliest = ts
+    return earliest
+
+
+def diff_events(company, source, prev_jobs, cur_jobs, recent_closes, seed, now) -> list[dict]:
     prev_by_id = {j["job_id"]: j for j in prev_jobs}
     cur_by_id = {j["job_id"]: j for j in cur_jobs}
     now_iso = now.isoformat(timespec="seconds")
@@ -352,11 +372,16 @@ def diff_events(company, source, prev_jobs, cur_jobs, recent_closes, now) -> lis
     for jid, job in cur_by_id.items():
         if jid not in prev_by_id:
             closed_at = recent_closes.get(lineage_key(job))
+            pub = parse_ts(job.get("published_at"))
             if closed_at is not None and now - closed_at <= timedelta(days=REPUBLISH_WINDOW_DAYS):
                 # only an observed repost: we watched this exact role leave the feed and
                 # reappear under a new id. we never guess a repost from an old posting date.
                 events.append(make_event("republished", company, source, job, now_iso,
                                          mechanism="new_job_id"))
+            elif seed is not None and pub is not None and pub.date() < seed.date():
+                # posted before we started watching this company: a straggler our first poll
+                # missed, so it's part of the baseline, not a role we watched open.
+                events.append(make_event("initialized", company, source, job, now_iso))
             else:
                 events.append(make_event("opened", company, source, job, now_iso))
         else:
@@ -397,7 +422,8 @@ def run_company(cfg: dict, now: datetime) -> dict:
                   f"skipping diff, keeping previous state", file=sys.stderr)
             return {"slug": slug, "skipped": True, "locations": [j["location"] for j in prev_jobs]}
         recent_closes = load_recent_closes(events_path)
-        events = diff_events(slug, ats, prev_jobs, cur_jobs, recent_closes, now)
+        seed = load_seed_date(events_path)
+        events = diff_events(slug, ats, prev_jobs, cur_jobs, recent_closes, seed, now)
     else:
         # First run: seed the log. These roles were not observed opening today,
         # so they get their own type; date is observation time, published_at

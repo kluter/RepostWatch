@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-07-29T17:53:20+00:00",
- "job_count": 124,
+ "fetched_at": "2026-07-30T12:13:16+00:00",
+ "job_count": 125,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -517,11 +517,11 @@
   },
   {
    "job_id": "4813919101",
-   "lineage_key": "security-engineer@munich",
-   "title": "Security Engineer",
+   "lineage_key": "senior-security-engineer@berlin",
+   "title": "Senior Security Engineer",
    "department": "Security Engineering",
    "team": "",
-   "location": "Munich",
+   "location": "Berlin",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
@@ -1833,6 +1833,21 @@
    "is_remote": false,
    "published_at": "2026-07-28T03:06:14-04:00",
    "url": "https://helsing.ai/jobs/4938743101?gh_jid=4938743101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4939402101",
+   "lineage_key": "security-engineer@berlin",
+   "title": "Security Engineer",
+   "department": "Security Engineering",
+   "team": "",
+   "location": "Berlin",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-30T04:29:25-04:00",
+   "url": "https://helsing.ai/jobs/4939402101?gh_jid=4939402101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

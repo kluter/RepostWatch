@@ -2,7 +2,7 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-07-29T12:32:05+00:00",
+ "fetched_at": "2026-07-30T12:13:16+00:00",
  "job_count": 48,
  "jobs": [
   {
@@ -273,7 +273,7 @@
    "is_remote": false,
    "published_at": "2026-01-19T00:00:00+00:00",
    "url": "https://apply.workable.com/j/63E33F2615",
-   "description_sha256": "bde84d8607b266616d65bc6f3a29b92b9ffcda63d1702b8b8c98d94050633fdf"
+   "description_sha256": "1020037118943de0dab4fbdda377d0a2d8da44677a683ad058240dc910a77049"
   },
   {
    "job_id": "63E33F2615",
@@ -288,7 +288,7 @@
    "is_remote": false,
    "published_at": "2026-01-19T00:00:00+00:00",
    "url": "https://apply.workable.com/j/63E33F2615",
-   "description_sha256": "bde84d8607b266616d65bc6f3a29b92b9ffcda63d1702b8b8c98d94050633fdf"
+   "description_sha256": "1020037118943de0dab4fbdda377d0a2d8da44677a683ad058240dc910a77049"
   },
   {
    "job_id": "63E33F2615",
@@ -303,7 +303,7 @@
    "is_remote": false,
    "published_at": "2026-01-19T00:00:00+00:00",
    "url": "https://apply.workable.com/j/63E33F2615",
-   "description_sha256": "bde84d8607b266616d65bc6f3a29b92b9ffcda63d1702b8b8c98d94050633fdf"
+   "description_sha256": "1020037118943de0dab4fbdda377d0a2d8da44677a683ad058240dc910a77049"
   },
   {
    "job_id": "71AA98A76F",

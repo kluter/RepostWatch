@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-07-29T17:53:20+00:00",
- "job_count": 153,
+ "fetched_at": "2026-07-30T12:13:16+00:00",
+ "job_count": 151,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -34,23 +34,6 @@
    "published_at": "2026-06-25T09:37:15.157+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/06f113d6-1702-4346-9369-97d70d68738b",
    "description_sha256": "bf6d8c68a3d489dd01cec87e105a57d517fc94108e7dd2a485c0c6385972ed12"
-  },
-  {
-   "job_id": "07aafef7-94ec-4a8a-bbf8-bc5d8cca846a",
-   "lineage_key": "senior-it-engineer-linux-client-platform@espoo",
-   "title": "Senior IT Engineer (Linux Client Platform)",
-   "department": "Operations",
-   "team": "Operations",
-   "location": "Espoo",
-   "secondary_locations": [
-    "Warsaw"
-   ],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-05-20T04:50:17.772+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/07aafef7-94ec-4a8a-bbf8-bc5d8cca846a",
-   "description_sha256": "a2f077a46b8ba51d70945a55ad3dc5b6dd5d4e81cbbf842fe57ccc25dd426010"
   },
   {
    "job_id": "09d02ba3-5ba6-4a11-bb30-74e42c22c485",
@@ -126,21 +109,6 @@
    "published_at": "2026-05-22T12:10:55.236+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/1197834e-3203-4546-8f55-2bde6fe39546",
    "description_sha256": "fbbe0de0784909ce6f41d5340465421ab5fc06c49f1cd1562466005e487175b7"
-  },
-  {
-   "job_id": "12ed4968-bb78-4bba-81c8-843536d39a78",
-   "lineage_key": "flight-software-application-layer-intern@espoo",
-   "title": "Flight Software Application Layer Intern",
-   "department": "Engineering",
-   "team": "Flight Software",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-06-02T13:25:46.508+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/12ed4968-bb78-4bba-81c8-843536d39a78",
-   "description_sha256": "c38078c786f1cf602cdcaabf41771418397cbe964dda41a602bc4f04aea49ea3"
   },
   {
    "job_id": "15ec7f83-01ba-46fc-91c6-88cd28bb6338",
@@ -597,21 +565,6 @@
    "description_sha256": "23fd6caa67e37a781c68159399b5377886d2dd8928f751b612353fd5bfc4373a"
   },
   {
-   "job_id": "3e47e1ff-b441-40cd-894b-b0e8df3a90d8",
-   "lineage_key": "management-assistant@new-dehli",
-   "title": "Management Assistant",
-   "department": "Missions",
-   "team": "Local Subsidiaries",
-   "location": "New Dehli",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-22T11:41:03.762+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/3e47e1ff-b441-40cd-894b-b0e8df3a90d8",
-   "description_sha256": "9208e1d3ef66de4d820f418144cee6221416146dd3f0b0484429a406e8b52d09"
-  },
-  {
    "job_id": "3eb0f7b1-ab19-4d41-b633-dfeea0990086",
    "lineage_key": "configuration-specialist@espoo",
    "title": "Configuration Specialist",
@@ -780,8 +733,8 @@
   },
   {
    "job_id": "4f00e104-a4a1-4fa3-ac73-3c8c3f64b123",
-   "lineage_key": "engineering-manager-electronics@warsaw",
-   "title": "Engineering Manager, Electronics",
+   "lineage_key": "engineering-lead-electronics@warsaw",
+   "title": "Engineering Lead, Electronics",
    "department": "Engineering",
    "team": "Optical",
    "location": "Warsaw",
@@ -791,7 +744,7 @@
    "is_remote": true,
    "published_at": "2026-07-20T12:10:21.083+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/4f00e104-a4a1-4fa3-ac73-3c8c3f64b123",
-   "description_sha256": "2ec4f325796b4dd042431127f7bea9039c4bac6743c419a0cdbb00aecf2b6cc7"
+   "description_sha256": "2d6f11e2088745485d6db5d0a9f5684a21540234d2b5fb7a5154e390dda72f73"
   },
   {
    "job_id": "50ea94b9-1799-49ed-98f2-fdf29bf4fef8",
@@ -1358,6 +1311,21 @@
    "published_at": "2026-07-23T12:22:01.311+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/87472167-0929-46d4-9d75-075fba6907b8",
    "description_sha256": "ebb79dc4a50fc336327fcfc1011d88bf8bf38662ee2e18ab2f06d7b06366203e"
+  },
+  {
+   "job_id": "878e90e4-99bf-4cc9-b383-3451d2c0d3c9",
+   "lineage_key": "full-stack-ai-software-engineer-portugal@lisbon",
+   "title": "Full Stack AI Software Engineer, Portugal",
+   "department": "Forward Deployed Engineering",
+   "team": "Forward Deployed Engineering",
+   "location": "Lisbon",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-07-30T07:23:00.423+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/878e90e4-99bf-4cc9-b383-3451d2c0d3c9",
+   "description_sha256": "2eba35cd8629acf2865690418f295f12e73e84bb59bec8a66556a6acc7cb3c3d"
   },
   {
    "job_id": "879b620d-c9c0-4d71-b642-814fc3996688",

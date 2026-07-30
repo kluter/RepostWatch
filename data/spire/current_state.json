@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-07-29T17:53:20+00:00",
- "job_count": 49,
+ "fetched_at": "2026-07-30T12:13:16+00:00",
+ "job_count": 48,
  "jobs": [
   {
    "job_id": "6521832",
@@ -378,21 +378,6 @@
    "is_remote": false,
    "published_at": "2026-05-12T09:51:14-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=7913442&gh_jid=7913442",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7917695",
-   "lineage_key": "director-of-product-management-weather-and-climate@boulder-co",
-   "title": "Director of Product Management, Weather and Climate",
-   "department": "Product",
-   "team": "",
-   "location": "Boulder, CO",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-12T15:02:06-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7917695&gh_jid=7917695",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

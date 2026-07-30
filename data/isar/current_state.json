@@ -2,7 +2,7 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-07-29T17:53:20+00:00",
+ "fetched_at": "2026-07-30T12:13:16+00:00",
  "job_count": 92,
  "jobs": [
   {
@@ -157,8 +157,8 @@
   },
   {
    "job_id": "4697662101",
-   "lineage_key": "werkstudent-hse-arbeitssicherheit-m-w-d@ottobrunn-bavaria-germany",
-   "title": "Werkstudent HSE & Arbeitssicherheit (m/w/d)",
+   "lineage_key": "werkstudent-arbeitssicherheit-gesundheitsmanagement-m-w-d@ottobrunn-bavaria-germany",
+   "title": "Werkstudent Arbeitssicherheit & Gesundheitsmanagement (m/w/d)",
    "department": "Infrastructure, Safety & Service",
    "team": "",
    "location": "Ottobrunn, Bavaria, Germany",
@@ -696,21 +696,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4847012101",
-   "lineage_key": "test-bench-technician-vibration-and-shock-testing-operations-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Test Bench Technician - Vibration and Shock Testing Operations (m/f/d)",
-   "department": "Infrastructure, Safety & Service",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-04-26T18:00:01-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4847012101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4851760101",
    "lineage_key": "software-engineer-data-apps-m-f-d@ottobrunn-bavaria-germany",
    "title": "Software Engineer Data Apps (m/f/d)",
@@ -858,36 +843,6 @@
    "is_remote": false,
    "published_at": "2026-05-24T18:00:00-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4869206101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4872759101",
-   "lineage_key": "thermal-prufstandstechniker-m-w-d@parsdorf-bavaria-germany",
-   "title": "Thermal Prüfstandstechniker (m/w/d)",
-   "department": "Infrastructure, Safety & Service",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-27T18:00:00-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4872759101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4872787101",
-   "lineage_key": "thermal-vakuum-test-technician-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Thermal Vakuum Test Technician (m/f/d)",
-   "department": "Infrastructure, Safety & Service",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-27T18:00:01-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4872787101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1236,21 +1191,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4930992101",
-   "lineage_key": "summer-job-logistic-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Summer Job Logistic (m/f/d)",
-   "department": "Production",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-17T11:13:41-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4930992101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4931009101",
    "lineage_key": "summer-job-procurement-m-f-d@ottobrunn-bavaria-germany",
    "title": "Summer Job Procurement (m/f/d)",
@@ -1293,6 +1233,21 @@
    "is_remote": false,
    "published_at": "2026-07-21T04:10:59-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4933280101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4933331101",
+   "lineage_key": "measurement-cmm-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Measurement CMM (m/f/d)",
+   "department": "Production",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-30T02:13:21-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4933331101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1383,6 +1338,51 @@
    "is_remote": false,
    "published_at": "2026-07-27T03:30:09-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4938190101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4940762101",
+   "lineage_key": "lab-technician-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Lab Technician (m/f/d)",
+   "department": "Production",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-30T02:26:53-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4940762101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4940784101",
+   "lineage_key": "ndt-inspector-m-f-d@ottobrunn-bavaria-germany",
+   "title": "NDT Inspector (m/f/d)",
+   "department": "Production",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-30T02:45:00-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4940784101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4941433101",
+   "lineage_key": "praktikant-arbeitssicherheit-gesundheitsmanagement-m-w-d@ottobrunn-bavaria-germany",
+   "title": "Praktikant Arbeitssicherheit & Gesundheitsmanagement (m/w/d)",
+   "department": "Infrastructure, Safety & Service",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-30T05:58:56-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4941433101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

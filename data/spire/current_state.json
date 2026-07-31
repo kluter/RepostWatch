@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-07-30T12:13:16+00:00",
- "job_count": 48,
+ "fetched_at": "2026-07-31T18:08:46+00:00",
+ "job_count": 49,
  "jobs": [
   {
    "job_id": "6521832",
@@ -723,6 +723,21 @@
    "is_remote": false,
    "published_at": "2026-07-23T07:27:26-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8081276&gh_jid=8081276",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8095214",
+   "lineage_key": "technical-accounting-manager@washington-dc",
+   "title": "Technical Accounting Manager",
+   "department": "Finance",
+   "team": "",
+   "location": "Washington DC",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-31T10:32:47-04:00",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8095214&gh_jid=8095214",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

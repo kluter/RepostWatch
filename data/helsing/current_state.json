@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-07-30T18:01:44+00:00",
- "job_count": 128,
+ "fetched_at": "2026-07-31T18:08:46+00:00",
+ "job_count": 129,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -1192,8 +1192,8 @@
   },
   {
    "job_id": "4880330101",
-   "lineage_key": "senior-project-manager@munich",
-   "title": "Senior Project Manager",
+   "lineage_key": "senior-project-manager-land@munich",
+   "title": "Senior Project Manager - Land",
    "department": "Campaigns & Programmes",
    "team": "",
    "location": "Munich",
@@ -1852,11 +1852,11 @@
   },
   {
    "job_id": "4938743101",
-   "lineage_key": "multimodal-sensing-and-fusion-engineer@munich",
+   "lineage_key": "multimodal-sensing-and-fusion-engineer@berlin",
    "title": "Multimodal Sensing and Fusion Engineer",
    "department": "Hardware Engineering",
    "team": "",
-   "location": "Munich",
+   "location": "Berlin",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
@@ -1882,11 +1882,11 @@
   },
   {
    "job_id": "4939591101",
-   "lineage_key": "camera-engineer@munich",
+   "lineage_key": "camera-engineer@berlin",
    "title": "Camera Engineer",
    "department": "Hardware Engineering",
    "team": "",
-   "location": "Munich",
+   "location": "Berlin",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
@@ -1923,6 +1923,21 @@
    "is_remote": false,
    "published_at": "2026-07-30T13:19:19-04:00",
    "url": "https://helsing.ai/jobs/4941957101?gh_jid=4941957101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4942502101",
+   "lineage_key": "programme-manager-space@munich",
+   "title": "Programme Manager - Space",
+   "department": "Campaigns & Programmes",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-31T08:55:33-04:00",
+   "url": "https://helsing.ai/jobs/4942502101?gh_jid=4942502101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

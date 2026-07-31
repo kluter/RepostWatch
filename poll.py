@@ -265,22 +265,42 @@ def fetch_teamtailor(board: str) -> list[dict]:
 def fetch_workable(board: str) -> list[dict]:
     # board is the Workable account slug; the public widget feed needs no auth.
     data = http_get_json(f"https://apply.workable.com/api/v1/widget/accounts/{board}?details=true")
-    jobs = []
+    # Workable lists a multi-city role once per city, all sharing one shortcode. Collapse them
+    # into a single posting per shortcode so one role isn't counted several times (and its id
+    # can't collide in the diff). Cities are merged; the alphabetically-first is the primary
+    # location (stable regardless of feed order), the rest become secondary.
+    grouped, order = {}, []
     for j in data.get("jobs", []):
-        loc0 = (j.get("locations") or [{}])[0]
-        city = (loc0.get("city") or j.get("city") or "").strip()
-        country = (loc0.get("country") or j.get("country") or "").strip()
+        code = j.get("shortcode") or ""
+        if code not in grouped:
+            grouped[code] = []
+            order.append(code)
+        grouped[code].append(j)
+    jobs = []
+    for code in order:
+        variants = grouped[code]
+        j = variants[0]
         remote = bool(j.get("telecommuting"))
-        location = ", ".join(x for x in (city, country) if x) or ("Remote" if remote else "")
+        cities = []
+        for v in variants:
+            loc0 = (v.get("locations") or [{}])[0]
+            city = (loc0.get("city") or v.get("city") or "").strip()
+            country = (loc0.get("country") or v.get("country") or "").strip()
+            place = ", ".join(x for x in (city, country) if x)
+            if place and place not in cities:
+                cities.append(place)
+        cities.sort()
+        location = cities[0] if cities else ("Remote" if remote else "")
         pub = j.get("published_on") or j.get("created_at") or ""
         if pub and "T" not in pub:                     # "2026-07-07" -> full ISO
             pub = pub + "T00:00:00+00:00"
-        code = j.get("shortcode") or ""
-        jobs.append(normalize_job(
+        job = normalize_job(
             code, j.get("title"), location, pub,
             j.get("url") or j.get("shortlink") or f"https://apply.workable.com/j/{code}",
             department=j.get("department") or "", is_remote=remote,
-            desc=j.get("description") or ""))
+            desc=j.get("description") or "")
+        job["secondary_locations"] = cities[1:]
+        jobs.append(job)
     jobs.sort(key=lambda j: j["job_id"])
     return jobs
 

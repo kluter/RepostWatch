@@ -2,7 +2,7 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-07-30T12:13:16+00:00",
+ "fetched_at": "2026-07-31T12:30:03+00:00",
  "job_count": 84,
  "jobs": [
   {
@@ -111,18 +111,18 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "7527437",
-   "lineage_key": "fp-a-revenue-manager@united-states-remote",
-   "title": "FP&A Revenue Manager",
-   "department": "FP&A",
+   "job_id": "7524896",
+   "lineage_key": "sr-satcom-modem-engineer@san-francisco-ca",
+   "title": "Sr. Satcom Modem Engineer",
+   "department": "RF, Comms & Electrical Engineering",
    "team": "",
-   "location": "United States, Remote",
+   "location": "San Francisco, CA",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-01-26T19:52:19-05:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7527437",
+   "is_remote": false,
+   "published_at": "2026-01-27T19:46:36-05:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7524896",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -198,21 +198,6 @@
    "is_remote": true,
    "published_at": "2026-02-17T10:45:42-05:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7603831",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7603834",
-   "lineage_key": "senior-software-engineering-manager@united-states-remote",
-   "title": "Senior Software Engineering Manager",
-   "department": "D&I Solutions (SWE)",
-   "team": "",
-   "location": "United States, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-02-26T16:07:19-05:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7603834",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1248,6 +1233,21 @@
    "is_remote": false,
    "published_at": "2026-07-29T11:57:00-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8081498",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8088251",
+   "lineage_key": "manager-customer-success-commercial-markets@san-francisco-ca",
+   "title": "Manager, Customer Success - Commercial Markets",
+   "department": "Customer Success Management",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-30T19:04:14-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8088251",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-07-30T18:01:44+00:00",
- "job_count": 26,
+ "fetched_at": "2026-07-31T12:30:03+00:00",
+ "job_count": 27,
  "jobs": [
   {
    "job_id": "076F11402A",
@@ -182,6 +182,21 @@
    "description_sha256": "83cc9cc4acf3c5da6960080a6cd8d19223847c2028bb605380cb7752bcc6e905"
   },
   {
+   "job_id": "5DEC056541",
+   "lineage_key": "product-marketing-manager@arlington-united-states",
+   "title": "Product Marketing Manager",
+   "department": "Shared Services",
+   "team": "",
+   "location": "Arlington, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-30T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/5DEC056541",
+   "description_sha256": "cd7ef3e8bd2f0850c8473f8f0c5cd8c2c5b6a85eae1ff7f677ab166edbeaac67"
+  },
+  {
    "job_id": "63E33F2615",
    "lineage_key": "senior-radar-systems-engineer@arlington-united-states",
    "title": "Senior Radar Systems Engineer",
@@ -197,7 +212,7 @@
    "is_remote": false,
    "published_at": "2026-01-19T00:00:00+00:00",
    "url": "https://apply.workable.com/j/63E33F2615",
-   "description_sha256": "9038756adbeaae16e56bbf0660186395e8c6eab484090d90437f5ae794197d95"
+   "description_sha256": "585ce562f1581c78689cc1b2d8990e7fd3dc0bc5f3b6545cc4ad842a1bf82871"
   },
   {
    "job_id": "71AA98A76F",

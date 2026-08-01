@@ -380,6 +380,12 @@
    "lon": -77.0363849,
    "label": "Washington"
   },
-  "emea, remote": null
+  "emea, remote": null,
+  "us, remote": {
+   "lat": 39.7837304,
+   "lon": -100.445882,
+   "label": "US",
+   "remote": true
+  }
  }
 }

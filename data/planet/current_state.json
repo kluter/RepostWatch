@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-07-31T18:08:46+00:00",
- "job_count": 85,
+ "fetched_at": "2026-08-01T12:21:18+00:00",
+ "job_count": 86,
  "jobs": [
   {
    "job_id": "7374533",
@@ -816,21 +816,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8002692",
-   "lineage_key": "software-engineer-compute-team@united-states-remote",
-   "title": "Software Engineer, Compute Team",
-   "department": "Infrastructure and Operations",
-   "team": "",
-   "location": "United States, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-06-18T14:31:19-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8002692",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8008293",
    "lineage_key": "software-engineer-mission-systems@united-states-remote",
    "title": "Software Engineer, Mission Systems",
@@ -1236,6 +1221,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8079178",
+   "lineage_key": "industry-account-executive-united-states@us-remote",
+   "title": "Industry Account Executive, United States",
+   "department": "Account Executive",
+   "team": "",
+   "location": "US, Remote",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-07-31T18:04:30-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8079178",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8081498",
    "lineage_key": "senior-director-global-talent-acquisition@san-francisco-ca",
    "title": "Senior Director, Global Talent Acquisition",
@@ -1278,6 +1278,21 @@
    "is_remote": false,
    "published_at": "2026-07-28T09:22:57-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8088256",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8094173",
+   "lineage_key": "sales-development-representative-north-america-civil-government@san-francisco-ca",
+   "title": "Sales Development Representative, North America Civil Government",
+   "department": "Sales Development and Inside Sales",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-31T18:13:01-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8094173",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

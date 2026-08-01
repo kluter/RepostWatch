@@ -170,5 +170,10 @@
    "url": "https://www.capellaspace.com/company/apply?gh_jid=6099866004",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
- ]
+ ],
+ "feed_error": {
+  "code": 404,
+  "message": "HTTP 404",
+  "checked_at": "2026-08-01T11:44:52+00:00"
+ }
 }

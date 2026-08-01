@@ -416,13 +416,38 @@ def diff_events(company, source, prev_jobs, cur_jobs, closes_by_lineage, closes_
 
 # --------------------------------------------------------------------------- per-company run
 
+def record_feed_outage(slug, source, board, state_path, exc, now_iso) -> dict:
+    """A feed was unreachable. Keep the last-known snapshot but stamp it with the error, so the
+    dashboard can show 'feed unavailable' (with the status received) instead of silently going
+    stale. A reachable feed clears this again on the next successful poll."""
+    code = getattr(exc, "code", None)                      # HTTPError carries .code (404, 500, …)
+    if code:
+        message = f"HTTP {code}"
+    elif isinstance(exc, (json.JSONDecodeError, ET.ParseError)):
+        message = "invalid response"
+    elif isinstance(exc, TimeoutError):
+        message = "timed out"
+    else:
+        reason = getattr(exc, "reason", None)
+        message = f"unreachable ({reason})" if reason else "unreachable"
+    if state_path.exists():
+        state = json.loads(state_path.read_text(encoding="utf-8"))
+    else:
+        state = {"company": slug, "source": source, "board": board,
+                 "fetched_at": None, "job_count": 0, "jobs": []}
+    state["feed_error"] = {"code": code, "message": message, "checked_at": now_iso}
+    state_path.write_text(json.dumps(state, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+    print(f"  {slug}: feed unavailable ({message}); kept last-known data, flagged on dashboard",
+          file=sys.stderr)
+    return {"slug": slug, "feed_error": message,
+            "locations": [j.get("location", "") for j in state.get("jobs", [])]}
+
+
 def run_company(cfg: dict, now: datetime) -> dict:
     slug, ats, board = cfg["slug"], cfg["ats"], cfg["board"]
     fetch = ADAPTERS.get(ats)
     if fetch is None:
         raise RuntimeError(f"no adapter for ats type {ats!r}")
-
-    cur_jobs = fetch(board)
 
     company_dir = DATA_DIR / slug
     company_dir.mkdir(parents=True, exist_ok=True)
@@ -430,9 +455,21 @@ def run_company(cfg: dict, now: datetime) -> dict:
     events_path = company_dir / "events.jsonl"
     now_iso = now.isoformat(timespec="seconds")
 
+    try:
+        cur_jobs = fetch(board)
+    except (OSError, json.JSONDecodeError, ET.ParseError) as exc:
+        # any feed problem — unreachable, HTTP error (capella hit 404), timeout, or a garbage
+        # response — is an external outage, not our bug: record it for the dashboard and keep
+        # polling the rest. OSError covers HTTPError / URLError / timeouts / connection resets;
+        # the two parse errors cover a 200 that returns unusable JSON or XML.
+        return record_feed_outage(slug, ats, board, state_path, exc, now_iso)
+
     prev_jobs = None
+    had_error = False                       # a prior outage we're now recovering from
     if state_path.exists():
-        prev_jobs = json.loads(state_path.read_text(encoding="utf-8"))["jobs"]
+        prev_state = json.loads(state_path.read_text(encoding="utf-8"))
+        prev_jobs = prev_state["jobs"]
+        had_error = "feed_error" in prev_state
         if not cur_jobs and prev_jobs:
             # An empty feed is far more likely an outage than every role closing at
             # once; emitting a wave of closes here would poison the event log.
@@ -449,9 +486,9 @@ def run_company(cfg: dict, now: datetime) -> dict:
 
     events.sort(key=lambda e: (e["type"] != "closed", e["published_at"], e["title"]))
 
-    # Only rewrite the snapshot when the jobs actually changed. Otherwise a no-op poll
-    # would still bump fetched_at and produce a daily commit with no real data in it.
-    if prev_jobs is None or cur_jobs != prev_jobs:
+    # Rewrite the snapshot when the jobs changed, or to clear a prior feed_error on recovery.
+    # (Otherwise a no-op poll would bump fetched_at and make an empty daily commit.)
+    if prev_jobs is None or cur_jobs != prev_jobs or had_error:
         state = {
             "company": slug,
             "source": ats,
@@ -551,18 +588,24 @@ def main() -> int:
     print(f"RepostWatch poll @ {now.isoformat(timespec='seconds')} — {len(companies)} company(ies)")
 
     failures = []
+    outages = []
     all_locations = []
     for cfg in companies:
         try:
             result = run_company(cfg, now)
             all_locations.extend(result.get("locations", []))
-        except Exception as exc:  # keep polling remaining companies; fail the run at the end
+            if result.get("feed_error"):   # handled outage: flagged on the dashboard, not a run failure
+                outages.append(f"{result['slug']} ({result['feed_error']})")
+        except Exception as exc:  # an unexpected error (our bug) — fail the run so we notice
             failures.append(f"{cfg.get('slug', '?')}: {exc}")
             print(f"  {cfg.get('slug', '?')}: FAILED — {exc}", file=sys.stderr)
 
     geocode_new_locations(all_locations)   # one pass over the shared cache for the whole poll
     write_company_index(companies)
 
+    if outages:
+        print(f"{len(outages)} feed(s) unavailable, flagged on dashboard: {', '.join(outages)}",
+              file=sys.stderr)
     if failures:
         print(f"{len(failures)} company poll(s) failed", file=sys.stderr)
         return 1

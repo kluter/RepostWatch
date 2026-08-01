@@ -38,6 +38,9 @@ jobs:
         run: python poll.py
 
       - name: Commit updated data
+        # run even if a company failed, so one dead feed can't freeze everyone else's data;
+        # the failed Poll step still marks the run red, so the failure stays visible.
+        if: ${{ !cancelled() }}
         run: |
           git config user.name "repostwatch-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

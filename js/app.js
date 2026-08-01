@@ -394,8 +394,15 @@
         // click a pill to filter the event log to that severity (multiple active)
         const logLegend = severityLegend(sevCounts, logSev, () => { logPage = 0; refreshLog(); });
 
-        document.getElementById("poll-meta").textContent =
-            `Updated ${fmtDate(state.fetched_at)}, ${state.fetched_at.slice(11, 16)} UTC`;
+        const meta = document.getElementById("poll-meta");
+        if (state.feed_error) {
+            meta.textContent = `Feed unavailable (${state.feed_error.message})`
+                + (state.fetched_at ? `, last update ${fmtDate(state.fetched_at)}` : "");
+            meta.classList.add("feed-down");
+        } else {
+            meta.textContent = `Updated ${fmtDate(state.fetched_at)}, ${state.fetched_at.slice(11, 16)} UTC`;
+            meta.classList.remove("feed-down");
+        }
         renderSidebar(slug, state, events);
 
         // --- hero: stat tiles column + overview map ---
@@ -647,7 +654,15 @@
                 closedPager);   // pager below the grid, so the legend stops at the last row
         }
 
+        const feedBanner = state.feed_error
+            ? h("div", { class: "feed-down-banner", role: "status" },
+                h("b", {}, `Feed unavailable — ${state.feed_error.message}. `),
+                state.fetched_at
+                    ? `The ${state.source || "ATS"} board isn't responding; showing the last snapshot from ${fmtDate(state.fetched_at)}.`
+                    : `The ${state.source || "ATS"} board isn't responding yet.`)
+            : null;
         app.replaceChildren(...[
+            feedBanner,                                                   // outage notice, when the feed is down
             hero,
             logSection,                                                   // event log up top
             repSection,                                                   // republished roles — flagship view, above the graphs
@@ -773,8 +788,9 @@
 
         // last-updated = the freshest snapshot timestamp across all companies
         const lastUpdate = loaded.map(d => d.state && d.state.fetched_at).filter(Boolean).sort().pop();
-        document.getElementById("poll-meta").textContent = lastUpdate
-            ? `Updated ${fmtDate(lastUpdate)}, ${lastUpdate.slice(11, 16)} UTC` : "";
+        const homeMeta = document.getElementById("poll-meta");
+        homeMeta.classList.remove("feed-down");
+        homeMeta.textContent = lastUpdate ? `Updated ${fmtDate(lastUpdate)}, ${lastUpdate.slice(11, 16)} UTC` : "";
 
         const tot = { fresh: 0, aging: 0, stale: 0, flagged: 0 };
         let open = 0, changes = 0;

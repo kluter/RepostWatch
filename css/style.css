@@ -171,6 +171,12 @@ body {
 .navbar-right { display: flex; align-items: center; gap: 14px; flex-shrink: 0; margin-left: auto; }
 #poll-meta { font-size: 11px; color: var(--muted); white-space: nowrap; }
 #poll-meta.feed-down { color: var(--st-critical); font-weight: 600; }
+#tz-toggle {
+    background: var(--raise); color: var(--text-2); border: 1px solid var(--border-2);
+    padding: 3px 9px; border-radius: 4px; font-size: 11px; font-family: inherit;
+    cursor: pointer; white-space: nowrap; transition: color 0.15s, border-color 0.15s;
+}
+#tz-toggle:hover { color: #fff; border-color: var(--accent); }
 /* outage notice atop a company page when its feed is unreachable */
 .feed-down-banner {
     margin: 0 0 16px; padding: 10px 14px; border-radius: 6px; font-size: 12.5px;
@@ -381,7 +387,7 @@ section h2 {
 .log-controls { margin-left: auto; display: inline-flex; gap: 8px; align-items: center; }
 
 /* event log: fixed column widths so sorting never reshuffles the layout */
-.log-table { table-layout: fixed; min-width: 760px; }
+.log-table { table-layout: fixed; min-width: 830px; }
 .log-table th, .log-table td { overflow: hidden; text-overflow: ellipsis; }
 /* single-line rows of a fixed height: every page is the same height, so the Prev/Next
    pager never moves and there is no scrollbar. Long titles truncate with an ellipsis

@@ -32,6 +32,37 @@
     const fmtDate = iso => iso ? iso.slice(0, 10) : "";
     const fmtDT = iso => iso ? iso.slice(0, 16).replace("T", " ") : "";
 
+    // Time zone. Our own timestamps (poll time, observed, closed, history) render in the viewer's
+    // LOCAL zone by default, toggleable to UTC and remembered. Feed publish times are left in the
+    // feed's own zone (fmtPublished) with the offset shown, so that one never silently shifts.
+    let tzMode = localStorage.getItem("rw-tz") === "utc" ? "utc" : "local";
+    let _fmtCache = {};
+    const _fmter = () => (_fmtCache[tzMode] ||= new Intl.DateTimeFormat("en-GB", {
+        year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit",
+        hour12: false, ...(tzMode === "utc" ? { timeZone: "UTC" } : {}),
+    }));
+    const fmtStamp = iso => {                          // our timestamp -> "YYYY-MM-DD HH:MM" in the active zone
+        if (!iso) return "";
+        const g = t => (_fmter().formatToParts(new Date(iso)).find(p => p.type === t) || {}).value || "";
+        return `${g("year")}-${g("month")}-${g("day")} ${g("hour")}:${g("minute")}`;
+    };
+    const zoneLabel = () => {
+        if (tzMode === "utc") return "UTC";
+        const p = new Intl.DateTimeFormat("en-GB", { timeZoneName: "short" }).formatToParts(new Date());
+        return (p.find(x => x.type === "timeZoneName") || {}).value || "local";
+    };
+    const fmtPublished = iso => {                      // feed time: keep its wall-clock, append its offset
+        if (!iso) return "";
+        const local = iso.slice(0, 16).replace("T", " ");
+        const m = iso.match(/(Z|[+-]\d{2}:\d{2})$/);
+        let off = "UTC";
+        if (m && m[1] !== "Z" && m[1] !== "+00:00") {
+            const s = m[1], mm = s.slice(4, 6);
+            off = `UTC${s[0]}${parseInt(s.slice(1, 3), 10)}${mm !== "00" ? ":" + mm : ""}`;
+        }
+        return `${local} ${off}`;
+    };
+
     // ---- data ----
     let companies = [];
     let cache = {};        // slug -> {state, events}
@@ -206,12 +237,12 @@
 
     const SEV_RANK = { fresh: 1, aging: 2, stale: 3, flagged: 4 };
     const LOG_COLS = [
-        { label: "Observed",  w: 96,  val: r => r.ev.date || "",                  defDir: -1 },
+        { label: "Observed",  w: 132, val: r => r.ev.date || "",                  defDir: -1 },
         { label: "Type",      w: 120, val: r => r.ev.type,                        defDir: 1 },
         { label: "Title",     w: 0,   val: r => (r.ev.title || "").toLowerCase(), defDir: 1 },
         { label: "Location",  w: 130, val: r => r.ev.location || "",              defDir: 1 },
         { label: "Severity",  w: 100, val: r => SEV_RANK[r.sev] || 0,             defDir: -1 },
-        { label: "Published", w: 150, val: r => r.ev.published_at || "",          defDir: -1 },
+        { label: "Published", w: 176, val: r => r.ev.published_at || "",          defDir: -1 },
     ];
 
     // Renders an already-sorted, already-paged list of { ev, sev, history } rows. Sorting and
@@ -235,7 +266,7 @@
                 }, "▸")
                 : h("span", { class: "row-toggle-gap" });
             body.push(h("tr", { class: expandable ? "has-history" : "" },
-                h("td", { class: "dt" }, fmtDate(ev.date)),
+                h("td", { class: "dt" }, fmtStamp(ev.date)),
                 h("td", {}, chip(ev.type)),
                 h("td", { class: "wrap", title: ev.title || "" },
                     toggle,
@@ -244,13 +275,13 @@
                     : jobLink(ev)),
                 h("td", {}, ev.location || ""),
                 h("td", {}, sev ? chip2(`sev-${sev}`, sev) : ""),
-                h("td", { class: "dt" }, fmtDT(ev.published_at))));
+                h("td", { class: "dt" }, fmtPublished(ev.published_at))));
             if (open) {
                 body.push(h("tr", { class: "log-detail-row" },
                     h("td", { colspan: LOG_COLS.length },
                         h("ol", { class: "log-history" }, history.map(hv =>
                             h("li", {},
-                                h("span", { class: "dt log-history-date" }, fmtDate(hv.date)),
+                                h("span", { class: "dt log-history-date" }, fmtStamp(hv.date)),
                                 chip(hv.type)))))));
             }
         }
@@ -397,10 +428,10 @@
         const meta = document.getElementById("poll-meta");
         if (state.feed_error) {
             meta.textContent = `Feed unavailable (${state.feed_error.message})`
-                + (state.fetched_at ? `, last update ${fmtDate(state.fetched_at)}` : "");
+                + (state.fetched_at ? `, last update ${fmtStamp(state.fetched_at)} ${zoneLabel()}` : "");
             meta.classList.add("feed-down");
         } else {
-            meta.textContent = `Updated ${fmtDate(state.fetched_at)}, ${state.fetched_at.slice(11, 16)} UTC`;
+            meta.textContent = `Updated ${fmtStamp(state.fetched_at)} ${zoneLabel()}`;
             meta.classList.remove("feed-down");
         }
         renderSidebar(slug, state, events);
@@ -595,8 +626,8 @@
         // severity a role had WHEN IT CLOSED (from how long it was listed, not "now")
         const closedSevOf = ev => sevByDays(daysListedNum(ev), republishesOf(ev.lineage_key));
         const CLOSED_COLS = [
-            { label: "Closed", w: 96 }, { label: "Title", w: 0 }, { label: "Location", w: 130 },
-            { label: "Severity", w: 100 }, { label: "Published", w: 150 }, { label: "Days listed", w: 120 },
+            { label: "Closed", w: 132 }, { label: "Title", w: 0 }, { label: "Location", w: 130 },
+            { label: "Severity", w: 100 }, { label: "Published", w: 176 }, { label: "Days listed", w: 120 },
         ];
         let closedSection;
         if (!closedAll.length) {
@@ -622,11 +653,11 @@
                         h("colgroup", {}, CLOSED_COLS.map(c => h("col", c.w ? { style: `width:${c.w}px` } : {}))),
                         h("thead", {}, h("tr", {}, CLOSED_COLS.map(c => h("th", {}, c.label)))),
                         h("tbody", {}, shown.map(ev => h("tr", {},
-                            h("td", { class: "dt" }, fmtDate(ev.date)),
+                            h("td", { class: "dt" }, fmtStamp(ev.date)),
                             h("td", { class: "wrap", title: ev.title || "" }, jobLink(ev)),
                             h("td", {}, ev.location || ""),
                             h("td", {}, chip2(`sev-${closedSevOf(ev)}`, closedSevOf(ev))),
-                            h("td", { class: "dt" }, fmtDT(ev.published_at)),
+                            h("td", { class: "dt" }, fmtPublished(ev.published_at)),
                             h("td", { class: "num" }, daysListed(ev))))))));
                 closedControls.replaceChildren(...(filtered.length > 10 ? [h("button", {
                     class: "mini-btn",
@@ -790,7 +821,7 @@
         const lastUpdate = loaded.map(d => d.state && d.state.fetched_at).filter(Boolean).sort().pop();
         const homeMeta = document.getElementById("poll-meta");
         homeMeta.classList.remove("feed-down");
-        homeMeta.textContent = lastUpdate ? `Updated ${fmtDate(lastUpdate)}, ${lastUpdate.slice(11, 16)} UTC` : "";
+        homeMeta.textContent = lastUpdate ? `Updated ${fmtStamp(lastUpdate)} ${zoneLabel()}` : "";
 
         const tot = { fresh: 0, aging: 0, stale: 0, flagged: 0 };
         let open = 0, changes = 0;
@@ -901,6 +932,20 @@
         if (companies.length < 2) search.style.display = "none";
     }
 
+    function initTz() {
+        const btn = document.getElementById("tz-toggle");
+        if (!btn) return;
+        const paint = () => { btn.textContent = tzMode === "utc" ? "UTC" : "Local"; };
+        paint();
+        btn.addEventListener("click", () => {
+            tzMode = tzMode === "utc" ? "local" : "utc";
+            localStorage.setItem("rw-tz", tzMode);
+            _fmtCache = {};              // active zone changed; drop the cached formatter
+            paint();
+            route();                     // re-render current view with the new zone
+        });
+    }
+
     // subtle drifting constellation behind the page (nods to satellite constellations)
     function initBackground() {
         const cv = document.getElementById("bg-constellation");
@@ -953,6 +998,7 @@
         companies = index.companies;
         geocache = geo;
         initSwitcher();
+        initTz();
         addEventListener("hashchange", () => {
             logQuery = ""; logSev = new Set(); logPage = 0; logSize = 10; logOpen = new Set(); logSort = defaultSort();
             closedQuery = ""; closedPage = 0; closedSev = new Set(); closedSize = 10;

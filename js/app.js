@@ -237,12 +237,12 @@
 
     const SEV_RANK = { fresh: 1, aging: 2, stale: 3, flagged: 4 };
     const LOG_COLS = [
-        { label: "Observed",  w: 132, val: r => r.ev.date || "",                  defDir: -1 },
-        { label: "Type",      w: 120, val: r => r.ev.type,                        defDir: 1 },
+        { label: "Observed",  w: 150, val: r => r.ev.date || "",                  defDir: -1 },
+        { label: "Type",      w: 112, val: r => r.ev.type,                        defDir: 1 },
         { label: "Title",     w: 0,   val: r => (r.ev.title || "").toLowerCase(), defDir: 1 },
-        { label: "Location",  w: 130, val: r => r.ev.location || "",              defDir: 1 },
-        { label: "Severity",  w: 100, val: r => SEV_RANK[r.sev] || 0,             defDir: -1 },
-        { label: "Published", w: 176, val: r => r.ev.published_at || "",          defDir: -1 },
+        { label: "Location",  w: 118, val: r => r.ev.location || "",              defDir: 1 },
+        { label: "Severity",  w: 92,  val: r => SEV_RANK[r.sev] || 0,             defDir: -1 },
+        { label: "Published", w: 196, val: r => r.ev.published_at || "",          defDir: -1 },
     ];
 
     // Renders an already-sorted, already-paged list of { ev, sev, history } rows. Sorting and
@@ -626,8 +626,8 @@
         // severity a role had WHEN IT CLOSED (from how long it was listed, not "now")
         const closedSevOf = ev => sevByDays(daysListedNum(ev), republishesOf(ev.lineage_key));
         const CLOSED_COLS = [
-            { label: "Closed", w: 132 }, { label: "Title", w: 0 }, { label: "Location", w: 130 },
-            { label: "Severity", w: 100 }, { label: "Published", w: 176 }, { label: "Days listed", w: 120 },
+            { label: "Closed", w: 150 }, { label: "Title", w: 0 }, { label: "Location", w: 118 },
+            { label: "Severity", w: 92 }, { label: "Published", w: 196 }, { label: "Days listed", w: 112 },
         ];
         let closedSection;
         if (!closedAll.length) {

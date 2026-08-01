@@ -387,7 +387,7 @@ section h2 {
 .log-controls { margin-left: auto; display: inline-flex; gap: 8px; align-items: center; }
 
 /* event log: fixed column widths so sorting never reshuffles the layout */
-.log-table { table-layout: fixed; min-width: 830px; }
+.log-table { table-layout: fixed; min-width: 850px; }
 .log-table th, .log-table td { overflow: hidden; text-overflow: ellipsis; }
 /* single-line rows of a fixed height: every page is the same height, so the Prev/Next
    pager never moves and there is no scrollbar. Long titles truncate with an ellipsis

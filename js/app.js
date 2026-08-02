@@ -354,7 +354,7 @@
         };
 
         const derived = [
-            ["Departments", new Set(jobs.map(j => j.department).filter(Boolean)).size || "n/a"],
+            ["Departments", new Set(jobs.map(j => j.department).filter(Boolean)).size],
             ["Locations", new Set(jobs.map(j => j.location).filter(Boolean)).size],
             ["Remote roles", jobs.filter(j => j.is_remote).length],
             ["Tracking since", events.length ? fmtDate(events[0].date) : "n/a"],

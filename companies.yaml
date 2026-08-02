@@ -162,22 +162,3 @@
     Industry: SAR Earth-observation satellites
   partners:
     - SpaceX (launch)
-
-- slug: airbus-ds
-  ats: workday
-  board: ag.wd3.myworkdayjobs.com/ag/Airbus   # host/tenant/site for the Workday CXS API
-  company: Airbus Defence and Space GmbH       # hiring entity to scope to
-  locations:                                   # space sites; matched by name, new ones auto-include
-    - Immenstaad am Bodensee
-    - Bremen Area
-    - Taufkirchen / Ottobrunn
-    - Potsdam
-    - Berlin
-    - Berlin Area
-  name: Airbus Defence and Space
-  website: https://www.airbus.com/en/products-services/space
-  logo: assets/companies/airbus-ds.png
-  facts:
-    Founded: "2014"
-    HQ: Taufkirchen, Germany
-    Industry: Space systems, satellites, radar & Earth observation

@@ -406,6 +406,21 @@
    "lat": 47.6658914,
    "lon": 9.3676364,
    "label": "Immenstaad am Bodensee"
+  },
+  "münchen area": {
+   "lat": 45.7972298,
+   "lon": 24.0885437,
+   "label": "Strada München"
+  },
+  "taufkirchen / ottobrunn": {
+   "lat": 48.054168,
+   "lon": 11.669309,
+   "label": "Medizinisches Versorgungszentrum (MVZ) Ottobrunn"
+  },
+  "ulm area": {
+   "lat": 44.2657063,
+   "lon": 23.7369869,
+   "label": "Ulm"
   }
  }
 }

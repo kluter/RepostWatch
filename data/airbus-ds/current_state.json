@@ -2,7 +2,7 @@
  "company": "airbus-ds",
  "source": "workday",
  "board": "ag.wd3.myworkdayjobs.com/ag/Airbus",
- "fetched_at": "2026-08-02T18:53:52+00:00",
+ "fetched_at": "2026-08-02T19:16:12+00:00",
  "job_count": 81,
  "jobs": [
   {
@@ -37,12 +37,14 @@
   },
   {
    "job_id": "JR10301177",
-   "lineage_key": "system-architect-d-m-w-bmc4isr@2-locations",
+   "lineage_key": "system-architect-d-m-w-bmc4isr@ulm-area",
    "title": "System Architect (d/m/w) BMC4ISR",
    "department": "",
    "team": "",
-   "location": "2 Locations",
-   "secondary_locations": [],
+   "location": "Ulm Area",
+   "secondary_locations": [
+    "Immenstaad am Bodensee"
+   ],
    "employment_type": "",
    "workplace_type": "",
    "is_remote": false,
@@ -82,12 +84,14 @@
   },
   {
    "job_id": "JR10376540",
-   "lineage_key": "sap-basis-consultant-sap-administrator-d-w-m@2-locations",
+   "lineage_key": "sap-basis-consultant-sap-administrator-d-w-m@immenstaad-am-bodensee",
    "title": "SAP Basis Consultant / SAP Administrator (d/w/m)",
    "department": "",
    "team": "",
-   "location": "2 Locations",
-   "secondary_locations": [],
+   "location": "Immenstaad am Bodensee",
+   "secondary_locations": [
+    "München Area"
+   ],
    "employment_type": "",
    "workplace_type": "",
    "is_remote": false,
@@ -112,12 +116,14 @@
   },
   {
    "job_id": "JR10389516",
-   "lineage_key": "cyber-sales-manager-germany-d-m-w@2-locations",
+   "lineage_key": "cyber-sales-manager-germany-d-m-w@munchen-area",
    "title": "Cyber Sales Manager Germany (d/m/w)",
    "department": "",
    "team": "",
-   "location": "2 Locations",
-   "secondary_locations": [],
+   "location": "München Area",
+   "secondary_locations": [
+    "Immenstaad am Bodensee"
+   ],
    "employment_type": "",
    "workplace_type": "",
    "is_remote": false,
@@ -232,12 +238,14 @@
   },
   {
    "job_id": "JR10400761",
-   "lineage_key": "trainer-d-m-w-satellitenkommunikation@2-locations",
+   "lineage_key": "trainer-d-m-w-satellitenkommunikation@immenstaad-am-bodensee",
    "title": "Trainer  (d/m/w) Satellitenkommunikation",
    "department": "",
    "team": "",
-   "location": "2 Locations",
-   "secondary_locations": [],
+   "location": "Immenstaad am Bodensee",
+   "secondary_locations": [
+    "München Area"
+   ],
    "employment_type": "",
    "workplace_type": "",
    "is_remote": false,
@@ -247,12 +255,14 @@
   },
   {
    "job_id": "JR10401544",
-   "lineage_key": "program-manager-ge-leo-constellation-ground-segment-and-operation-m-w-d@2-locations",
+   "lineage_key": "program-manager-ge-leo-constellation-ground-segment-and-operation-m-w-d@munchen-area",
    "title": "Program Manager GE LEO Constellation Ground Segment and Operation (m/w/d)",
    "department": "",
    "team": "",
-   "location": "2 Locations",
-   "secondary_locations": [],
+   "location": "München Area",
+   "secondary_locations": [
+    "Immenstaad am Bodensee"
+   ],
    "employment_type": "",
    "workplace_type": "",
    "is_remote": false,
@@ -277,12 +287,14 @@
   },
   {
    "job_id": "JR10406791",
-   "lineage_key": "senior-abap-developer-d-m-w@2-locations",
+   "lineage_key": "senior-abap-developer-d-m-w@immenstaad-am-bodensee",
    "title": "Senior ABAP Developer (D/M/W)",
    "department": "",
    "team": "",
-   "location": "2 Locations",
-   "secondary_locations": [],
+   "location": "Immenstaad am Bodensee",
+   "secondary_locations": [
+    "München Area"
+   ],
    "employment_type": "",
    "workplace_type": "",
    "is_remote": false,
@@ -337,12 +349,14 @@
   },
   {
    "job_id": "JR10411487",
-   "lineage_key": "contracts-manager-vertragsjurist-in-ii-d-f-m@2-locations",
+   "lineage_key": "contracts-manager-vertragsjurist-in-ii-d-f-m@bremen-area",
    "title": "Contracts Manager/Vertragsjurist/-in II (d/f/m)",
    "department": "",
    "team": "",
-   "location": "2 Locations",
-   "secondary_locations": [],
+   "location": "Bremen Area",
+   "secondary_locations": [
+    "Taufkirchen / Ottobrunn"
+   ],
    "employment_type": "",
    "workplace_type": "",
    "is_remote": false,
@@ -352,12 +366,14 @@
   },
   {
    "job_id": "JR10414448",
-   "lineage_key": "supportability-engineer-d-m-w@2-locations",
+   "lineage_key": "supportability-engineer-d-m-w@munchen-area",
    "title": "Supportability Engineer (d/m/w)",
    "department": "",
    "team": "",
-   "location": "2 Locations",
-   "secondary_locations": [],
+   "location": "München Area",
+   "secondary_locations": [
+    "Immenstaad am Bodensee"
+   ],
    "employment_type": "",
    "workplace_type": "",
    "is_remote": false,
@@ -367,12 +383,14 @@
   },
   {
    "job_id": "JR10414453",
-   "lineage_key": "technischer-redakteur-d-m-w@2-locations",
+   "lineage_key": "technischer-redakteur-d-m-w@munchen-area",
    "title": "Technischer Redakteur (d/m/w)",
    "department": "",
    "team": "",
-   "location": "2 Locations",
-   "secondary_locations": [],
+   "location": "München Area",
+   "secondary_locations": [
+    "Immenstaad am Bodensee"
+   ],
    "employment_type": "",
    "workplace_type": "",
    "is_remote": false,
@@ -427,12 +445,14 @@
   },
   {
    "job_id": "JR10416535",
-   "lineage_key": "technischer-redakteur-d-m-w@2-locations",
+   "lineage_key": "technischer-redakteur-d-m-w@munchen-area",
    "title": "Technischer Redakteur (d/m/w)",
    "department": "",
    "team": "",
-   "location": "2 Locations",
-   "secondary_locations": [],
+   "location": "München Area",
+   "secondary_locations": [
+    "Immenstaad am Bodensee"
+   ],
    "employment_type": "",
    "workplace_type": "",
    "is_remote": false,
@@ -442,12 +462,16 @@
   },
   {
    "job_id": "JR10417682",
-   "lineage_key": "mechatroniker-d-m-w-in-lubeck@4-locations",
+   "lineage_key": "mechatroniker-d-m-w-in-lubeck@immenstaad-am-bodensee",
    "title": "Mechatroniker (D/M/W) in Lübeck",
    "department": "",
    "team": "",
-   "location": "4 Locations",
-   "secondary_locations": [],
+   "location": "Immenstaad am Bodensee",
+   "secondary_locations": [
+    "Manching",
+    "Taufkirchen / Ottobrunn",
+    "Hamburg Area"
+   ],
    "employment_type": "",
    "workplace_type": "",
    "is_remote": false,
@@ -487,12 +511,16 @@
   },
   {
    "job_id": "JR10417841",
-   "lineage_key": "project-manager-targets-systems-services-d-f-m@4-locations",
+   "lineage_key": "project-manager-targets-systems-services-d-f-m@immenstaad-am-bodensee",
    "title": "Project Manager Targets Systems & Services (d/f/m)",
    "department": "",
    "team": "",
-   "location": "4 Locations",
-   "secondary_locations": [],
+   "location": "Immenstaad am Bodensee",
+   "secondary_locations": [
+    "Manching",
+    "Taufkirchen / Ottobrunn",
+    "Hamburg Area"
+   ],
    "employment_type": "",
    "workplace_type": "",
    "is_remote": false,
@@ -727,12 +755,14 @@
   },
   {
    "job_id": "JR10423186",
-   "lineage_key": "project-quality-manager-m-w-d@2-locations",
+   "lineage_key": "project-quality-manager-m-w-d@immenstaad-am-bodensee",
    "title": "Project Quality Manager (m/w/d)",
    "department": "",
    "team": "",
-   "location": "2 Locations",
-   "secondary_locations": [],
+   "location": "Immenstaad am Bodensee",
+   "secondary_locations": [
+    "Ulm Area"
+   ],
    "employment_type": "",
    "workplace_type": "",
    "is_remote": false,
@@ -877,12 +907,14 @@
   },
   {
    "job_id": "JR10425462",
-   "lineage_key": "kam-information-systems-and-cybersecurity-d-m-w@2-locations",
+   "lineage_key": "kam-information-systems-and-cybersecurity-d-m-w@taufkirchen-ottobrunn",
    "title": "KAM Information Systems and Cybersecurity (d/m/w)",
    "department": "",
    "team": "",
-   "location": "2 Locations",
-   "secondary_locations": [],
+   "location": "Taufkirchen / Ottobrunn",
+   "secondary_locations": [
+    "Bonn"
+   ],
    "employment_type": "",
    "workplace_type": "",
    "is_remote": false,
@@ -1057,12 +1089,14 @@
   },
   {
    "job_id": "JR10426058",
-   "lineage_key": "senior-business-development-manager-space-deutschland-m-w-d@2-locations",
+   "lineage_key": "senior-business-development-manager-space-deutschland-m-w-d@immenstaad-am-bodensee",
    "title": "Senior Business Development Manager - Space Deutschland (m/w/d)",
    "department": "",
    "team": "",
-   "location": "2 Locations",
-   "secondary_locations": [],
+   "location": "Immenstaad am Bodensee",
+   "secondary_locations": [
+    "München Area"
+   ],
    "employment_type": "",
    "workplace_type": "",
    "is_remote": false,
@@ -1072,12 +1106,14 @@
   },
   {
    "job_id": "JR10427012",
-   "lineage_key": "sachbearbeitung-konfigurationsmanagement-m-w-d@2-locations",
+   "lineage_key": "sachbearbeitung-konfigurationsmanagement-m-w-d@immenstaad-am-bodensee",
    "title": "Sachbearbeitung Konfigurationsmanagement (m/w/d)",
    "department": "",
    "team": "",
-   "location": "2 Locations",
-   "secondary_locations": [],
+   "location": "Immenstaad am Bodensee",
+   "secondary_locations": [
+    "München Area"
+   ],
    "employment_type": "",
    "workplace_type": "",
    "is_remote": false,
@@ -1147,12 +1183,14 @@
   },
   {
    "job_id": "JR10429112",
-   "lineage_key": "contract-manager-for-procurement-m-w-d@2-locations",
+   "lineage_key": "contract-manager-for-procurement-m-w-d@taufkirchen-ottobrunn",
    "title": "Contract Manager for Procurement (m,w,d)",
    "department": "",
    "team": "",
-   "location": "2 Locations",
-   "secondary_locations": [],
+   "location": "Taufkirchen / Ottobrunn",
+   "secondary_locations": [
+    "Immenstaad am Bodensee"
+   ],
    "employment_type": "",
    "workplace_type": "",
    "is_remote": false,

@@ -305,6 +305,107 @@ def fetch_workable(board: str) -> list[dict]:
     return jobs
 
 
+def _wd_facet_values(facets, param):
+    """Find a facet's value list anywhere in Workday's (sometimes nested) facet tree."""
+    for f in facets or []:
+        if f.get("facetParameter") == param:
+            return f.get("values", [])
+        found = _wd_facet_values(f.get("values"), param)
+        if found:
+            return found
+    return []
+
+
+def fetch_workday(cfg) -> list[dict]:
+    """Workday CXS public API. cfg['board'] is 'host/tenant/site'
+    (e.g. 'ag.wd3.myworkdayjobs.com/ag/Airbus'); optional cfg['company'] and cfg['locations']
+    filter by hiring entity and site (matched by name, so new sites include themselves). The
+    list only carries a relative 'Posted N days ago', so the true date comes from each job's
+    detail (startDate) — fetched once and then reused from the previous snapshot to stay cheap."""
+    import time
+    host, tenant, site = cfg["board"].split("/")
+    base = f"https://{host}/wday/cxs/{tenant}/{site}"
+    company, want_locs = cfg.get("company", ""), set(cfg.get("locations") or [])
+
+    def post_jobs(applied, offset):
+        time.sleep(1.2)                       # space out /jobs POSTs — Workday throttles rapid ones
+        body = json.dumps({"appliedFacets": applied, "limit": 20, "offset": offset,
+                           "searchText": ""}).encode("utf-8")
+        req = Request(f"{base}/jobs", data=body, headers={
+            "User-Agent": USER_AGENT, "Accept": "application/json", "Content-Type": "application/json"})
+        with urlopen(req, timeout=60) as resp:
+            return json.load(resp)
+
+    def resolve(applied, param):              # facet lookup, retried since a throttled POST drops it
+        for _ in range(3):
+            vals = _wd_facet_values(post_jobs(applied, 0).get("facets", []), param)
+            if vals:
+                return vals
+        return []
+
+    applied = {}
+    if company:
+        # Workday prefixes the name with an internal code ("922E Airbus Defence and Space GmbH"),
+        # so match by substring rather than requiring the exact descriptor.
+        cid = next((v["id"] for v in resolve({}, "hiringCompany")
+                    if company in (v.get("descriptor") or "")), None)
+        if cid is None:
+            raise RuntimeError(f"workday: hiring company {company!r} not found on {tenant}/{site}")
+        applied["hiringCompany"] = [cid]
+    if want_locs:
+        loc_ids = [v["id"] for v in resolve(dict(applied), "locations")
+                   if v.get("descriptor") in want_locs]
+        if not loc_ids:                       # throttled or misconfigured: never fall back to "all"
+            raise RuntimeError(f"workday: no configured location resolved on {tenant}/{site}")
+        applied["locations"] = loc_ids
+
+    # reuse posting dates already resolved in the previous snapshot; only new ids need a detail hit
+    prev_dates = {}
+    state_path = DATA_DIR / cfg["slug"] / "current_state.json"
+    if state_path.exists():
+        for j in json.loads(state_path.read_text(encoding="utf-8")).get("jobs", []):
+            if j.get("published_at"):
+                prev_dates[j["job_id"]] = j["published_at"]
+
+    def posting_date(external_path, req_id):
+        if req_id in prev_dates:
+            return prev_dates[req_id]
+        time.sleep(0.3)
+        try:
+            info = http_get_json(base + external_path).get("jobPostingInfo", {})
+            sd = info.get("startDate") or ""
+            return sd + "T00:00:00+00:00" if sd else ""
+        except Exception:
+            return ""
+
+    # Workday reports the real count only on the first page and then wraps instead of returning
+    # an empty page, so bound pagination by that total (and de-dupe by req id as a backstop).
+    first = post_jobs(applied, 0)
+    total = first.get("total") or 0
+    postings, offset = list(first.get("jobPostings", [])), 20
+    while offset < total:
+        page = post_jobs(applied, offset).get("jobPostings", [])
+        if not page:
+            break
+        postings += page
+        offset += 20
+
+    jobs, seen = [], set()
+    for j in postings:
+        ep = j.get("externalPath") or ""
+        req_id = (j.get("bulletFields") or [""])[0] or ep.rsplit("_", 1)[-1]
+        if not req_id or req_id in seen:
+            continue
+        seen.add(req_id)
+        loc = (j.get("locationsText") or "").strip()
+        jobs.append(normalize_job(
+            req_id, j.get("title"), loc, posting_date(ep, req_id),
+            f"https://{host}/{site}{ep}" if ep else "",
+            is_remote="remote" in loc.lower()))
+    jobs.sort(key=lambda j: j["job_id"])
+    return jobs
+
+
 ADAPTERS = {
     "ashby": fetch_ashby,
     "greenhouse": fetch_greenhouse,
@@ -312,6 +413,7 @@ ADAPTERS = {
     "personio": fetch_personio,
     "teamtailor": fetch_teamtailor,
     "workable": fetch_workable,
+    "workday": fetch_workday,
 }
 
 
@@ -456,7 +558,9 @@ def run_company(cfg: dict, now: datetime) -> dict:
     now_iso = now.isoformat(timespec="seconds")
 
     try:
-        cur_jobs = fetch(board)
+        # workday needs the whole config (company/location filter, slug for its date cache);
+        # every other adapter takes just the board string.
+        cur_jobs = fetch(cfg) if ats == "workday" else fetch(board)
     except (OSError, json.JSONDecodeError, ET.ParseError) as exc:
         # any feed problem — unreachable, HTTP error (capella hit 404), timeout, or a garbage
         # response — is an external outage, not our bug: record it for the dashboard and keep

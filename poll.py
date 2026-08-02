@@ -359,24 +359,29 @@ def fetch_workday(cfg) -> list[dict]:
             raise RuntimeError(f"workday: no configured location resolved on {tenant}/{site}")
         applied["locations"] = loc_ids
 
-    # reuse posting dates already resolved in the previous snapshot; only new ids need a detail hit
-    prev_dates = {}
+    # reuse date + resolved location from the previous snapshot; only new ids need a detail hit
+    prev = {}
     state_path = DATA_DIR / cfg["slug"] / "current_state.json"
     if state_path.exists():
         for j in json.loads(state_path.read_text(encoding="utf-8")).get("jobs", []):
             if j.get("published_at"):
-                prev_dates[j["job_id"]] = j["published_at"]
+                prev[j["job_id"]] = (j["published_at"], j.get("location", ""), j.get("secondary_locations", []))
 
-    def posting_date(external_path, req_id):
-        if req_id in prev_dates:
-            return prev_dates[req_id]
+    def detail(external_path, req_id):
+        # (published_at, primary location, [additional locations]). The list only carries a relative
+        # date and a collapsed "N Locations", so the detail (startDate, location) is the real source.
+        cached = prev.get(req_id)
+        if cached and cached[0] and "Locations" not in cached[1]:   # reuse unless the location was collapsed
+            return cached
         time.sleep(0.3)
         try:
             info = http_get_json(base + external_path).get("jobPostingInfo", {})
             sd = info.get("startDate") or ""
-            return sd + "T00:00:00+00:00" if sd else ""
+            return (sd + "T00:00:00+00:00" if sd else "",
+                    (info.get("location") or "").strip(),
+                    [a for a in (info.get("additionalLocations") or []) if a])
         except Exception:
-            return ""
+            return ("", "", [])
 
     # Workday reports the real count only on the first page and then wraps instead of returning
     # an empty page, so bound pagination by that total (and de-dupe by req id as a backstop).
@@ -397,11 +402,14 @@ def fetch_workday(cfg) -> list[dict]:
         if not req_id or req_id in seen:
             continue
         seen.add(req_id)
-        loc = (j.get("locationsText") or "").strip()
-        jobs.append(normalize_job(
-            req_id, j.get("title"), loc, posting_date(ep, req_id),
+        pub, loc, extra = detail(ep, req_id)
+        loc = loc or (j.get("locationsText") or "").strip()   # fall back to the list if the detail lacks it
+        job = normalize_job(
+            req_id, j.get("title"), loc, pub,
             f"https://{host}/{site}{ep}" if ep else "",
-            is_remote="remote" in loc.lower()))
+            is_remote="remote" in loc.lower())
+        job["secondary_locations"] = extra
+        jobs.append(job)
     jobs.sort(key=lambda j: j["job_id"])
     return jobs
 

@@ -386,6 +386,26 @@
    "lon": -100.445882,
    "label": "US",
    "remote": true
+  },
+  "2 locations": {
+   "lat": -1.0783405,
+   "lon": 37.8606315,
+   "label": "Nzalae/ Nzawa locations"
+  },
+  "4 locations": {
+   "lat": -1.0783405,
+   "lon": 37.8606315,
+   "label": "Nzalae/ Nzawa locations"
+  },
+  "bremen area": {
+   "lat": 4.7160338,
+   "lon": -75.6738448,
+   "label": "Bremen"
+  },
+  "immenstaad am bodensee": {
+   "lat": 47.6658914,
+   "lon": 9.3676364,
+   "label": "Immenstaad am Bodensee"
   }
  }
 }

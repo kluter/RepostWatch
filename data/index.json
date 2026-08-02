@@ -185,28 +185,6 @@
    "partners": [
     "SpaceX (launch)"
    ]
-  },
-  {
-   "slug": "airbus-ds",
-   "ats": "workday",
-   "board": "ag.wd3.myworkdayjobs.com/ag/Airbus",
-   "company": "Airbus Defence and Space GmbH",
-   "locations": [
-    "Immenstaad am Bodensee",
-    "Bremen Area",
-    "Taufkirchen / Ottobrunn",
-    "Potsdam",
-    "Berlin",
-    "Berlin Area"
-   ],
-   "name": "Airbus Defence and Space",
-   "website": "https://www.airbus.com/en/products-services/space",
-   "logo": "assets/companies/airbus-ds.png",
-   "facts": {
-    "Founded": "2014",
-    "HQ": "Taufkirchen, Germany",
-    "Industry": "Space systems, satellites, radar & Earth observation"
-   }
   }
  ]
 }

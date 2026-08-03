@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-07-31T18:08:46+00:00",
- "job_count": 129,
+ "fetched_at": "2026-08-03T18:24:52+00:00",
+ "job_count": 131,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -1938,6 +1938,36 @@
    "is_remote": false,
    "published_at": "2026-07-31T08:55:33-04:00",
    "url": "https://helsing.ai/jobs/4942502101?gh_jid=4942502101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4943175101",
+   "lineage_key": "firmware-engineer@barcelona",
+   "title": "Firmware Engineer",
+   "department": "Physical Products",
+   "team": "",
+   "location": "Barcelona",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-03T11:20:02-04:00",
+   "url": "https://helsing.ai/jobs/4943175101?gh_jid=4943175101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4943195101",
+   "lineage_key": "robotics-software-engineer@barcelona",
+   "title": "Robotics Software Engineer",
+   "department": "Physical Products",
+   "team": "",
+   "location": "Barcelona",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-03T11:22:35-04:00",
+   "url": "https://helsing.ai/jobs/4943195101?gh_jid=4943195101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-07-31T12:30:03+00:00",
- "job_count": 27,
+ "fetched_at": "2026-08-03T18:24:52+00:00",
+ "job_count": 28,
  "jobs": [
   {
    "job_id": "076F11402A",
@@ -281,6 +281,21 @@
    "published_at": "2026-07-23T00:00:00+00:00",
    "url": "https://apply.workable.com/j/A6F8E3AB69",
    "description_sha256": "b2ca6f2cc3504b1b6db3a03b3e764b9eb1b3769104ec180cc4f8d3b4102d4a5e"
+  },
+  {
+   "job_id": "A9AE7BC7D6",
+   "lineage_key": "program-security-manager@reston-united-states",
+   "title": "Program Security Manager",
+   "department": "Shared Services",
+   "team": "",
+   "location": "Reston, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-03T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/A9AE7BC7D6",
+   "description_sha256": "06d238cf9923957ec0072cdd77b0ffa34d78b52b509a590cf5ae8f6ea511c213"
   },
   {
    "job_id": "AFAC52DD12",

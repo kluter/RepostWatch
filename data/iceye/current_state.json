@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-03T13:26:08+00:00",
- "job_count": 153,
+ "fetched_at": "2026-08-03T18:24:52+00:00",
+ "job_count": 155,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -109,6 +109,21 @@
    "published_at": "2026-05-22T12:10:55.236+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/1197834e-3203-4546-8f55-2bde6fe39546",
    "description_sha256": "db2626442c7df5c5dc0a930431bceda91eefe5d1862179a081abff7fef7bb199"
+  },
+  {
+   "job_id": "11eb505c-bd89-4db5-acdc-ccc4f3cf2b6f",
+   "lineage_key": "brand-design-trainee@espoo",
+   "title": "Brand Design Trainee",
+   "department": "Marketing",
+   "team": "Global Brand & Design",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-03T15:04:15.855+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/11eb505c-bd89-4db5-acdc-ccc4f3cf2b6f",
+   "description_sha256": "7ada1147cf7428a96dc6e5a4acbf2049cea5f4424abe378c7df74a2998c55500"
   },
   {
    "job_id": "15ec7f83-01ba-46fc-91c6-88cd28bb6338",
@@ -413,6 +428,21 @@
    "published_at": "2026-07-13T12:33:02.670+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/3177be0f-5997-45cf-bbdb-60b1c38543ea",
    "description_sha256": "2cf161eff75b016d4406b6f00ff6699f2ce002c85343b6e1cd5848f5e398bfab"
+  },
+  {
+   "job_id": "32a84004-0c4b-44f6-baa7-a288696745f2",
+   "lineage_key": "team-manager-supply-chain-category-mechanical-systems-manufacturing-enablement@espoo",
+   "title": "Team Manager Supply Chain, Category Mechanical Systems & Manufacturing Enablement",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-03T17:30:31.409+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/32a84004-0c4b-44f6-baa7-a288696745f2",
+   "description_sha256": "a4ca0e7f0d52c146b3f4f3464f36ef0b6e412d728082534fcee957e51bb19564"
   },
   {
    "job_id": "332b1d49-0d7e-43de-a460-41e36bd42519",

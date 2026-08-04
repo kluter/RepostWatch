@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-04T12:27:24+00:00",
+ "fetched_at": "2026-08-04T18:16:56+00:00",
  "job_count": 157,
  "jobs": [
   {
@@ -33,7 +33,7 @@
    "is_remote": true,
    "published_at": "2026-06-25T09:37:15.157+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/06f113d6-1702-4346-9369-97d70d68738b",
-   "description_sha256": "9c00a7645019b92d4a3f167e5764981baa6c283117173c6cabd4803c0ffd40ae"
+   "description_sha256": "e3b07964153ad1e82b039947098992ca37c960e4ba87eb77a8310e17374a22a9"
   },
   {
    "job_id": "09d02ba3-5ba6-4a11-bb30-74e42c22c485",
@@ -1475,7 +1475,7 @@
    "is_remote": true,
    "published_at": "2026-07-02T06:39:30.657+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/8f7f141e-a48d-409e-96e4-f413afc738f0",
-   "description_sha256": "73364482c78320f970c773ccfd7b688cc7563649b9e5abcf5a20fb785d207eaf"
+   "description_sha256": "5bd49935ab667ba17d57183aee52a618ddffd4f8738e59a20d45bb46e467e55a"
   },
   {
    "job_id": "9371410f-1664-48c7-8153-466766739c8d",
@@ -1724,7 +1724,7 @@
    "lineage_key": "senior-software-engineer-tasking-and-planning@valencia",
    "title": "Senior Software Engineer - Tasking and Planning",
    "department": "Engineering",
-   "team": "Engineering Management",
+   "team": "SIGINT",
    "location": "Valencia",
    "secondary_locations": [],
    "employment_type": "FullTime",

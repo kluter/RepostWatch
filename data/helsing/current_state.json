@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-08-04T12:27:24+00:00",
- "job_count": 132,
+ "fetched_at": "2026-08-04T18:16:56+00:00",
+ "job_count": 135,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -1983,6 +1983,51 @@
    "is_remote": false,
    "published_at": "2026-08-03T11:22:35-04:00",
    "url": "https://helsing.ai/jobs/4943195101?gh_jid=4943195101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4944070101",
+   "lineage_key": "associate-programme-manager-land@munich",
+   "title": "Associate Programme Manager - Land",
+   "department": "Campaigns & Programmes",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-04T10:15:48-04:00",
+   "url": "https://helsing.ai/jobs/4944070101?gh_jid=4944070101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4944089101",
+   "lineage_key": "programme-manager-land@munich",
+   "title": "Programme Manager - Land",
+   "department": "Campaigns & Programmes",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-04T10:14:34-04:00",
+   "url": "https://helsing.ai/jobs/4944089101?gh_jid=4944089101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4944213101",
+   "lineage_key": "senior-programme-manager-land@munich",
+   "title": "Senior Programme Manager - Land",
+   "department": "Campaigns & Programmes",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-04T10:17:16-04:00",
+   "url": "https://helsing.ai/jobs/4944213101?gh_jid=4944213101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

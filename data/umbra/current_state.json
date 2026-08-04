@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-08-04T12:27:24+00:00",
- "job_count": 29,
+ "fetched_at": "2026-08-04T18:16:56+00:00",
+ "job_count": 28,
  "jobs": [
   {
    "job_id": "076F11402A",
@@ -329,21 +329,6 @@
    "published_at": "2026-07-10T00:00:00+00:00",
    "url": "https://apply.workable.com/j/AFAC52DD12",
    "description_sha256": "451cb579b0275f28286d5d39cae7cab143d31b041ba8c699fc73b27189bb1d59"
-  },
-  {
-   "job_id": "B246C204D0",
-   "lineage_key": "spacecraft-mechanical-engineer@reston-united-states",
-   "title": "Spacecraft Mechanical Engineer",
-   "department": "Mission Solutions",
-   "team": "",
-   "location": "Reston, United States",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-04T00:00:00+00:00",
-   "url": "https://apply.workable.com/j/B246C204D0",
-   "description_sha256": "af1a56b7c0d7d09bdc13809a2e947dffea76d910d2becf758625e4563cc225d2"
   },
   {
    "job_id": "BF8C539DFF",

@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-08-04T12:27:24+00:00",
- "job_count": 48,
+ "fetched_at": "2026-08-04T18:16:56+00:00",
+ "job_count": 47,
  "jobs": [
   {
    "job_id": "6521832",
@@ -408,21 +408,6 @@
    "is_remote": false,
    "published_at": "2026-05-22T08:06:16-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=7950114&gh_jid=7950114",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7972357",
-   "lineage_key": "delivery-project-manager@munich-bavaria-germany",
-   "title": "Delivery Project Manager",
-   "department": "Program Management",
-   "team": "",
-   "location": "Munich, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-01T09:35:06-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7972357&gh_jid=7972357",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-08-03T18:24:52+00:00",
- "job_count": 92,
+ "fetched_at": "2026-08-04T18:16:56+00:00",
+ "job_count": 90,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -666,21 +666,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4851760101",
-   "lineage_key": "software-engineer-data-apps-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Software Engineer Data Apps (m/f/d)",
-   "department": "Ground Systems",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-03T18:00:00-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4851760101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4852888101",
    "lineage_key": "software-engineer-m-f-d@ottobrunn-bavaria-germany",
    "title": "Software Engineer (m/f/d)",
@@ -1113,21 +1098,6 @@
    "is_remote": false,
    "published_at": "2026-07-10T06:04:07-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4923491101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4924585101",
-   "lineage_key": "lead-engineer-fluid-systems-w-f-d@ottobrunn-bavaria-germany",
-   "title": "Lead Engineer Fluid Systems (w/f/d)",
-   "department": "Propulsion",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-10T07:01:02-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4924585101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

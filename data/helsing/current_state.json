@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-08-03T18:24:52+00:00",
- "job_count": 131,
+ "fetched_at": "2026-08-04T12:27:24+00:00",
+ "job_count": 132,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -1833,6 +1833,21 @@
    "is_remote": false,
    "published_at": "2026-07-23T05:19:12-04:00",
    "url": "https://helsing.ai/jobs/4934633101?gh_jid=4934633101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4934651101",
+   "lineage_key": "lead-legal-counsel-corporate-office@munich",
+   "title": "Lead Legal Counsel Corporate Office",
+   "department": "Legal",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-04T05:15:04-04:00",
+   "url": "https://helsing.ai/jobs/4934651101?gh_jid=4934651101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

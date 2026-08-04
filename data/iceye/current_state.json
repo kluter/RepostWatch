@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-03T18:24:52+00:00",
- "job_count": 155,
+ "fetched_at": "2026-08-04T12:27:24+00:00",
+ "job_count": 157,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -536,16 +536,16 @@
   },
   {
    "job_id": "387a2a71-1b63-44b4-ac07-eaa487a78f63",
-   "lineage_key": "senior-accountant@warsaw",
+   "lineage_key": "senior-accountant@espoo",
    "title": "Senior Accountant",
    "department": "Finance",
    "team": "Finance",
-   "location": "Warsaw",
+   "location": "Espoo",
    "secondary_locations": [],
    "employment_type": "FullTime",
    "workplace_type": "Hybrid",
    "is_remote": true,
-   "published_at": "2026-08-03T11:29:04.973+00:00",
+   "published_at": "2026-08-04T07:36:05.304+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/387a2a71-1b63-44b4-ac07-eaa487a78f63",
    "description_sha256": "61f7247d60b7da0299c8d55aaded1edffb3ce4ff0bac66b3906ae299b81f4096"
   },
@@ -850,6 +850,21 @@
    "published_at": "2026-06-18T11:35:49.302+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/545051b5-35a4-4859-a33a-095037a0988e",
    "description_sha256": "1018db7c14c7126efec42281c2c5b71d1291914394296e8dd707a268276b5191"
+  },
+  {
+   "job_id": "565cf1a9-250b-4ce5-ab2d-140fe2955412",
+   "lineage_key": "gmo-job-template@espoo",
+   "title": "GMO Job Template",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Strategy & Compliance",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-04T10:28:34.613+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/565cf1a9-250b-4ce5-ab2d-140fe2955412",
+   "description_sha256": "c9065403d17ff50122550fcccb7b825ef8d80baa4c941cea26b424634df589de"
   },
   {
    "job_id": "5666cc2e-53f7-4e19-b971-b183adb5555c",
@@ -2224,6 +2239,21 @@
    "published_at": "2026-05-29T06:59:32.047+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e4d89d32-5bee-4090-8bd0-5634803b6d3f",
    "description_sha256": "6b6d3b01b83814ba591147effa8fd16d42ce8e2443513dc61c98a11a5426e6bd"
+  },
+  {
+   "job_id": "e7d59b96-29fb-4d6c-8e4b-4cdb4e38da1b",
+   "lineage_key": "senior-accountant@warsaw",
+   "title": "Senior Accountant",
+   "department": "Finance",
+   "team": "Finance",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-04T07:37:48.416+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/e7d59b96-29fb-4d6c-8e4b-4cdb4e38da1b",
+   "description_sha256": "1617d6bf7e7d3096edb1b69f2464848fc6c31d5e5e172be20c5d2ac3af54abaf"
   },
   {
    "job_id": "ea6fcf8b-f800-4abb-a254-cb82596b5c98",

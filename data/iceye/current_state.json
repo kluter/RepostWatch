@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-05T12:24:56+00:00",
+ "fetched_at": "2026-08-05T18:09:28+00:00",
  "job_count": 157,
  "jobs": [
   {
@@ -200,7 +200,7 @@
    "is_remote": false,
    "published_at": "2026-07-01T08:25:06.569+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/1ac23b1c-f069-48c3-978f-1b37fdf0787f",
-   "description_sha256": "934e2299d9ddee4850131ed38ebd3a405f22356b88a11d99ee164ddd03843a60"
+   "description_sha256": "b04ab36e24ddcc3dc0f06ce9acdf159897ade4b7cf5e533914ed908ef1d8b86d"
   },
   {
    "job_id": "1d549489-1557-489d-8cb4-1d6ec124f624",
@@ -291,21 +291,6 @@
    "published_at": "2026-07-02T16:08:24.106+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/25d1fe95-5578-4cc8-8b5a-334e238e6f3d",
    "description_sha256": "9a67c4f963702931ff280b411fd29794859921184e9935c751b1ecc80c7d9cf9"
-  },
-  {
-   "job_id": "26767edd-7f2f-4cb0-a8a4-9895a43f4848",
-   "lineage_key": "head-of-operations@lisbon",
-   "title": "Head of Operations",
-   "department": "Operations",
-   "team": "Operations",
-   "location": "Lisbon",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-09T12:41:31.256+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/26767edd-7f2f-4cb0-a8a4-9895a43f4848",
-   "description_sha256": "fba000a7af6b445964cfb4c912a2622d703337900999bbec3346b485bff7eb09"
   },
   {
    "job_id": "2a0250ec-cd39-4589-9ee9-f1bffd4a4975",
@@ -897,6 +882,21 @@
    "description_sha256": "abb5533871bb7e3467edc685f4f5cc2141e9b2a93cbe198222555a6e20353bdb"
   },
   {
+   "job_id": "637982df-5c1e-437a-81ee-3e234f75a732",
+   "lineage_key": "senior-software-engineer-tactical-access@espoo",
+   "title": "Senior Software Engineer (Tactical Access)",
+   "department": "Engineering",
+   "team": "Business Automation",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-05T13:40:02.499+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/637982df-5c1e-437a-81ee-3e234f75a732",
+   "description_sha256": "56b5116866add8ce60a51fee81d8bc71c094beb608f922f6ef297fa365f57417"
+  },
+  {
    "job_id": "63ba947b-f760-4432-99cb-0c4428eca916",
    "lineage_key": "small-opportunities-seller-business-development-specialist@espoo",
    "title": "Small Opportunities Seller / Business Development Specialist",
@@ -1209,18 +1209,18 @@
   },
   {
    "job_id": "7939fd30-429c-4905-b5f1-cea49915ecfd",
-   "lineage_key": "forward-deployed-geospatial-engineer-sar-intelligence-portugal@warsaw",
+   "lineage_key": "forward-deployed-geospatial-engineer-sar-intelligence-portugal@lisbon",
    "title": "Forward Deployed Geospatial Engineer - SAR Intelligence, Portugal",
    "department": "Forward Deployed Engineering",
    "team": "Forward Deployed Engineering",
-   "location": "Warsaw",
+   "location": "Lisbon",
    "secondary_locations": [],
    "employment_type": "FullTime",
    "workplace_type": "Hybrid",
    "is_remote": true,
    "published_at": "2026-07-01T08:25:09.894+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/7939fd30-429c-4905-b5f1-cea49915ecfd",
-   "description_sha256": "2e80a25a50d6914834679e2e267a37e86eed6a09d91ccd5f1cbf46ff19d0bd92"
+   "description_sha256": "f5cae2aeab3f779986729e081aaefe3abf5b6a8d6d2f8c803ce16ea54d1891c4"
   },
   {
    "job_id": "7bbb296f-206c-4a56-b757-b9d3099dbc6f",
@@ -1841,18 +1841,18 @@
   },
   {
    "job_id": "c02a179c-cf37-4eae-be66-05c3fc49f67d",
-   "lineage_key": "forward-deployed-geospatial-engineer-sar-intelligence-poland@lisbon",
+   "lineage_key": "forward-deployed-geospatial-engineer-sar-intelligence-poland@warsaw",
    "title": "Forward Deployed Geospatial Engineer - SAR Intelligence, Poland",
    "department": "Forward Deployed Engineering",
    "team": "Forward Deployed Engineering",
-   "location": "Lisbon",
+   "location": "Warsaw",
    "secondary_locations": [],
    "employment_type": "FullTime",
    "workplace_type": "Hybrid",
    "is_remote": true,
    "published_at": "2026-07-01T08:25:12.815+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/c02a179c-cf37-4eae-be66-05c3fc49f67d",
-   "description_sha256": "b59c166a481de0229c6615a8d6d3a9c020c486c8885f0b7c9f6f430f6a0a2b93"
+   "description_sha256": "caadd1b4dbbe69d11f76513c107cfaecf55de63b2a92ff72f42990e38318e739"
   },
   {
    "job_id": "c3536786-e2fa-4564-ba73-f26a44a02fde",

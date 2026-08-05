@@ -2,7 +2,7 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-08-04T18:16:56+00:00",
+ "fetched_at": "2026-08-05T12:24:56+00:00",
  "job_count": 90,
  "jobs": [
   {
@@ -879,7 +879,7 @@
    "job_id": "4897729101",
    "lineage_key": "senior-security-architect-m-f-d@andenes-nordland-norway",
    "title": "Senior Security Architect (m/f/d)",
-   "department": "CEO Office",
+   "department": "Information & Cybersecurity",
    "team": "",
    "location": "Andenes, Nordland, Norway",
    "secondary_locations": [],

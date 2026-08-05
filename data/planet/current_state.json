@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-08-04T18:16:56+00:00",
- "job_count": 83,
+ "fetched_at": "2026-08-05T12:24:56+00:00",
+ "job_count": 82,
  "jobs": [
   {
    "job_id": "7374533",
@@ -378,21 +378,6 @@
    "is_remote": false,
    "published_at": "2026-06-08T08:01:28-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7811318",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7870467",
-   "lineage_key": "customer-success-manager-emea-civil-governments@berlin-germany",
-   "title": "Customer Success Manager, EMEA Civil Governments",
-   "department": "Customer Success Management",
-   "team": "",
-   "location": "Berlin, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-05T07:30:33-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7870467",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-04T18:16:56+00:00",
+ "fetched_at": "2026-08-05T12:24:56+00:00",
  "job_count": 157,
  "jobs": [
   {
@@ -79,21 +79,6 @@
    "published_at": "2026-06-19T07:35:20.768+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/0d85e5cc-a568-41e5-817b-a872d6e8dbdc",
    "description_sha256": "aafc2da7d4a91a214bf42f31111f2ec32dd2b789630a0d5f9b49559dfd5fd773"
-  },
-  {
-   "job_id": "0ea7048b-1c32-4dab-9dac-099409e74112",
-   "lineage_key": "senior-fpga-engineer@warsaw",
-   "title": "Senior FPGA Engineer",
-   "department": "Engineering",
-   "team": "Flight Software",
-   "location": "Warsaw",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-05-11T11:47:49.296+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/0ea7048b-1c32-4dab-9dac-099409e74112",
-   "description_sha256": "037c812abbac09219ad43e8db597de8f685b23621375d1cf87b86dd00153e437"
   },
   {
    "job_id": "1197834e-3203-4546-8f55-2bde6fe39546",
@@ -852,21 +837,6 @@
    "description_sha256": "1018db7c14c7126efec42281c2c5b71d1291914394296e8dd707a268276b5191"
   },
   {
-   "job_id": "565cf1a9-250b-4ce5-ab2d-140fe2955412",
-   "lineage_key": "gmo-job-template@espoo",
-   "title": "GMO Job Template",
-   "department": "Global Manufacturing Organization",
-   "team": "Global Manufacturing Strategy & Compliance",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-04T10:28:34.613+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/565cf1a9-250b-4ce5-ab2d-140fe2955412",
-   "description_sha256": "c9065403d17ff50122550fcccb7b825ef8d80baa4c941cea26b424634df589de"
-  },
-  {
    "job_id": "5666cc2e-53f7-4e19-b971-b183adb5555c",
    "lineage_key": "staff-developer-advocate@espoo",
    "title": "Staff Developer Advocate",
@@ -1448,6 +1418,21 @@
    "description_sha256": "142b5c89d48585c8dd3a62de1d1403dea2c890e17e4a92e078eb3cf8b9c8e4fb"
   },
   {
+   "job_id": "8d27f213-6661-450f-a7be-7d5d461c7a59",
+   "lineage_key": "fullstack-engineer-product-engineering@espoo",
+   "title": "Fullstack Engineer, Product Engineering",
+   "department": "Solutions",
+   "team": "Product Engineering",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-05T09:00:04.125+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/8d27f213-6661-450f-a7be-7d5d461c7a59",
+   "description_sha256": "37cc6cc45cf9b1d13c288d3c5bfe2a8907e753fbdff066fb959f7d7f954c7cbe"
+  },
+  {
    "job_id": "8f6aae6f-73d9-4b7e-afb5-9e27089d13d7",
    "lineage_key": "operations-program-manager-maite-finland@espoo",
    "title": "Operations Program Manager, MAITE Finland",
@@ -1643,6 +1628,21 @@
    "published_at": "2026-04-09T05:47:53.287+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/a0c0d21d-7086-4579-8e61-3fa52a419804",
    "description_sha256": "ddf11ba33f6cfb6944766f6814abe9eb1164fd82967c316f70a48958054487e1"
+  },
+  {
+   "job_id": "a11a91a1-e3d5-46d0-a055-41b13ad33967",
+   "lineage_key": "senior-software-engineer-product-engineering@espoo",
+   "title": "Senior Software Engineer, Product Engineering",
+   "department": "Solutions",
+   "team": "Product Engineering",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-05T09:00:20.909+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/a11a91a1-e3d5-46d0-a055-41b13ad33967",
+   "description_sha256": "247e1ebab2ed4f7e83c74985ee484f201df5c2b02fcabe05a9aa6ff948253cfe"
   },
   {
    "job_id": "a6d0bba0-2219-4f01-8c79-f4d945de5af7",

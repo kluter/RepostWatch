@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-05T18:09:28+00:00",
- "job_count": 157,
+ "fetched_at": "2026-08-06T12:28:18+00:00",
+ "job_count": 162,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -171,6 +171,21 @@
    "description_sha256": "2035002c658b29ee537d83fae3cfb8c35f03f3556757b51a5d9a650f0fb84141"
   },
   {
+   "job_id": "19d29db2-9a39-4e9b-967a-c63105c1eeaa",
+   "lineage_key": "flight-software-engineer-sar-payload@espoo",
+   "title": "Flight Software Engineer SAR Payload",
+   "department": "Engineering",
+   "team": "Flight Software",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-06T10:28:27.747+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/19d29db2-9a39-4e9b-967a-c63105c1eeaa",
+   "description_sha256": "fb3d6ff2f0255246e6f515f728375edcc0d0cdb6f44e9ecb34ab15b28c9d9339"
+  },
+  {
    "job_id": "1a3ccdc2-fea0-42a9-92bd-dd8422b8ef71",
    "lineage_key": "senior-electronics-r-d-test-engineer@warsaw",
    "title": "Senior Electronics R&D Test Engineer",
@@ -336,6 +351,21 @@
    "published_at": "2026-07-13T08:29:40.808+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/2add20af-74f0-43e9-b959-6470084b1091",
    "description_sha256": "16857389f63d2db6a0e4b67e63c2309704ec597bbf4586959a05e59a46b18bb4"
+  },
+  {
+   "job_id": "2ce98cea-3f03-41a2-8f9a-0a19408b3fab",
+   "lineage_key": "lab-technician@espoo",
+   "title": "Lab Technician",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-06T11:43:08.271+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/2ce98cea-3f03-41a2-8f9a-0a19408b3fab",
+   "description_sha256": "5b9f1de6b3fbd7ac7762d32a651fa1168e45a2213f3759d90c0c40cb3e36c26d"
   },
   {
    "job_id": "2ef68fcc-6ce8-476e-8c94-6e7b099842e9",
@@ -820,6 +850,21 @@
    "published_at": "2026-06-18T11:35:49.302+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/545051b5-35a4-4859-a33a-095037a0988e",
    "description_sha256": "1018db7c14c7126efec42281c2c5b71d1291914394296e8dd707a268276b5191"
+  },
+  {
+   "job_id": "565cf1a9-250b-4ce5-ab2d-140fe2955412",
+   "lineage_key": "supply-planning-specialist@espoo",
+   "title": "Supply Planning Specialist",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Strategy & Compliance",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-06T06:57:55.796+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/565cf1a9-250b-4ce5-ab2d-140fe2955412",
+   "description_sha256": "c9065403d17ff50122550fcccb7b825ef8d80baa4c941cea26b424634df589de"
   },
   {
    "job_id": "5666cc2e-53f7-4e19-b971-b183adb5555c",
@@ -1675,6 +1720,21 @@
    "description_sha256": "1efd2367aaf92f42f43b46efa1363e2605f2bec54c597e378961e0effff5336e"
   },
   {
+   "job_id": "aa323d27-cb46-49da-ad7b-2af2821fccfa",
+   "lineage_key": "flight-software-team-lead@warsaw",
+   "title": "Flight Software Team Lead",
+   "department": "Engineering",
+   "team": "Flight Software",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-06T11:21:50.920+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/aa323d27-cb46-49da-ad7b-2af2821fccfa",
+   "description_sha256": "cc97f4a1c605755f307dbb1058391131fa8d1c894bbeafa7e2d6a94861d02bbe"
+  },
+  {
    "job_id": "aabf95c8-9cc7-4de2-95e1-89ff3ca605b9",
    "lineage_key": "software-engineer-unmanned-aircraft-avionics-firmware-autopilot@valencia-spain",
    "title": "Software Engineer, Unmanned Aircraft (Avionics, Firmware, Autopilot)",
@@ -2209,6 +2269,21 @@
    "published_at": "2026-04-29T16:43:14.373+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e276cf77-21f8-4509-b926-d9d24fda8d48",
    "description_sha256": "ac3b6b8435ba86b5f7413c3ca4cb2d9b23dbeb1442fa781db84e1ffe9b7437e2"
+  },
+  {
+   "job_id": "e358575f-01c4-40ce-aac5-68f7255fce67",
+   "lineage_key": "information-security-officer-governance-risk-compliance@espoo",
+   "title": "Information Security Officer – Governance, Risk & Compliance",
+   "department": "IT & Security",
+   "team": "IT & Security Staff",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-06T10:32:08.052+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/e358575f-01c4-40ce-aac5-68f7255fce67",
+   "description_sha256": "bb00c8cb6b90cae8710f4c61d95a5e167642c91894a26b479544ff575a2f9760"
   },
   {
    "job_id": "e445d7f9-cdf6-4df8-9da5-bced47318ff2",

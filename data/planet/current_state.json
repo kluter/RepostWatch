@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-08-05T12:24:56+00:00",
- "job_count": 82,
+ "fetched_at": "2026-08-06T12:28:18+00:00",
+ "job_count": 80,
  "jobs": [
   {
    "job_id": "7374533",
@@ -771,21 +771,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8008293",
-   "lineage_key": "software-engineer-mission-systems@united-states-remote",
-   "title": "Software Engineer, Mission Systems",
-   "department": "Missions Software",
-   "team": "",
-   "location": "United States, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-06-23T16:11:53-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8008293",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8008355",
    "lineage_key": "software-engineer-missions-software@united-states-remote",
    "title": "Software Engineer, Missions Software",
@@ -1203,21 +1188,6 @@
    "is_remote": false,
    "published_at": "2026-07-30T19:04:14-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8088251",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8088256",
-   "lineage_key": "senior-product-designer@berlin-germany",
-   "title": "Senior Product Designer",
-   "department": "UX",
-   "team": "",
-   "location": "Berlin, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-28T09:22:57-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8088256",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

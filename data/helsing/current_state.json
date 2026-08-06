@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-08-05T12:24:56+00:00",
- "job_count": 133,
+ "fetched_at": "2026-08-06T12:28:18+00:00",
+ "job_count": 135,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -1998,6 +1998,36 @@
    "is_remote": false,
    "published_at": "2026-08-04T10:17:16-04:00",
    "url": "https://helsing.ai/jobs/4944213101?gh_jid=4944213101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4945398101",
+   "lineage_key": "brand-manager-marketing-communications@munich",
+   "title": "Brand Manager - Marketing & Communications",
+   "department": "Marketing & Communications",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-06T07:02:52-04:00",
+   "url": "https://helsing.ai/jobs/4945398101?gh_jid=4945398101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4947489101",
+   "lineage_key": "multimodal-sensing-test-engineer@munich",
+   "title": "Multimodal Sensing Test Engineer",
+   "department": "Hardware Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-06T07:09:07-04:00",
+   "url": "https://helsing.ai/jobs/4947489101?gh_jid=4947489101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

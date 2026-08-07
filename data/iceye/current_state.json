@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-06T12:28:18+00:00",
- "job_count": 162,
+ "fetched_at": "2026-08-07T11:25:19+00:00",
+ "job_count": 165,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -398,6 +398,21 @@
    "published_at": "2026-04-30T11:57:51.812+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/30035258-9970-4f6f-a5ba-7b770c6b941d",
    "description_sha256": "b3cb445908c23bdafb15592a7a4fb08430feb42c468daec7b49fc80cbab8aca7"
+  },
+  {
+   "job_id": "300fe8d1-7376-4f7e-8ca7-2e577c8fb13a",
+   "lineage_key": "executive-business-partner@lisbon",
+   "title": "Executive Business Partner",
+   "department": "Operations",
+   "team": "Operations",
+   "location": "Lisbon",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-07T08:05:16.702+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/300fe8d1-7376-4f7e-8ca7-2e577c8fb13a",
+   "description_sha256": "551b99344c2e35a3a86e690b0d663d17472b0f8bf0281ca4417dd95fe6eaac59"
   },
   {
    "job_id": "307e5ecf-9033-424d-b6e5-39d0483e7f49",
@@ -1508,6 +1523,21 @@
    "description_sha256": "5bd49935ab667ba17d57183aee52a618ddffd4f8738e59a20d45bb46e467e55a"
   },
   {
+   "job_id": "9345ad5b-0bc7-4fdc-9988-743857de3c94",
+   "lineage_key": "sar-spacecraft-harness-design-team-lead@espoo",
+   "title": "SAR Spacecraft Harness Design Team Lead",
+   "department": "Engineering",
+   "team": "Spacecraft Hardware",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-06T12:44:38.278+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/9345ad5b-0bc7-4fdc-9988-743857de3c94",
+   "description_sha256": "ee94cc78ea09a94dfaede64c47d1e762e99d98576d3dabbf19d57b5daa9b4665"
+  },
+  {
    "job_id": "9371410f-1664-48c7-8153-466766739c8d",
    "lineage_key": "rf-satellite-systems-software-production-team-lead@valencia",
    "title": "RF, Satellite Systems & Software Production Team Lead",
@@ -1702,7 +1732,7 @@
    "is_remote": false,
    "published_at": "2026-07-21T12:14:33.756+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/a6d0bba0-2219-4f01-8c79-f4d945de5af7",
-   "description_sha256": "481c569150e701d6ef2b2fc71fd441a0d710ff673718556fc285f96d0a7734ed"
+   "description_sha256": "6efb8bdd2f343ca398d4bcb41438264b8b989fd1b22a71699a0907888e108da7"
   },
   {
    "job_id": "a6db612f-b49f-4be4-a4d4-7639649a1cf7",
@@ -1763,6 +1793,21 @@
    "published_at": "2026-06-10T17:28:24.635+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/af4bb424-4f4e-451d-b34a-aa86611a61b5",
    "description_sha256": "02e3e0eaddb1defd8740ca1baf250f8e3b729b316656eb6ebe64bb35af00a139"
+  },
+  {
+   "job_id": "b05f92c4-8b2c-4a02-853c-bbeae69f76b5",
+   "lineage_key": "it-site-engineer-local-security-officer@lisbon",
+   "title": "IT Site Engineer & Local Security Officer",
+   "department": "Operations",
+   "team": "IT",
+   "location": "Lisbon",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-07T08:11:39.933+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/b05f92c4-8b2c-4a02-853c-bbeae69f76b5",
+   "description_sha256": "2589e43ab306df28df4b23f0894255db4898ad92ee1cb9edb87f4a99c487cc9e"
   },
   {
    "job_id": "b0ef3dc9-6d59-4388-a64e-1dd6ae77a599",
@@ -2144,21 +2189,6 @@
    "description_sha256": "7ad82c43716e27b6b6ec8b377451d69a14c1fc14cf41258468602a3a050e2f27"
   },
   {
-   "job_id": "d06fbee7-df97-49e4-90e5-1f9136482c56",
-   "lineage_key": "forward-deployed-geospatial-engineer-sar-intelligence-abu-dhabi@united-arab-emirates",
-   "title": "Forward Deployed Geospatial Engineer - SAR Intelligence, Abu Dhabi",
-   "department": "Forward Deployed Engineering",
-   "team": "Forward Deployed Engineering",
-   "location": "United Arab Emirates",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-01T07:39:44.482+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/d06fbee7-df97-49e4-90e5-1f9136482c56",
-   "description_sha256": "e97cd899a23ec52e40ef47ef3b05f2870c9bad49dfe881462117c5dcce1fa999"
-  },
-  {
    "job_id": "d2e387fd-dc80-4c66-b47b-5d3536a135c9",
    "lineage_key": "manufacturing-engineer@valencia",
    "title": "Manufacturing Engineer",
@@ -2284,6 +2314,21 @@
    "published_at": "2026-08-06T10:32:08.052+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e358575f-01c4-40ce-aac5-68f7255fce67",
    "description_sha256": "bb00c8cb6b90cae8710f4c61d95a5e167642c91894a26b479544ff575a2f9760"
+  },
+  {
+   "job_id": "e3aa757d-c62b-43d9-96b3-1aca3ae0ff21",
+   "lineage_key": "subsystem-assembly-verification-technician-rf-avionics@espoo",
+   "title": "Subsystem Assembly & Verification Technician (RF & Avionics)",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-07T06:56:55.333+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/e3aa757d-c62b-43d9-96b3-1aca3ae0ff21",
+   "description_sha256": "4c228ac4dec2cac798b4f6e9d7bd2e79257673b6a2841687d3ea31ec283f0440"
   },
   {
    "job_id": "e445d7f9-cdf6-4df8-9da5-bced47318ff2",

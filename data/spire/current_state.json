@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-08-04T18:16:56+00:00",
- "job_count": 47,
+ "fetched_at": "2026-08-07T11:25:19+00:00",
+ "job_count": 45,
  "jobs": [
   {
    "job_id": "6521832",
@@ -336,21 +336,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "7904561",
-   "lineage_key": "principal-rf-engineer@glasgow-scotland-united-kingdom",
-   "title": "Principal RF Engineer",
-   "department": "Science & Research",
-   "team": "",
-   "location": "Glasgow, Scotland, United Kingdom",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-13T10:12:24-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7904561&gh_jid=7904561",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "7913442",
    "lineage_key": "hr-systems-analyst@washington-dc",
    "title": "HR Systems Analyst",
@@ -366,36 +351,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "7921149",
-   "lineage_key": "principal-rf-engineer@munich-bavaria-germany",
-   "title": "Principal RF Engineer",
-   "department": "Science & Research",
-   "team": "",
-   "location": "Munich, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-13T10:14:21-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7921149&gh_jid=7921149",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7921155",
-   "lineage_key": "principal-rf-engineer@cambridge-ontario-canada",
-   "title": "Principal RF Engineer",
-   "department": "Science & Research",
-   "team": "",
-   "location": "Cambridge, Ontario, Canada",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-13T10:15:57-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7921155&gh_jid=7921155",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "7950114",
    "lineage_key": "senior-rf-engineer@glasgow-scotland-united-kingdom",
    "title": "Senior RF Engineer",
@@ -408,6 +363,21 @@
    "is_remote": false,
    "published_at": "2026-05-22T08:06:16-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=7950114&gh_jid=7950114",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "7961005",
+   "lineage_key": "business-development-manager-federal-isr@washington-dc",
+   "title": "Business Development Manager, Federal ISR",
+   "department": "Sales",
+   "team": "",
+   "location": "Washington DC",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-06-01T08:45:17-04:00",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7961005&gh_jid=7961005",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -468,21 +438,6 @@
    "is_remote": true,
    "published_at": "2026-06-12T14:12:22-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8001327&gh_jid=8001327",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8003190",
-   "lineage_key": "delivery-project-manager@glasgow-scotland-united-kingdom",
-   "title": "Delivery Project Manager",
-   "department": "Program Management",
-   "team": "",
-   "location": "Glasgow, Scotland, United Kingdom",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-18T10:46:38-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8003190&gh_jid=8003190",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -708,6 +663,21 @@
    "is_remote": false,
    "published_at": "2026-07-31T10:32:47-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8095214&gh_jid=8095214",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8105638",
+   "lineage_key": "senior-global-executive-recruiter@washington-district-of-columbia-united-states",
+   "title": "Senior Global Executive Recruiter",
+   "department": "People",
+   "team": "",
+   "location": "Washington, District of Columbia, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-06T12:28:30-04:00",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8105638&gh_jid=8105638",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

@@ -421,6 +421,11 @@
    "lat": 44.2657063,
    "lon": 23.7369869,
    "label": "Ulm"
+  },
+  "washington d.c.": {
+   "lat": 38.8950982,
+   "lon": -77.0363849,
+   "label": "Washington"
   }
  }
 }

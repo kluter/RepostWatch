@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-08-06T12:28:18+00:00",
- "job_count": 135,
+ "fetched_at": "2026-08-07T11:25:19+00:00",
+ "job_count": 134,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -1311,21 +1311,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4897813101",
-   "lineage_key": "head-of-aerodynamics-thermal@munich",
-   "title": "Head of Aerodynamics & Thermal",
-   "department": "Hardware Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-07T10:58:40-04:00",
-   "url": "https://helsing.ai/jobs/4897813101?gh_jid=4897813101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4899205101",
    "lineage_key": "lead-engineer-ground-control-station-gcs-hardware-simulator@munich",
    "title": "Lead Engineer – Ground Control Station (GCS) & Hardware Simulator",
@@ -2002,11 +1987,11 @@
   },
   {
    "job_id": "4945398101",
-   "lineage_key": "brand-manager-marketing-communications@munich",
+   "lineage_key": "brand-manager-marketing-communications@berlin",
    "title": "Brand Manager - Marketing & Communications",
    "department": "Marketing & Communications",
    "team": "",
-   "location": "Munich",
+   "location": "Berlin",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",

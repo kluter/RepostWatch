@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-07T11:25:19+00:00",
- "job_count": 165,
+ "fetched_at": "2026-08-07T17:31:39+00:00",
+ "job_count": 166,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -1778,6 +1778,21 @@
    "published_at": "2026-07-20T06:01:29.442+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/aabf95c8-9cc7-4de2-95e1-89ff3ca605b9",
    "description_sha256": "0372ff92cc8f12c4dd1343f83b876e3b50ecc17fa02441f1b09e1d7b5fbd040e"
+  },
+  {
+   "job_id": "abc9fd44-b7c1-4b2c-813c-936a42973f22",
+   "lineage_key": "head-of-logistics-freight-forwarding@espoo",
+   "title": "Head of Logistics & Freight Forwarding",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Supply Chain",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-07T15:50:37.347+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/abc9fd44-b7c1-4b2c-813c-936a42973f22",
+   "description_sha256": "ea00bc96f97e8fbc3818fc37efaf6300b5949bbca440bba0e4095cf00f64ad07"
   },
   {
    "job_id": "af4bb424-4f4e-451d-b34a-aa86611a61b5",

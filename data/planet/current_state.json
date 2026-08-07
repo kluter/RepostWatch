@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-08-07T11:25:19+00:00",
- "job_count": 80,
+ "fetched_at": "2026-08-07T17:31:39+00:00",
+ "job_count": 78,
  "jobs": [
   {
    "job_id": "7374533",
@@ -333,21 +333,6 @@
    "is_remote": true,
    "published_at": "2026-04-14T20:57:54-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7772699",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7774850",
-   "lineage_key": "senior-spacecraft-systems-engineer-san-francisco-office@san-francisco-ca",
-   "title": "Senior Spacecraft Systems Engineer (San Francisco Office)",
-   "department": "Spacecraft Systems Engineering",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-04-08T10:59:13-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7774850",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -708,21 +693,6 @@
    "is_remote": false,
    "published_at": "2026-06-30T15:19:45-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7988581",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7988605",
-   "lineage_key": "senior-software-engineering-manager-area-monitoring-lpis@ljubljana-slovenia",
-   "title": "Senior Software Engineering Manager, Area Monitoring & LPIS",
-   "department": "Civ Gov and Commercial Solutions (SWE)",
-   "team": "",
-   "location": "Ljubljana, Slovenia",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-15T08:07:05-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7988605",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

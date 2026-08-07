@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-08-07T11:25:19+00:00",
- "job_count": 45,
+ "fetched_at": "2026-08-07T17:31:39+00:00",
+ "job_count": 46,
  "jobs": [
   {
    "job_id": "6521832",
@@ -678,6 +678,21 @@
    "is_remote": false,
    "published_at": "2026-08-06T12:28:30-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8105638&gh_jid=8105638",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8113829",
+   "lineage_key": "senior-systems-engineer@munich-germany",
+   "title": "Senior Systems Engineer",
+   "department": "Engineering",
+   "team": "",
+   "location": "Munich, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-07T06:29:09-04:00",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8113829&gh_jid=8113829",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

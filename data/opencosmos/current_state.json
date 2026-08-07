@@ -2,7 +2,7 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-07-28T12:23:08+00:00",
+ "fetched_at": "2026-08-07T17:31:39+00:00",
  "job_count": 61,
  "jobs": [
   {
@@ -109,21 +109,6 @@
    "published_at": "2026-07-24T09:39:40+01:00",
    "url": "https://careers.open-cosmos.com/jobs/8123131-satellite-payload-processing-engineer",
    "description_sha256": "c31209ece250ee8c5c0cf0b27f28073d60aae60439e010c514869f6c7d2c247c"
-  },
-  {
-   "job_id": "182c7f46-3faa-40d3-8677-cdeb63b94214",
-   "lineage_key": "automation-engineer@harwell-uk",
-   "title": "Automation Engineer",
-   "department": "MISSION OPERATIONS",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-06-23T14:00:13+01:00",
-   "url": "https://careers.open-cosmos.com/jobs/7958121-automation-engineer",
-   "description_sha256": "f111ff9e185743f5b61c163743e453aa7e90a7b706564ec520e930761ebd91fb"
   },
   {
    "job_id": "1f544e82-7940-4702-b739-42ea096113cc",
@@ -454,6 +439,21 @@
    "published_at": "2025-12-15T07:03:12+00:00",
    "url": "https://careers.open-cosmos.com/jobs/6926973-electronics-engineer-satellite-manufacturing-ait-production",
    "description_sha256": "659f5ec68fa17bc480fc6dbb19f0cac22c6d1eb51dd052af73c88c553581b923"
+  },
+  {
+   "job_id": "86263e5d-9bb9-4ca2-90f6-efb7c79d212c",
+   "lineage_key": "book-keeper@barcelona-spain",
+   "title": "Book keeper",
+   "department": "FINANCE",
+   "team": "",
+   "location": "Barcelona, Spain",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-08-05T13:16:08+01:00",
+   "url": "https://careers.open-cosmos.com/jobs/8174442-book-keeper",
+   "description_sha256": "fe757c095aaeb70aedaab06ad6d5785e5a3a366bdf409c74d8964eab79bb056c"
   },
   {
    "job_id": "88c9f24e-ce2a-408b-bb70-fd24b9a43b95",

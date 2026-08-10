@@ -2,7 +2,7 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-08-07T17:31:39+00:00",
+ "fetched_at": "2026-08-10T11:31:31+00:00",
  "job_count": 140,
  "jobs": [
   {
@@ -588,21 +588,6 @@
    "is_remote": false,
    "published_at": "2026-04-23T09:55:28-04:00",
    "url": "https://helsing.ai/jobs/4839745101?gh_jid=4839745101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4839750101",
-   "lineage_key": "requirements-engineer-physical-products@munich",
-   "title": "Requirements Engineer - Physical Products",
-   "department": "Physical Products",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-04-23T09:59:14-04:00",
-   "url": "https://helsing.ai/jobs/4839750101?gh_jid=4839750101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1986,6 +1971,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4947377101",
+   "lineage_key": "product-manager-autonomous-systems-command-control@munich",
+   "title": "Product Manager, Autonomous Systems Command & Control",
+   "department": "Market",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-06T05:11:18-04:00",
+   "url": "https://helsing.ai/jobs/4947377101?gh_jid=4947377101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4947489101",
    "lineage_key": "multimodal-sensing-test-engineer@munich",
    "title": "Multimodal Sensing Test Engineer",
@@ -2077,11 +2077,11 @@
   },
   {
    "job_id": "4948430101",
-   "lineage_key": "simulation-engineer@london",
+   "lineage_key": "simulation-engineer@munich",
    "title": "Simulation Engineer",
    "department": "Physical Products",
    "team": "",
-   "location": "London",
+   "location": "Munich",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",

@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-08-08T11:03:08+00:00",
- "job_count": 96,
+ "fetched_at": "2026-08-10T11:31:31+00:00",
+ "job_count": 99,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -1072,8 +1072,8 @@
   },
   {
    "job_id": "4922381101",
-   "lineage_key": "bid-manager-f-m-d@ottobrunn-bavaria-germany",
-   "title": "Bid Manager (f/m/d)",
+   "lineage_key": "bid-manager-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Bid Manager (m/f/d)",
    "department": "Commercial",
    "team": "",
    "location": "Ottobrunn, Bavaria, Germany",
@@ -1341,6 +1341,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4941074101",
+   "lineage_key": "director-value-stream-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Director Value Stream (m/f/d)",
+   "department": "Production",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-10T03:24:46-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4941074101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4941433101",
    "lineage_key": "praktikant-arbeitssicherheit-gesundheitsmanagement-m-w-d@ottobrunn-bavaria-germany",
    "title": "Praktikant Arbeitssicherheit & Gesundheitsmanagement (m/w/d)",
@@ -1443,6 +1458,36 @@
    "is_remote": false,
    "published_at": "2026-08-07T13:58:29-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4948968101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4949362101",
+   "lineage_key": "senior-software-engineer-c-flight-software-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Senior Software Engineer - C++ Flight Software (m/f/d)",
+   "department": "Flight Software",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-10T05:25:13-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4949362101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4949469101",
+   "lineage_key": "project-manager-commercial-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Project Manager Commercial (m/f/d)",
+   "department": "Commercial",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-10T07:05:29-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4949469101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

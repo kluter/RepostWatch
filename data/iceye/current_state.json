@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-07T17:31:39+00:00",
- "job_count": 166,
+ "fetched_at": "2026-08-10T11:31:31+00:00",
+ "job_count": 168,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -365,7 +365,7 @@
    "is_remote": true,
    "published_at": "2026-08-06T11:43:08.271+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/2ce98cea-3f03-41a2-8f9a-0a19408b3fab",
-   "description_sha256": "5b9f1de6b3fbd7ac7762d32a651fa1168e45a2213f3759d90c0c40cb3e36c26d"
+   "description_sha256": "1613381c44ad4ba3e8c6103b7e32f27281404cb2836b1b88159415453bfc65d8"
   },
   {
    "job_id": "2ef68fcc-6ce8-476e-8c94-6e7b099842e9",
@@ -562,7 +562,7 @@
    "is_remote": true,
    "published_at": "2026-08-04T07:36:05.304+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/387a2a71-1b63-44b4-ac07-eaa487a78f63",
-   "description_sha256": "61f7247d60b7da0299c8d55aaded1edffb3ce4ff0bac66b3906ae299b81f4096"
+   "description_sha256": "9f9227981f02ccf2498f1063b61926cfe05abbd5f52a8ddc956d021d478adc5f"
   },
   {
    "job_id": "38a65e7e-1063-4071-8aba-0184ab09f996",
@@ -762,6 +762,21 @@
    "description_sha256": "64c86178cd23a00eb819ff064f2a80739b9031e337655393ec29bec4f3f3f1fd"
   },
   {
+   "job_id": "4b0ca97c-681a-42ac-a923-ac0b2bcc5a9a",
+   "lineage_key": "talent-attraction-coordinator@espoo",
+   "title": "Talent Attraction Coordinator",
+   "department": "Operations",
+   "team": "Talent Attraction",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-10T11:17:05.851+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/4b0ca97c-681a-42ac-a923-ac0b2bcc5a9a",
+   "description_sha256": "28b49339e3b7f536c2e18796373fae24465f903606788bc9ba3f4440698f2604"
+  },
+  {
    "job_id": "4c5b752a-7f68-4b50-9084-e50abb61c6f3",
    "lineage_key": "chief-of-staff-uae@united-arab-emirates",
    "title": "Chief of Staff, UAE",
@@ -808,8 +823,8 @@
   },
   {
    "job_id": "532afee6-79d9-4693-9c4a-9726b5fb20e5",
-   "lineage_key": "programme-manager-esa@warsaw",
-   "title": "Programme Manager ESA",
+   "lineage_key": "program-manager-esa@warsaw",
+   "title": "Program Manager ESA",
    "department": "Missions",
    "team": "Missions Programs",
    "location": "Warsaw",
@@ -1131,21 +1146,6 @@
    "published_at": "2026-06-15T13:53:58.265+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/70cdbf0b-0e31-4c03-a74f-5cb2d72dd857",
    "description_sha256": "3696cd8eb9e3c68d6a5ca21956677637568bdfc5f34156126700f136ccfe4a90"
-  },
-  {
-   "job_id": "72390ec6-b528-445e-b37f-18a61378aaf2",
-   "lineage_key": "it-site-engineer-japan@tokyo",
-   "title": "IT Site Engineer - Japan",
-   "department": "Operations",
-   "team": "IT Service & Operations",
-   "location": "Tokyo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-29T08:36:16.398+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/72390ec6-b528-445e-b37f-18a61378aaf2",
-   "description_sha256": "bb0fd934f4bbbb4504c266934f12002fa09fd259fa1311dbbfafc5d84c1c654b"
   },
   {
    "job_id": "728ba3dc-5ab4-4f86-b7cc-5bd24c37f2d4",
@@ -1521,6 +1521,23 @@
    "published_at": "2026-07-02T06:39:30.657+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/8f7f141e-a48d-409e-96e4-f413afc738f0",
    "description_sha256": "5bd49935ab667ba17d57183aee52a618ddffd4f8738e59a20d45bb46e467e55a"
+  },
+  {
+   "job_id": "9291f281-9da4-482b-a7ce-bb6775668b3b",
+   "lineage_key": "technical-program-manager@warsaw",
+   "title": "Technical Program Manager",
+   "department": "Missions",
+   "team": "Missions Programs",
+   "location": "Warsaw",
+   "secondary_locations": [
+    "Espoo"
+   ],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-06T10:04:51.111+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/9291f281-9da4-482b-a7ce-bb6775668b3b",
+   "description_sha256": "8fe19045e1087cc02b59da7f6d8fbedca8a7c9cc0a2a5dafc40db2d75752560f"
   },
   {
    "job_id": "9345ad5b-0bc7-4fdc-9988-743857de3c94",
@@ -2266,6 +2283,21 @@
    "description_sha256": "6bacc3b56521a12b437a6d83ba63286753dd4327d43101c5af038e7611295ed8"
   },
   {
+   "job_id": "d9c1cb3c-a38a-40d6-827e-ad42bec71684",
+   "lineage_key": "senior-software-engineer-telemetry@espoo",
+   "title": "Senior Software Engineer (Telemetry)",
+   "department": "Engineering",
+   "team": "Fleet Automation",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-10T07:05:44.916+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/d9c1cb3c-a38a-40d6-827e-ad42bec71684",
+   "description_sha256": "2fb666c6b6bb0f7c606db9a0aa7d8975fbd91c159c21c0b6042a271470b0fe08"
+  },
+  {
    "job_id": "dae508db-181a-4d9d-a394-4cc0dbf2950b",
    "lineage_key": "mission-sales-director-nordics@remote",
    "title": "Mission Sales Director, Nordics",
@@ -2388,7 +2420,7 @@
    "is_remote": true,
    "published_at": "2026-08-04T07:37:48.416+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e7d59b96-29fb-4d6c-8e4b-4cdb4e38da1b",
-   "description_sha256": "1617d6bf7e7d3096edb1b69f2464848fc6c31d5e5e172be20c5d2ac3af54abaf"
+   "description_sha256": "0efba538a5f2c16cbc93dc124b8f7d7f92c93926f4119cad3b04857306ca01a8"
   },
   {
    "job_id": "ea6fcf8b-f800-4abb-a254-cb82596b5c98",

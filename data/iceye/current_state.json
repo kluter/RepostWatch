@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-10T11:31:31+00:00",
- "job_count": 168,
+ "fetched_at": "2026-08-10T17:33:31+00:00",
+ "job_count": 169,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -109,6 +109,21 @@
    "published_at": "2026-08-03T15:04:15.855+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/11eb505c-bd89-4db5-acdc-ccc4f3cf2b6f",
    "description_sha256": "7ada1147cf7428a96dc6e5a4acbf2049cea5f4424abe378c7df74a2998c55500"
+  },
+  {
+   "job_id": "1570a6bb-a535-48bf-9c7c-aeca540f12b5",
+   "lineage_key": "software-engineer-satellite-payload-downlink@espoo",
+   "title": "Software Engineer (Satellite Payload Downlink)",
+   "department": "Engineering",
+   "team": "Payload Downlink",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-10T12:48:51.530+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/1570a6bb-a535-48bf-9c7c-aeca540f12b5",
+   "description_sha256": "476dd1d819f68638edf937ee2cb39f8cbf84a39d9195e6603456753a1e60c677"
   },
   {
    "job_id": "15ec7f83-01ba-46fc-91c6-88cd28bb6338",

@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-08-10T11:31:31+00:00",
- "job_count": 99,
+ "fetched_at": "2026-08-10T17:33:31+00:00",
+ "job_count": 100,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -1386,6 +1386,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4944474101",
+   "lineage_key": "intern-launch-vehicle-assembly-integration-test-f-m-d@parsdorf-bavaria-germany",
+   "title": "Intern - Launch Vehicle Assembly, Integration, & Test (f/m/d)",
+   "department": "Launch Vehicle Structures",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-10T11:12:07-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4944474101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4948619101",
    "lineage_key": "director-enterprise-it-data-m-f-d@parsdorf-bavaria-germany",
    "title": "Director Enterprise IT & Data (m/f/d)",
@@ -1417,8 +1432,8 @@
   },
   {
    "job_id": "4948831101",
-   "lineage_key": "c-flight-software-developer-f-m-d@ottobrunn-bavaria-germany",
-   "title": "C++ Flight Software Developer (f/m/d)",
+   "lineage_key": "c-flight-software-engineer-f-m-d@ottobrunn-bavaria-germany",
+   "title": "C++ Flight Software Engineer (f/m/d)",
    "department": "Flight Software",
    "team": "",
    "location": "Ottobrunn, Bavaria, Germany",

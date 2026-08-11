@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-10T17:33:31+00:00",
- "job_count": 169,
+ "fetched_at": "2026-08-11T11:23:59+00:00",
+ "job_count": 170,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -1253,6 +1253,21 @@
    "description_sha256": "33dbec950c310aeb68185122c742a36ef98039660099202b32a234260eb5161e"
   },
   {
+   "job_id": "769bb953-4b97-43f5-b01f-1a63da09a605",
+   "lineage_key": "missions-sales-director-singapore@singapore",
+   "title": "Missions Sales Director, Singapore",
+   "department": "Missions",
+   "team": "Missions Sales",
+   "location": "Singapore",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Remote",
+   "is_remote": true,
+   "published_at": "2026-08-11T05:01:17.978+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/769bb953-4b97-43f5-b01f-1a63da09a605",
+   "description_sha256": "4926594843bc59e6139f943795b8b88141aafe7c6df5632d5ff900b51d9bd37f"
+  },
+  {
    "job_id": "77ee1494-3ca4-4774-a0ad-9e731d63cec1",
    "lineage_key": "senior-electronics-test-engineer@espoo",
    "title": "Senior Electronics Test Engineer",
@@ -1552,7 +1567,7 @@
    "is_remote": true,
    "published_at": "2026-08-06T10:04:51.111+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9291f281-9da4-482b-a7ce-bb6775668b3b",
-   "description_sha256": "8fe19045e1087cc02b59da7f6d8fbedca8a7c9cc0a2a5dafc40db2d75752560f"
+   "description_sha256": "af74f637193391a5c29b2548e5133cc6c6b2ddca8e9f6823e5bef93ec9cdb7f2"
   },
   {
    "job_id": "9345ad5b-0bc7-4fdc-9988-743857de3c94",

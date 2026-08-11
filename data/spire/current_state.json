@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-08-07T17:31:39+00:00",
- "job_count": 46,
+ "fetched_at": "2026-08-11T11:23:59+00:00",
+ "job_count": 47,
  "jobs": [
   {
    "job_id": "6521832",
@@ -663,6 +663,21 @@
    "is_remote": false,
    "published_at": "2026-07-31T10:32:47-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8095214&gh_jid=8095214",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8098735",
+   "lineage_key": "spacecraft-electronics-engineer@glasgow-scotland-uk",
+   "title": "Spacecraft Electronics Engineer",
+   "department": "Engineering",
+   "team": "",
+   "location": "Glasgow, Scotland, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-11T05:10:14-04:00",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8098735&gh_jid=8098735",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

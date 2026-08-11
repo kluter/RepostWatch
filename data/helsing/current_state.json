@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-08-10T11:31:31+00:00",
- "job_count": 140,
+ "fetched_at": "2026-08-11T11:23:59+00:00",
+ "job_count": 138,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -228,21 +228,6 @@
    "is_remote": false,
    "published_at": "2025-09-01T09:03:41-04:00",
    "url": "https://helsing.ai/jobs/4642812101?gh_jid=4642812101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4644593101",
-   "lineage_key": "avionics-systems-engineer-safety-critical-systems@munich",
-   "title": "Avionics Systems Engineer - Safety Critical Systems",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2025-07-29T11:56:31-04:00",
-   "url": "https://helsing.ai/jobs/4644593101?gh_jid=4644593101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -543,21 +528,6 @@
    "is_remote": false,
    "published_at": "2026-03-24T04:24:05-04:00",
    "url": "https://helsing.ai/jobs/4818340101?gh_jid=4818340101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4820991101",
-   "lineage_key": "produktionsmitarbeiter-monteur@munich",
-   "title": "Produktionsmitarbeiter / Monteur",
-   "department": "Production Operations",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-04-13T07:18:50-04:00",
-   "url": "https://helsing.ai/jobs/4820991101?gh_jid=4820991101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1884,7 +1854,7 @@
    "job_id": "4943175101",
    "lineage_key": "firmware-engineer@barcelona",
    "title": "Firmware Engineer",
-   "department": "Physical Products",
+   "department": "Hardware Engineering",
    "team": "",
    "location": "Barcelona",
    "secondary_locations": [],
@@ -1899,7 +1869,7 @@
    "job_id": "4943195101",
    "lineage_key": "robotics-software-engineer@barcelona",
    "title": "Robotics Software Engineer",
-   "department": "Physical Products",
+   "department": "Hardware Engineering",
    "team": "",
    "location": "Barcelona",
    "secondary_locations": [],

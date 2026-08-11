@@ -426,6 +426,28 @@
    "lat": 38.8950982,
    "lon": -77.0363849,
    "label": "Washington"
+  },
+  "austria, remote": {
+   "lat": 47.59397,
+   "lon": 14.12456,
+   "label": "Austria",
+   "remote": true
+  },
+  "glasgow, scotland, uk": {
+   "lat": 55.861155,
+   "lon": -4.2501687,
+   "label": "Glasgow"
+  },
+  "singapore": {
+   "lat": 1.357107,
+   "lon": 103.8194992,
+   "label": "Singapore"
+  },
+  "slovenia, remote": {
+   "lat": 46.1199444,
+   "lon": 14.8153333,
+   "label": "Slovenia",
+   "remote": true
   }
  }
 }

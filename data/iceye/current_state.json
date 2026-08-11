@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-11T11:23:59+00:00",
+ "fetched_at": "2026-08-11T17:37:31+00:00",
  "job_count": 170,
  "jobs": [
   {
@@ -972,6 +972,21 @@
    "description_sha256": "abb5533871bb7e3467edc685f4f5cc2141e9b2a93cbe198222555a6e20353bdb"
   },
   {
+   "job_id": "5d8393c0-ab67-4a3b-b39f-3a183a4665fb",
+   "lineage_key": "cleanroom-lab-manager-athens@athens",
+   "title": "Cleanroom & Lab Manager - Athens",
+   "department": "Global Manufacturing Organization",
+   "team": "GR Satellite Production",
+   "location": "Athens",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-08-11T16:15:02.020+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/5d8393c0-ab67-4a3b-b39f-3a183a4665fb",
+   "description_sha256": "decdd73e527b02e09f876c0ac65b4bc40ededdc2009f25a8e699eed4a7151276"
+  },
+  {
    "job_id": "637982df-5c1e-437a-81ee-3e234f75a732",
    "lineage_key": "senior-software-engineer-tactical-access@espoo",
    "title": "Senior Software Engineer (Tactical Access)",
@@ -1313,21 +1328,6 @@
    "description_sha256": "f5cae2aeab3f779986729e081aaefe3abf5b6a8d6d2f8c803ce16ea54d1891c4"
   },
   {
-   "job_id": "7bbb296f-206c-4a56-b757-b9d3099dbc6f",
-   "lineage_key": "senior-ai-data-specialist@espoo",
-   "title": "Senior AI & Data Specialist",
-   "department": "Operations",
-   "team": "Operations",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-06-11T08:46:41.061+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/7bbb296f-206c-4a56-b757-b9d3099dbc6f",
-   "description_sha256": "5617751836fb0ba2233db450343056d91811d687fa38942f30c1d43200a22e1d"
-  },
-  {
    "job_id": "7e1be691-32b2-4a35-9338-8fec83b67c55",
    "lineage_key": "electronics-rf-test-team-lead@espoo",
    "title": "Electronics & RF Test Team Lead",
@@ -1371,21 +1371,6 @@
    "published_at": "2026-05-13T11:54:23.201+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/8096ddfe-64c4-4555-87ad-45c4e9dc09cd",
    "description_sha256": "b816c8f2a7d28a3eefaefcc3ee319d8c5e2290f9086312566829a5aa68ecaa03"
-  },
-  {
-   "job_id": "83912efc-d73f-4352-8aa7-427d7f53e235",
-   "lineage_key": "satellite-production-technician-electronics@valencia",
-   "title": "Satellite Production Technician, Electronics",
-   "department": "Global Manufacturing Organization",
-   "team": "Global Manufacturing Organization",
-   "location": "Valencia",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-07-13T11:00:39.495+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/83912efc-d73f-4352-8aa7-427d7f53e235",
-   "description_sha256": "39a28e6038c50e5e62ed0e7773c902f13413f8c28aeb408e7ee8a2c84f846f06"
   },
   {
    "job_id": "8525aea6-9765-41ae-b1c8-87617030564e",
@@ -1630,6 +1615,21 @@
    "description_sha256": "273db3bb4d204f95e519f85244f5a06fd944f2bd2a53b61308a020884a6321c7"
   },
   {
+   "job_id": "951e39dd-b621-4e99-8507-2781587e7d1c",
+   "lineage_key": "lab-technician@espoo",
+   "title": "Lab Technician",
+   "department": "Engineering",
+   "team": "Spacecraft Hardware",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-11T12:55:46.504+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/951e39dd-b621-4e99-8507-2781587e7d1c",
+   "description_sha256": "413c4a40caee4d173f2e6d26d9e77788d6f6e6a60efd43e56f7bd5cc0d88279f"
+  },
+  {
    "job_id": "9649c999-70dc-4620-9487-e664767fa88d",
    "lineage_key": "satellite-production-senior-technician-rf-systems-software@valencia",
    "title": "Satellite Production Senior Technician, RF, Systems & Software",
@@ -1735,21 +1735,6 @@
    "published_at": "2026-07-01T07:40:17.099+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9967722a-e9f3-4b30-9b4c-23bb7586f6c9",
    "description_sha256": "77cf746b1abb0b6aeeb54fb5f2ad51674297d18a875342eda97685aa14c83f5f"
-  },
-  {
-   "job_id": "a0c0d21d-7086-4579-8e61-3fa52a419804",
-   "lineage_key": "power-ait-engineer@valencia",
-   "title": "Power AIT Engineer",
-   "department": "Global Manufacturing Organization",
-   "team": "ES AIT Engineering",
-   "location": "Valencia",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-04-09T05:47:53.287+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/a0c0d21d-7086-4579-8e61-3fa52a419804",
-   "description_sha256": "ddf11ba33f6cfb6944766f6814abe9eb1164fd82967c316f70a48958054487e1"
   },
   {
    "job_id": "a11a91a1-e3d5-46d0-a055-41b13ad33967",
@@ -2189,6 +2174,21 @@
    "published_at": "2026-07-20T06:01:05.344+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/cc0b017f-f910-4e64-9dd6-4b4da5538089",
    "description_sha256": "1753c2a7a204d6c1da01c4aa0f76afcde6b1e2060f70161659237f35c192313a"
+  },
+  {
+   "job_id": "cd035996-66ce-478b-beb9-d42a69293946",
+   "lineage_key": "manufacturing-engineer-electronics@espoo",
+   "title": "Manufacturing Engineer (Electronics)",
+   "department": "Engineering",
+   "team": "Engineering Manufacturing and QA",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-11T13:51:36.313+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/cd035996-66ce-478b-beb9-d42a69293946",
+   "description_sha256": "65ebcec7a89f853ca681f8be30c1518d2180a888c5db27cf8dd9f53f13c072a0"
   },
   {
    "job_id": "ce6b9391-c11e-4831-a3f8-39ebd6c23f39",

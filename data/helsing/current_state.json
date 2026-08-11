@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-08-11T11:23:59+00:00",
- "job_count": 138,
+ "fetched_at": "2026-08-11T17:37:31+00:00",
+ "job_count": 139,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -1428,6 +1428,21 @@
    "is_remote": false,
    "published_at": "2026-06-29T11:47:48-04:00",
    "url": "https://helsing.ai/jobs/4911999101?gh_jid=4911999101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4912850101",
+   "lineage_key": "principal-talent-acquisition-partner@berlin",
+   "title": "Principal Talent Acquisition Partner",
+   "department": "Talent Acquisition",
+   "team": "",
+   "location": "Berlin",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-06-30T05:36:57-04:00",
+   "url": "https://helsing.ai/jobs/4912850101?gh_jid=4912850101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

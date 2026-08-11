@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-08-05T18:09:28+00:00",
- "job_count": 28,
+ "fetched_at": "2026-08-11T17:37:31+00:00",
+ "job_count": 26,
  "jobs": [
   {
    "job_id": "076F11402A",
@@ -183,21 +183,6 @@
    "published_at": "2026-04-03T00:00:00+00:00",
    "url": "https://apply.workable.com/j/56DCFBD0A8",
    "description_sha256": "a3c3063060ec9129da86e35baad0727bacf1452c7190aac287ef8de5828d1ac1"
-  },
-  {
-   "job_id": "5BD40BA8EB",
-   "lineage_key": "hardware-test-infrastructure-engineer@santa-barbara-united-states",
-   "title": "Hardware Test Infrastructure Engineer",
-   "department": "Space Systems",
-   "team": "",
-   "location": "Santa Barbara, United States",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-04-03T00:00:00+00:00",
-   "url": "https://apply.workable.com/j/5BD40BA8EB",
-   "description_sha256": "83cc9cc4acf3c5da6960080a6cd8d19223847c2028bb605380cb7752bcc6e905"
   },
   {
    "job_id": "5DEC056541",
@@ -381,24 +366,6 @@
    "published_at": "2026-06-25T00:00:00+00:00",
    "url": "https://apply.workable.com/j/C2A49317A8",
    "description_sha256": "8bba4ad6c9b12318ab2ec9ac807760d9fda21326fbf6820a64328a4b073ff41d"
-  },
-  {
-   "job_id": "E0BD4B4469",
-   "lineage_key": "senior-software-engineer-order-and-delivery-5-years-exp@arlington-united-states",
-   "title": "Senior Software Engineer (Order and Delivery) - (5 years exp)",
-   "department": "Remote Sensing",
-   "team": "",
-   "location": "Arlington, United States",
-   "secondary_locations": [
-    "Reston, United States",
-    "Santa Barbara, United States"
-   ],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-30T00:00:00+00:00",
-   "url": "https://apply.workable.com/j/E0BD4B4469",
-   "description_sha256": "7c8685186222c7505a27966e7af1ed693d4ee48c82b6ceb4df899b310005a6bc"
   },
   {
    "job_id": "E548043C79",

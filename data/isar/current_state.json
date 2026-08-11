@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-08-11T11:23:59+00:00",
- "job_count": 98,
+ "fetched_at": "2026-08-11T17:37:31+00:00",
+ "job_count": 101,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -906,21 +906,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4906820101",
-   "lineage_key": "manager-data-analytics-f-m-d@ottobrunn-bavaria-germany",
-   "title": "Manager Data & Analytics (f/m/d)",
-   "department": "Ground Systems",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-30T18:00:02-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4906820101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4907014101",
    "lineage_key": "werkstudent-administration-office-management-m-w-d@ottobrunn-bavaria-germany",
    "title": "Werkstudent Administration / Office Management (m/w/d)",
@@ -1473,6 +1458,66 @@
    "is_remote": false,
    "published_at": "2026-08-10T14:08:54-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4950019101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4950896101",
+   "lineage_key": "launch-pad-operations-engineer-m-f-d@andenes-nordland-norway",
+   "title": "Launch Pad Operations Engineer (m/f/d)",
+   "department": "Mission & Launch Operations",
+   "team": "",
+   "location": "Andenes, Nordland, Norway",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-11T11:21:03-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4950896101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4950930101",
+   "lineage_key": "application-software-engineer-f-m-d@ottobrunn-bavaria-germany",
+   "title": "Application Software Engineer (f/m/d)",
+   "department": "Ground Systems",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-11T12:05:59-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4950930101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4950964101",
+   "lineage_key": "mechanical-ground-systems-engineer-f-m-d@ottobrunn-bavaria-germany",
+   "title": "Mechanical Ground Systems Engineer (f/m/d)",
+   "department": "Template",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-11T12:18:40-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4950964101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4950974101",
+   "lineage_key": "senior-mechanical-ground-systems-engineer-f-m-d@parsdorf-bavaria-germany",
+   "title": "Senior Mechanical Ground Systems Engineer (f/m/d)",
+   "department": "Ground Systems",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-11T12:23:56-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4950974101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

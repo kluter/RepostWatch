@@ -741,7 +741,10 @@
 
     // ---- overview home ----
     function relTime(iso) {
-        const d = Math.floor((Date.now() - Date.parse(iso)) / 86400e3);
+        // compare calendar days, not elapsed hours: an event from 8pm yesterday should read
+        // "yesterday" this morning, not "today" until a full 24h has passed.
+        const midnight = ms => { const x = new Date(ms); x.setHours(0, 0, 0, 0); return +x; };
+        const d = Math.round((midnight(Date.now()) - midnight(Date.parse(iso))) / 86400e3);
         if (d <= 0) return "today";
         if (d === 1) return "yesterday";
         if (d < 30) return `${d}d ago`;

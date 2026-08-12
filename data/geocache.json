@@ -448,6 +448,11 @@
    "lon": 14.8153333,
    "label": "Slovenia",
    "remote": true
+  },
+  "stockholm": {
+   "lat": 59.3251172,
+   "lon": 18.0710935,
+   "label": "Stockholm"
   }
  }
 }

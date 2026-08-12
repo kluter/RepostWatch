@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-08-12T11:24:23+00:00",
- "job_count": 99,
+ "fetched_at": "2026-08-12T17:39:08+00:00",
+ "job_count": 100,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -1278,6 +1278,21 @@
    "is_remote": false,
    "published_at": "2026-07-30T05:58:56-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4941433101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4941905101",
+   "lineage_key": "technical-buyer-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Technical Buyer (m/f/d)",
+   "department": "Production, Operations & Quality",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-12T07:32:23-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4941905101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

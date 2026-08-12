@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-08-12T11:24:23+00:00",
- "job_count": 136,
+ "fetched_at": "2026-08-12T17:39:08+00:00",
+ "job_count": 137,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -952,8 +952,8 @@
   },
   {
    "job_id": "4878635101",
-   "lineage_key": "avionic-hardware-engineer@munich",
-   "title": "Avionic Hardware Engineer",
+   "lineage_key": "avionics-hardware-engineer@munich",
+   "title": "Avionics Hardware Engineer",
    "department": "Hardware Engineering",
    "team": "",
    "location": "Munich",
@@ -2043,6 +2043,21 @@
    "is_remote": false,
    "published_at": "2026-08-07T09:55:27-04:00",
    "url": "https://helsing.ai/jobs/4948713101?gh_jid=4948713101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4951517101",
+   "lineage_key": "senior-project-manager@stockholm",
+   "title": "(Senior) Project Manager",
+   "department": "Market",
+   "team": "",
+   "location": "Stockholm",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-12T08:53:10-04:00",
+   "url": "https://helsing.ai/jobs/4951517101?gh_jid=4951517101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-08-11T17:37:31+00:00",
- "job_count": 26,
+ "fetched_at": "2026-08-12T11:24:23+00:00",
+ "job_count": 25,
  "jobs": [
   {
    "job_id": "076F11402A",
@@ -299,21 +299,6 @@
    "published_at": "2026-08-03T00:00:00+00:00",
    "url": "https://apply.workable.com/j/A9AE7BC7D6",
    "description_sha256": "06d238cf9923957ec0072cdd77b0ffa34d78b52b509a590cf5ae8f6ea511c213"
-  },
-  {
-   "job_id": "AFAC52DD12",
-   "lineage_key": "inventory-control-warehouse-supervisor@santa-barbara-united-states",
-   "title": "Inventory Control & Warehouse Supervisor",
-   "department": "Space Systems",
-   "team": "",
-   "location": "Santa Barbara, United States",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-10T00:00:00+00:00",
-   "url": "https://apply.workable.com/j/AFAC52DD12",
-   "description_sha256": "451cb579b0275f28286d5d39cae7cab143d31b041ba8c699fc73b27189bb1d59"
   },
   {
    "job_id": "BF8C539DFF",

@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-08-11T17:37:31+00:00",
- "job_count": 101,
+ "fetched_at": "2026-08-12T11:24:23+00:00",
+ "job_count": 99,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -666,21 +666,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4852888101",
-   "lineage_key": "software-engineer-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Software Engineer (m/f/d)",
-   "department": "Ground Systems",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-03T18:00:00-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4852888101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4857035101",
    "lineage_key": "recovery-operations-engineer-m-f-d@ottobrunn-bavaria-germany",
    "title": "Recovery Operations Engineer (m/f/d)",
@@ -1008,21 +993,6 @@
    "is_remote": false,
    "published_at": "2026-07-10T06:03:46-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4920269101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4921413101",
-   "lineage_key": "ai-working-student-f-m-d@ottobrunn-bavaria-germany",
-   "title": "AI Working Student (f/m/d)",
-   "department": "Ground Systems",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-07T10:09:50-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4921413101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1494,7 +1464,7 @@
    "job_id": "4950964101",
    "lineage_key": "mechanical-ground-systems-engineer-f-m-d@ottobrunn-bavaria-germany",
    "title": "Mechanical Ground Systems Engineer (f/m/d)",
-   "department": "Template",
+   "department": "Ground Systems",
    "team": "",
    "location": "Ottobrunn, Bavaria, Germany",
    "secondary_locations": [],

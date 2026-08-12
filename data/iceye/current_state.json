@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-11T17:37:31+00:00",
+ "fetched_at": "2026-08-12T11:24:23+00:00",
  "job_count": 170,
  "jobs": [
   {
@@ -94,21 +94,6 @@
    "published_at": "2026-05-22T12:10:55.236+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/1197834e-3203-4546-8f55-2bde6fe39546",
    "description_sha256": "db2626442c7df5c5dc0a930431bceda91eefe5d1862179a081abff7fef7bb199"
-  },
-  {
-   "job_id": "11eb505c-bd89-4db5-acdc-ccc4f3cf2b6f",
-   "lineage_key": "brand-design-trainee@espoo",
-   "title": "Brand Design Trainee",
-   "department": "Marketing",
-   "team": "Global Brand & Design",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-03T15:04:15.855+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/11eb505c-bd89-4db5-acdc-ccc4f3cf2b6f",
-   "description_sha256": "7ada1147cf7428a96dc6e5a4acbf2049cea5f4424abe378c7df74a2998c55500"
   },
   {
    "job_id": "1570a6bb-a535-48bf-9c7c-aeca540f12b5",
@@ -520,6 +505,21 @@
    "description_sha256": "cb22ce866a6e215f889695738bcff5999c86a12ab00f606cf26e2e198af760b2"
   },
   {
+   "job_id": "367ea774-2be1-436b-8e94-7c38e79d4c24",
+   "lineage_key": "senior-frontend-engineer-missions-ui@espoo",
+   "title": "Senior Frontend Engineer (Missions UI)",
+   "department": "Engineering",
+   "team": "Business Automation",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-12T06:13:34.719+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/367ea774-2be1-436b-8e94-7c38e79d4c24",
+   "description_sha256": "d61a6ee453895aff4ef0a91968fab7474a5f0bf38f60261c6b40bbb1d07fb149"
+  },
+  {
    "job_id": "37b350c7-9a07-441b-b7a5-18b1aeff4d90",
    "lineage_key": "staff-mechanical-engineer@warsaw",
    "title": "Staff Mechanical Engineer",
@@ -655,21 +655,6 @@
    "description_sha256": "1a1505c4fb4415e108c21605112f93b84494f71adf43a5ab8d656f59d19ced9a"
   },
   {
-   "job_id": "431b37e8-c369-4cb9-9993-a2fdfe46c249",
-   "lineage_key": "senior-thermal-system-engineer@valencia",
-   "title": "Senior Thermal System Engineer",
-   "department": "Engineering",
-   "team": "SIGINT",
-   "location": "Valencia",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-07-23T14:38:56.793+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/431b37e8-c369-4cb9-9993-a2fdfe46c249",
-   "description_sha256": "e5144807e757422bbc18a02a95b428f2049536c8481036e0a57c8691d928b811"
-  },
-  {
    "job_id": "431baaab-347b-485b-a52a-67d18dcbc2be",
    "lineage_key": "isr-operator-iceye-japan@tokyo",
    "title": "ISR Operator – ICEYE Japan",
@@ -683,21 +668,6 @@
    "published_at": "2026-05-22T03:40:27.081+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/431baaab-347b-485b-a52a-67d18dcbc2be",
    "description_sha256": "8eabefdc8554a400fd9a2e17bd24f45ad4870cbe1dbb9a144ae00d38f8903add"
-  },
-  {
-   "job_id": "4411cffa-570c-4adf-a0df-5296d5cab351",
-   "lineage_key": "software-engineer-orbit-determination-team@espoo",
-   "title": "Software Engineer (Orbit Determination Team)",
-   "department": "Engineering",
-   "team": "Orbit Determination",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-04-09T08:44:14.315+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/4411cffa-570c-4adf-a0df-5296d5cab351",
-   "description_sha256": "b01973bf9318f8e2ed4c8e2b3e5cb398400aebad4c8ffc217dc372c00fad33ac"
   },
   {
    "job_id": "4470b416-a308-41a3-a967-293389b62beb",
@@ -1782,6 +1752,21 @@
    "description_sha256": "1efd2367aaf92f42f43b46efa1363e2605f2bec54c597e378961e0effff5336e"
   },
   {
+   "job_id": "a905295f-6d4c-4def-bddd-42deb123bfe0",
+   "lineage_key": "power-electronics-engineer@valencia",
+   "title": "Power Electronics Engineer",
+   "department": "Engineering",
+   "team": "HAPS",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-08-12T09:52:00.559+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/a905295f-6d4c-4def-bddd-42deb123bfe0",
+   "description_sha256": "c4ecabb24f690735a79fef18b61e6a187947a4381a966eaef3e5e93961b5d5f6"
+  },
+  {
    "job_id": "aa323d27-cb46-49da-ad7b-2af2821fccfa",
    "lineage_key": "flight-software-team-lead@warsaw",
    "title": "Flight Software Team Lead",
@@ -1990,6 +1975,21 @@
    "published_at": "2026-06-12T15:39:07.358+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/be2a2c66-275f-41b9-acc1-9073b27bfce8",
    "description_sha256": "cddc810be19771034b63a437536803b6ce58852230b2e1247c4184b6a807d17a"
+  },
+  {
+   "job_id": "c0286ea9-19c2-4af3-8917-1bde2f693a09",
+   "lineage_key": "facility-lab-manager@warsaw",
+   "title": "Facility & Lab Manager",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-08-11T17:53:15.429+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/c0286ea9-19c2-4af3-8917-1bde2f693a09",
+   "description_sha256": "a57b7ae92e5aba1bd0004309f07f0309a4294de56bbb879e24d25e59ada98445"
   },
   {
    "job_id": "c02a179c-cf37-4eae-be66-05c3fc49f67d",

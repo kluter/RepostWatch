@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-08-11T11:23:59+00:00",
- "job_count": 81,
+ "fetched_at": "2026-08-12T11:24:23+00:00",
+ "job_count": 79,
  "jobs": [
   {
    "job_id": "7374533",
@@ -393,36 +393,6 @@
    "is_remote": false,
    "published_at": "2026-06-25T17:37:17-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7907756",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7907785",
-   "lineage_key": "partner-business-manager-defense-intelligence-emea@europe-remote",
-   "title": "Partner Business Manager, Defense & Intelligence (EMEA)",
-   "department": "GTM Strategy & Partnerships",
-   "team": "",
-   "location": "Europe, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-05-13T18:07:49-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7907785",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7912657",
-   "lineage_key": "visiting-scientist-san-francisco-office@san-francisco-ca",
-   "title": "Visiting Scientist (San Francisco Office)",
-   "department": "RF, Comms & Electrical Engineering",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-12T12:23:07-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7912657",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-12T17:39:08+00:00",
- "job_count": 168,
+ "fetched_at": "2026-08-13T11:23:12+00:00",
+ "job_count": 166,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -1002,36 +1002,6 @@
    "published_at": "2026-07-15T08:56:26.374+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/6b5378f4-9af0-4092-9e75-e1d0d0bbaad9",
    "description_sha256": "34b41ea8e1dbac5a1391df3b1a0f8b360e416608d40fbe917f3c290e5a3d177c"
-  },
-  {
-   "job_id": "6c374442-a611-40d4-8ba7-4366bd623885",
-   "lineage_key": "senior-netsuite-functional-consultant@espoo",
-   "title": "Senior NetSuite Functional Consultant",
-   "department": "Operations",
-   "team": "Applications & Integrations",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-03T09:21:49.169+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/6c374442-a611-40d4-8ba7-4366bd623885",
-   "description_sha256": "bf17dbcc63890d59d96a667e7556a3097cc38c3e9d4f3ecb17bc18153b90ace8"
-  },
-  {
-   "job_id": "6cabbd48-43b5-467d-8ca1-9ffd48a24da5",
-   "lineage_key": "knowledge-management-specialist@espoo",
-   "title": "Knowledge Management Specialist",
-   "department": "Data",
-   "team": "Customer Continuous Improvement",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-17T12:12:29.585+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/6cabbd48-43b5-467d-8ca1-9ffd48a24da5",
-   "description_sha256": "369e583589ecac75eed704989f5d380de93a32a8c3032740ff495ab8b00891e0"
   },
   {
    "job_id": "6e531bd0-02f1-4191-91dd-f16910246d23",

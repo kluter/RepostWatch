@@ -2,7 +2,7 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-08-12T17:39:08+00:00",
+ "fetched_at": "2026-08-13T11:23:12+00:00",
  "job_count": 137,
  "jobs": [
   {
@@ -472,8 +472,8 @@
   },
   {
    "job_id": "4813919101",
-   "lineage_key": "senior-security-engineer@berlin",
-   "title": "Senior Security Engineer",
+   "lineage_key": "security-engineer@berlin",
+   "title": "Security Engineer",
    "department": "Security Engineering",
    "team": "",
    "location": "Berlin",
@@ -1747,8 +1747,8 @@
   },
   {
    "job_id": "4939402101",
-   "lineage_key": "security-engineer@berlin",
-   "title": "Security Engineer",
+   "lineage_key": "junior-security-engineer@berlin",
+   "title": "Junior Security Engineer",
    "department": "Security Engineering",
    "team": "",
    "location": "Berlin",

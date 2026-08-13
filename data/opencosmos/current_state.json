@@ -2,8 +2,8 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-08-12T11:24:23+00:00",
- "job_count": 61,
+ "fetched_at": "2026-08-13T11:23:12+00:00",
+ "job_count": 60,
  "jobs": [
   {
    "job_id": "063679a7-77f0-4e6d-8296-bcff69f4ec4f",
@@ -442,8 +442,8 @@
   },
   {
    "job_id": "86263e5d-9bb9-4ca2-90f6-efb7c79d212c",
-   "lineage_key": "book-keeper@barcelona-spain",
-   "title": "Book keeper",
+   "lineage_key": "bookkeeper@barcelona-spain",
+   "title": "Bookkeeper",
    "department": "FINANCE",
    "team": "",
    "location": "Barcelona, Spain",
@@ -452,7 +452,7 @@
    "workplace_type": "",
    "is_remote": true,
    "published_at": "2026-08-05T13:16:08+01:00",
-   "url": "https://careers.open-cosmos.com/jobs/8174442-book-keeper",
+   "url": "https://careers.open-cosmos.com/jobs/8174442-bookkeeper",
    "description_sha256": "fe757c095aaeb70aedaab06ad6d5785e5a3a366bdf409c74d8964eab79bb056c"
   },
   {
@@ -484,6 +484,21 @@
    "published_at": "2026-05-12T07:54:29+01:00",
    "url": "https://careers.open-cosmos.com/jobs/7720874-test-engineer-data",
    "description_sha256": "f8928e1cc645709b341cdabc860c534a7a11c9a038f1d9151de3ee9cec6f8c5c"
+  },
+  {
+   "job_id": "8ad00658-c787-4f46-b65f-ae4ab061d539",
+   "lineage_key": "business-operations-expansion-manager@harwell-uk",
+   "title": "Business Operations & Expansion Manager",
+   "department": "OPERATIONS",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-08-13T09:00:31+01:00",
+   "url": "https://careers.open-cosmos.com/jobs/8215389-business-operations-expansion-manager",
+   "description_sha256": "1d58c6ed51839b576f02c7d485d8831900fd77aa4522417f75d91dcd22336558"
   },
   {
    "job_id": "8ec65859-767d-4af3-8429-dc3290941d21",
@@ -589,21 +604,6 @@
    "published_at": "2025-12-31T15:50:31+00:00",
    "url": "https://careers.open-cosmos.com/jobs/6993710-satcom-payload-architect",
    "description_sha256": "cc9d138b1089cd3cec9ac8d362a29b99c05880039193ac9f58e9f412b9c6fc70"
-  },
-  {
-   "job_id": "a4b3535d-381c-4c5b-80a7-05b6616e8e31",
-   "lineage_key": "data-customer-success-manager@athens-greece",
-   "title": "Data Customer Success Manager",
-   "department": "DATA",
-   "team": "",
-   "location": "Athens, Greece",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2025-11-24T08:18:29+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/6828587-data-customer-success-manager",
-   "description_sha256": "b23a1c0c0554dfc41c8de59d92a647614edcf344c12f27340718be1197c9fb2e"
   },
   {
    "job_id": "a82675ca-f8f5-4ed1-876f-7ce3d96837f0",
@@ -904,21 +904,6 @@
    "published_at": "2026-03-02T10:44:12+00:00",
    "url": "https://careers.open-cosmos.com/jobs/7311970-head-of-spectrum-regulatory-affairs",
    "description_sha256": "fd4866e48c2407d287f2ec72ec95addf290006992d000026d6151a91774f3b68"
-  },
-  {
-   "job_id": "ffd92ef0-c91c-4cb0-8d2e-881a50ccf542",
-   "lineage_key": "flight-software-engineer@harwell-uk",
-   "title": "Flight Software Engineer",
-   "department": "FLIGHT SOFTWARE",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2025-12-17T06:16:48+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/6943920-flight-software-engineer",
-   "description_sha256": "7692ffb933e5a1e8f5a3af3a5dc2b396b0a91c55de09f3e85b1c7b9c19c2b6ae"
   }
  ]
 }

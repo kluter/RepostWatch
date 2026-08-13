@@ -2,7 +2,7 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-08-11T11:23:59+00:00",
+ "fetched_at": "2026-08-13T11:23:12+00:00",
  "job_count": 47,
  "jobs": [
   {
@@ -546,21 +546,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8060147",
-   "lineage_key": "senior-corporate-counsel@washington-dc",
-   "title": "Senior Corporate Counsel",
-   "department": "Legal",
-   "team": "",
-   "location": "Washington, DC",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-13T14:25:06-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8060147&gh_jid=8060147",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8065037",
    "lineage_key": "facilities-workplace-manager@munich",
    "title": "Facilities & Workplace Manager",
@@ -708,6 +693,21 @@
    "is_remote": false,
    "published_at": "2026-08-07T06:29:09-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8113829&gh_jid=8113829",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8124588",
+   "lineage_key": "cloud-infrastructure-engineer@boulder-colorado-united-states",
+   "title": "Cloud Infrastructure Engineer",
+   "department": "Engineering",
+   "team": "",
+   "location": "Boulder, Colorado, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-13T05:38:22-04:00",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8124588&gh_jid=8124588",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

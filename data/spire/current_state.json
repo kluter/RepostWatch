@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-08-13T11:23:12+00:00",
- "job_count": 47,
+ "fetched_at": "2026-08-13T17:39:17+00:00",
+ "job_count": 46,
  "jobs": [
   {
    "job_id": "6521832",
@@ -78,21 +78,6 @@
    "is_remote": false,
    "published_at": "2026-06-23T10:49:43-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=6769687&gh_jid=6769687",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7059026",
-   "lineage_key": "senior-spacecraft-software-engineer@glasgow-scotland-united-kingdom",
-   "title": "Senior Spacecraft Software Engineer",
-   "department": "Engineering",
-   "team": "",
-   "location": "Glasgow, Scotland, United Kingdom",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2025-07-09T11:30:42-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7059026&gh_jid=7059026",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -213,21 +198,6 @@
    "is_remote": false,
    "published_at": "2026-02-06T14:39:23-05:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=7512196&gh_jid=7512196",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7663049",
-   "lineage_key": "senior-spacecraft-software-engineer@boulder-co",
-   "title": "Senior Spacecraft Software Engineer",
-   "department": "Engineering",
-   "team": "",
-   "location": "Boulder, CO",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-03-02T07:50:41-05:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7663049&gh_jid=7663049",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -693,6 +663,21 @@
    "is_remote": false,
    "published_at": "2026-08-07T06:29:09-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8113829&gh_jid=8113829",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8114332",
+   "lineage_key": "software-and-satellite-operations-quality-assurance-engineer@glasgow-scotland-united-kingdom",
+   "title": "Software and Satellite Operations Quality Assurance Engineer",
+   "department": "Engineering",
+   "team": "",
+   "location": "Glasgow, Scotland, United Kingdom",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-13T11:26:04-04:00",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8114332&gh_jid=8114332",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

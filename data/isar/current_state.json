@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-08-13T11:23:12+00:00",
- "job_count": 99,
+ "fetched_at": "2026-08-13T17:39:17+00:00",
+ "job_count": 100,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -543,21 +543,6 @@
    "is_remote": false,
    "published_at": "2026-04-06T18:00:02-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4828025101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4830255101",
-   "lineage_key": "manufacturing-engineer-cad-or-tooling-engineer-cad-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Manufacturing Engineer CAD or Tooling Engineer CAD (m/f/d)",
-   "department": "Production, Operations & Quality",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-04-08T18:00:01-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4830255101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1488,6 +1473,36 @@
    "is_remote": false,
    "published_at": "2026-08-11T12:23:56-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4950974101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4952430101",
+   "lineage_key": "additive-manufacturing-operator-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Additive Manufacturing Operator (m/f/d)",
+   "department": "Production, Operations & Quality",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-13T11:05:45-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4952430101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4952460101",
+   "lineage_key": "working-student-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Working Student (m/f/d)",
+   "department": "Template",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-13T11:14:41-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4952460101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

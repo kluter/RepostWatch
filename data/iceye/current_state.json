@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-13T11:23:12+00:00",
- "job_count": 166,
+ "fetched_at": "2026-08-13T17:39:17+00:00",
+ "job_count": 172,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -341,8 +341,8 @@
    "job_id": "2add20af-74f0-43e9-b959-6470084b1091",
    "lineage_key": "sales-operations-specialist@espoo",
    "title": "Sales Operations Specialist",
-   "department": "Finance",
-   "team": "Finance",
+   "department": "Operations",
+   "team": "Operations",
    "location": "Espoo",
    "secondary_locations": [],
    "employment_type": "FullTime",
@@ -503,6 +503,21 @@
    "published_at": "2026-07-03T12:39:48.411+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/35528f9f-8244-465e-bf4b-799b8fffed53",
    "description_sha256": "cb22ce866a6e215f889695738bcff5999c86a12ab00f606cf26e2e198af760b2"
+  },
+  {
+   "job_id": "3618225c-f265-4110-9cfe-cb66748fa1d5",
+   "lineage_key": "facility-security-manager@espoo",
+   "title": "Facility Security Manager",
+   "department": "IT & Security",
+   "team": "Security",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-13T12:22:26.807+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/3618225c-f265-4110-9cfe-cb66748fa1d5",
+   "description_sha256": "a6859dcc43a9c649cf0507b0c7f3e4f6b30529cf5246b3c4a8fe8d0e0f663dcb"
   },
   {
    "job_id": "367ea774-2be1-436b-8e94-7c38e79d4c24",
@@ -1409,7 +1424,7 @@
    "is_remote": true,
    "published_at": "2026-08-05T09:00:04.125+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/8d27f213-6661-450f-a7be-7d5d461c7a59",
-   "description_sha256": "37cc6cc45cf9b1d13c288d3c5bfe2a8907e753fbdff066fb959f7d7f954c7cbe"
+   "description_sha256": "68ae0397fc93d61a7fe4527ba40bde81ba9258c772bb3dd6f22aeb1da0bef78f"
   },
   {
    "job_id": "8f6aae6f-73d9-4b7e-afb5-9e27089d13d7",
@@ -1439,7 +1454,7 @@
    "is_remote": true,
    "published_at": "2026-07-02T06:39:30.657+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/8f7f141e-a48d-409e-96e4-f413afc738f0",
-   "description_sha256": "5bd49935ab667ba17d57183aee52a618ddffd4f8738e59a20d45bb46e467e55a"
+   "description_sha256": "3458732ab482bc7481a1e3a3330a72e88b290703d777cc66776e2c16e8e89835"
   },
   {
    "job_id": "9291f281-9da4-482b-a7ce-bb6775668b3b",
@@ -1653,7 +1668,7 @@
    "is_remote": true,
    "published_at": "2026-08-05T09:00:20.909+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/a11a91a1-e3d5-46d0-a055-41b13ad33967",
-   "description_sha256": "247e1ebab2ed4f7e83c74985ee484f201df5c2b02fcabe05a9aa6ff948253cfe"
+   "description_sha256": "109397338aa1630ba56f27484563b9a59f3db80e68b7726454cc8e6539ef55ae"
   },
   {
    "job_id": "a6d0bba0-2219-4f01-8c79-f4d945de5af7",
@@ -2215,6 +2230,21 @@
    "description_sha256": "0a6b5a546c690ff7be2484808269a92933c8bfd4a46939bafe55da20bf28d70e"
   },
   {
+   "job_id": "d54bd3a6-eaca-4969-a6fc-7da77ce27fc6",
+   "lineage_key": "stock-logistics-manager@lisbon",
+   "title": "Stock & Logistics Manager",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Lisbon",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-13T13:47:41.225+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/d54bd3a6-eaca-4969-a6fc-7da77ce27fc6",
+   "description_sha256": "06662ba8a9fb956ea3df108242d4502a1a7ddf8839a83b52d2d18ebac80ab8ab"
+  },
+  {
    "job_id": "d9a4bdaa-a0bc-4e10-85e2-f99a2ed9b17b",
    "lineage_key": "cnc-and-workshop-assistant@valencia",
    "title": "CNC and Workshop Assistant",
@@ -2462,6 +2492,38 @@
    "description_sha256": "272d3baba596f67805764f1c8eff3885cfb37474d437de14b3953766168b2f89"
   },
   {
+   "job_id": "f40592d0-d7b9-4f47-bfe3-2f95c273188f",
+   "lineage_key": "ap-specialist-supplier-finance-operations@warsaw",
+   "title": "AP Specialist (Supplier Finance Operations)",
+   "department": "Finance",
+   "team": "Finance",
+   "location": "Warsaw",
+   "secondary_locations": [
+    "Espoo"
+   ],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-13T14:30:36.284+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/f40592d0-d7b9-4f47-bfe3-2f95c273188f",
+   "description_sha256": "a98e0b8b22ca2327915d3bf013b6a592201949d24880176d1d0edf0407388e27"
+  },
+  {
+   "job_id": "f457fd1a-738e-417c-aa94-d5d94f3ed0c5",
+   "lineage_key": "field-marketing-manager-data@espoo",
+   "title": "Field Marketing Manager, Data",
+   "department": "Marketing",
+   "team": "Data & Missions Marketing",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-13T15:22:32.977+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/f457fd1a-738e-417c-aa94-d5d94f3ed0c5",
+   "description_sha256": "6284c884dad424cea5dce22ecbe208d94c1623c89270290ec45decc6f5ae1b5c"
+  },
+  {
    "job_id": "f57cfdfe-3f46-4488-af0e-8465b65efaaf",
    "lineage_key": "electronics-engineer-avionics@espoo",
    "title": "Electronics Engineer - Avionics",
@@ -2490,6 +2552,36 @@
    "published_at": "2026-07-01T13:57:44.571+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/f6d34236-1ec0-4567-8b6a-fb6d3eb6bb87",
    "description_sha256": "530aa9c24a3c9fe5c43e933a747915cec86917de33342afbf9c7800b52319b6d"
+  },
+  {
+   "job_id": "fa7cbdf7-5c86-48b7-84f8-12c3476113e7",
+   "lineage_key": "production-team-lead@lisbon",
+   "title": "Production Team Lead",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Lisbon",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-13T13:55:53.533+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/fa7cbdf7-5c86-48b7-84f8-12c3476113e7",
+   "description_sha256": "d7371df350b3a8f280a8f90e1a3b174571e6e6ade8e35ca5cd2b4c28fb1dbf06"
+  },
+  {
+   "job_id": "fec79d94-ccd5-409a-81ae-182a9eafc208",
+   "lineage_key": "facility-lab-manager@lisbon",
+   "title": "Facility & Lab Manager",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Lisbon",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-08-13T13:40:10.185+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/fec79d94-ccd5-409a-81ae-182a9eafc208",
+   "description_sha256": "b608dd3483f5a194f5e9437d15218cac7f653985393358d0951405a62f89076c"
   },
   {
    "job_id": "feed753d-0e9a-4c2e-a7e2-ee3e588e5149",

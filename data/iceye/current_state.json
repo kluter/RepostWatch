@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-14T11:21:39+00:00",
- "job_count": 174,
+ "fetched_at": "2026-08-14T17:36:05+00:00",
+ "job_count": 175,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -640,6 +640,21 @@
    "description_sha256": "d161e3d3a0d40b0488530d28c72d101af3af7f97ddecb54096d52bae8b04a26f"
   },
   {
+   "job_id": "3d7f14e7-e116-4885-9d3d-a66080532999",
+   "lineage_key": "avionics-verification-technician@espoo",
+   "title": "Avionics Verification Technician",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-08-14T11:51:08.317+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/3d7f14e7-e116-4885-9d3d-a66080532999",
+   "description_sha256": "feb4c7b25448d58b71899c7a03139921c013ea31377568181dcf95e0338e5964"
+  },
+  {
    "job_id": "3eb0f7b1-ab19-4d41-b633-dfeea0990086",
    "lineage_key": "configuration-specialist@espoo",
    "title": "Configuration Specialist",
@@ -1155,21 +1170,6 @@
    "published_at": "2026-06-29T17:07:34.404+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/728ba3dc-5ab4-4f86-b7cc-5bd24c37f2d4",
    "description_sha256": "7b84e32bc481518c8c328c960b6daec413b348237e77e782648d441dc3aa1f0d"
-  },
-  {
-   "job_id": "75364193-c8d1-4969-9dbb-57d914a40fbb",
-   "lineage_key": "spacecraft-analysis-engineer@warsaw",
-   "title": "Spacecraft Analysis Engineer",
-   "department": "Engineering",
-   "team": "Optical System",
-   "location": "Warsaw",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-13T19:18:15.803+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/75364193-c8d1-4969-9dbb-57d914a40fbb",
-   "description_sha256": "418d065078d669c5b9cf6e2373d738f62d8eed90be324271b1bd1e2760b52341"
   },
   {
    "job_id": "75a61359-7509-4cbe-a965-ff7bd3f24883",
@@ -2460,6 +2460,26 @@
    "published_at": "2026-05-18T10:35:44.037+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/ea6fcf8b-f800-4abb-a254-cb82596b5c98",
    "description_sha256": "a74d390be753c42c3aea98e2e353c1333025a73fdfe502c144bc0a81bd124b5e"
+  },
+  {
+   "job_id": "edd8127b-1ecd-4a50-8e5a-ff95685f5922",
+   "lineage_key": "senior-meteorologist@espoo",
+   "title": "Senior Meteorologist",
+   "department": "Solutions",
+   "team": "Solutions Operations",
+   "location": "Espoo",
+   "secondary_locations": [
+    "Valencia",
+    "Berlin",
+    "Athens",
+    "Warsaw"
+   ],
+   "employment_type": "Contract",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-14T12:13:11.593+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/edd8127b-1ecd-4a50-8e5a-ff95685f5922",
+   "description_sha256": "d4ef79c7837d54d16d616d0c4cb95a4ddfbeb7848e62dc463023e8830f6a97e1"
   },
   {
    "job_id": "edf13659-c648-4ca9-9676-cbf002b6aaef",

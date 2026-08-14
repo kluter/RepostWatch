@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-08-14T11:21:39+00:00",
- "job_count": 101,
+ "fetched_at": "2026-08-14T17:36:05+00:00",
+ "job_count": 103,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -486,6 +486,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4785329101",
+   "lineage_key": "supply-chain-management-specialist-transport-logistics-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Supply Chain Management Specialist / Transport Logistics (m/f/d)",
+   "department": "Production, Operations & Quality",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-02-25T03:00:03-05:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4785329101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4814866101",
    "lineage_key": "production-mechanic-post-processing-nachbearbeitung-m-f-d@ottobrunn-bavaria-germany",
    "title": "Production Mechanic Post Processing / Nachbearbeitung (m/f/d)",
@@ -498,21 +513,6 @@
    "is_remote": false,
    "published_at": "2026-03-22T19:00:00-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4814866101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4815705101",
-   "lineage_key": "senior-accountant-specialist-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Senior Accountant Specialist(m/f/d)",
-   "department": "Finance",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-03-23T19:00:06-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4815705101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -678,21 +678,6 @@
    "is_remote": false,
    "published_at": "2026-05-10T18:00:01-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4857207101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4858365101",
-   "lineage_key": "propulsion-design-engineer-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Propulsion Design Engineer (m/f/d)",
-   "department": "Propulsion",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-21T18:00:01-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4858365101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1518,6 +1503,51 @@
    "is_remote": false,
    "published_at": "2026-08-14T02:22:58-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4952790101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4953152101",
+   "lineage_key": "working-student-sales-operations-f-m-d@ottobrunn-bavaria-germany",
+   "title": "Working Student Sales Operations (f/m/d)",
+   "department": "Commercial",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-14T08:36:29-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4953152101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4953179101",
+   "lineage_key": "working-student-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Working Student (m/f/d)",
+   "department": "Avionics",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-14T09:26:10-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4953179101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4953240101",
+   "lineage_key": "managing-director-canada-m-f-d@canso-nova-scotia-canada",
+   "title": "Managing Director, Canada (m/f/d)",
+   "department": "Mission & Launch Operations",
+   "team": "",
+   "location": "Canso, Nova Scotia, Canada",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-14T10:34:06-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4953240101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

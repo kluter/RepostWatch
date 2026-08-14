@@ -453,6 +453,11 @@
    "lat": 59.3251172,
    "lon": 18.0710935,
    "label": "Stockholm"
+  },
+  "canso, nova scotia, canada": {
+   "lat": 45.3367646,
+   "lon": -60.9965748,
+   "label": "Canso"
   }
  }
 }

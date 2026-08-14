@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-08-13T17:39:17+00:00",
- "job_count": 100,
+ "fetched_at": "2026-08-14T11:21:39+00:00",
+ "job_count": 101,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -1503,6 +1503,21 @@
    "is_remote": false,
    "published_at": "2026-08-13T11:14:41-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4952460101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4952790101",
+   "lineage_key": "operations-planner-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Operations Planner (m/f/d)",
+   "department": "Production, Operations & Quality",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-14T02:22:58-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4952790101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

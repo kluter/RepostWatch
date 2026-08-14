@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-13T17:39:17+00:00",
- "job_count": 172,
+ "fetched_at": "2026-08-14T11:21:39+00:00",
+ "job_count": 174,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -637,7 +637,7 @@
    "is_remote": true,
    "published_at": "2026-07-27T07:52:16.610+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/3cc1954a-b537-4d7b-8a79-a51ad07e97f2",
-   "description_sha256": "23fd6caa67e37a781c68159399b5377886d2dd8928f751b612353fd5bfc4373a"
+   "description_sha256": "d161e3d3a0d40b0488530d28c72d101af3af7f97ddecb54096d52bae8b04a26f"
   },
   {
    "job_id": "3eb0f7b1-ab19-4d41-b633-dfeea0990086",
@@ -747,6 +747,36 @@
    "description_sha256": "8852d56602858e097435d3a1bda6d26e5dc83e49350665bbb8e8013d7967aff3"
   },
   {
+   "job_id": "46d1c835-f9d4-451a-b1ec-19d996bde8cd",
+   "lineage_key": "satellite-production-technician-harness@valencia",
+   "title": "Satellite Production Technician, Harness",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-08-14T08:21:28.046+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/46d1c835-f9d4-451a-b1ec-19d996bde8cd",
+   "description_sha256": "819d45e7ef6630ac98174d5137459d193a43ae7a89cf89f44107b98573a4cd64"
+  },
+  {
+   "job_id": "471cf438-9c29-4167-9c18-be4cc5f4e115",
+   "lineage_key": "ait-engineering-team-lead@lisbon",
+   "title": "AIT Engineering Team Lead",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Lisbon",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-14T09:15:45.525+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/471cf438-9c29-4167-9c18-be4cc5f4e115",
+   "description_sha256": "41f75b3787cba4b70c9429e3e74bcfc0dbce16d52c6ecf983ceb0d0f5d33e578"
+  },
+  {
    "job_id": "482053f5-a2b0-4be8-b513-ec9524346fd6",
    "lineage_key": "it-site-engineer-germany@berlin",
    "title": "IT Site Engineer - Germany",
@@ -760,6 +790,21 @@
    "published_at": "2026-07-13T07:16:41.993+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/482053f5-a2b0-4be8-b513-ec9524346fd6",
    "description_sha256": "64c86178cd23a00eb819ff064f2a80739b9031e337655393ec29bec4f3f3f1fd"
+  },
+  {
+   "job_id": "49688ae2-0ada-46dc-b867-09ea1fe2e228",
+   "lineage_key": "ait-mechanical-test-engineer@espoo",
+   "title": "AIT Mechanical Test Engineer",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-08-14T08:39:37.875+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/49688ae2-0ada-46dc-b867-09ea1fe2e228",
+   "description_sha256": "3f5828e35327972358cc72eb19ff6c5eadeba37300e9a206c2bc457162fd41a5"
   },
   {
    "job_id": "4b0ca97c-681a-42ac-a923-ac0b2bcc5a9a",
@@ -2289,7 +2334,7 @@
    "is_remote": true,
    "published_at": "2026-08-10T07:05:44.916+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/d9c1cb3c-a38a-40d6-827e-ad42bec71684",
-   "description_sha256": "2fb666c6b6bb0f7c606db9a0aa7d8975fbd91c159c21c0b6042a271470b0fe08"
+   "description_sha256": "1035293111a0a9b1e58284a289466e1346a2b2291bdbad0e2db8901e4c34a469"
   },
   {
    "job_id": "dae508db-181a-4d9d-a394-4cc0dbf2950b",
@@ -2370,21 +2415,6 @@
    "published_at": "2026-08-07T06:56:55.333+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e3aa757d-c62b-43d9-96b3-1aca3ae0ff21",
    "description_sha256": "4c228ac4dec2cac798b4f6e9d7bd2e79257673b6a2841687d3ea31ec283f0440"
-  },
-  {
-   "job_id": "e445d7f9-cdf6-4df8-9da5-bced47318ff2",
-   "lineage_key": "aocs-engineer@espoo",
-   "title": "AOCS Engineer",
-   "department": "Engineering",
-   "team": "Attitude and Orbit Control System Hardware",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-31T07:03:58.369+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/e445d7f9-cdf6-4df8-9da5-bced47318ff2",
-   "description_sha256": "6ba1a8cf8eaab652b84974c033b9ac8722d9dc5abcb636d398274e191a41f7cd"
   },
   {
    "job_id": "e4d89d32-5bee-4090-8bd0-5634803b6d3f",
@@ -2564,9 +2594,9 @@
    "employment_type": "FullTime",
    "workplace_type": "Hybrid",
    "is_remote": true,
-   "published_at": "2026-08-13T13:55:53.533+00:00",
+   "published_at": "2026-08-14T06:28:35.941+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/fa7cbdf7-5c86-48b7-84f8-12c3476113e7",
-   "description_sha256": "d7371df350b3a8f280a8f90e1a3b174571e6e6ade8e35ca5cd2b4c28fb1dbf06"
+   "description_sha256": "f577ca9d6522ab0a87ab547fd36d6e6af2bc296483d94682161a170059ca08db"
   },
   {
    "job_id": "fec79d94-ccd5-409a-81ae-182a9eafc208",

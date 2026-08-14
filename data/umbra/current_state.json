@@ -2,7 +2,7 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-08-13T17:39:17+00:00",
+ "fetched_at": "2026-08-14T11:21:39+00:00",
  "job_count": 24,
  "jobs": [
   {
@@ -301,8 +301,8 @@
   },
   {
    "job_id": "C15BDC33AE",
-   "lineage_key": "senior-software-engineer-order-and-delivery-10-years-exp@arlington-united-states",
-   "title": "Senior Software Engineer (Order and Delivery) - (10 years exp)",
+   "lineage_key": "senior-software-engineer-order-and-delivery@arlington-united-states",
+   "title": "Senior Software Engineer (Order and Delivery)",
    "department": "Remote Sensing",
    "team": "",
    "location": "Arlington, United States",

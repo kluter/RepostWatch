@@ -2,7 +2,7 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-08-14T11:21:39+00:00",
+ "fetched_at": "2026-08-15T10:51:51+00:00",
  "job_count": 24,
  "jobs": [
   {
@@ -332,7 +332,7 @@
    "is_remote": false,
    "published_at": "2026-06-25T00:00:00+00:00",
    "url": "https://apply.workable.com/j/C2A49317A8",
-   "description_sha256": "8bba4ad6c9b12318ab2ec9ac807760d9fda21326fbf6820a64328a4b073ff41d"
+   "description_sha256": "fd529f511935e8cada6048f43aee3609a3df98b595763ccfed273d995780f21f"
   },
   {
    "job_id": "E548043C79",

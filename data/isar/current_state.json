@@ -2,7 +2,7 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-08-14T17:36:05+00:00",
+ "fetched_at": "2026-08-15T16:57:29+00:00",
  "job_count": 103,
  "jobs": [
   {
@@ -1312,11 +1312,11 @@
   },
   {
    "job_id": "4948831101",
-   "lineage_key": "c-flight-software-engineer-f-m-d@ottobrunn-bavaria-germany",
+   "lineage_key": "c-flight-software-engineer-f-m-d@parsdorf-bavaria-germany",
    "title": "C++ Flight Software Engineer (f/m/d)",
    "department": "Flight Software",
    "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
+   "location": "Parsdorf, Bavaria, Germany",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
@@ -1357,11 +1357,11 @@
   },
   {
    "job_id": "4949362101",
-   "lineage_key": "senior-software-engineer-c-flight-software-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Senior Software Engineer - C++ Flight Software (m/f/d)",
+   "lineage_key": "senior-c-flight-software-engineer-f-m-d@parsdorf-bavaria-germany",
+   "title": "Senior C++ Flight Software Engineer (f/m/d)",
    "department": "Flight Software",
    "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
+   "location": "Parsdorf, Bavaria, Germany",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",

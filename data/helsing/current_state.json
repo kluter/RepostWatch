@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-08-17T10:59:10+00:00",
- "job_count": 135,
+ "fetched_at": "2026-08-17T17:00:50+00:00",
+ "job_count": 132,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -108,21 +108,6 @@
    "is_remote": false,
    "published_at": "2024-07-31T08:44:50-04:00",
    "url": "https://helsing.ai/jobs/4372802101?gh_jid=4372802101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4381151101",
-   "lineage_key": "it-engineer@munich",
-   "title": "IT Engineer",
-   "department": "IT",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2025-01-27T12:15:20-05:00",
-   "url": "https://helsing.ai/jobs/4381151101?gh_jid=4381151101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -558,21 +543,6 @@
    "is_remote": false,
    "published_at": "2026-04-21T05:17:44-04:00",
    "url": "https://helsing.ai/jobs/4841824101?gh_jid=4841824101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4842894101",
-   "lineage_key": "legal-counsel@london",
-   "title": "Legal Counsel",
-   "department": "Legal",
-   "team": "",
-   "location": "London",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-04-16T04:27:03-04:00",
-   "url": "https://helsing.ai/jobs/4842894101?gh_jid=4842894101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1056,21 +1026,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4880852101",
-   "lineage_key": "graphic-designer@berlin",
-   "title": "Graphic Designer",
-   "department": "Marketing & Communications",
-   "team": "",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-03T07:47:39-04:00",
-   "url": "https://helsing.ai/jobs/4880852101?gh_jid=4880852101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4881402101",
    "lineage_key": "mechanical-design-engineer-robotics@barcelona",
    "title": "Mechanical Design Engineer - Robotics",
@@ -1128,21 +1083,6 @@
    "is_remote": false,
    "published_at": "2026-06-09T09:34:00-04:00",
    "url": "https://helsing.ai/jobs/4890512101?gh_jid=4890512101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4893273101",
-   "lineage_key": "it-support-specialist@munich",
-   "title": "IT Support Specialist",
-   "department": "IT",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-15T05:41:28-04:00",
-   "url": "https://helsing.ai/jobs/4893273101?gh_jid=4893273101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1293,21 +1233,6 @@
    "is_remote": false,
    "published_at": "2026-06-18T14:33:06-04:00",
    "url": "https://helsing.ai/jobs/4902953101?gh_jid=4902953101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4903759101",
-   "lineage_key": "it-support-engineer@berlin",
-   "title": "IT Support Engineer",
-   "department": "IT",
-   "team": "",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-19T10:46:36-04:00",
-   "url": "https://helsing.ai/jobs/4903759101?gh_jid=4903759101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -2028,6 +1953,36 @@
    "is_remote": false,
    "published_at": "2026-08-12T08:53:10-04:00",
    "url": "https://helsing.ai/jobs/4951517101?gh_jid=4951517101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4953877101",
+   "lineage_key": "facilities-security-officer@martinsburg-wv",
+   "title": "Facilities Security Officer",
+   "department": "Operations",
+   "team": "",
+   "location": "Martinsburg, WV",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-17T09:43:12-04:00",
+   "url": "https://helsing.ai/jobs/4953877101?gh_jid=4953877101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4954096101",
+   "lineage_key": "senior-accountant@martinsburg-wv",
+   "title": "Senior Accountant",
+   "department": "Finance",
+   "team": "",
+   "location": "Martinsburg, WV",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-17T12:40:09-04:00",
+   "url": "https://helsing.ai/jobs/4954096101?gh_jid=4954096101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

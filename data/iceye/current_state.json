@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-17T10:59:10+00:00",
- "job_count": 176,
+ "fetched_at": "2026-08-17T17:00:50+00:00",
+ "job_count": 178,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -231,21 +231,6 @@
    "published_at": "2026-07-27T07:35:20.742+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/1d549489-1557-489d-8cb4-1d6ec124f624",
    "description_sha256": "2f259aeb293feec6df2f2229245f56464c7e386033ea56a19842f673491b0c45"
-  },
-  {
-   "job_id": "1db756b7-7d44-4232-aaae-4632e727850f",
-   "lineage_key": "staff-product-designer@espoo",
-   "title": "Staff Product Designer",
-   "department": "Missions",
-   "team": "Product Management",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-04-15T11:44:49.661+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/1db756b7-7d44-4232-aaae-4632e727850f",
-   "description_sha256": "8552ded387481993da132603d800408004bb2325aabcc7b99c4f728d4a1c171f"
   },
   {
    "job_id": "1ffce4d4-4088-4336-9007-622dc10399fb",
@@ -1109,6 +1094,36 @@
    "description_sha256": "f5ee52738846db421f1637679ebd29b3cb7f9ccb34f14f59c0ec5f8577f83bc9"
   },
   {
+   "job_id": "6f9a9e61-65b1-4c90-9e69-55646487df82",
+   "lineage_key": "propulsion-operations-engineer@warsaw",
+   "title": "Propulsion Operations Engineer",
+   "department": "Engineering",
+   "team": "Attitude and Orbit Control System Hardware",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-17T14:04:16.478+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/6f9a9e61-65b1-4c90-9e69-55646487df82",
+   "description_sha256": "27ad11074163270a958638241ca35d671eecf4010457202d4223464f1655fbd0"
+  },
+  {
+   "job_id": "6ff3a63c-29b2-4652-83df-6546a875804e",
+   "lineage_key": "senior-electronics-engineer@warsaw",
+   "title": "Senior Electronics Engineer",
+   "department": "Engineering",
+   "team": "Attitude and Orbit Control System Hardware",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-17T13:52:47.633+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/6ff3a63c-29b2-4652-83df-6546a875804e",
+   "description_sha256": "1bea31b81cccff631991e5c060aaabcd3b8517b2f807fc17ad559a2232d1d653"
+  },
+  {
    "job_id": "7072cbcc-12a0-4ee5-a9ff-cbd6dd3d4764",
    "lineage_key": "isr-cell-operator-germany@berlin",
    "title": "ISR Cell Operator - Germany",
@@ -1335,6 +1350,21 @@
    "published_at": "2026-05-13T11:54:23.201+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/8096ddfe-64c4-4555-87ad-45c4e9dc09cd",
    "description_sha256": "b816c8f2a7d28a3eefaefcc3ee319d8c5e2290f9086312566829a5aa68ecaa03"
+  },
+  {
+   "job_id": "81908ad3-84f4-4cc3-ac25-1440f38b52c2",
+   "lineage_key": "receptionist@warsaw",
+   "title": "Receptionist",
+   "department": "Operations",
+   "team": "Operations",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-17T15:29:01.948+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/81908ad3-84f4-4cc3-ac25-1440f38b52c2",
+   "description_sha256": "f13855ae375ade4194e6fe53eaf422f72d618618d1503f63d8425584d60bba1c"
   },
   {
    "job_id": "8525aea6-9765-41ae-b1c8-87617030564e",
@@ -1941,6 +1971,21 @@
    "description_sha256": "6c07a7e2676dccc4e68f6aea01e09fcb401287745cbf1764704884546a78b008"
   },
   {
+   "job_id": "ba1f5690-afe8-4479-a03b-cd367cc16fd5",
+   "lineage_key": "senior-ai-engineer@espoo",
+   "title": "Senior AI Engineer",
+   "department": "Engineering",
+   "team": "Business Automation",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-17T13:54:15.581+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/ba1f5690-afe8-4479-a03b-cd367cc16fd5",
+   "description_sha256": "96ceed232abcf394f662f1249b478b21bd5b6abecae8c78f9d1deb4eabe593f3"
+  },
+  {
    "job_id": "bb49fc90-0bee-4ee4-8eb8-2771a9a01450",
    "lineage_key": "electronics-engineering-manager-radar-payload-team@espoo",
    "title": "Electronics Engineering Manager, Radar Payload Team",
@@ -2014,25 +2059,6 @@
    "published_at": "2026-04-24T11:34:01.722+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/c3536786-e2fa-4564-ba73-f26a44a02fde",
    "description_sha256": "f0b4b4ef340db1254c367c2723bdc3b978fb90c5513d0b3b60b2a0ca90f7a2da"
-  },
-  {
-   "job_id": "c40aa252-a920-4809-8a35-3e7baf59fb11",
-   "lineage_key": "customer-excellence-specialist@santiago",
-   "title": "Customer Excellence Specialist",
-   "department": "Data",
-   "team": "Customer Excellence",
-   "location": "Santiago",
-   "secondary_locations": [
-    "Colombia",
-    "Brazil",
-    "Mexico"
-   ],
-   "employment_type": "FullTime",
-   "workplace_type": "Remote",
-   "is_remote": true,
-   "published_at": "2026-06-18T15:26:34.304+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/c40aa252-a920-4809-8a35-3e7baf59fb11",
-   "description_sha256": "dac61c3b6289b9e1802c79d20e3d1129d6bd729d915e6daa23a59ae8bf777102"
   },
   {
    "job_id": "c4e73cc7-2fb0-4cc9-a335-f41a3eb70073",

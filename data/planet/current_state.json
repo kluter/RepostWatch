@@ -2,7 +2,7 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-08-14T11:21:39+00:00",
+ "fetched_at": "2026-08-17T10:59:10+00:00",
  "job_count": 82,
  "jobs": [
   {
@@ -378,21 +378,6 @@
    "is_remote": false,
    "published_at": "2026-06-25T17:37:17-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7907756",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7916941",
-   "lineage_key": "sales-development-representative-market-development@san-francisco-ca",
-   "title": "Sales Development Representative, Market Development",
-   "department": "Sales Development and Inside Sales",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-19T13:11:20-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7916941",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1143,6 +1128,21 @@
    "is_remote": false,
    "published_at": "2026-07-28T09:22:57-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8088256",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8088361",
+   "lineage_key": "senior-satellite-constellation-manager@uae",
+   "title": "Senior Satellite Constellation Manager",
+   "department": "Space Mission Delivery",
+   "team": "",
+   "location": "UAE",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-17T05:31:46-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8088361",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-08-14T11:21:39+00:00",
- "job_count": 136,
+ "fetched_at": "2026-08-17T10:59:10+00:00",
+ "job_count": 135,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -663,21 +663,6 @@
    "is_remote": false,
    "published_at": "2026-05-13T07:19:54-04:00",
    "url": "https://helsing.ai/jobs/4865187101?gh_jid=4865187101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4865202101",
-   "lineage_key": "head-of-accounting@munich",
-   "title": "Head of Accounting",
-   "department": "Finance",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-13T10:36:18-04:00",
-   "url": "https://helsing.ai/jobs/4865202101?gh_jid=4865202101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-14T17:36:05+00:00",
- "job_count": 175,
+ "fetched_at": "2026-08-17T10:59:10+00:00",
+ "job_count": 176,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -2291,8 +2291,8 @@
   },
   {
    "job_id": "d9a4bdaa-a0bc-4e10-85e2-f99a2ed9b17b",
-   "lineage_key": "cnc-and-workshop-assistant@valencia",
-   "title": "CNC and Workshop Assistant",
+   "lineage_key": "cnc-technician@valencia",
+   "title": "CNC Technician",
    "department": "Engineering",
    "team": "HAPS",
    "location": "Valencia",
@@ -2302,7 +2302,7 @@
    "is_remote": false,
    "published_at": "2026-07-08T15:09:44.591+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/d9a4bdaa-a0bc-4e10-85e2-f99a2ed9b17b",
-   "description_sha256": "32f3d106096237a9d6a1dc5ea924ea09ee51befda2bbcaa78823026ebcf34b15"
+   "description_sha256": "7b72af5d18a911b2f8e733c3e620539a7004e65ac51187005ef16b9fd9b6d7c3"
   },
   {
    "job_id": "d9af7181-4e5c-4ab4-9bca-db371c5c19d6",
@@ -2602,6 +2602,21 @@
    "published_at": "2026-07-01T13:57:44.571+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/f6d34236-1ec0-4567-8b6a-fb6d3eb6bb87",
    "description_sha256": "530aa9c24a3c9fe5c43e933a747915cec86917de33342afbf9c7800b52319b6d"
+  },
+  {
+   "job_id": "f806e6c7-0817-49fa-b8d5-55130ae45e3a",
+   "lineage_key": "senior-satellite-industrialization-engineer@espoo",
+   "title": "Senior Satellite Industrialization Engineer",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-17T08:44:44.008+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/f806e6c7-0817-49fa-b8d5-55130ae45e3a",
+   "description_sha256": "a5e73c8a97daf4c0547d24e89d071b886b5a9fb6ee955a69031b506a5d58cbac"
   },
   {
    "job_id": "fa7cbdf7-5c86-48b7-84f8-12c3476113e7",

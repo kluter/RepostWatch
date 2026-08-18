@@ -2,7 +2,7 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-08-13T11:23:12+00:00",
+ "fetched_at": "2026-08-18T17:02:04+00:00",
  "job_count": 60,
  "jobs": [
   {
@@ -126,6 +126,21 @@
    "description_sha256": "408d16ff185fa67200ae61c924914f90c5e7f0ca037b0e5ab6ea8cbe3952f1d9"
   },
   {
+   "job_id": "20067a97-68c4-4081-bac8-8f03a674af92",
+   "lineage_key": "inventory-logistics-coordinator-barcelona@barcelona-spain",
+   "title": "Inventory & Logistics Coordinator (Barcelona)",
+   "department": "PROCUREMENT & SUPPLY CHAIN",
+   "team": "",
+   "location": "Barcelona, Spain",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-02-14T18:08:27+00:00",
+   "url": "https://careers.open-cosmos.com/jobs/7231085-inventory-logistics-coordinator-barcelona",
+   "description_sha256": "daba9f9e6ddde65e513724090bee5e100b8d482006face369af8f16edc3a914f"
+  },
+  {
    "job_id": "2b38fc1d-6f1c-43a2-a13b-b5f090eae183",
    "lineage_key": "senior-digital-comms-payload-engineer@harwell-uk",
    "title": "Senior Digital Comms Payload Engineer",
@@ -154,21 +169,6 @@
    "published_at": "2025-05-12T11:50:25+01:00",
    "url": "https://careers.open-cosmos.com/jobs/5917898-business-development-professionals-all-levels",
    "description_sha256": "bfa37ccae66ee6f6021c471f2a506be2f19e8fed0c19d6f1416d734d7a7e7990"
-  },
-  {
-   "job_id": "2e118cbb-0c29-484f-a243-e401ef773042",
-   "lineage_key": "senior-access-layer-engineer@harwell-uk",
-   "title": "Senior Access Layer Engineer",
-   "department": "SATCOM (Broadband and Narrowband)",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-05-06T16:52:13+01:00",
-   "url": "https://careers.open-cosmos.com/jobs/7693838-senior-access-layer-engineer",
-   "description_sha256": "50c707a65653a72fe3933befcd4592242f86f6a3f12f4c0de171cf02160a69aa"
   },
   {
    "job_id": "365a70d4-f2e3-424c-ab30-9f47334b16b2",

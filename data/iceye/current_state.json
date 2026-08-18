@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-18T10:58:32+00:00",
- "job_count": 177,
+ "fetched_at": "2026-08-18T17:02:04+00:00",
+ "job_count": 180,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -169,6 +169,21 @@
    "published_at": "2026-07-13T09:30:11.898+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/18952119-94cf-46c8-a6b8-9c05df99dd34",
    "description_sha256": "2035002c658b29ee537d83fae3cfb8c35f03f3556757b51a5d9a650f0fb84141"
+  },
+  {
+   "job_id": "19a2709c-1e6d-4c8d-958a-2f07f017f372",
+   "lineage_key": "senior-staff-platform-observability-engineer@espoo",
+   "title": "Senior/Staff Platform Observability Engineer",
+   "department": "Engineering",
+   "team": "Platform & Release Staff Engineers",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-18T16:05:28.007+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/19a2709c-1e6d-4c8d-958a-2f07f017f372",
+   "description_sha256": "836e4ea03f87f29400e7842b63733b6c1c251e18c619d03b9421576837468f78"
   },
   {
    "job_id": "19d29db2-9a39-4e9b-967a-c63105c1eeaa",
@@ -368,6 +383,21 @@
    "description_sha256": "1613381c44ad4ba3e8c6103b7e32f27281404cb2836b1b88159415453bfc65d8"
   },
   {
+   "job_id": "2dd441cd-718a-449b-9e5f-a9a0bbd91c23",
+   "lineage_key": "corporate-financial-analyst@espoo",
+   "title": "Corporate Financial Analyst",
+   "department": "Finance",
+   "team": "FP&A",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-18T14:22:36.182+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/2dd441cd-718a-449b-9e5f-a9a0bbd91c23",
+   "description_sha256": "dcf7ee0886faf9ca19cbe39b97b7f12edb63c3c895618d69baa71b353a97c381"
+  },
+  {
    "job_id": "2ef68fcc-6ce8-476e-8c94-6e7b099842e9",
    "lineage_key": "forward-deployed-ai-engineer-portugal@lisbon",
    "title": "Forward Deployed AI Engineer, Portugal",
@@ -473,6 +503,21 @@
    "published_at": "2026-07-13T09:39:39.273+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/332b1d49-0d7e-43de-a460-41e36bd42519",
    "description_sha256": "621dba98bac862bc8efe31b3f723c5456c7afd17283a18482250de60d8fdd2e3"
+  },
+  {
+   "job_id": "339329ca-5f4d-4f29-b681-47dab7ffb88f",
+   "lineage_key": "security-officer@lisbon",
+   "title": "Security Officer",
+   "department": "IT & Security",
+   "team": "Security",
+   "location": "Lisbon",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-18T11:49:18.685+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/339329ca-5f4d-4f29-b681-47dab7ffb88f",
+   "description_sha256": "45d89441268ab132bf8e99ad56b9c96d4ef6caa51bc8028ffed0362af8040ff5"
   },
   {
    "job_id": "34f68a39-6743-4af1-ae67-bd0ef78c904e",
@@ -1701,21 +1746,6 @@
    "description_sha256": "7d0a8555ec2b87cd65c39d18708d971c749352e345dfa7a60949524bf5f57f18"
   },
   {
-   "job_id": "97cfd417-d59b-41f6-b06a-b6a8defa4054",
-   "lineage_key": "pmo-manager@espoo",
-   "title": "PMO Manager",
-   "department": "Missions",
-   "team": "Missions Programs",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-06-26T07:26:56.661+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/97cfd417-d59b-41f6-b06a-b6a8defa4054",
-   "description_sha256": "7251163d972e9a9776a311cb650bf78c480576a6987da2eba08633723a027464"
-  },
-  {
    "job_id": "9967722a-e9f3-4b30-9b4c-23bb7586f6c9",
    "lineage_key": "forward-deployed-geospatial-engineer-sar-intelligence-espoo@espoo",
    "title": "Forward Deployed Geospatial Engineer - SAR Intelligence, Espoo",
@@ -1852,8 +1882,8 @@
   },
   {
    "job_id": "b05f92c4-8b2c-4a02-853c-bbeae69f76b5",
-   "lineage_key": "it-site-engineer-local-security-officer@lisbon",
-   "title": "IT Site Engineer & Local Security Officer",
+   "lineage_key": "it-site-engineer@lisbon",
+   "title": "IT Site Engineer",
    "department": "Operations",
    "team": "IT",
    "location": "Lisbon",
@@ -1863,7 +1893,7 @@
    "is_remote": true,
    "published_at": "2026-08-07T08:11:39.933+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/b05f92c4-8b2c-4a02-853c-bbeae69f76b5",
-   "description_sha256": "2589e43ab306df28df4b23f0894255db4898ad92ee1cb9edb87f4a99c487cc9e"
+   "description_sha256": "aa91cdb5126e528ed48e139e34ee1cb4769e33dffa88f9a4d977785504124064"
   },
   {
    "job_id": "b0ef3dc9-6d59-4388-a64e-1dd6ae77a599",
@@ -2028,7 +2058,7 @@
    "is_remote": false,
    "published_at": "2026-08-11T17:53:15.429+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/c0286ea9-19c2-4af3-8917-1bde2f693a09",
-   "description_sha256": "a57b7ae92e5aba1bd0004309f07f0309a4294de56bbb879e24d25e59ada98445"
+   "description_sha256": "a9ba943e9632fe2ff563fade29a5d66d8702a35ab933a0b320ae5f4f9ec094cf"
   },
   {
    "job_id": "c02a179c-cf37-4eae-be66-05c3fc49f67d",
@@ -2074,6 +2104,21 @@
    "published_at": "2026-07-22T08:19:58.786+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/c4e73cc7-2fb0-4cc9-a335-f41a3eb70073",
    "description_sha256": "61b6467d429a6560045e89c8159e2b2c8612055e5f88ca97bdeef27c89f0e7f0"
+  },
+  {
+   "job_id": "c50ac459-37a2-4414-b33f-d75c458b53a1",
+   "lineage_key": "spacecraft-analysis-team-lead@espoo",
+   "title": "Spacecraft Analysis Team Lead",
+   "department": "Engineering",
+   "team": "Spacecraft Hardware",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-08-18T13:14:24.691+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/c50ac459-37a2-4414-b33f-d75c458b53a1",
+   "description_sha256": "584271c111f58abaddd3e795e14a9e6339d277e33eb43c73368f2573cf811136"
   },
   {
    "job_id": "c51065ca-6ecb-4ce9-9dcb-d48b397dabdd",

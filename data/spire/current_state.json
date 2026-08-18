@@ -2,7 +2,7 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-08-13T17:39:17+00:00",
+ "fetched_at": "2026-08-18T10:58:32+00:00",
  "job_count": 46,
  "jobs": [
   {
@@ -127,8 +127,8 @@
   },
   {
    "job_id": "7307780",
-   "lineage_key": "gnc-engineer-avionics@glasgow-scotland-united-kingdom",
-   "title": "GNC Engineer - Avionics",
+   "lineage_key": "gnc-engineer@glasgow-scotland-united-kingdom",
+   "title": "GNC Engineer",
    "department": "Engineering",
    "team": "",
    "location": "Glasgow, Scotland, United Kingdom",

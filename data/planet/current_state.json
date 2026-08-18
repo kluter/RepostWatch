@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-08-17T17:00:50+00:00",
- "job_count": 81,
+ "fetched_at": "2026-08-18T10:58:32+00:00",
+ "job_count": 79,
  "jobs": [
   {
    "job_id": "7374533",
@@ -381,21 +381,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "7926502",
-   "lineage_key": "director-people-business-partners-emea@berlin-germany",
-   "title": "Director, People Business Partners EMEA",
-   "department": "People Business Partners",
-   "team": "",
-   "location": "Berlin, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-18T18:00:33-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7926502",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "7938235",
    "lineage_key": "head-of-creative@san-francisco-ca",
    "title": "Head of Creative",
@@ -678,21 +663,6 @@
    "is_remote": true,
    "published_at": "2026-06-17T14:40:50-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8011111",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8011312",
-   "lineage_key": "working-student-software-engineering@ljubljana-slovenia",
-   "title": "Working Student, Software Engineering",
-   "department": "CG&C Solution Operations & Delivery",
-   "team": "",
-   "location": "Ljubljana, Slovenia",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-17T16:07:21-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8011312",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

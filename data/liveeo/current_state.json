@@ -2,8 +2,8 @@
  "company": "liveeo",
  "source": "personio",
  "board": "liveeo-gmbh",
- "fetched_at": "2026-08-17T17:00:50+00:00",
- "job_count": 20,
+ "fetched_at": "2026-08-18T10:58:32+00:00",
+ "job_count": 21,
  "jobs": [
   {
    "job_id": "2006503",
@@ -303,6 +303,21 @@
    "is_remote": false,
    "published_at": "2026-08-17T15:27:20+00:00",
    "url": "https://liveeo-gmbh.jobs.personio.de/job/2757323",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "2758662",
+   "lineage_key": "director-sales-engineering-f-m-x@berlin",
+   "title": "Director Sales Engineering (f/m/x)",
+   "department": "Sales",
+   "team": "",
+   "location": "Berlin",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-18T12:42:39+00:00",
+   "url": "https://liveeo-gmbh.jobs.personio.de/job/2758662",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-17T17:00:50+00:00",
- "job_count": 178,
+ "fetched_at": "2026-08-18T10:58:32+00:00",
+ "job_count": 177,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -293,6 +293,21 @@
    "description_sha256": "9a67c4f963702931ff280b411fd29794859921184e9935c751b1ecc80c7d9cf9"
   },
   {
+   "job_id": "284d4905-606d-4cd0-b043-e6f8d6ede611",
+   "lineage_key": "brand-designer-motion-video@espoo",
+   "title": "Brand Designer (Motion & Video)",
+   "department": "Marketing",
+   "team": "Global Brand & Design",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-18T07:52:14.552+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/284d4905-606d-4cd0-b043-e6f8d6ede611",
+   "description_sha256": "07304382dbd994bfd14f8abec73e8f91dd577a1a65a494dbc0294903e965d365"
+  },
+  {
    "job_id": "2a0250ec-cd39-4589-9ee9-f1bffd4a4975",
    "lineage_key": "senior-mechanical-test-engineer@espoo",
    "title": "Senior Mechanical Test Engineer",
@@ -397,7 +412,7 @@
    "is_remote": true,
    "published_at": "2026-08-07T08:05:16.702+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/300fe8d1-7376-4f7e-8ca7-2e577c8fb13a",
-   "description_sha256": "551b99344c2e35a3a86e690b0d663d17472b0f8bf0281ca4417dd95fe6eaac59"
+   "description_sha256": "22ce8601c11524e89d4460540b1580287254d2ccbcbb54bfcd938480ddc11002"
   },
   {
    "job_id": "307e5ecf-9033-424d-b6e5-39d0483e7f49",
@@ -1185,21 +1200,6 @@
    "published_at": "2026-06-29T17:07:34.404+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/728ba3dc-5ab4-4f86-b7cc-5bd24c37f2d4",
    "description_sha256": "7b84e32bc481518c8c328c960b6daec413b348237e77e782648d441dc3aa1f0d"
-  },
-  {
-   "job_id": "75a61359-7509-4cbe-a965-ff7bd3f24883",
-   "lineage_key": "customer-excellence-specialist@espoo",
-   "title": "Customer Excellence Specialist",
-   "department": "Data",
-   "team": "Customer Continuous Improvement",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-17T12:12:48.991+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/75a61359-7509-4cbe-a965-ff7bd3f24883",
-   "description_sha256": "79c239328b7f82532e8796905dfd7a7b44ff5ab46119e691e2dd5004ff4d5b3c"
   },
   {
    "job_id": "75c4cf4a-45d9-4cfc-99e0-164a3a1c877d",
@@ -2254,21 +2254,6 @@
    "published_at": "2026-06-30T06:24:45.437+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/cfc19497-d4ed-465d-9b7d-e2ed114c4ba4",
    "description_sha256": "1c7c3845a71ddd3508738c40e54be6a96ebd65a5edab4d241ef071e49e97f004"
-  },
-  {
-   "job_id": "d00331e7-c38e-4c90-8480-6c0ccbea4a78",
-   "lineage_key": "program-manager-netherlands@netherlands",
-   "title": "Program Manager - Netherlands",
-   "department": "Missions",
-   "team": "Missions Programs",
-   "location": "Netherlands",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-06-25T12:27:54.499+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/d00331e7-c38e-4c90-8480-6c0ccbea4a78",
-   "description_sha256": "7ad82c43716e27b6b6ec8b377451d69a14c1fc14cf41258468602a3a050e2f27"
   },
   {
    "job_id": "d2e387fd-dc80-4c66-b47b-5d3536a135c9",

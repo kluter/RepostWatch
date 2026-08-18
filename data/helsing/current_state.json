@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-08-17T17:00:50+00:00",
- "job_count": 132,
+ "fetched_at": "2026-08-18T10:58:32+00:00",
+ "job_count": 128,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -576,21 +576,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4862545101",
-   "lineage_key": "operational-buyer@munich",
-   "title": "Operational Buyer",
-   "department": "Operations",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-08T09:28:11-04:00",
-   "url": "https://helsing.ai/jobs/4862545101?gh_jid=4862545101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4862586101",
    "lineage_key": "quality-inspector-production-quality@munich",
    "title": "Quality Inspector - Production Quality",
@@ -667,8 +652,8 @@
   },
   {
    "job_id": "4865788101",
-   "lineage_key": "helsing-formula-student-programme-closed-opportunity@munich",
-   "title": "Helsing – Formula Student Programme | Closed Opportunity",
+   "lineage_key": "helsing-formula-student-programme@munich",
+   "title": "Helsing – Formula Student Programme",
    "department": "AI & Engineering",
    "team": "",
    "location": "Munich",
@@ -1146,51 +1131,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4900446101",
-   "lineage_key": "software-engineer-rust@washington-dc",
-   "title": "Software Engineer, Rust",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Washington, DC",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-16T15:56:25-04:00",
-   "url": "https://helsing.ai/jobs/4900446101?gh_jid=4900446101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4900453101",
-   "lineage_key": "software-engineer-devsecops@washington-dc",
-   "title": "Software Engineer, DevSecOps",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Washington, DC",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-16T16:40:13-04:00",
-   "url": "https://helsing.ai/jobs/4900453101?gh_jid=4900453101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4900456101",
-   "lineage_key": "software-engineer-platform-engineering@washington-dc",
-   "title": "Software Engineer, Platform Engineering",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Washington, DC",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-16T16:40:33-04:00",
-   "url": "https://helsing.ai/jobs/4900456101?gh_jid=4900456101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4900888101",
    "lineage_key": "lead-systems-engineer-active-rf-sensing@munich",
    "title": "Lead Systems Engineer - Active RF Sensing",
@@ -1218,21 +1158,6 @@
    "is_remote": false,
    "published_at": "2026-06-18T10:36:59-04:00",
    "url": "https://helsing.ai/jobs/4902679101?gh_jid=4902679101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4902953101",
-   "lineage_key": "machine-learning-engineer-detection-and-tracking@washington-dc",
-   "title": "Machine Learning Engineer, Detection and Tracking",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Washington, DC",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-18T14:33:06-04:00",
-   "url": "https://helsing.ai/jobs/4902953101?gh_jid=4902953101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1983,6 +1908,21 @@
    "is_remote": false,
    "published_at": "2026-08-17T12:40:09-04:00",
    "url": "https://helsing.ai/jobs/4954096101?gh_jid=4954096101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4954531101",
+   "lineage_key": "regional-sales-lead-dach-land@munich",
+   "title": "Regional Sales Lead, DACH - Land",
+   "department": "Market",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-18T03:19:16-04:00",
+   "url": "https://helsing.ai/jobs/4954531101?gh_jid=4954531101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

@@ -2,8 +2,8 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-08-18T17:02:04+00:00",
- "job_count": 60,
+ "fetched_at": "2026-08-19T10:57:30+00:00",
+ "job_count": 59,
  "jobs": [
   {
    "job_id": "063679a7-77f0-4e6d-8296-bcff69f4ec4f",
@@ -604,21 +604,6 @@
    "published_at": "2025-12-31T15:50:31+00:00",
    "url": "https://careers.open-cosmos.com/jobs/6993710-satcom-payload-architect",
    "description_sha256": "cc9d138b1089cd3cec9ac8d362a29b99c05880039193ac9f58e9f412b9c6fc70"
-  },
-  {
-   "job_id": "a82675ca-f8f5-4ed1-876f-7ce3d96837f0",
-   "lineage_key": "senior-flight-software-engineer@harwell-uk",
-   "title": "Senior Flight Software Engineer",
-   "department": "FLIGHT SOFTWARE",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2025-12-16T07:23:43+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/6934774-senior-flight-software-engineer",
-   "description_sha256": "c51b612ac06f5b33aaddac784c996228ed1d6c7aa693194efabc8b85e3c040ba"
   },
   {
    "job_id": "b00ff0b2-2321-4d39-99b4-1d8f18732401",

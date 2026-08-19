@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-18T17:02:04+00:00",
- "job_count": 180,
+ "fetched_at": "2026-08-19T10:57:30+00:00",
+ "job_count": 178,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -309,8 +309,8 @@
   },
   {
    "job_id": "284d4905-606d-4cd0-b043-e6f8d6ede611",
-   "lineage_key": "brand-designer-motion-video@espoo",
-   "title": "Brand Designer (Motion & Video)",
+   "lineage_key": "brand-designer@espoo",
+   "title": "Brand Designer",
    "department": "Marketing",
    "team": "Global Brand & Design",
    "location": "Espoo",
@@ -320,7 +320,7 @@
    "is_remote": true,
    "published_at": "2026-08-18T07:52:14.552+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/284d4905-606d-4cd0-b043-e6f8d6ede611",
-   "description_sha256": "07304382dbd994bfd14f8abec73e8f91dd577a1a65a494dbc0294903e965d365"
+   "description_sha256": "5f5e3c4bcc7d71704dfeef09c1b6bf0bdf5675e70aa0bd37a2efb3a47d897bf9"
   },
   {
    "job_id": "2a0250ec-cd39-4589-9ee9-f1bffd4a4975",
@@ -395,7 +395,7 @@
    "is_remote": true,
    "published_at": "2026-08-18T14:22:36.182+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/2dd441cd-718a-449b-9e5f-a9a0bbd91c23",
-   "description_sha256": "dcf7ee0886faf9ca19cbe39b97b7f12edb63c3c895618d69baa71b353a97c381"
+   "description_sha256": "5fc693d603d55f52485401ef67e992fcbd32c52e8786b8ebb0eb163fdce3ce9b"
   },
   {
    "job_id": "2ef68fcc-6ce8-476e-8c94-6e7b099842e9",
@@ -1699,23 +1699,6 @@
    "description_sha256": "b2ce93eca53f0fb5cfb3e64fc3510df341635de77fa50a2e2eb0105fa4c63434"
   },
   {
-   "job_id": "96b0096d-df6f-4c0a-acd0-db520a050cee",
-   "lineage_key": "forward-deployed-ai-engineer-greece@athens",
-   "title": "Forward Deployed AI Engineer, Greece",
-   "department": "Forward Deployed Engineering",
-   "team": "Forward Deployed Engineering",
-   "location": "Athens",
-   "secondary_locations": [
-    "Athens"
-   ],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-06-25T13:50:32.948+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/96b0096d-df6f-4c0a-acd0-db520a050cee",
-   "description_sha256": "bde63981eff7ae742ba224b238af2555ecd9bbd7f5c9c3c61041ebe63c40e675"
-  },
-  {
    "job_id": "97431c12-691a-41f4-b7cd-1a6896f43fbd",
    "lineage_key": "operational-excellence-manager@espoo",
    "title": "Operational Excellence Manager",
@@ -1878,7 +1861,7 @@
    "is_remote": false,
    "published_at": "2026-06-10T17:28:24.635+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/af4bb424-4f4e-451d-b34a-aa86611a61b5",
-   "description_sha256": "02e3e0eaddb1defd8740ca1baf250f8e3b729b316656eb6ebe64bb35af00a139"
+   "description_sha256": "a65667de0a402c996258f752c552af81c8055c8f0ae7bbb769b318e6dcee7dd3"
   },
   {
    "job_id": "b05f92c4-8b2c-4a02-853c-bbeae69f76b5",
@@ -2118,7 +2101,7 @@
    "is_remote": false,
    "published_at": "2026-08-18T13:14:24.691+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/c50ac459-37a2-4414-b33f-d75c458b53a1",
-   "description_sha256": "584271c111f58abaddd3e795e14a9e6339d277e33eb43c73368f2573cf811136"
+   "description_sha256": "8e4fad2d3bab77252df831db31257668417637e141e66937e3a2f568e671e166"
   },
   {
    "job_id": "c51065ca-6ecb-4ce9-9dcb-d48b397dabdd",
@@ -2551,21 +2534,6 @@
    "published_at": "2026-04-09T11:48:33.265+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/edf13659-c648-4ca9-9676-cbf002b6aaef",
    "description_sha256": "ea52658994a7b4c97e7ec250bd9f9a58750f8e4217748882ae5193560f3a9a21"
-  },
-  {
-   "job_id": "ef4c789d-85da-466c-ac71-0c20cc5a8023",
-   "lineage_key": "satellite-production-senior-technician-integration-mechanical-thermal@valencia",
-   "title": "Satellite Production Senior Technician, Integration, Mechanical & Thermal",
-   "department": "Global Manufacturing Organization",
-   "team": "ES Satellite Production",
-   "location": "Valencia",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-07-13T10:29:32.734+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/ef4c789d-85da-466c-ac71-0c20cc5a8023",
-   "description_sha256": "a1e38831b2965e588e2cb4b7678c0fa8bf66db55813651920d2a0edc81a0a88f"
   },
   {
    "job_id": "f1923306-9ffa-4b2f-bee3-c7472c711167",

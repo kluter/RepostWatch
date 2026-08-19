@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-08-18T17:02:04+00:00",
- "job_count": 46,
+ "fetched_at": "2026-08-19T17:01:01+00:00",
+ "job_count": 47,
  "jobs": [
   {
    "job_id": "6521832",
@@ -693,6 +693,21 @@
    "is_remote": false,
    "published_at": "2026-08-13T05:38:22-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8124588&gh_jid=8124588",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8127760",
+   "lineage_key": "fp-a-senior-analyst@washington-district-of-columbia-united-states",
+   "title": "FP&A - Senior Analyst",
+   "department": "Finance",
+   "team": "",
+   "location": "Washington, District of Columbia, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-19T07:28:53-04:00",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8127760&gh_jid=8127760",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

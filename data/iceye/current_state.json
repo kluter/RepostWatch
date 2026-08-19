@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-19T10:57:30+00:00",
- "job_count": 178,
+ "fetched_at": "2026-08-19T17:01:01+00:00",
+ "job_count": 176,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -323,21 +323,6 @@
    "description_sha256": "5f5e3c4bcc7d71704dfeef09c1b6bf0bdf5675e70aa0bd37a2efb3a47d897bf9"
   },
   {
-   "job_id": "2a0250ec-cd39-4589-9ee9-f1bffd4a4975",
-   "lineage_key": "senior-mechanical-test-engineer@espoo",
-   "title": "Senior Mechanical Test Engineer",
-   "department": "Engineering",
-   "team": "Mechanical Engineering",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-04-08T07:29:19.720+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/2a0250ec-cd39-4589-9ee9-f1bffd4a4975",
-   "description_sha256": "96a5581e5d1c1bee26ae95dcc4295ab2f199349076a8d27b782f0441170e328e"
-  },
-  {
    "job_id": "2a7fa616-d6b3-469d-a724-73150c417fac",
    "lineage_key": "staff-optical-engineer@warsaw",
    "title": "Staff Optical Engineer",
@@ -637,7 +622,7 @@
    "is_remote": true,
    "published_at": "2026-08-04T07:36:05.304+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/387a2a71-1b63-44b4-ac07-eaa487a78f63",
-   "description_sha256": "9f9227981f02ccf2498f1063b61926cfe05abbd5f52a8ddc956d021d478adc5f"
+   "description_sha256": "8ac50b45cd2f3e2ce83db94adfda109938906e562bae38416058bb8a463d8056"
   },
   {
    "job_id": "38a65e7e-1063-4071-8aba-0184ab09f996",
@@ -1398,8 +1383,8 @@
   },
   {
    "job_id": "81908ad3-84f4-4cc3-ac25-1440f38b52c2",
-   "lineage_key": "receptionist@warsaw",
-   "title": "Receptionist",
+   "lineage_key": "office-assistant@warsaw",
+   "title": "Office Assistant",
    "department": "Operations",
    "team": "Operations",
    "location": "Warsaw",
@@ -1409,7 +1394,7 @@
    "is_remote": true,
    "published_at": "2026-08-17T15:29:01.948+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/81908ad3-84f4-4cc3-ac25-1440f38b52c2",
-   "description_sha256": "f13855ae375ade4194e6fe53eaf422f72d618618d1503f63d8425584d60bba1c"
+   "description_sha256": "a7178783173927f82d64fb73118540a9c189641c3c9215f7a96ff2086ee1c4f7"
   },
   {
    "job_id": "8525aea6-9765-41ae-b1c8-87617030564e",
@@ -1832,21 +1817,6 @@
    "published_at": "2026-07-20T06:01:29.442+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/aabf95c8-9cc7-4de2-95e1-89ff3ca605b9",
    "description_sha256": "0372ff92cc8f12c4dd1343f83b876e3b50ecc17fa02441f1b09e1d7b5fbd040e"
-  },
-  {
-   "job_id": "abc9fd44-b7c1-4b2c-813c-936a42973f22",
-   "lineage_key": "head-of-logistics-freight-forwarding@espoo",
-   "title": "Head of Logistics & Freight Forwarding",
-   "department": "Global Manufacturing Organization",
-   "team": "Global Supply Chain",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-07T15:50:37.347+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/abc9fd44-b7c1-4b2c-813c-936a42973f22",
-   "description_sha256": "ea00bc96f97e8fbc3818fc37efaf6300b5949bbca440bba0e4095cf00f64ad07"
   },
   {
    "job_id": "af4bb424-4f4e-451d-b34a-aa86611a61b5",
@@ -2483,7 +2453,7 @@
    "is_remote": true,
    "published_at": "2026-08-04T07:37:48.416+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e7d59b96-29fb-4d6c-8e4b-4cdb4e38da1b",
-   "description_sha256": "0efba538a5f2c16cbc93dc124b8f7d7f92c93926f4119cad3b04857306ca01a8"
+   "description_sha256": "d89df4f459d45da848c8464e7306747502876ff4c5b73695ffabfd28502187f5"
   },
   {
    "job_id": "ea6fcf8b-f800-4abb-a254-cb82596b5c98",

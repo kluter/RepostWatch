@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-08-19T10:57:30+00:00",
- "job_count": 80,
+ "fetched_at": "2026-08-19T17:01:01+00:00",
+ "job_count": 82,
  "jobs": [
   {
    "job_id": "7374533",
@@ -1146,6 +1146,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8103496",
+   "lineage_key": "working-student-customer-success@berlin-germany",
+   "title": "Working Student, Customer Success",
+   "department": "Customer Success Management",
+   "team": "",
+   "location": "Berlin, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-19T12:37:59-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8103496",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8103527",
    "lineage_key": "data-analyst@berlin-germany",
    "title": "Data Analyst",
@@ -1203,6 +1218,21 @@
    "is_remote": false,
    "published_at": "2026-08-12T16:37:18-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8126704",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8137141",
+   "lineage_key": "director-of-government-affairs@arlington-va",
+   "title": "Director of Government Affairs",
+   "department": "Global Communications and Government Affairs (Global Communications and Government Affairs)",
+   "team": "",
+   "location": "Arlington, VA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-19T07:23:14-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8137141",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

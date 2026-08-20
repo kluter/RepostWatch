@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-19T17:01:01+00:00",
- "job_count": 176,
+ "fetched_at": "2026-08-20T10:59:51+00:00",
+ "job_count": 179,
  "jobs": [
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -852,21 +852,6 @@
    "description_sha256": "3f5828e35327972358cc72eb19ff6c5eadeba37300e9a206c2bc457162fd41a5"
   },
   {
-   "job_id": "4b0ca97c-681a-42ac-a923-ac0b2bcc5a9a",
-   "lineage_key": "talent-attraction-coordinator@espoo",
-   "title": "Talent Attraction Coordinator",
-   "department": "Operations",
-   "team": "Talent Attraction",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-10T11:17:05.851+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/4b0ca97c-681a-42ac-a923-ac0b2bcc5a9a",
-   "description_sha256": "28b49339e3b7f536c2e18796373fae24465f903606788bc9ba3f4440698f2604"
-  },
-  {
    "job_id": "4c5b752a-7f68-4b50-9084-e50abb61c6f3",
    "lineage_key": "chief-of-staff-uae@united-arab-emirates",
    "title": "Chief of Staff, UAE",
@@ -955,6 +940,21 @@
    "published_at": "2026-05-18T15:32:59.380+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/54504736-2e30-4a8c-a8a6-264e59712dc8",
    "description_sha256": "79b4c67a5306e0b5a5930920a8881c4b7f8d4fd77a506fa9e516bfe104d631cd"
+  },
+  {
+   "job_id": "551ed47a-6af8-48ef-8275-4273e635b909",
+   "lineage_key": "ait-engineering-team-lead@warsaw",
+   "title": "AIT Engineering Team Lead",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-20T07:51:53.841+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/551ed47a-6af8-48ef-8275-4273e635b909",
+   "description_sha256": "6a86372cb02000c3384dc9e07ff0d9129b16050cb1821dd21197634e8a83b67e"
   },
   {
    "job_id": "565cf1a9-250b-4ce5-ab2d-140fe2955412",
@@ -1292,6 +1292,21 @@
    "description_sha256": "4926594843bc59e6139f943795b8b88141aafe7c6df5632d5ff900b51d9bd37f"
   },
   {
+   "job_id": "77810597-e144-4931-acb3-2a022f546098",
+   "lineage_key": "production-planner@valencia",
+   "title": "Production Planner",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-08-20T07:24:13.699+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/77810597-e144-4931-acb3-2a022f546098",
+   "description_sha256": "7e475411196f933b49a9d47f25c9bcdbc4599cd2789ff946f91006a770fba24c"
+  },
+  {
    "job_id": "77ee1494-3ca4-4774-a0ad-9e731d63cec1",
    "lineage_key": "senior-electronics-test-engineer@espoo",
    "title": "Senior Electronics Test Engineer",
@@ -1365,6 +1380,21 @@
    "published_at": "2026-07-14T10:49:35.881+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/7e9af3f3-e41f-4897-ae9d-e0d536527128",
    "description_sha256": "276db2621bf408e41044ed4d19ae051aac7f36371b7cb6aabbd7f06d48d16e98"
+  },
+  {
+   "job_id": "7efd1aea-7d35-4d3f-9ee1-01ca355f0f39",
+   "lineage_key": "senior-ait-engineer-electronics@espoo",
+   "title": "Senior AIT Engineer, Electronics",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-20T07:03:43.689+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/7efd1aea-7d35-4d3f-9ee1-01ca355f0f39",
+   "description_sha256": "d4a5161073c3957f3b0d9014687c78c90e9456e9a8d004c75cb64d8a107e842d"
   },
   {
    "job_id": "8096ddfe-64c4-4555-87ad-45c4e9dc09cd",
@@ -1636,7 +1666,7 @@
    "is_remote": false,
    "published_at": "2026-06-10T12:16:29.063+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/94b9830e-5093-499c-bbcb-77dac72b5b05",
-   "description_sha256": "273db3bb4d204f95e519f85244f5a06fd944f2bd2a53b61308a020884a6321c7"
+   "description_sha256": "c0848c949482b9520522803dd09afbc4c0863ac294c468a78d2e9b7235c677b7"
   },
   {
    "job_id": "951e39dd-b621-4e99-8507-2781587e7d1c",
@@ -1756,7 +1786,7 @@
    "is_remote": false,
    "published_at": "2026-07-21T12:14:33.756+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/a6d0bba0-2219-4f01-8c79-f4d945de5af7",
-   "description_sha256": "6efb8bdd2f343ca398d4bcb41438264b8b989fd1b22a71699a0907888e108da7"
+   "description_sha256": "8688c0e71f798e4b5655ee14c2b11bd52ed2569899b04235746ebb941df4eee4"
   },
   {
    "job_id": "a6db612f-b49f-4be4-a4d4-7639649a1cf7",
@@ -1802,21 +1832,6 @@
    "published_at": "2026-08-06T11:21:50.920+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/aa323d27-cb46-49da-ad7b-2af2821fccfa",
    "description_sha256": "cc97f4a1c605755f307dbb1058391131fa8d1c894bbeafa7e2d6a94861d02bbe"
-  },
-  {
-   "job_id": "aabf95c8-9cc7-4de2-95e1-89ff3ca605b9",
-   "lineage_key": "software-engineer-unmanned-aircraft-avionics-firmware-autopilot@valencia-spain",
-   "title": "Software Engineer, Unmanned Aircraft (Avionics, Firmware, Autopilot)",
-   "department": "Engineering",
-   "team": "Flight Software",
-   "location": "Valencia, Spain",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-07-20T06:01:29.442+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/aabf95c8-9cc7-4de2-95e1-89ff3ca605b9",
-   "description_sha256": "0372ff92cc8f12c4dd1343f83b876e3b50ecc17fa02441f1b09e1d7b5fbd040e"
   },
   {
    "job_id": "af4bb424-4f4e-451d-b34a-aa86611a61b5",
@@ -2224,6 +2239,21 @@
    "description_sha256": "53d6361fa27a7b27de3f26af751d4bef03e4b6b8e20502eee84650c9cb216aaf"
   },
   {
+   "job_id": "cf5aef51-a500-4e06-895e-c2bc9be02bbf",
+   "lineage_key": "ait-engineer-mechanical@athens",
+   "title": "AIT Engineer - Mechanical",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Athens",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-08-20T07:02:36.812+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/cf5aef51-a500-4e06-895e-c2bc9be02bbf",
+   "description_sha256": "bff85a7c63d6f43b19a3cb38ea461161ed7ee712042d6a1aaeafaa45a31b43d7"
+  },
+  {
    "job_id": "cf6ba0e9-a750-4ee7-9b0a-8cb519cb7c39",
    "lineage_key": "staff-platform-engineer-core-platform-engineering@espoo",
    "title": "Staff Platform Engineer - Core Platform Engineering",
@@ -2436,7 +2466,7 @@
    "employment_type": "FullTime",
    "workplace_type": "Hybrid",
    "is_remote": true,
-   "published_at": "2026-05-29T06:59:32.047+00:00",
+   "published_at": "2026-08-20T09:18:26.835+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e4d89d32-5bee-4090-8bd0-5634803b6d3f",
    "description_sha256": "6b6d3b01b83814ba591147effa8fd16d42ce8e2443513dc61c98a11a5426e6bd"
   },
@@ -2454,6 +2484,21 @@
    "published_at": "2026-08-04T07:37:48.416+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e7d59b96-29fb-4d6c-8e4b-4cdb4e38da1b",
    "description_sha256": "d89df4f459d45da848c8464e7306747502876ff4c5b73695ffabfd28502187f5"
+  },
+  {
+   "job_id": "e8bba89b-1a9f-4b40-b476-454b43bb0244",
+   "lineage_key": "maite-planner@athens",
+   "title": "MAITE Planner",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Athens",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-08-20T07:08:20.344+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/e8bba89b-1a9f-4b40-b476-454b43bb0244",
+   "description_sha256": "a3295b59777b6638f69779f8e4378a674b4e7b20aa4583c22dfbc0f45e979030"
   },
   {
    "job_id": "ea6fcf8b-f800-4abb-a254-cb82596b5c98",

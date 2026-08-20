@@ -2,7 +2,7 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-08-19T17:01:01+00:00",
+ "fetched_at": "2026-08-20T10:59:51+00:00",
  "job_count": 82,
  "jobs": [
   {
@@ -408,21 +408,6 @@
    "is_remote": false,
    "published_at": "2026-06-12T13:44:36-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7946660",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7946662",
-   "lineage_key": "technical-marketing-manager-earth-observation@san-francisco-ca",
-   "title": "Technical Marketing Manager, Earth Observation",
-   "department": "Product Marketing",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-15T15:01:25-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7946662",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -939,7 +924,7 @@
    "job_id": "8068089",
    "lineage_key": "senior-engineering-manager-d-i-analytics@washington-d-c",
    "title": "Senior Engineering Manager, D&I Analytics",
-   "department": "(OLD) D&I Solutions (SWE)",
+   "department": "Global Monitoring Analytics",
    "team": "",
    "location": "Washington, D.C.",
    "secondary_locations": [],
@@ -1218,6 +1203,21 @@
    "is_remote": false,
    "published_at": "2026-08-12T16:37:18-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8126704",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8128479",
+   "lineage_key": "senior-cost-accountant@berlin-germany",
+   "title": "Senior Cost Accountant",
+   "department": "Accounting",
+   "team": "",
+   "location": "Berlin, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-20T06:51:54-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8128479",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

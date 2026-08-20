@@ -2,7 +2,7 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-08-19T10:57:30+00:00",
+ "fetched_at": "2026-08-20T10:59:51+00:00",
  "job_count": 134,
  "jobs": [
   {
@@ -1672,11 +1672,11 @@
   },
   {
    "job_id": "4944070101",
-   "lineage_key": "associate-programme-manager-land@munich",
+   "lineage_key": "associate-programme-manager-land@berlin",
    "title": "Associate Programme Manager - Land",
    "department": "Campaigns & Programmes",
    "team": "",
-   "location": "Munich",
+   "location": "Berlin",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",

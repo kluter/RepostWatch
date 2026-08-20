@@ -2,7 +2,7 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-08-19T17:01:01+00:00",
+ "fetched_at": "2026-08-20T10:59:51+00:00",
  "job_count": 102,
  "jobs": [
   {
@@ -738,21 +738,6 @@
    "is_remote": false,
    "published_at": "2026-05-24T18:00:00-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4869206101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4873721101",
-   "lineage_key": "junior-proposal-engineer-m-f-d@ottobrunn-bavaria-germany",
-   "title": "(Junior) Proposal Engineer (m/f/d)",
-   "department": "Mission & Launch Operations",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-01T11:00:01-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4873721101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1533,6 +1518,21 @@
    "is_remote": false,
    "published_at": "2026-08-19T04:23:17-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4955724101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4956744101",
+   "lineage_key": "intern-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Intern (m/f/d)",
+   "department": "Production, Operations & Quality",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-20T05:39:25-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4956744101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

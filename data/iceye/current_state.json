@@ -2,9 +2,24 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-20T10:59:51+00:00",
- "job_count": 179,
+ "fetched_at": "2026-08-20T17:04:55+00:00",
+ "job_count": 181,
  "jobs": [
+  {
+   "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
+   "lineage_key": "senior-fullstack-engineer-fleet-ui@espoo",
+   "title": "Senior Fullstack Engineer (Fleet UI)",
+   "department": "Engineering",
+   "team": "Fleet UI",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-20T14:39:03.955+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
+   "description_sha256": "7be836560cf7ebabb6bb39bffb29dd642c87f0772d5c3ec6e036fc564447eabe"
+  },
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
    "lineage_key": "satellite-launch-specialist@warsaw",
@@ -380,7 +395,7 @@
    "is_remote": true,
    "published_at": "2026-08-18T14:22:36.182+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/2dd441cd-718a-449b-9e5f-a9a0bbd91c23",
-   "description_sha256": "5fc693d603d55f52485401ef67e992fcbd32c52e8786b8ebb0eb163fdce3ce9b"
+   "description_sha256": "230779983b2cc64e1fb3ecb39ac1abaab2691b1d67ebf196192d811ed61e055d"
   },
   {
    "job_id": "2ef68fcc-6ce8-476e-8c94-6e7b099842e9",
@@ -895,6 +910,21 @@
    "published_at": "2026-07-10T08:44:13.214+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/50ea94b9-1799-49ed-98f2-fdf29bf4fef8",
    "description_sha256": "18a5c01e4bacdf1c25eb7d10db4b602aea127cfcfa83374c9a4caa1484db6312"
+  },
+  {
+   "job_id": "51a5d21b-80e2-420f-b7e2-ff031b42e836",
+   "lineage_key": "staff-lead-product-designer-design-system@espoo",
+   "title": "Staff/Lead Product Designer, Design System",
+   "department": "Missions",
+   "team": "Product Management",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-20T11:34:52.186+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/51a5d21b-80e2-420f-b7e2-ff031b42e836",
+   "description_sha256": "10b3c735e49594186ecdf01ec2b52b9ae050719d3ef39b16c04947760ea5083e"
   },
   {
    "job_id": "532afee6-79d9-4693-9c4a-9726b5fb20e5",
@@ -1879,6 +1909,21 @@
    "description_sha256": "94f60cbc76418e227385be206dbc750e9f7ee3024fa29dc75a94876819503191"
   },
   {
+   "job_id": "b1137fd0-cc9e-44e5-90c0-2802cd37d41f",
+   "lineage_key": "forward-deployed-operations-specialist@espoo",
+   "title": "Forward Deployed Operations Specialist",
+   "department": "Forward Deployed Engineering",
+   "team": "Forward Deployed Engineering",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-20T11:57:17.150+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/b1137fd0-cc9e-44e5-90c0-2802cd37d41f",
+   "description_sha256": "3f00eaa0eeb7cfdd2ea5ded483901c64b1f49134747601fc59184ff0e3249517"
+  },
+  {
    "job_id": "b12fce39-5cbb-44ed-8f02-ca1654d41659",
    "lineage_key": "senior-software-engineer-tasking-and-planning@valencia",
    "title": "Senior Software Engineer - Tasking and Planning",
@@ -2549,21 +2594,6 @@
    "published_at": "2026-04-09T11:48:33.265+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/edf13659-c648-4ca9-9676-cbf002b6aaef",
    "description_sha256": "ea52658994a7b4c97e7ec250bd9f9a58750f8e4217748882ae5193560f3a9a21"
-  },
-  {
-   "job_id": "f1923306-9ffa-4b2f-bee3-c7472c711167",
-   "lineage_key": "forward-deployed-ai-engineer-germany@berlin",
-   "title": "Forward Deployed AI Engineer, Germany",
-   "department": "Forward Deployed Engineering",
-   "team": "Forward Deployed Engineering",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-04-22T17:48:57.338+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/f1923306-9ffa-4b2f-bee3-c7472c711167",
-   "description_sha256": "cdf418cf2ea068bb2fe91264c3df686496a02dc17d021bf03caf6114d30b774f"
   },
   {
    "job_id": "f3a4e7d3-6099-470d-ac0c-e88a9dfc456f",

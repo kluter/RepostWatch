@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-08-20T10:59:51+00:00",
- "job_count": 102,
+ "fetched_at": "2026-08-20T17:04:55+00:00",
+ "job_count": 103,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -1428,6 +1428,21 @@
    "is_remote": false,
    "published_at": "2026-08-13T11:14:41-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4952460101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4952519101",
+   "lineage_key": "junior-calibration-technician-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Junior Calibration Technician (m/f/d)",
+   "department": "Infrastructure, Safety & Service",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-20T07:46:11-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4952519101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

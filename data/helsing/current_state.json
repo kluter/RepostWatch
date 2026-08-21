@@ -2,7 +2,7 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-08-21T10:59:47+00:00",
+ "fetched_at": "2026-08-21T17:04:48+00:00",
  "job_count": 136,
  "jobs": [
   {
@@ -1222,8 +1222,8 @@
   },
   {
    "job_id": "4912850101",
-   "lineage_key": "principal-talent-acquisition-partner@berlin",
-   "title": "Principal Talent Acquisition Partner",
+   "lineage_key": "senior-talent-acquisition-partner@berlin",
+   "title": "Senior Talent Acquisition Partner",
    "department": "Talent Acquisition",
    "team": "",
    "location": "Berlin",
@@ -1233,21 +1233,6 @@
    "is_remote": false,
    "published_at": "2026-06-30T05:36:57-04:00",
    "url": "https://helsing.ai/jobs/4912850101?gh_jid=4912850101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4913042101",
-   "lineage_key": "senior-industrialisation-ramp-up-manager@munich",
-   "title": "(Senior) Industrialisation & Ramp-Up Manager",
-   "department": "Campaigns & Programmes",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-30T10:29:19-04:00",
-   "url": "https://helsing.ai/jobs/4913042101?gh_jid=4913042101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -2043,6 +2028,21 @@
    "is_remote": false,
    "published_at": "2026-08-21T04:54:24-04:00",
    "url": "https://helsing.ai/jobs/4957275101?gh_jid=4957275101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4957296101",
+   "lineage_key": "talent-operations-coordinator-12-month-ftc@munich",
+   "title": "Talent Operations Coordinator - 12-month FTC",
+   "department": "Talent Acquisition",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-21T10:50:38-04:00",
+   "url": "https://helsing.ai/jobs/4957296101?gh_jid=4957296101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

@@ -2,7 +2,7 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-08-21T10:59:47+00:00",
+ "fetched_at": "2026-08-21T17:04:48+00:00",
  "job_count": 46,
  "jobs": [
   {
@@ -682,8 +682,8 @@
   },
   {
    "job_id": "8141384",
-   "lineage_key": "mait-technician@munich",
-   "title": "MAIT Technician",
+   "lineage_key": "satellite-ait-technician@munich",
+   "title": "Satellite AIT Technician",
    "department": "Engineering",
    "team": "",
    "location": "Munich",

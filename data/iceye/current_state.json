@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-20T17:04:55+00:00",
- "job_count": 181,
+ "fetched_at": "2026-08-21T10:59:47+00:00",
+ "job_count": 183,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -1921,7 +1921,7 @@
    "is_remote": true,
    "published_at": "2026-08-20T11:57:17.150+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/b1137fd0-cc9e-44e5-90c0-2802cd37d41f",
-   "description_sha256": "3f00eaa0eeb7cfdd2ea5ded483901c64b1f49134747601fc59184ff0e3249517"
+   "description_sha256": "65b89e01e9ca4c378dd127831668f7131856ae5f7bb152176a9570bc90bc491e"
   },
   {
    "job_id": "b12fce39-5cbb-44ed-8f02-ca1654d41659",
@@ -2531,6 +2531,23 @@
    "description_sha256": "d89df4f459d45da848c8464e7306747502876ff4c5b73695ffabfd28502187f5"
   },
   {
+   "job_id": "e8a204a5-9a8b-4fe5-b4ff-bedf3cb7ad79",
+   "lineage_key": "flight-software-deployment-engineer@espoo",
+   "title": "Flight Software Deployment Engineer",
+   "department": "Engineering",
+   "team": "Flight Software",
+   "location": "Espoo",
+   "secondary_locations": [
+    "Warsaw"
+   ],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-21T07:19:33.773+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/e8a204a5-9a8b-4fe5-b4ff-bedf3cb7ad79",
+   "description_sha256": "470ca64f2dffeeeec1dde211b53e3ff345b895ce5c79dcd03545dc97f72d6051"
+  },
+  {
    "job_id": "e8bba89b-1a9f-4b40-b476-454b43bb0244",
    "lineage_key": "maite-planner@athens",
    "title": "MAITE Planner",
@@ -2594,6 +2611,24 @@
    "published_at": "2026-04-09T11:48:33.265+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/edf13659-c648-4ca9-9676-cbf002b6aaef",
    "description_sha256": "ea52658994a7b4c97e7ec250bd9f9a58750f8e4217748882ae5193560f3a9a21"
+  },
+  {
+   "job_id": "f1923306-9ffa-4b2f-bee3-c7472c711167",
+   "lineage_key": "forward-deployed-ai-engineer-germany@munich",
+   "title": "Forward Deployed AI Engineer, Germany",
+   "department": "Forward Deployed Engineering",
+   "team": "Forward Deployed Engineering",
+   "location": "Munich",
+   "secondary_locations": [
+    "Neuss",
+    "Berlin"
+   ],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-21T08:52:23.628+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/f1923306-9ffa-4b2f-bee3-c7472c711167",
+   "description_sha256": "2b2b8c0afcd75277f2d21eb7130940b4ff571a1d4469ef93e3c8557989caffea"
   },
   {
    "job_id": "f3a4e7d3-6099-470d-ac0c-e88a9dfc456f",

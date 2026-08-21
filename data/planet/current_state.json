@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-08-20T10:59:51+00:00",
- "job_count": 82,
+ "fetched_at": "2026-08-21T10:59:47+00:00",
+ "job_count": 84,
  "jobs": [
   {
    "job_id": "7374533",
@@ -1233,6 +1233,36 @@
    "is_remote": false,
    "published_at": "2026-08-19T07:23:14-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8137141",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8140020",
+   "lineage_key": "customer-and-partner-marketing-specialist@san-francisco-ca",
+   "title": "Customer and Partner Marketing Specialist",
+   "department": "Product Marketing",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-20T16:29:43-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8140020",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8142905",
+   "lineage_key": "solution-delivery-engineer@haarlem-netherlands",
+   "title": "Solution Delivery Engineer",
+   "department": "CG&C Solution Operations & Delivery",
+   "team": "",
+   "location": "Haarlem, Netherlands",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-21T03:26:28-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8142905",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

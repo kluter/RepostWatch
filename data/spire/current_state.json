@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-08-19T17:01:01+00:00",
- "job_count": 47,
+ "fetched_at": "2026-08-21T10:59:47+00:00",
+ "job_count": 46,
  "jobs": [
   {
    "job_id": "6521832",
@@ -366,21 +366,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8000616",
-   "lineage_key": "software-engineer-rfgl-systems@boulder-colorado-united-states",
-   "title": "Software Engineer - RFGL Systems",
-   "department": "Engineering",
-   "team": "",
-   "location": "Boulder, Colorado, United States",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-15T12:34:01-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8000616&gh_jid=8000616",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8001327",
    "lineage_key": "sales-manager-weather-climate-emea-apac@remote",
    "title": "Sales Manager - Weather & Climate (EMEA & APAC)",
@@ -483,21 +468,6 @@
    "is_remote": false,
    "published_at": "2026-07-02T06:07:53-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8041450&gh_jid=8041450",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8054968",
-   "lineage_key": "software-engineer-rfgl-systems@washington-district-of-columbia-united-states",
-   "title": "Software Engineer - RFGL Systems",
-   "department": "Engineering",
-   "team": "",
-   "location": "Washington, District of Columbia, United States",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-10T04:25:14-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8054968&gh_jid=8054968",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -708,6 +678,21 @@
    "is_remote": false,
    "published_at": "2026-08-19T07:28:53-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8127760&gh_jid=8127760",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8141384",
+   "lineage_key": "mait-technician@munich",
+   "title": "MAIT Technician",
+   "department": "Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-21T06:54:41-04:00",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8141384&gh_jid=8141384",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

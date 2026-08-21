@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-08-20T17:04:55+00:00",
- "job_count": 134,
+ "fetched_at": "2026-08-21T10:59:47+00:00",
+ "job_count": 136,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -1881,6 +1881,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4953387101",
+   "lineage_key": "ai-research-engineer-gpu-simulation@munich",
+   "title": "AI Research Engineer - GPU Simulation",
+   "department": "AI & Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-21T06:28:24-04:00",
+   "url": "https://helsing.ai/jobs/4953387101?gh_jid=4953387101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4953558101",
    "lineage_key": "software-engineer-rust@washington-dc",
    "title": "Software Engineer, Rust",
@@ -2013,6 +2028,21 @@
    "is_remote": false,
    "published_at": "2026-08-18T10:53:47-04:00",
    "url": "https://helsing.ai/jobs/4955123101?gh_jid=4955123101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4957275101",
+   "lineage_key": "technical-recruiter@london",
+   "title": "Technical Recruiter",
+   "department": "Talent Acquisition",
+   "team": "",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-21T04:54:24-04:00",
+   "url": "https://helsing.ai/jobs/4957275101?gh_jid=4957275101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

@@ -2,7 +2,7 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-08-21T10:59:47+00:00",
+ "fetched_at": "2026-08-22T10:52:36+00:00",
  "job_count": 84,
  "jobs": [
   {
@@ -381,6 +381,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "7916941",
+   "lineage_key": "sales-development-representative-market-development@san-francisco-ca",
+   "title": "Sales Development Representative, Market Development",
+   "department": "Sales Development and Inside Sales",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-05-19T13:11:20-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7916941",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "7938235",
    "lineage_key": "head-of-creative@san-francisco-ca",
    "title": "Head of Creative",
@@ -423,36 +438,6 @@
    "is_remote": false,
    "published_at": "2026-06-11T07:57:15-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7963971",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7964626",
-   "lineage_key": "senior-marketing-business-ops-manager@san-francisco-ca",
-   "title": "Senior Marketing Business Ops Manager",
-   "department": "Marketing",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-24T12:28:04-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7964626",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7964648",
-   "lineage_key": "product-marketing-manager-ai-solutions@san-francisco-ca",
-   "title": "Product Marketing Manager, AI Solutions",
-   "department": "Product Marketing",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-18T13:39:18-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7964648",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -573,21 +558,6 @@
    "is_remote": false,
    "published_at": "2026-06-26T17:56:10-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7988579",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7988581",
-   "lineage_key": "internal-audit-senior-analyst@san-francisco-ca",
-   "title": "Internal Audit Senior Analyst",
-   "department": "Accounting",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-30T15:19:45-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7988581",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1177,8 +1147,8 @@
   },
   {
    "job_id": "8119750",
-   "lineage_key": "customer-success-manager-commercial-markets@san-francisco-ca",
-   "title": "Customer Success Manager, Commercial Markets",
+   "lineage_key": "customer-success-manager-ii-commercial-markets@san-francisco-ca",
+   "title": "Customer Success Manager II, Commercial Markets",
    "department": "Customer Success Management",
    "team": "",
    "location": "San Francisco, CA",
@@ -1248,6 +1218,36 @@
    "is_remote": false,
    "published_at": "2026-08-20T16:29:43-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8140020",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8140255",
+   "lineage_key": "senior-product-manager-d-i-tasking-solutions@san-francisco-ca",
+   "title": "Senior Product Manager, D&I Tasking Solutions",
+   "department": "D&I Solutions Delivery",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-21T21:17:38-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8140255",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8140259",
+   "lineage_key": "senior-product-manager-mission-solutions@san-francisco-ca",
+   "title": "Senior Product Manager, Mission Solutions",
+   "department": "D&I Solutions Delivery",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-21T21:22:07-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8140259",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

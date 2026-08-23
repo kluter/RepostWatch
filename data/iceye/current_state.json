@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-21T17:04:48+00:00",
+ "fetched_at": "2026-08-23T10:53:14+00:00",
  "job_count": 184,
  "jobs": [
   {
@@ -1739,7 +1739,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-07-10T16:00:13.635+00:00",
+   "published_at": "2026-08-23T09:55:53.404+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9649c999-70dc-4620-9487-e664767fa88d",
    "description_sha256": "12df5d64ac595cd26a48a5d15a3bb908829029fc0b0f65b2667073924bf0a91e"
   },

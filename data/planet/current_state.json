@@ -2,7 +2,7 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-08-22T10:52:36+00:00",
+ "fetched_at": "2026-08-24T17:14:05+00:00",
  "job_count": 84,
  "jobs": [
   {
@@ -411,21 +411,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "7946660",
-   "lineage_key": "customer-success-manager-commercial-markets@berlin-germany",
-   "title": "Customer Success Manager, Commercial Markets",
-   "department": "Customer Success Management",
-   "team": "",
-   "location": "Berlin, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-12T13:44:36-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7946660",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "7963971",
    "lineage_key": "senior-spacecraft-qualification-engineer@berlin-germany",
    "title": "Senior Spacecraft Qualification Engineer",
@@ -498,21 +483,6 @@
    "is_remote": false,
    "published_at": "2026-06-08T05:36:58-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7972328",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7976116",
-   "lineage_key": "manufacturing-engineer@berlin-germany",
-   "title": "Manufacturing Engineer",
-   "department": "Manufacturing Test Engineering",
-   "team": "",
-   "location": "Berlin, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-05T07:38:19-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7976116",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1176,6 +1146,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8128410",
+   "lineage_key": "customer-success-manager-ii@brazil-remote",
+   "title": "Customer Success Manager II",
+   "department": "Customer Success Management",
+   "team": "",
+   "location": "Brazil, Remote",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-08-24T10:41:02-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8128410",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8128479",
    "lineage_key": "senior-cost-accountant@berlin-germany",
    "title": "Senior Cost Accountant",
@@ -1248,6 +1233,21 @@
    "is_remote": false,
    "published_at": "2026-08-21T21:22:07-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8140259",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8140278",
+   "lineage_key": "pcb-design-engineer@san-francisco-ca",
+   "title": "PCB Design Engineer",
+   "department": "RF, Comms & Electrical Engineering",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-24T10:37:50-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8140278",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

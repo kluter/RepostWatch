@@ -2,8 +2,8 @@
  "company": "liveeo",
  "source": "personio",
  "board": "liveeo-gmbh",
- "fetched_at": "2026-08-24T11:03:48+00:00",
- "job_count": 21,
+ "fetched_at": "2026-08-24T17:14:05+00:00",
+ "job_count": 20,
  "jobs": [
   {
    "job_id": "2006503",
@@ -78,21 +78,6 @@
    "is_remote": false,
    "published_at": "2026-03-18T11:39:03+00:00",
    "url": "https://liveeo-gmbh.jobs.personio.de/job/2568230",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "2593009",
-   "lineage_key": "engineering-manager-f-m-x@berlin",
-   "title": "Engineering Manager (f/m/x)",
-   "department": "Engineering",
-   "team": "",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-04-07T12:46:29+00:00",
-   "url": "https://liveeo-gmbh.jobs.personio.de/job/2593009",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

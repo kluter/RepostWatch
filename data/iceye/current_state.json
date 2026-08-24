@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-23T10:53:14+00:00",
- "job_count": 184,
+ "fetched_at": "2026-08-24T11:03:48+00:00",
+ "job_count": 187,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -181,7 +181,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-07-13T09:30:11.898+00:00",
+   "published_at": "2026-08-24T07:43:19.943+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/18952119-94cf-46c8-a6b8-9c05df99dd34",
    "description_sha256": "2035002c658b29ee537d83fae3cfb8c35f03f3556757b51a5d9a650f0fb84141"
   },
@@ -1047,6 +1047,21 @@
    "description_sha256": "88b4ab2e5b1931f1f6efaa2a910824f0f969c98aa3a9f89e22773a0c6445ce02"
   },
   {
+   "job_id": "58c4f84f-f804-407f-b566-e3866be6e193",
+   "lineage_key": "satellite-production-technician-harness@valencia",
+   "title": "Satellite Production Technician, Harness",
+   "department": "Engineering",
+   "team": "SIGINT",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-08-24T06:38:57.849+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/58c4f84f-f804-407f-b566-e3866be6e193",
+   "description_sha256": "74ff7d9093006a2e04ab3fa9bcb537c863e217ecd51f8a4de560687a06ee34a9"
+  },
+  {
    "job_id": "5bc4767f-7ae6-429a-a784-a9d260680462",
    "lineage_key": "smart-manufacturing-engineer-sw-electronics@espoo",
    "title": "Smart Manufacturing Engineer, SW & Electronics",
@@ -1120,6 +1135,21 @@
    "published_at": "2026-07-01T07:38:53.046+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/6796ce6b-05bf-41ec-a53c-bc882ac74d3c",
    "description_sha256": "edb8b741eafeef799d5f4fc8789d62e8a12a9ab2dc09f2b2ca798fc08bf26404"
+  },
+  {
+   "job_id": "67b84d2a-1f66-473a-b24c-b7ba35f02fe5",
+   "lineage_key": "marketing-communications-manager-japan@tokyo",
+   "title": "Marketing & Communications Manager - Japan",
+   "department": "Marketing",
+   "team": "Marketing",
+   "location": "Tokyo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-24T04:42:52.985+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/67b84d2a-1f66-473a-b24c-b7ba35f02fe5",
+   "description_sha256": "238c79b0ca81a06961ca15c2cdb4fda21f0eacc3408b24a339baa8b499583567"
   },
   {
    "job_id": "680034d6-e73c-47d8-8916-4a4d3f5f1c91",
@@ -1338,8 +1368,8 @@
   },
   {
    "job_id": "77810597-e144-4931-acb3-2a022f546098",
-   "lineage_key": "production-planner@valencia",
-   "title": "Production Planner",
+   "lineage_key": "satellite-production-planner@valencia",
+   "title": "Satellite Production Planner",
    "department": "Global Manufacturing Organization",
    "team": "Global Manufacturing Organization",
    "location": "Valencia",
@@ -1349,7 +1379,7 @@
    "is_remote": false,
    "published_at": "2026-08-20T07:24:13.699+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/77810597-e144-4931-acb3-2a022f546098",
-   "description_sha256": "7e475411196f933b49a9d47f25c9bcdbc4599cd2789ff946f91006a770fba24c"
+   "description_sha256": "60447893a7d442375357c987aee1621d4ca72e46a7f091948c86618ddd06a2b0"
   },
   {
    "job_id": "77ee1494-3ca4-4774-a0ad-9e731d63cec1",
@@ -2628,6 +2658,21 @@
    "description_sha256": "ea52658994a7b4c97e7ec250bd9f9a58750f8e4217748882ae5193560f3a9a21"
   },
   {
+   "job_id": "ef4c789d-85da-466c-ac71-0c20cc5a8023",
+   "lineage_key": "satellite-production-senior-technician-integration-mechanical-thermal@valencia",
+   "title": "Satellite Production Senior Technician, Integration, Mechanical & Thermal",
+   "department": "Global Manufacturing Organization",
+   "team": "ES Satellite Production",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-08-24T07:42:59.492+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/ef4c789d-85da-466c-ac71-0c20cc5a8023",
+   "description_sha256": "a1e38831b2965e588e2cb4b7678c0fa8bf66db55813651920d2a0edc81a0a88f"
+  },
+  {
    "job_id": "f1923306-9ffa-4b2f-bee3-c7472c711167",
    "lineage_key": "forward-deployed-ai-engineer-germany@munich",
    "title": "Forward Deployed AI Engineer, Germany",
@@ -2778,7 +2823,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-07-13T15:31:54.535+00:00",
+   "published_at": "2026-08-24T07:43:09.996+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/feed753d-0e9a-4c2e-a7e2-ee3e588e5149",
    "description_sha256": "4b0ff626fb811402301576d68ced77d64d85e157bb76a597d829c12f7f858eb0"
   },

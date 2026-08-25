@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-08-22T10:52:36+00:00",
- "job_count": 103,
+ "fetched_at": "2026-08-25T11:01:56+00:00",
+ "job_count": 99,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -756,21 +756,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4893391101",
-   "lineage_key": "junior-brand-specialist-mf-d@ottobrunn-bavaria-germany",
-   "title": "Junior Brand Specialist (mf/d)",
-   "department": "Communication",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-16T18:00:01-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4893391101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4896442101",
    "lineage_key": "zerspanungsmechaniker-cnc-fraser-cnc-dreher-m-w-d@parsdorf-bavaria-germany",
    "title": "Zerspanungsmechaniker / CNC-Fräser / CNC-Dreher (m/w/d)",
@@ -783,21 +768,6 @@
    "is_remote": false,
    "published_at": "2026-06-12T08:07:23-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4896442101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4903574101",
-   "lineage_key": "brand-specialist-mf-d@ottobrunn-bavaria-germany",
-   "title": "Brand Specialist (mf/d)",
-   "department": "Communication",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-19T08:36:36-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4903574101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -963,21 +933,6 @@
    "is_remote": false,
    "published_at": "2026-07-16T04:10:40-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4929454101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4930728101",
-   "lineage_key": "working-student-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Working Student (m/f/d)",
-   "department": "Spectrum AIT",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-22T09:27:27-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4930728101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1503,21 +1458,6 @@
    "is_remote": false,
    "published_at": "2026-08-19T04:23:17-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4955724101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4956744101",
-   "lineage_key": "intern-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Intern (m/f/d)",
-   "department": "Production, Operations & Quality",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-20T05:39:25-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4956744101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-24T17:14:05+00:00",
+ "fetched_at": "2026-08-25T11:01:56+00:00",
  "job_count": 187,
  "jobs": [
   {
@@ -18,7 +18,7 @@
    "is_remote": true,
    "published_at": "2026-08-20T14:39:03.955+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
-   "description_sha256": "7be836560cf7ebabb6bb39bffb29dd642c87f0772d5c3ec6e036fc564447eabe"
+   "description_sha256": "ff3b6dc9d3c0e93c3002bebf2329870b64fc72d2caa90f6326677a4ea7311208"
   },
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
@@ -485,7 +485,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-07-13T12:33:02.670+00:00",
+   "published_at": "2026-08-25T10:11:44.988+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/3177be0f-5997-45cf-bbdb-60b1c38543ea",
    "description_sha256": "2cf161eff75b016d4406b6f00ff6699f2ce002c85343b6e1cd5848f5e398bfab"
   },
@@ -997,7 +997,7 @@
    "employment_type": "FullTime",
    "workplace_type": "Hybrid",
    "is_remote": true,
-   "published_at": "2026-08-20T07:51:53.841+00:00",
+   "published_at": "2026-08-25T10:12:30.721+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/551ed47a-6af8-48ef-8275-4273e635b909",
    "description_sha256": "6a86372cb02000c3384dc9e07ff0d9129b16050cb1821dd21197634e8a83b67e"
   },
@@ -1108,8 +1108,8 @@
   },
   {
    "job_id": "609632e0-17a2-4440-974f-9969551e80af",
-   "lineage_key": "mission-sales-director-greece-balkans@athens",
-   "title": "Mission Sales Director, Greece & Balkans",
+   "lineage_key": "mission-sales-director-greece-balkans-and-eastern-mediterranean@athens",
+   "title": "Mission Sales Director - Greece, Balkans and Eastern Mediterranean",
    "department": "Missions",
    "team": "Missions Sales",
    "location": "Athens",
@@ -1119,7 +1119,7 @@
    "is_remote": true,
    "published_at": "2026-08-24T14:50:46.216+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/609632e0-17a2-4440-974f-9969551e80af",
-   "description_sha256": "e37408d79c5b3ea78790eb2ea774d9000aaeb9e75ab65e9aa49f0acec8f28b84"
+   "description_sha256": "332f65e8f67c44ae0e75e6d6f899859276401a29731f86d2a8377297ec5f787c"
   },
   {
    "job_id": "637982df-5c1e-437a-81ee-3e234f75a732",
@@ -1164,7 +1164,7 @@
    "is_remote": true,
    "published_at": "2026-08-24T04:42:52.985+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/67b84d2a-1f66-473a-b24c-b7ba35f02fe5",
-   "description_sha256": "238c79b0ca81a06961ca15c2cdb4fda21f0eacc3408b24a339baa8b499583567"
+   "description_sha256": "81743579a0c4de526e90f69b9ff9b51cfbff7a3f3614f651d1a2468cab389897"
   },
   {
    "job_id": "680034d6-e73c-47d8-8916-4a4d3f5f1c91",
@@ -1392,7 +1392,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-08-20T07:24:13.699+00:00",
+   "published_at": "2026-08-25T10:14:22.988+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/77810597-e144-4931-acb3-2a022f546098",
    "description_sha256": "60447893a7d442375357c987aee1621d4ca72e46a7f091948c86618ddd06a2b0"
   },
@@ -1977,8 +1977,8 @@
    "location": "Valencia",
    "secondary_locations": [],
    "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
+   "workplace_type": "Hybrid",
+   "is_remote": true,
    "published_at": "2026-07-13T13:26:54.622+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/b12fce39-5cbb-44ed-8f02-ca1654d41659",
    "description_sha256": "9a7a24c9a9fee2f1ed9124d1d07dfb71d14ffd146ea5dcf42ee86f305c88ff28"

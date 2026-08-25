@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-08-24T17:14:05+00:00",
- "job_count": 136,
+ "fetched_at": "2026-08-25T11:01:56+00:00",
+ "job_count": 137,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -2043,6 +2043,21 @@
    "is_remote": false,
    "published_at": "2026-08-21T10:50:38-04:00",
    "url": "https://helsing.ai/jobs/4957296101?gh_jid=4957296101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4959374101",
+   "lineage_key": "procurement-manager-tech-it@munich",
+   "title": "Procurement Manager – Tech & IT",
+   "department": "Market",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-24T15:02:15-04:00",
+   "url": "https://helsing.ai/jobs/4959374101?gh_jid=4959374101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

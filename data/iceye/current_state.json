@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-25T11:01:56+00:00",
- "job_count": 187,
+ "fetched_at": "2026-08-25T17:14:19+00:00",
+ "job_count": 186,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -880,21 +880,6 @@
    "published_at": "2026-08-14T08:39:37.875+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/49688ae2-0ada-46dc-b867-09ea1fe2e228",
    "description_sha256": "3f5828e35327972358cc72eb19ff6c5eadeba37300e9a206c2bc457162fd41a5"
-  },
-  {
-   "job_id": "4c5b752a-7f68-4b50-9084-e50abb61c6f3",
-   "lineage_key": "chief-of-staff-uae@united-arab-emirates",
-   "title": "Chief of Staff, UAE",
-   "department": "CEO Office",
-   "team": "CEO Office",
-   "location": "United Arab Emirates",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-26T17:59:43.884+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/4c5b752a-7f68-4b50-9084-e50abb61c6f3",
-   "description_sha256": "8eec843d5098108bbaa491da856c8be9615c9039a37fc4cacb573c66ead6905d"
   },
   {
    "job_id": "4f00e104-a4a1-4fa3-ac73-3c8c3f64b123",
@@ -1784,9 +1769,9 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-08-23T09:55:53.404+00:00",
+   "published_at": "2026-08-25T16:02:39.369+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9649c999-70dc-4620-9487-e664767fa88d",
-   "description_sha256": "12df5d64ac595cd26a48a5d15a3bb908829029fc0b0f65b2667073924bf0a91e"
+   "description_sha256": "173bca12b3f858ab2232ca3b5c7924c1842d17d869d0c432d59bef2584955e3a"
   },
   {
    "job_id": "96932d24-c2d0-4fe1-b1f6-97221b32ee8e",

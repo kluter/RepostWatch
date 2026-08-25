@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-08-25T11:01:56+00:00",
- "job_count": 99,
+ "fetched_at": "2026-08-25T17:14:19+00:00",
+ "job_count": 98,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -738,21 +738,6 @@
    "is_remote": false,
    "published_at": "2026-05-29T00:00:00-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4873799101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4878717101",
-   "lineage_key": "communications-specialist-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Communications Specialist (m/f/d)",
-   "department": "Communication",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-07T11:20:01-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4878717101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

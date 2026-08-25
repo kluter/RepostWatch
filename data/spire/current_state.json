@@ -2,7 +2,7 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-08-21T17:04:48+00:00",
+ "fetched_at": "2026-08-25T17:14:19+00:00",
  "job_count": 46,
  "jobs": [
   {
@@ -247,8 +247,8 @@
   },
   {
    "job_id": "7870835",
-   "lineage_key": "senior-systems-engineer@glasgow-scotland-united-kingdom",
-   "title": "Senior Systems Engineer",
+   "lineage_key": "ivvq-systems-engineer@glasgow-scotland-united-kingdom",
+   "title": "IVVQ Systems Engineer",
    "department": "Engineering",
    "team": "",
    "location": "Glasgow, Scotland, United Kingdom",

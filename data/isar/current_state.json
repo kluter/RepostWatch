@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-08-25T17:14:19+00:00",
- "job_count": 98,
+ "fetched_at": "2026-08-26T11:03:54+00:00",
+ "job_count": 99,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -573,21 +573,6 @@
    "is_remote": false,
    "published_at": "2026-04-08T07:55:17-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4835367101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4835683101",
-   "lineage_key": "senior-instrumentation-engineer-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Senior Instrumentation Engineer (m/f/d)",
-   "department": "Spectrum AIT",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-04-16T16:30:00-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4835683101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1446,6 +1431,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4956744101",
+   "lineage_key": "intern-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Intern (m/f/d)",
+   "department": "Production, Operations & Quality",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-20T05:39:25-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4956744101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4958380101",
    "lineage_key": "ai-data-platform-lead-m-f-d@parsdorf-bavaria-germany",
    "title": "AI & Data Platform Lead (m/f/d)",
@@ -1473,6 +1473,21 @@
    "is_remote": false,
    "published_at": "2026-08-21T11:27:55-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4958455101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4960889101",
+   "lineage_key": "working-student-m-w-f@ottobrunn-bavaria-germany",
+   "title": "Working Student (m/w/f)",
+   "department": "Production, Operations & Quality",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-26T05:51:00-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4960889101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

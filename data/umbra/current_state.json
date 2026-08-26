@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-08-20T10:59:51+00:00",
- "job_count": 23,
+ "fetched_at": "2026-08-26T11:03:54+00:00",
+ "job_count": 25,
  "jobs": [
   {
    "job_id": "076F11402A",
@@ -85,6 +85,21 @@
    "published_at": "2026-04-08T00:00:00+00:00",
    "url": "https://apply.workable.com/j/214397AE67",
    "description_sha256": "5cdfa63126e917de4280fd0dbab601c605f15433db6f93195255a1cfbc29d48b"
+  },
+  {
+   "job_id": "33F903685D",
+   "lineage_key": "director-of-communications@arlington-united-states",
+   "title": "Director of Communications",
+   "department": "Shared Services",
+   "team": "",
+   "location": "Arlington, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-25T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/33F903685D",
+   "description_sha256": "45a14626e34eabe1e654dc9393d0a0ebb6a0e2759c9151a8a9855ecb2e5588e2"
   },
   {
    "job_id": "423E64A881",
@@ -231,6 +246,24 @@
    "published_at": "2026-06-25T00:00:00+00:00",
    "url": "https://apply.workable.com/j/71AA98A76F",
    "description_sha256": "89d5f1b7d96006e847335cdc12a7cab69b03a16da73be9cf0a763c9be3d519c4"
+  },
+  {
+   "job_id": "81DDC16701",
+   "lineage_key": "staff-data-platform-engineer@arlington-united-states",
+   "title": "Staff Data Platform Engineer",
+   "department": "Remote Sensing",
+   "team": "",
+   "location": "Arlington, United States",
+   "secondary_locations": [
+    "Reston, United States",
+    "Santa Barbara, United States"
+   ],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-25T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/81DDC16701",
+   "description_sha256": "c7b5e8094c4550c427886b945610964f511c47fc4ee798a1c911db863c6c93e1"
   },
   {
    "job_id": "A6F8E3AB69",

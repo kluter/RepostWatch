@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-25T17:14:19+00:00",
- "job_count": 186,
+ "fetched_at": "2026-08-26T11:03:54+00:00",
+ "job_count": 187,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -1368,8 +1368,8 @@
   },
   {
    "job_id": "77810597-e144-4931-acb3-2a022f546098",
-   "lineage_key": "satellite-production-planner@valencia",
-   "title": "Satellite Production Planner",
+   "lineage_key": "production-planner-satellite-manufacturing@valencia",
+   "title": "Production Planner, Satellite Manufacturing",
    "department": "Global Manufacturing Organization",
    "team": "Global Manufacturing Organization",
    "location": "Valencia",
@@ -1377,9 +1377,9 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-08-25T10:14:22.988+00:00",
+   "published_at": "2026-08-26T07:27:45.488+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/77810597-e144-4931-acb3-2a022f546098",
-   "description_sha256": "60447893a7d442375357c987aee1621d4ca72e46a7f091948c86618ddd06a2b0"
+   "description_sha256": "e33ec2cc04a9d1840e971d183407d74fd9455f983fa3f7c7c0c231b4b2d0882a"
   },
   {
    "job_id": "77ee1494-3ca4-4774-a0ad-9e731d63cec1",
@@ -1714,6 +1714,21 @@
    "description_sha256": "7e758f76c37e878033cc4c0d494d05cf79850896afe240da6badc0103d7629dc"
   },
   {
+   "job_id": "938ce5df-501a-4349-9586-2ce758dbfd0a",
+   "lineage_key": "senior-ait-technician@athens",
+   "title": "Senior AIT Technician",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Athens",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-08-26T10:23:21.731+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/938ce5df-501a-4349-9586-2ce758dbfd0a",
+   "description_sha256": "71739f276dea6e6883a8cfe7e2f5022091d89c5ac6768616bf0ea2deed0da2be"
+  },
+  {
    "job_id": "945f6b59-8d2b-4bee-92e8-ac3d000d5fa9",
    "lineage_key": "harness-manufacturing-technician@espoo",
    "title": "Harness Manufacturing Technician",
@@ -1846,7 +1861,7 @@
    "is_remote": false,
    "published_at": "2026-07-21T12:14:33.756+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/a6d0bba0-2219-4f01-8c79-f4d945de5af7",
-   "description_sha256": "8688c0e71f798e4b5655ee14c2b11bd52ed2569899b04235746ebb941df4eee4"
+   "description_sha256": "52e0aaf157d39471c937b696c810211ffdf8f2b4b09cf4e9b8cf3ffe906bce26"
   },
   {
    "job_id": "a6db612f-b49f-4be4-a4d4-7639649a1cf7",
@@ -2009,7 +2024,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-07-13T10:11:05.518+00:00",
+   "published_at": "2026-08-26T07:20:41.733+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/b8274010-df0f-4321-bd58-2da00918f307",
    "description_sha256": "d4b419188c80660c6e3fe389c385380423ee32e8a3b235937035ac36534a4f3a"
   },

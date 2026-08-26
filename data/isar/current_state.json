@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-08-26T11:03:54+00:00",
- "job_count": 99,
+ "fetched_at": "2026-08-26T18:22:33+00:00",
+ "job_count": 103,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -501,6 +501,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4794793101",
+   "lineage_key": "composite-technician-m-f-d@parsdorf-bavaria-germany",
+   "title": "Composite Technician (m/f/d)",
+   "department": "Production, Operations & Quality",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-03-09T19:00:00-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4794793101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4814866101",
    "lineage_key": "production-mechanic-post-processing-nachbearbeitung-m-f-d@ottobrunn-bavaria-germany",
    "title": "Production Mechanic Post Processing / Nachbearbeitung (m/f/d)",
@@ -893,7 +908,7 @@
   {
    "job_id": "4929454101",
    "lineage_key": "senior-systems-engineer-m-f-d@ottobrunn-bavaria-germany",
-   "title": "(Senior) Systems Engineer (m/f/d)",
+   "title": "Senior Systems Engineer (m/f/d)",
    "department": "Spectrum",
    "team": "",
    "location": "Ottobrunn, Bavaria, Germany",
@@ -1416,6 +1431,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4954986101",
+   "lineage_key": "supply-chain-leader-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Supply Chain Leader (m/f/d)",
+   "department": "Production, Operations & Quality",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-26T08:05:04-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4954986101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4955724101",
    "lineage_key": "universitatspraktikum-test-ingenieur-m-f-d@ottobrunn-bavaria-germany",
    "title": "Universitätspraktikum Test- Ingenieur  (m/f/d)",
@@ -1488,6 +1518,36 @@
    "is_remote": false,
    "published_at": "2026-08-26T05:51:00-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4960889101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4961155101",
+   "lineage_key": "propulsion-valves-engineer-m-f-d@parsdorf-bavaria-germany",
+   "title": "Propulsion Valves Engineer (m/f/d)",
+   "department": "Propulsion",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-26T08:49:34-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4961155101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4961224101",
+   "lineage_key": "cnc-tool-shop-operator-m-f-d@parsdorf-bavaria-germany",
+   "title": "CNC Tool Shop Operator (m/f/d)",
+   "department": "Production, Operations & Quality",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-26T09:53:32-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4961224101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

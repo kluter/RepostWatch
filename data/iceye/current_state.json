@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-26T11:03:54+00:00",
- "job_count": 187,
+ "fetched_at": "2026-08-26T18:22:33+00:00",
+ "job_count": 189,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -592,7 +592,7 @@
    "is_remote": true,
    "published_at": "2026-08-12T06:13:34.719+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/367ea774-2be1-436b-8e94-7c38e79d4c24",
-   "description_sha256": "d61a6ee453895aff4ef0a91968fab7474a5f0bf38f60261c6b40bbb1d07fb149"
+   "description_sha256": "50c6d6453a58ca0264efc6818dd72887ddf2b98ba554fda7412c5415b943df08"
   },
   {
    "job_id": "37b350c7-9a07-441b-b7a5-18b1aeff4d90",
@@ -1107,6 +1107,21 @@
    "description_sha256": "332f65e8f67c44ae0e75e6d6f899859276401a29731f86d2a8377297ec5f787c"
   },
   {
+   "job_id": "60a82dbd-bc69-4de4-a133-c58ee0256716",
+   "lineage_key": "ait-technician@athens",
+   "title": "AIT Technician",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Athens",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-08-26T13:17:19.779+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/60a82dbd-bc69-4de4-a133-c58ee0256716",
+   "description_sha256": "ecc5bbf468c68812ea25316b0ab351fdbadb0aff8033c93a57da376706f7fc21"
+  },
+  {
    "job_id": "637982df-5c1e-437a-81ee-3e234f75a732",
    "lineage_key": "senior-software-engineer-tactical-access@espoo",
    "title": "Senior Software Engineer (Tactical Access)",
@@ -1500,6 +1515,21 @@
    "published_at": "2026-08-17T15:29:01.948+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/81908ad3-84f4-4cc3-ac25-1440f38b52c2",
    "description_sha256": "a7178783173927f82d64fb73118540a9c189641c3c9215f7a96ff2086ee1c4f7"
+  },
+  {
+   "job_id": "824f4858-2692-4b97-82bf-cbe2805dfbd6",
+   "lineage_key": "ait-engineer-electronics@athens",
+   "title": "AIT Engineer - Electronics",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Athens",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-08-26T13:15:51.237+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/824f4858-2692-4b97-82bf-cbe2805dfbd6",
+   "description_sha256": "957893a5380f6429d4d673210b026d85c7687e6c089273c38520a0c06ec2d048"
   },
   {
    "job_id": "8525aea6-9765-41ae-b1c8-87617030564e",

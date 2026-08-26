@@ -474,6 +474,11 @@
    "lon": -53.2,
    "label": "Brazil",
    "remote": true
+  },
+  "london, england, united kingdom": {
+   "lat": 51.5074456,
+   "lon": -0.1277653,
+   "label": "Greater London"
   }
  }
 }

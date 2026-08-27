@@ -479,6 +479,21 @@
    "lat": 51.5074456,
    "lon": -0.1277653,
    "label": "Greater London"
+  },
+  "denver, co": {
+   "lat": 39.7392364,
+   "lon": -104.984862,
+   "label": "Denver"
+  },
+  "london, uk": {
+   "lat": 51.5074456,
+   "lon": -0.1277653,
+   "label": "Greater London"
+  },
+  "london, united kingdom": {
+   "lat": 51.5074456,
+   "lon": -0.1277653,
+   "label": "Greater London"
   }
  }
 }

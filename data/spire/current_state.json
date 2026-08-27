@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-08-26T11:03:54+00:00",
- "job_count": 45,
+ "fetched_at": "2026-08-27T20:42:37+00:00",
+ "job_count": 43,
  "jobs": [
   {
    "job_id": "6521832",
@@ -501,51 +501,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8078742",
-   "lineage_key": "customer-success-manager@glasgow",
-   "title": "Customer Success Manager",
-   "department": "Sales",
-   "team": "",
-   "location": "Glasgow",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-23T07:27:25-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8078742&gh_jid=8078742",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8081275",
-   "lineage_key": "customer-success-manager@luxembourg",
-   "title": "Customer Success Manager",
-   "department": "Sales",
-   "team": "",
-   "location": "Luxembourg",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-23T07:27:25-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8081275&gh_jid=8081275",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8081276",
-   "lineage_key": "customer-success-manager@munich",
-   "title": "Customer Success Manager",
-   "department": "Sales",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-23T07:27:26-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8081276&gh_jid=8081276",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8091972",
    "lineage_key": "hr-generalist@munich-germany",
    "title": "HR Generalist",
@@ -678,6 +633,21 @@
    "is_remote": false,
    "published_at": "2026-08-21T06:54:41-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8141384&gh_jid=8141384",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8157070",
+   "lineage_key": "sales-manager-americas@boulder-colorado-united-states",
+   "title": "Sales Manager - Americas",
+   "department": "Sales",
+   "team": "",
+   "location": "Boulder, Colorado, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-27T06:19:54-04:00",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8157070&gh_jid=8157070",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

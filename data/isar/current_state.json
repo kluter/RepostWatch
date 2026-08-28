@@ -2,7 +2,7 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-08-27T20:42:37+00:00",
+ "fetched_at": "2026-08-28T21:13:01+00:00",
  "job_count": 102,
  "jobs": [
   {
@@ -276,21 +276,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4720039101",
-   "lineage_key": "avionics-engineer-thrust-vector-control-actuator-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Avionics Engineer - Thrust Vector Control Actuator (m/f/d)",
-   "department": "AGNC",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2025-12-04T01:00:00-05:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4720039101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4729635101",
    "lineage_key": "senior-avionics-hardware-engineer-m-f-d@ottobrunn-bavaria-germany",
    "title": "Senior Avionics Hardware Engineer (m/f/d)",
@@ -486,21 +471,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4785329101",
-   "lineage_key": "supply-chain-management-specialist-transport-logistics-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Supply Chain Management Specialist / Transport Logistics (m/f/d)",
-   "department": "Production, Operations & Quality",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-02-25T03:00:03-05:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4785329101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4794793101",
    "lineage_key": "composite-technician-m-f-d@parsdorf-bavaria-germany",
    "title": "Composite Technician (m/f/d)",
@@ -531,6 +501,36 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4815705101",
+   "lineage_key": "senior-general-ledger-accountant-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Senior General Ledger Accountant (m/f/d)",
+   "department": "Finance",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-03-23T19:00:06-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4815705101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4820303101",
+   "lineage_key": "hr-business-partner-m-f-d@ottobrunn-bavaria-germany",
+   "title": "HR Business Partner (m/f/d)",
+   "department": "Talent",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-03-29T18:00:00-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4820303101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4820723101",
    "lineage_key": "lead-technician-m-f-d@kiruna-norrbotten-sweden",
    "title": "Lead Technician (m/f/d)",
@@ -558,21 +558,6 @@
    "is_remote": false,
    "published_at": "2026-04-06T18:00:02-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4828025101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4834633101",
-   "lineage_key": "cam-programmierer-drehen-frasen-m-f-d@parsdorf-bavaria-germany",
-   "title": "CAM-Programmierer Drehen / Fräsen (m/f/d)",
-   "department": "Production, Operations & Quality",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-04-14T16:30:00-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4834633101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -798,21 +783,6 @@
    "is_remote": false,
    "published_at": "2026-06-25T04:22:51-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4907850101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4912131101",
-   "lineage_key": "electrical-harness-design-engineer-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Electrical Harness Design Engineer (m/f/d)",
-   "department": "AGNC",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-06T00:00:00-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4912131101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1128,6 +1098,21 @@
    "is_remote": false,
    "published_at": "2026-08-10T11:12:07-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4944474101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4947894101",
+   "lineage_key": "head-of-hr-business-partnering-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Head of HR Business Partnering (m/f/d)",
+   "department": "Talent",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-28T09:30:55-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4947894101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1488,6 +1473,21 @@
    "is_remote": false,
    "published_at": "2026-08-21T11:27:55-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4958455101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4959282101",
+   "lineage_key": "associate-operations-digitalization-m-f-d@parsdorf-bavaria-germany",
+   "title": "Associate Operations & Digitalization (m/f/d)",
+   "department": "CEO Office",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-28T10:09:48-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4959282101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

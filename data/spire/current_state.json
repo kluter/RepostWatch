@@ -2,7 +2,7 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-08-27T20:42:37+00:00",
+ "fetched_at": "2026-08-28T21:13:01+00:00",
  "job_count": 43,
  "jobs": [
   {
@@ -547,8 +547,8 @@
   },
   {
    "job_id": "8105638",
-   "lineage_key": "senior-global-executive-recruiter@washington-district-of-columbia-united-states",
-   "title": "Senior Global Executive Recruiter",
+   "lineage_key": "senior-global-recruiter@washington-district-of-columbia-united-states",
+   "title": "Senior Global Recruiter",
    "department": "People",
    "team": "",
    "location": "Washington, District of Columbia, United States",

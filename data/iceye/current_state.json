@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-27T20:42:37+00:00",
- "job_count": 189,
+ "fetched_at": "2026-08-28T21:13:01+00:00",
+ "job_count": 190,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -731,8 +731,8 @@
   },
   {
    "job_id": "42ec11f9-2c5a-417d-aca7-1ff6740dea7d",
-   "lineage_key": "ehs-coordinator-specialist@valencia",
-   "title": "EHS coordinator/specialist",
+   "lineage_key": "ehs-senior-specialist@valencia",
+   "title": "EHS Senior Specialist",
    "department": "Global Manufacturing Organization",
    "team": "Global Manufacturing Organization",
    "location": "Valencia",
@@ -742,7 +742,7 @@
    "is_remote": false,
    "published_at": "2026-07-18T14:35:33.941+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/42ec11f9-2c5a-417d-aca7-1ff6740dea7d",
-   "description_sha256": "1a1505c4fb4415e108c21605112f93b84494f71adf43a5ab8d656f59d19ced9a"
+   "description_sha256": "ce75bab7c883e4457a4a4da363db768ab1b1d9e17e46d3d6e75430223d0256fb"
   },
   {
    "job_id": "431baaab-347b-485b-a52a-67d18dcbc2be",
@@ -2104,6 +2104,21 @@
    "description_sha256": "67e8ceb4af1037d42b9024a38cc750d1f885edc162497545278c3561363c1e86"
   },
   {
+   "job_id": "bbdfcc0b-0a2c-4ce4-9327-acf12fc3afe1",
+   "lineage_key": "senior-thermal-engineer@warsaw",
+   "title": "Senior Thermal Engineer",
+   "department": "Engineering",
+   "team": "Optical System",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-28T13:24:18.399+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/bbdfcc0b-0a2c-4ce4-9327-acf12fc3afe1",
+   "description_sha256": "6e6645fe135549fa2838926e94fb59b7f78c66aa82196ddc50ef74ce98e356fc"
+  },
+  {
    "job_id": "be2a2c66-275f-41b9-acc1-9073b27bfce8",
    "lineage_key": "senior-test-automation-developer@espoo",
    "title": "Senior Test Automation Developer",
@@ -2698,7 +2713,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-08-24T07:42:59.492+00:00",
+   "published_at": "2026-08-28T15:14:37.395+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/ef4c789d-85da-466c-ac71-0c20cc5a8023",
    "description_sha256": "a1e38831b2965e588e2cb4b7678c0fa8bf66db55813651920d2a0edc81a0a88f"
   },

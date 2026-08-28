@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-08-27T20:42:37+00:00",
- "job_count": 144,
+ "fetched_at": "2026-08-28T21:13:01+00:00",
+ "job_count": 143,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -648,21 +648,6 @@
    "is_remote": false,
    "published_at": "2026-05-08T09:17:15-04:00",
    "url": "https://helsing.ai/jobs/4862586101?gh_jid=4862586101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4862592101",
-   "lineage_key": "quality-conformity-engineer-production@munich",
-   "title": "Quality Conformity Engineer - Production",
-   "department": "Production Operations",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-08T11:11:10-04:00",
-   "url": "https://helsing.ai/jobs/4862592101?gh_jid=4862592101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1357,11 +1342,11 @@
   },
   {
    "job_id": "4924407101",
-   "lineage_key": "senior-systems-engineer-esm-els@berlin",
+   "lineage_key": "senior-systems-engineer-esm-els@munich",
    "title": "Senior Systems Engineer ESM / ELS",
    "department": "AI & Engineering",
    "team": "",
-   "location": "Berlin",
+   "location": "Munich",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
@@ -1806,21 +1791,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4948713101",
-   "lineage_key": "head-of-production-quality@munich",
-   "title": "Head of Production Quality",
-   "department": "Production Operations",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-07T09:55:27-04:00",
-   "url": "https://helsing.ai/jobs/4948713101?gh_jid=4948713101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4951517101",
    "lineage_key": "senior-programme-manager@stockholm",
    "title": "(Senior) Programme Manager",
@@ -2163,6 +2133,21 @@
    "is_remote": false,
    "published_at": "2026-08-27T10:34:07-04:00",
    "url": "https://helsing.ai/jobs/4962247101?gh_jid=4962247101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4962381101",
+   "lineage_key": "people-operations-lead@london",
+   "title": "People Operations Lead",
+   "department": "Core Operations",
+   "team": "",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-28T13:03:48-04:00",
+   "url": "https://helsing.ai/jobs/4962381101?gh_jid=4962381101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

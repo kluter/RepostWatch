@@ -494,6 +494,17 @@
    "lat": 51.5074456,
    "lon": -0.1277653,
    "label": "Greater London"
+  },
+  "seoul, south korea": {
+   "lat": 37.5666791,
+   "lon": 126.9782914,
+   "label": "서울특별시"
+  },
+  "united arab emirates, remote": {
+   "lat": 24.0002488,
+   "lon": 53.9994829,
+   "label": "United Arab Emirates",
+   "remote": true
   }
  }
 }

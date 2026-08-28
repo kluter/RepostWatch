@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-08-26T11:03:54+00:00",
- "job_count": 25,
+ "fetched_at": "2026-08-28T01:07:33+00:00",
+ "job_count": 27,
  "jobs": [
   {
    "job_id": "076F11402A",
@@ -115,6 +115,21 @@
    "published_at": "2026-06-30T00:00:00+00:00",
    "url": "https://apply.workable.com/j/423E64A881",
    "description_sha256": "31ade16a448fd2b0ec294c1ea4080778533a3c602edb3b697f6356a010613192"
+  },
+  {
+   "job_id": "49CF1FA326",
+   "lineage_key": "senior-program-manager-remote-sensing@arlington-united-states",
+   "title": "Senior Program Manager - Remote Sensing",
+   "department": "Remote Sensing",
+   "team": "",
+   "location": "Arlington, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-27T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/49CF1FA326",
+   "description_sha256": "4034267aa7ed62cd3f9ccbbd75d4e702a4cd4dfe4f672867c90c232678dd818f"
   },
   {
    "job_id": "4A5E102FBA",
@@ -348,6 +363,21 @@
    "published_at": "2026-06-25T00:00:00+00:00",
    "url": "https://apply.workable.com/j/C2A49317A8",
    "description_sha256": "fd529f511935e8cada6048f43aee3609a3df98b595763ccfed273d995780f21f"
+  },
+  {
+   "job_id": "D8FC6D2A00",
+   "lineage_key": "environmental-health-safety-ehs-manager@santa-barbara-united-states",
+   "title": "Environmental, Health & Safety (EHS) Manager",
+   "department": "Shared Services",
+   "team": "",
+   "location": "Santa Barbara, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-27T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/D8FC6D2A00",
+   "description_sha256": "d7f9b820acbbebf5b3bce98d66e56171cd7b65fdde9416338865077c2070c52d"
   },
   {
    "job_id": "E548043C79",

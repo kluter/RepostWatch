@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-08-28T21:13:01+00:00",
- "job_count": 109,
+ "fetched_at": "2026-08-29T00:41:27+00:00",
+ "job_count": 110,
  "jobs": [
   {
    "job_id": "7374533",
@@ -1278,6 +1278,21 @@
    "is_remote": false,
    "published_at": "2026-08-21T03:26:28-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8142905",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8142914",
+   "lineage_key": "senior-machine-learning-engineer@arlington-va",
+   "title": "Senior Machine Learning Engineer",
+   "department": "Global Monitoring Analytics",
+   "team": "",
+   "location": "Arlington, VA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-28T19:35:01-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8142914",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

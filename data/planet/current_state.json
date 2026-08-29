@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-08-29T00:41:27+00:00",
- "job_count": 110,
+ "fetched_at": "2026-08-29T15:16:22+00:00",
+ "job_count": 112,
  "jobs": [
   {
    "job_id": "7374533",
@@ -1653,6 +1653,36 @@
    "is_remote": false,
    "published_at": "2026-08-27T06:32:01-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8161318",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8163185",
+   "lineage_key": "vice-president-defense-and-intelligence-engineering@san-francisco-ca",
+   "title": "Vice President Defense and Intelligence Engineering",
+   "department": "Global Monitoring Solutions (SWE)",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-28T20:43:05-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8163185",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8165021",
+   "lineage_key": "vice-president-defense-and-intelligence-engineering@arlington-va",
+   "title": "Vice President Defense and Intelligence Engineering",
+   "department": "Global Monitoring Solutions (SWE)",
+   "team": "",
+   "location": "Arlington, VA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-28T20:43:07-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8165021",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

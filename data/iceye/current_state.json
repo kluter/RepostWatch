@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-30T19:25:58+00:00",
- "job_count": 189,
+ "fetched_at": "2026-08-31T17:41:40+00:00",
+ "job_count": 188,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -109,6 +109,21 @@
    "published_at": "2026-05-22T12:10:55.236+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/1197834e-3203-4546-8f55-2bde6fe39546",
    "description_sha256": "db2626442c7df5c5dc0a930431bceda91eefe5d1862179a081abff7fef7bb199"
+  },
+  {
+   "job_id": "1267e2f2-20dc-4902-b1c0-58125e524ec9",
+   "lineage_key": "physical-security-systems-specialist@espoo",
+   "title": "Physical Security Systems Specialist",
+   "department": "Operations",
+   "team": "Operations",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-31T09:08:36.809+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/1267e2f2-20dc-4902-b1c0-58125e524ec9",
+   "description_sha256": "057fc345f64904649107c736e3acb6668e7b3f0f112cf90fde93363e34ad4b41"
   },
   {
    "job_id": "1570a6bb-a535-48bf-9c7c-aeca540f12b5",
@@ -231,23 +246,6 @@
    "description_sha256": "fd881e8bcff8c72fc6944f26eec09283277ce00027cc8589585f3945b3e28a58"
   },
   {
-   "job_id": "1ac23b1c-f069-48c3-978f-1b37fdf0787f",
-   "lineage_key": "forward-deployed-geospatial-engineer-sar-intelligence-greece@athens",
-   "title": "Forward Deployed Geospatial Engineer - SAR Intelligence, Greece",
-   "department": "Forward Deployed Engineering",
-   "team": "Forward Deployed Engineering",
-   "location": "Athens",
-   "secondary_locations": [
-    "Greece"
-   ],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-07-01T08:25:06.569+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/1ac23b1c-f069-48c3-978f-1b37fdf0787f",
-   "description_sha256": "b04ab36e24ddcc3dc0f06ce9acdf159897ade4b7cf5e533914ed908ef1d8b86d"
-  },
-  {
    "job_id": "1d549489-1557-489d-8cb4-1d6ec124f624",
    "lineage_key": "operations-systems-engineer-spectrum@warsaw",
    "title": "Operations Systems Engineer (Spectrum)",
@@ -366,21 +364,6 @@
    "published_at": "2026-07-13T19:19:43.575+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/2a7fa616-d6b3-469d-a724-73150c417fac",
    "description_sha256": "37cbf51bc4b1a26b5d9c8aee5b32e63e7f47706111323e78d410dddd279138a2"
-  },
-  {
-   "job_id": "2add20af-74f0-43e9-b959-6470084b1091",
-   "lineage_key": "sales-operations-specialist@espoo",
-   "title": "Sales Operations Specialist",
-   "department": "Operations",
-   "team": "Operations",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-13T08:29:40.808+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/2add20af-74f0-43e9-b959-6470084b1091",
-   "description_sha256": "16857389f63d2db6a0e4b67e63c2309704ec597bbf4586959a05e59a46b18bb4"
   },
   {
    "job_id": "2ce98cea-3f03-41a2-8f9a-0a19408b3fab",
@@ -1123,18 +1106,18 @@
   },
   {
    "job_id": "6796ce6b-05bf-41ec-a53c-bc882ac74d3c",
-   "lineage_key": "forward-deployed-geospatial-engineer-sar-intelligence-berlin@berlin",
-   "title": "Forward Deployed Geospatial Engineer - SAR Intelligence, Berlin",
+   "lineage_key": "forward-deployed-geospatial-engineer-sar-intelligence-germany@munich",
+   "title": "Forward Deployed Geospatial Engineer - SAR Intelligence, Germany",
    "department": "Forward Deployed Engineering",
    "team": "Forward Deployed Engineering",
-   "location": "Berlin",
+   "location": "Munich",
    "secondary_locations": [],
    "employment_type": "FullTime",
-   "workplace_type": "",
-   "is_remote": false,
+   "workplace_type": "Hybrid",
+   "is_remote": true,
    "published_at": "2026-07-01T07:38:53.046+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/6796ce6b-05bf-41ec-a53c-bc882ac74d3c",
-   "description_sha256": "edb8b741eafeef799d5f4fc8789d62e8a12a9ab2dc09f2b2ca798fc08bf26404"
+   "description_sha256": "12e73e96292a795d53c9272864c265ce7cbcb1e08ea6ed11fa1d73b7d4ce379c"
   },
   {
    "job_id": "67b84d2a-1f66-473a-b24c-b7ba35f02fe5",
@@ -1150,21 +1133,6 @@
    "published_at": "2026-08-24T04:42:52.985+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/67b84d2a-1f66-473a-b24c-b7ba35f02fe5",
    "description_sha256": "81743579a0c4de526e90f69b9ff9b51cfbff7a3f3614f651d1a2468cab389897"
-  },
-  {
-   "job_id": "680034d6-e73c-47d8-8916-4a4d3f5f1c91",
-   "lineage_key": "intelligence-analyst@berlin",
-   "title": "Intelligence Analyst",
-   "department": "CEO Office",
-   "team": "CEO Office",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-06-18T09:48:38.960+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/680034d6-e73c-47d8-8916-4a4d3f5f1c91",
-   "description_sha256": "a3506f1a058df735cbc86b9ef25283b6debd42069933f12ef7af4b4b0bc33b64"
   },
   {
    "job_id": "6b5378f4-9af0-4092-9e75-e1d0d0bbaad9",
@@ -2344,6 +2312,21 @@
    "description_sha256": "65ebcec7a89f853ca681f8be30c1518d2180a888c5db27cf8dd9f53f13c072a0"
   },
   {
+   "job_id": "ce2d7aa7-3596-4fae-a6c8-de530504519b",
+   "lineage_key": "senior-facility-security-specialist@espoo",
+   "title": "Senior Facility Security Specialist",
+   "department": "IT & Security",
+   "team": "Security",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-08-31T06:08:55.597+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/ce2d7aa7-3596-4fae-a6c8-de530504519b",
+   "description_sha256": "3377a109d8dde4ba7a545a7b152435191dd527f2c28199b48ce97661f6365cc7"
+  },
+  {
    "job_id": "ce6b9391-c11e-4831-a3f8-39ebd6c23f39",
    "lineage_key": "rf-engineer-radar-payload-team@espoo",
    "title": "RF Engineer, Radar Payload Team",
@@ -2662,6 +2645,7 @@
    "secondary_locations": [
     "Valencia",
     "Berlin",
+    "Remote",
     "Athens",
     "Warsaw"
    ],
@@ -2670,7 +2654,7 @@
    "is_remote": true,
    "published_at": "2026-08-14T12:13:11.593+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/edd8127b-1ecd-4a50-8e5a-ff95685f5922",
-   "description_sha256": "d4ef79c7837d54d16d616d0c4cb95a4ddfbeb7848e62dc463023e8830f6a97e1"
+   "description_sha256": "676f5be9b3b58fecf015c17240b7d5b6036e6381be7d0b42b90feaa83752e04d"
   },
   {
    "job_id": "edf13659-c648-4ca9-9676-cbf002b6aaef",

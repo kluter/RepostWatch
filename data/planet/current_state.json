@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-08-29T15:16:22+00:00",
- "job_count": 112,
+ "fetched_at": "2026-08-31T17:41:40+00:00",
+ "job_count": 113,
  "jobs": [
   {
    "job_id": "7374533",
@@ -412,8 +412,8 @@
   },
   {
    "job_id": "7964648",
-   "lineage_key": "senior-product-marketing-manager-global-marketing-solutions@san-francisco-ca",
-   "title": "Senior Product Marketing Manager, Global Marketing Solutions",
+   "lineage_key": "senior-product-marketing-manager-global-monitoring-services@san-francisco-ca",
+   "title": "Senior Product Marketing Manager,  Global Monitoring Services",
    "department": "Product Marketing",
    "team": "",
    "location": "San Francisco, CA",
@@ -1341,6 +1341,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8148503",
+   "lineage_key": "senior-business-development-manager-us-department-of-war@arlington-va",
+   "title": "Senior Business Development Manager, US Department of War",
+   "department": "Business Development",
+   "team": "",
+   "location": "Arlington, VA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-31T12:58:06-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8148503",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8148595",
    "lineage_key": "ground-station-engineer@berlin-germany",
    "title": "Ground Station Engineer",
@@ -1522,8 +1537,8 @@
   },
   {
    "job_id": "8160748",
-   "lineage_key": "senior-product-marketing-manager-global-marketing-solutions@arlington-va",
-   "title": "Senior Product Marketing Manager, Global Marketing Solutions",
+   "lineage_key": "senior-product-marketing-manager-global-monitoring-services@arlington-va",
+   "title": "Senior Product Marketing Manager, Global Monitoring Services",
    "department": "Product Marketing",
    "team": "",
    "location": "Arlington, VA",

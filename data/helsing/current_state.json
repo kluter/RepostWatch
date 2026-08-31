@@ -2,7 +2,7 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-08-28T21:13:01+00:00",
+ "fetched_at": "2026-08-31T17:41:40+00:00",
  "job_count": 143,
  "jobs": [
   {
@@ -621,36 +621,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4861198101",
-   "lineage_key": "incoming-inspector-production-quality@munich",
-   "title": "Incoming Inspector - Production Quality",
-   "department": "Production Operations",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-08T09:17:14-04:00",
-   "url": "https://helsing.ai/jobs/4861198101?gh_jid=4861198101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4862586101",
-   "lineage_key": "quality-inspector-production-quality@munich",
-   "title": "Quality Inspector - Production Quality",
-   "department": "Production Operations",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-08T09:17:15-04:00",
-   "url": "https://helsing.ai/jobs/4862586101?gh_jid=4862586101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4865187101",
    "lineage_key": "accounts-payable-lead@munich",
    "title": "Accounts Payable Lead",
@@ -678,21 +648,6 @@
    "is_remote": false,
    "published_at": "2026-05-13T07:48:42-04:00",
    "url": "https://helsing.ai/jobs/4865559101?gh_jid=4865559101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4865734101",
-   "lineage_key": "radio-engineer@munich",
-   "title": "Radio Engineer",
-   "department": "Systems Architecture",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-13T08:04:39-04:00",
-   "url": "https://helsing.ai/jobs/4865734101?gh_jid=4865734101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -783,6 +738,21 @@
    "is_remote": false,
    "published_at": "2026-05-20T06:09:54-04:00",
    "url": "https://helsing.ai/jobs/4871611101?gh_jid=4871611101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4871824101",
+   "lineage_key": "systems-engineer-requirements-manager-aviation@munich",
+   "title": "Systems Engineer (Requirements Manager), Aviation",
+   "department": "AI & Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-05-22T04:37:11-04:00",
+   "url": "https://helsing.ai/jobs/4871824101?gh_jid=4871824101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -2148,6 +2118,36 @@
    "is_remote": false,
    "published_at": "2026-08-28T13:03:48-04:00",
    "url": "https://helsing.ai/jobs/4962381101?gh_jid=4962381101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4963307101",
+   "lineage_key": "head-of-fp-a@munich",
+   "title": "Head of FP&A",
+   "department": "Finance",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-31T03:13:26-04:00",
+   "url": "https://helsing.ai/jobs/4963307101?gh_jid=4963307101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4963868101",
+   "lineage_key": "senior-commercial-finance-business-partner@munich",
+   "title": "Senior Commercial Finance Business Partner",
+   "department": "Finance",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-31T10:32:40-04:00",
+   "url": "https://helsing.ai/jobs/4963868101?gh_jid=4963868101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

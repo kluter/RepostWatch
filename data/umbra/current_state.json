@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-08-28T01:07:33+00:00",
- "job_count": 27,
+ "fetched_at": "2026-08-31T21:37:14+00:00",
+ "job_count": 26,
  "jobs": [
   {
    "job_id": "076F11402A",
@@ -68,23 +68,6 @@
    "published_at": "2026-05-04T00:00:00+00:00",
    "url": "https://apply.workable.com/j/206837042F",
    "description_sha256": "9a8b269ff6c7d8ecc52908a022db56a1731b8a18ec4f13d1ebe908c46fa4eb82"
-  },
-  {
-   "job_id": "214397AE67",
-   "lineage_key": "director-defense@arlington-united-states",
-   "title": "Director, Defense",
-   "department": "Mission Solutions",
-   "team": "",
-   "location": "Arlington, United States",
-   "secondary_locations": [
-    "Reston, United States"
-   ],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-04-08T00:00:00+00:00",
-   "url": "https://apply.workable.com/j/214397AE67",
-   "description_sha256": "5cdfa63126e917de4280fd0dbab601c605f15433db6f93195255a1cfbc29d48b"
   },
   {
    "job_id": "33F903685D",

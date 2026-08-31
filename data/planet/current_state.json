@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-08-31T17:41:40+00:00",
- "job_count": 113,
+ "fetched_at": "2026-08-31T21:37:14+00:00",
+ "job_count": 114,
  "jobs": [
   {
    "job_id": "7374533",
@@ -1698,6 +1698,21 @@
    "is_remote": false,
    "published_at": "2026-08-28T20:43:07-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8165021",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8167760",
+   "lineage_key": "vice-president-defense-and-intelligence-engineering@denver-co",
+   "title": "Vice President Defense and Intelligence Engineering",
+   "department": "Global Monitoring Solutions (SWE)",
+   "team": "",
+   "location": "Denver, CO",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-31T14:38:57-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8167760",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

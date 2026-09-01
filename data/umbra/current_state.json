@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-09-01T15:07:54+00:00",
- "job_count": 26,
+ "fetched_at": "2026-09-01T19:34:44+00:00",
+ "job_count": 25,
  "jobs": [
   {
    "job_id": "076F11402A",
@@ -294,23 +294,6 @@
    "published_at": "2026-08-03T00:00:00+00:00",
    "url": "https://apply.workable.com/j/A9AE7BC7D6",
    "description_sha256": "06d238cf9923957ec0072cdd77b0ffa34d78b52b509a590cf5ae8f6ea511c213"
-  },
-  {
-   "job_id": "BF8C539DFF",
-   "lineage_key": "director-national-security@arlington-united-states",
-   "title": "Director, National Security",
-   "department": "Mission Solutions",
-   "team": "",
-   "location": "Arlington, United States",
-   "secondary_locations": [
-    "Reston, United States"
-   ],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-01-23T00:00:00+00:00",
-   "url": "https://apply.workable.com/j/BF8C539DFF",
-   "description_sha256": "82b39f7795364fbb6d7f0b595db588753f9cfb4be9212dad707a341e8634b851"
   },
   {
    "job_id": "C15BDC33AE",

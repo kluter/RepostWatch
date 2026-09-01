@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-09-01T15:07:54+00:00",
- "job_count": 42,
+ "fetched_at": "2026-09-01T19:34:44+00:00",
+ "job_count": 41,
  "jobs": [
   {
    "job_id": "6521832",
@@ -273,21 +273,6 @@
    "is_remote": false,
    "published_at": "2026-06-19T10:47:24-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=7874484&gh_jid=7874484",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7913442",
-   "lineage_key": "hr-systems-analyst@washington-dc",
-   "title": "HR Systems Analyst",
-   "department": "People",
-   "team": "",
-   "location": "Washington, DC",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-12T09:51:14-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7913442&gh_jid=7913442",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

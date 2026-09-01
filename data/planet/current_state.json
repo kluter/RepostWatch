@@ -2,7 +2,7 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-08-31T21:37:14+00:00",
+ "fetched_at": "2026-09-01T15:07:54+00:00",
  "job_count": 114,
  "jobs": [
   {
@@ -1191,6 +1191,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8134793",
+   "lineage_key": "solutions-architect-pre-sales-german-defense-intelligence@berlin-germany",
+   "title": "Solutions Architect, Pre-Sales - German Defense & Intelligence",
+   "department": "Pre-Sales and Services",
+   "team": "",
+   "location": "Berlin, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-01T02:47:33-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8134793",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8137141",
    "lineage_key": "director-of-government-affairs@arlington-va",
    "title": "Director of Government Affairs",
@@ -1533,21 +1548,6 @@
    "is_remote": false,
    "published_at": "2026-08-26T18:19:05-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8160746",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8160748",
-   "lineage_key": "senior-product-marketing-manager-global-monitoring-services@arlington-va",
-   "title": "Senior Product Marketing Manager, Global Monitoring Services",
-   "department": "Product Marketing",
-   "team": "",
-   "location": "Arlington, VA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-26T18:20:49-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8160748",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

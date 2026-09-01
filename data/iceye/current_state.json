@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-08-31T17:41:40+00:00",
- "job_count": 188,
+ "fetched_at": "2026-09-01T15:07:54+00:00",
+ "job_count": 187,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -48,7 +48,7 @@
    "is_remote": true,
    "published_at": "2026-06-25T09:37:15.157+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/06f113d6-1702-4346-9369-97d70d68738b",
-   "description_sha256": "e3b07964153ad1e82b039947098992ca37c960e4ba87eb77a8310e17374a22a9"
+   "description_sha256": "1cf54c73701dca1a57904ff84763ddc499a384cbc4796290db41eb6afb5654ce"
   },
   {
    "job_id": "09d02ba3-5ba6-4a11-bb30-74e42c22c485",
@@ -725,7 +725,7 @@
    "is_remote": false,
    "published_at": "2026-07-18T14:35:33.941+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/42ec11f9-2c5a-417d-aca7-1ff6740dea7d",
-   "description_sha256": "ce75bab7c883e4457a4a4da363db768ab1b1d9e17e46d3d6e75430223d0256fb"
+   "description_sha256": "2f868cd76acea5fe3515fa01d2fdc7646590139e5191e78e3d8ae31d27a2a86c"
   },
   {
    "job_id": "431baaab-347b-485b-a52a-67d18dcbc2be",
@@ -1105,6 +1105,21 @@
    "description_sha256": "56b5116866add8ce60a51fee81d8bc71c094beb608f922f6ef297fa365f57417"
   },
   {
+   "job_id": "65672a82-d0bd-4f86-99d6-5d35432453fd",
+   "lineage_key": "senior-infrastructure-engineer@espoo",
+   "title": "Senior Infrastructure Engineer",
+   "department": "Engineering",
+   "team": "Product Networking",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-01T07:12:54.680+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/65672a82-d0bd-4f86-99d6-5d35432453fd",
+   "description_sha256": "b489b292bafc80ca3eb0b73c89100a1cb1db9c3aa0962cde1daaa751205a8ecf"
+  },
+  {
    "job_id": "6796ce6b-05bf-41ec-a53c-bc882ac74d3c",
    "lineage_key": "forward-deployed-geospatial-engineer-sar-intelligence-germany@munich",
    "title": "Forward Deployed Geospatial Engineer - SAR Intelligence, Germany",
@@ -1209,7 +1224,7 @@
    "is_remote": true,
    "published_at": "2026-08-17T13:52:47.633+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/6ff3a63c-29b2-4652-83df-6546a875804e",
-   "description_sha256": "1bea31b81cccff631991e5c060aaabcd3b8517b2f807fc17ad559a2232d1d653"
+   "description_sha256": "c952966b6a0951f32f9fd0c91e1974a88010b6f48400eba51778a325dcbf2dc0"
   },
   {
    "job_id": "7072cbcc-12a0-4ee5-a9ff-cbd6dd3d4764",
@@ -1273,6 +1288,21 @@
    "published_at": "2026-06-29T17:07:34.404+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/728ba3dc-5ab4-4f86-b7cc-5bd24c37f2d4",
    "description_sha256": "7b84e32bc481518c8c328c960b6daec413b348237e77e782648d441dc3aa1f0d"
+  },
+  {
+   "job_id": "73a4dcb5-424d-46d1-87a8-d6c624be2b58",
+   "lineage_key": "aocs-engineer@espoo",
+   "title": "AOCS Engineer",
+   "department": "Engineering",
+   "team": "Attitude and Orbit Control System",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-01T06:53:02.527+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/73a4dcb5-424d-46d1-87a8-d6c624be2b58",
+   "description_sha256": "797707590fd6d4d62dada3b1245f455eba27111670649e94b3075521e56dc525"
   },
   {
    "job_id": "75c4cf4a-45d9-4cfc-99e0-164a3a1c877d",
@@ -1377,7 +1407,7 @@
    "is_remote": true,
    "published_at": "2026-07-30T12:18:42.027+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/781f4574-906c-44ef-a7b4-8a5d8e59ad4f",
-   "description_sha256": "0fe59f1f68aa73f5fde4accfb1e5e04775e7d9c0494dda8fbd793fbd87527416"
+   "description_sha256": "3e4b7671a062b4502f4a5c9f9cb76030f297d2b28352a625845e11da51bb8d31"
   },
   {
    "job_id": "7939fd30-429c-4905-b5f1-cea49915ecfd",
@@ -1500,21 +1530,6 @@
    "description_sha256": "edb49642e39b78391cf48faeed022c9c30362446a0ea5eaf972f40daee5e4ac1"
   },
   {
-   "job_id": "855f4bf7-1b9a-4fd9-bff5-d850a487eabb",
-   "lineage_key": "office-operations-manager@kyiv",
-   "title": "Office & Operations Manager",
-   "department": "Operations",
-   "team": "Operations",
-   "location": "Kyiv ",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-06T14:58:13.935+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/855f4bf7-1b9a-4fd9-bff5-d850a487eabb",
-   "description_sha256": "2839d703514c434aa5b24dbc5197fad3ceaf99366056f706d0ab8d7489d0f6f4"
-  },
-  {
    "job_id": "87472167-0929-46d4-9d75-075fba6907b8",
    "lineage_key": "staff-mechanical-engineer@valencia-spain",
    "title": "Staff Mechanical Engineer",
@@ -1573,36 +1588,6 @@
    "published_at": "2026-07-27T10:03:55.576+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/8a6bfe22-bf26-49da-a1ce-b64b314897ee",
    "description_sha256": "db74180da52e0c48f065764fe78391824a4c295e74547f986ca55badf32722d4"
-  },
-  {
-   "job_id": "8bbb61b2-e417-4d48-b6e2-45843174e21c",
-   "lineage_key": "production-reliability-engineer@athens",
-   "title": "Production Reliability Engineer",
-   "department": "Global Manufacturing Organization",
-   "team": "Global Manufacturing Organization",
-   "location": "Athens",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-06-12T15:57:20.244+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/8bbb61b2-e417-4d48-b6e2-45843174e21c",
-   "description_sha256": "2809ec8a6ffaacd3c0f93886177057401496057a5291498107dc491413586451"
-  },
-  {
-   "job_id": "8c7f1418-b15a-446d-b590-ce24ed00adcf",
-   "lineage_key": "head-of-marketing-communications-germany@berlin",
-   "title": "Head of Marketing & Communications, Germany",
-   "department": "Marketing",
-   "team": "Marketing",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-11T08:21:15.547+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/8c7f1418-b15a-446d-b590-ce24ed00adcf",
-   "description_sha256": "142b5c89d48585c8dd3a62de1d1403dea2c890e17e4a92e078eb3cf8b9c8e4fb"
   },
   {
    "job_id": "8d27f213-6661-450f-a7be-7d5d461c7a59",

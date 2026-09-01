@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-08-31T17:41:40+00:00",
- "job_count": 99,
+ "fetched_at": "2026-09-01T15:07:54+00:00",
+ "job_count": 97,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -258,21 +258,6 @@
    "is_remote": false,
    "published_at": "2025-11-20T08:58:16-05:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4715159101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4715728101",
-   "lineage_key": "supply-chain-management-specialist-m-f-d@parsdorf-bavaria-germany",
-   "title": "Supply Chain Management Specialist (m/f/d)",
-   "department": "Production, Operations & Quality",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2025-11-29T03:45:00-05:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4715728101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -816,21 +801,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4923272101",
-   "lineage_key": "senior-plm-architect-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Senior PLM Architect (m/f/d)",
-   "department": "Integrated Spectrum Design",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-09T04:00:00-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4923272101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4923491101",
    "lineage_key": "gnc-engineer-mission-analysis-m-f-d@ottobrunn-bavaria-germany",
    "title": "GNC Engineer - Mission Analysis (m/f/d)",
@@ -843,21 +813,6 @@
    "is_remote": false,
    "published_at": "2026-07-10T06:04:07-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4923491101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4929454101",
-   "lineage_key": "senior-systems-engineer-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Senior Systems Engineer (m/f/d)",
-   "department": "Spectrum",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-16T04:10:40-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4929454101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1488,6 +1443,21 @@
    "is_remote": false,
    "published_at": "2026-08-26T09:53:32-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4961224101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4965225101",
+   "lineage_key": "manager-of-indirect-procurement-m-f-d@parsdorf-bavaria-germany",
+   "title": "Manager of Indirect Procurement (m/f/d)",
+   "department": "Production, Operations & Quality",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-01T07:33:48-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4965225101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

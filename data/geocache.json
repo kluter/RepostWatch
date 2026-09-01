@@ -505,6 +505,11 @@
    "lon": 53.9994829,
    "label": "United Arab Emirates",
    "remote": true
+  },
+  "usa - denver": {
+   "lat": 39.7392364,
+   "lon": -104.984862,
+   "label": "Denver"
   }
  }
 }

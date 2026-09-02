@@ -2,7 +2,7 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-09-01T19:34:44+00:00",
+ "fetched_at": "2026-09-02T14:39:25+00:00",
  "job_count": 114,
  "jobs": [
   {
@@ -426,21 +426,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "7964648",
-   "lineage_key": "senior-product-marketing-manager-global-monitoring-services@san-francisco-ca",
-   "title": "Senior Product Marketing Manager,  Global Monitoring Services",
-   "department": "Product Marketing",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-18T13:39:18-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7964648",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "7967527",
    "lineage_key": "senior-software-engineer-storage-infrastructure@united-states-remote",
    "title": "Senior Software Engineer, Storage Infrastructure",
@@ -813,21 +798,6 @@
    "is_remote": false,
    "published_at": "2026-07-15T17:55:48-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8055706",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8067731",
-   "lineage_key": "technical-program-manager-solutions@arlington-va",
-   "title": "Technical Program Manager, Solutions",
-   "department": "Program Management",
-   "team": "",
-   "location": "Arlington, VA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-13T17:54:07-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8067731",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1266,6 +1236,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8140271",
+   "lineage_key": "senior-quality-engineer@san-francisco-ca",
+   "title": "Senior Quality Engineer",
+   "department": "Supply Chain",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-01T20:52:11-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8140271",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8140278",
    "lineage_key": "pcb-design-engineer@san-francisco-ca",
    "title": "PCB Design Engineer",
@@ -1323,6 +1308,21 @@
    "is_remote": false,
    "published_at": "2026-08-26T20:30:48-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8142926",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8143129",
+   "lineage_key": "senior-software-engineer-front-end-d-i-solutions@united-states-remote",
+   "title": "Senior Software Engineer, Front-end - D&I Solutions",
+   "department": "Global Monitoring Solutions (SWE)",
+   "team": "",
+   "location": "United States, Remote",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-09-01T17:40:17-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8143129",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1413,6 +1413,21 @@
    "is_remote": false,
    "published_at": "2026-08-26T09:06:10-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8154628",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8155646",
+   "lineage_key": "senior-software-engineer-gms-app-team@united-states-remote",
+   "title": "Senior Software Engineer, GMS App Team",
+   "department": "Global Monitoring Solutions (SWE)",
+   "team": "",
+   "location": "United States, Remote",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-08-25T13:26:38-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8155646",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1578,21 +1593,6 @@
    "is_remote": false,
    "published_at": "2026-08-26T18:25:22-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8160759",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8160762",
-   "lineage_key": "technical-program-manager-solutions@denver-co",
-   "title": "Technical Program Manager, Solutions",
-   "department": "Program Management",
-   "team": "",
-   "location": "Denver, CO",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-26T18:26:56-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8160762",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

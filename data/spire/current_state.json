@@ -2,24 +2,9 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-09-01T19:34:44+00:00",
- "job_count": 41,
+ "fetched_at": "2026-09-02T14:39:25+00:00",
+ "job_count": 36,
  "jobs": [
-  {
-   "job_id": "6521832",
-   "lineage_key": "senior-solutions-architect@washington-district-of-columbia-united-states",
-   "title": "Senior Solutions Architect",
-   "department": "Business Operations",
-   "team": "",
-   "location": "Washington, District of Columbia, United States",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2025-02-19T12:34:52-05:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=6521832&gh_jid=6521832",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
   {
    "job_id": "6729465",
    "lineage_key": "future-opportunities-business-development-manager@washington-district-of-columbia-united-states",
@@ -108,21 +93,6 @@
    "is_remote": false,
    "published_at": "2025-09-26T12:56:42-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=7277405&gh_jid=7277405",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7294480",
-   "lineage_key": "senior-sales-engineer@glasgow-uk",
-   "title": "Senior Sales Engineer",
-   "department": "Business Operations",
-   "team": "",
-   "location": "Glasgow, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2025-10-02T06:18:35-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7294480&gh_jid=7294480",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -243,21 +213,6 @@
    "is_remote": false,
    "published_at": "2026-05-06T08:51:49-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=7870835&gh_jid=7870835",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7870891",
-   "lineage_key": "senior-solutions-architect@boulder-co",
-   "title": "Senior Solutions Architect",
-   "department": "Business Operations",
-   "team": "",
-   "location": "Boulder, CO",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-04-30T09:33:39-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7870891&gh_jid=7870891",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -423,36 +378,6 @@
    "is_remote": false,
    "published_at": "2026-07-02T06:07:53-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8041450&gh_jid=8041450",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8065037",
-   "lineage_key": "facilities-workplace-manager@munich",
-   "title": "Facilities & Workplace Manager",
-   "department": "Facilities",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-15T10:29:38-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8065037&gh_jid=8065037",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8071693",
-   "lineage_key": "quality-assurance-engineer@glasgow-scotland-united-kingdom",
-   "title": "Quality Assurance Engineer",
-   "department": "Engineering",
-   "team": "",
-   "location": "Glasgow, Scotland, United Kingdom",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-20T09:14:42-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8071693&gh_jid=8071693",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

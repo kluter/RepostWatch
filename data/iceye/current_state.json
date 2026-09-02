@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-01T15:07:54+00:00",
+ "fetched_at": "2026-09-02T14:39:25+00:00",
  "job_count": 187,
  "jobs": [
   {
@@ -154,21 +154,6 @@
    "published_at": "2026-05-19T16:05:31.899+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/15ec7f83-01ba-46fc-91c6-88cd28bb6338",
    "description_sha256": "d5be633781edc601b862b4142ca9b233a97faa022627d1a11608ec1991d122c3"
-  },
-  {
-   "job_id": "1628a483-ff24-4978-b710-abd49f32bce5",
-   "lineage_key": "program-manager-uae@united-arab-emirates",
-   "title": "Program Manager - UAE",
-   "department": "Missions",
-   "team": "Missions Programs",
-   "location": "United Arab Emirates",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-06-05T13:00:42.705+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/1628a483-ff24-4978-b710-abd49f32bce5",
-   "description_sha256": "1d47ff937a0cd0d4dbe2e23a600a4af444e8ef7fdc2a5b975c63734a0ef8a67b"
   },
   {
    "job_id": "173676c5-440b-4305-bf98-6297aed07fd3",
@@ -653,21 +638,6 @@
    "description_sha256": "fafc3a6e62a2bb9859663f45728f621926f92c7f9c52a381d64216ddf4a975d4"
   },
   {
-   "job_id": "3a7fadfb-6646-46a1-89dd-d934f52d323c",
-   "lineage_key": "head-of-marketing-communications-uae@united-arab-emirates",
-   "title": "Head of Marketing & Communications, UAE",
-   "department": "Marketing",
-   "team": "Marketing",
-   "location": "United Arab Emirates",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-24T13:53:38.616+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/3a7fadfb-6646-46a1-89dd-d934f52d323c",
-   "description_sha256": "94caab3ca970f47d8038477b984bfb54a1f25a22c91c328a255236fa109e8d56"
-  },
-  {
    "job_id": "3cc1954a-b537-4d7b-8a79-a51ad07e97f2",
    "lineage_key": "senior-backend-software-engineer@espoo",
    "title": "Senior Backend Software Engineer",
@@ -1150,6 +1120,21 @@
    "description_sha256": "81743579a0c4de526e90f69b9ff9b51cfbff7a3f3614f651d1a2468cab389897"
   },
   {
+   "job_id": "680034d6-e73c-47d8-8916-4a4d3f5f1c91",
+   "lineage_key": "intelligence-analyst@berlin",
+   "title": "Intelligence Analyst",
+   "department": "CEO Office",
+   "team": "CEO Office",
+   "location": "Berlin",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-09-02T07:58:15.425+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/680034d6-e73c-47d8-8916-4a4d3f5f1c91",
+   "description_sha256": "a3506f1a058df735cbc86b9ef25283b6debd42069933f12ef7af4b4b0bc33b64"
+  },
+  {
    "job_id": "6b5378f4-9af0-4092-9e75-e1d0d0bbaad9",
    "lineage_key": "senior-global-payroll-manager@warsaw",
    "title": "Senior Global Payroll Manager",
@@ -1588,6 +1573,21 @@
    "published_at": "2026-07-27T10:03:55.576+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/8a6bfe22-bf26-49da-a1ce-b64b314897ee",
    "description_sha256": "db74180da52e0c48f065764fe78391824a4c295e74547f986ca55badf32722d4"
+  },
+  {
+   "job_id": "8bbb61b2-e417-4d48-b6e2-45843174e21c",
+   "lineage_key": "production-reliability-engineer@athens",
+   "title": "Production Reliability Engineer",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Athens",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-09-02T05:22:06.511+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/8bbb61b2-e417-4d48-b6e2-45843174e21c",
+   "description_sha256": "02c850a8dc9039cfe4622d450e9e135965a95f0ab68e46b331f24a1fd0cebc97"
   },
   {
    "job_id": "8d27f213-6661-450f-a7be-7d5d461c7a59",

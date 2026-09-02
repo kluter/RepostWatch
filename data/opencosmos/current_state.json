@@ -2,8 +2,8 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-09-02T14:39:25+00:00",
- "job_count": 57,
+ "fetched_at": "2026-09-02T19:29:21+00:00",
+ "job_count": 58,
  "jobs": [
   {
    "job_id": "063679a7-77f0-4e6d-8296-bcff69f4ec4f",
@@ -304,6 +304,21 @@
    "published_at": "2026-04-28T10:36:01+01:00",
    "url": "https://careers.open-cosmos.com/jobs/7648623-thermal-systems-engineer",
    "description_sha256": "feb5f4fa1cdbbf2faee0f6d088dee89f23478ba7c981c3ec02e4c62b18dc328a"
+  },
+  {
+   "job_id": "6026eb8c-8ffe-472e-9d63-ac71b4fab899",
+   "lineage_key": "earth-observation-solutions-analyst@harwell-uk",
+   "title": "Earth Observation Solutions Analyst",
+   "department": "DATA",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-09-02T16:40:38+01:00",
+   "url": "https://careers.open-cosmos.com/jobs/8312091-earth-observation-solutions-analyst",
+   "description_sha256": "00024cb27c936b4b062903f45ca7a701a88802ebe3433a6b2e0d714533ee441c"
   },
   {
    "job_id": "670e9b42-155a-4fbc-b674-b94167ef8779",

@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-09-02T14:39:25+00:00",
- "job_count": 114,
+ "fetched_at": "2026-09-03T19:25:54+00:00",
+ "job_count": 115,
  "jobs": [
   {
    "job_id": "7374533",
@@ -1698,6 +1698,21 @@
    "is_remote": false,
    "published_at": "2026-08-28T20:43:07-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8165021",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8165383",
+   "lineage_key": "sales-development-representative@san-francisco-ca",
+   "title": "Sales Development Representative",
+   "department": "Sales Development and Inside Sales",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-03T14:19:55-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8165383",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

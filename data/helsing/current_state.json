@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-09-03T14:42:10+00:00",
- "job_count": 142,
+ "fetched_at": "2026-09-03T19:25:54+00:00",
+ "job_count": 141,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -198,21 +198,6 @@
    "is_remote": false,
    "published_at": "2025-08-04T05:33:15-04:00",
    "url": "https://helsing.ai/jobs/4636978101?gh_jid=4636978101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4642812101",
-   "lineage_key": "production-engineer-mechatronic-systems@munich",
-   "title": "Production Engineer - Mechatronic Systems",
-   "department": "Production Operations",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2025-09-01T09:03:41-04:00",
-   "url": "https://helsing.ai/jobs/4642812101?gh_jid=4642812101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

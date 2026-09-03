@@ -2,7 +2,7 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-09-02T14:39:25+00:00",
+ "fetched_at": "2026-09-03T14:42:10+00:00",
  "job_count": 142,
  "jobs": [
   {
@@ -951,6 +951,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4880852101",
+   "lineage_key": "graphic-designer@berlin",
+   "title": "Graphic Designer",
+   "department": "Marketing & Communications",
+   "team": "",
+   "location": "Berlin",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-06-03T07:47:39-04:00",
+   "url": "https://helsing.ai/jobs/4880852101?gh_jid=4880852101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4881402101",
    "lineage_key": "mechanical-design-engineer-robotics@barcelona",
    "title": "Mechanical Design Engineer - Robotics",
@@ -993,21 +1008,6 @@
    "is_remote": false,
    "published_at": "2026-06-08T09:59:14-04:00",
    "url": "https://helsing.ai/jobs/4888975101?gh_jid=4888975101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4890512101",
-   "lineage_key": "manufacturing-engineer@munich",
-   "title": "Manufacturing Engineer",
-   "department": "Production Operations",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-09T09:34:00-04:00",
-   "url": "https://helsing.ai/jobs/4890512101?gh_jid=4890512101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1566,21 +1566,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4945398101",
-   "lineage_key": "brand-manager-marketing-communications@berlin",
-   "title": "Brand Manager - Marketing & Communications",
-   "department": "Marketing & Communications",
-   "team": "",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-06T07:02:52-04:00",
-   "url": "https://helsing.ai/jobs/4945398101?gh_jid=4945398101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4947489101",
    "lineage_key": "multimodal-sensing-test-engineer@munich",
    "title": "Multimodal Sensing Test Engineer",
@@ -1698,6 +1683,21 @@
    "is_remote": false,
    "published_at": "2026-08-12T08:53:10-04:00",
    "url": "https://helsing.ai/jobs/4951517101?gh_jid=4951517101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4951753101",
+   "lineage_key": "closed-opportunity@berlin",
+   "title": "Closed Opportunity",
+   "department": "Market",
+   "team": "",
+   "location": "Berlin",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-02T07:50:05-04:00",
+   "url": "https://helsing.ai/jobs/4951753101?gh_jid=4951753101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

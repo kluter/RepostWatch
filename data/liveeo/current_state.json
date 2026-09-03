@@ -2,8 +2,8 @@
  "company": "liveeo",
  "source": "personio",
  "board": "liveeo-gmbh",
- "fetched_at": "2026-08-25T17:14:19+00:00",
- "job_count": 20,
+ "fetched_at": "2026-09-03T14:42:10+00:00",
+ "job_count": 19,
  "jobs": [
   {
    "job_id": "2006503",
@@ -33,21 +33,6 @@
    "is_remote": true,
    "published_at": "2025-08-01T16:43:16+00:00",
    "url": "https://liveeo-gmbh.jobs.personio.de/job/2274198",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "2435599",
-   "lineage_key": "director-of-information-security-sovereign-operations-f-m-x@berlin",
-   "title": "Director of Information Security & Sovereign Operations (f/m/x)",
-   "department": "Engineering",
-   "team": "",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2025-11-21T11:21:37+00:00",
-   "url": "https://liveeo-gmbh.jobs.personio.de/job/2435599",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -231,21 +216,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "2745895",
-   "lineage_key": "product-design-intern-f-m-d@berlin",
-   "title": "Product Design Intern (f/m/d)",
-   "department": "Treeline",
-   "team": "",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-07T13:57:16+00:00",
-   "url": "https://liveeo-gmbh.jobs.personio.de/job/2745895",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "2755545",
    "lineage_key": "business-development-representative-australia-f-m-x@australia",
    "title": "Business Development Representative Australia (f/m/x)",
@@ -303,6 +273,21 @@
    "is_remote": false,
    "published_at": "2026-08-21T13:20:31+00:00",
    "url": "https://liveeo-gmbh.jobs.personio.de/job/2763284",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "2780228",
+   "lineage_key": "senior-marketing-manager-government-solutions-f-m-x@berlin",
+   "title": "Senior Marketing Manager - Government Solutions (f/m/x)",
+   "department": "Marketing",
+   "team": "",
+   "location": "Berlin",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-03T10:03:48+00:00",
+   "url": "https://liveeo-gmbh.jobs.personio.de/job/2780228",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

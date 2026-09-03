@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-02T14:39:25+00:00",
+ "fetched_at": "2026-09-03T14:42:10+00:00",
  "job_count": 187,
  "jobs": [
   {
@@ -55,7 +55,7 @@
    "lineage_key": "satellite-production-senior-technician-electronics@valencia",
    "title": "Satellite Production Senior Technician, Electronics",
    "department": "Global Manufacturing Organization",
-   "team": "Global Manufacturing Organization",
+   "team": "ES Satellite Production",
    "location": "Valencia",
    "secondary_locations": [],
    "employment_type": "FullTime",
@@ -175,7 +175,7 @@
    "lineage_key": "satellite-production-technician-integration-mechanical-thermal@valencia",
    "title": "Satellite Production Technician, Integration, Mechanical & Thermal",
    "department": "Global Manufacturing Organization",
-   "team": "Global Manufacturing Organization",
+   "team": "ES Satellite Production",
    "location": "Valencia",
    "secondary_locations": [],
    "employment_type": "FullTime",
@@ -447,7 +447,7 @@
    "lineage_key": "thermal-harness-ait-engineer@valencia",
    "title": "Thermal & Harness AIT Engineer",
    "department": "Global Manufacturing Organization",
-   "team": "Global Manufacturing Organization",
+   "team": "ES AIT Engineering",
    "location": "Valencia",
    "secondary_locations": [],
    "employment_type": "FullTime",
@@ -779,7 +779,7 @@
    "lineage_key": "satellite-production-technician-harness@valencia",
    "title": "Satellite Production Technician, Harness",
    "department": "Global Manufacturing Organization",
-   "team": "Global Manufacturing Organization",
+   "team": "ES Satellite Production",
    "location": "Valencia",
    "secondary_locations": [],
    "employment_type": "FullTime",
@@ -1222,9 +1222,9 @@
    "employment_type": "FullTime",
    "workplace_type": "",
    "is_remote": false,
-   "published_at": "2026-06-18T06:27:04.087+00:00",
+   "published_at": "2026-09-03T08:20:49.044+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/7072cbcc-12a0-4ee5-a9ff-cbd6dd3d4764",
-   "description_sha256": "a2ec32e617c3746ea26ba905775f5a1f58565c04e1f8fc7120b708ceed7c30ab"
+   "description_sha256": "d9574cff2781cc0d7ce894fc9930a86a154914d9840e8459e79053525e2d1b09"
   },
   {
    "job_id": "70a60904-6a6a-4cc8-9427-f64f35046cae",
@@ -1724,7 +1724,7 @@
    "is_remote": false,
    "published_at": "2026-06-10T12:16:29.063+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/94b9830e-5093-499c-bbcb-77dac72b5b05",
-   "description_sha256": "c0848c949482b9520522803dd09afbc4c0863ac294c468a78d2e9b7235c677b7"
+   "description_sha256": "701a9a1b2c7ca8d63e0c4f00867367560cc8c6f7713feebe497b1a36987f94e2"
   },
   {
    "job_id": "951e39dd-b621-4e99-8507-2781587e7d1c",
@@ -1746,7 +1746,7 @@
    "lineage_key": "satellite-production-senior-technician-rf-systems-software@valencia",
    "title": "Satellite Production Senior Technician, RF, Systems & Software",
    "department": "Global Manufacturing Organization",
-   "team": "Global Manufacturing Organization",
+   "team": "ES Satellite Production",
    "location": "Valencia",
    "secondary_locations": [],
    "employment_type": "FullTime",
@@ -2436,7 +2436,7 @@
    "lineage_key": "system-engineer@espoo",
    "title": "System Engineer",
    "department": "Missions",
-   "team": "Missions Product",
+   "team": "Delivery & Support",
    "location": "Espoo",
    "secondary_locations": [
     "Warsaw"
@@ -2488,7 +2488,7 @@
    "lineage_key": "devops-engineer@espoo",
    "title": "DevOps Engineer",
    "department": "Missions",
-   "team": "Missions",
+   "team": "Delivery & Support",
    "location": "Espoo",
    "secondary_locations": [],
    "employment_type": "FullTime",
@@ -2816,7 +2816,7 @@
    "lineage_key": "rf-ait-engineer@valencia",
    "title": "RF AIT Engineer",
    "department": "Global Manufacturing Organization",
-   "team": "Global Manufacturing Organization",
+   "team": "ES AIT Engineering",
    "location": "Valencia",
    "secondary_locations": [],
    "employment_type": "FullTime",

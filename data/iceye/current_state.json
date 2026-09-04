@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-04T14:30:43+00:00",
- "job_count": 188,
+ "fetched_at": "2026-09-04T19:07:40+00:00",
+ "job_count": 189,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -334,6 +334,21 @@
    "published_at": "2026-08-18T07:52:14.552+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/284d4905-606d-4cd0-b043-e6f8d6ede611",
    "description_sha256": "5f5e3c4bcc7d71704dfeef09c1b6bf0bdf5675e70aa0bd37a2efb3a47d897bf9"
+  },
+  {
+   "job_id": "29558448-5b4e-4aef-b395-642acc666efa",
+   "lineage_key": "satellite-operations-specialist@espoo",
+   "title": "Satellite Operations Specialist",
+   "department": "Engineering",
+   "team": "Satellite Operations",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-09-04T16:03:25.572+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/29558448-5b4e-4aef-b395-642acc666efa",
+   "description_sha256": "836002115f483f599c6d45902b2469c424eabb53364310af31c8605cb3cd30d3"
   },
   {
    "job_id": "2a7fa616-d6b3-469d-a724-73150c417fac",

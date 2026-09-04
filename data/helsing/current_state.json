@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-09-04T14:30:43+00:00",
- "job_count": 139,
+ "fetched_at": "2026-09-04T19:07:40+00:00",
+ "job_count": 138,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -468,21 +468,6 @@
    "is_remote": false,
    "published_at": "2026-03-17T10:46:22-04:00",
    "url": "https://helsing.ai/jobs/4813822101?gh_jid=4813822101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4816634101",
-   "lineage_key": "events-manager@munich",
-   "title": "Events Manager",
-   "department": "Marketing & Communications",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-04T08:56:57-04:00",
-   "url": "https://helsing.ai/jobs/4816634101?gh_jid=4816634101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1791,21 +1776,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4955123101",
-   "lineage_key": "investor-relations-manager@london",
-   "title": "Investor Relations Manager",
-   "department": "Finance",
-   "team": "",
-   "location": "London",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-18T10:53:47-04:00",
-   "url": "https://helsing.ai/jobs/4955123101?gh_jid=4955123101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4957275101",
    "lineage_key": "technical-recruiter@london",
    "title": "Technical Recruiter",
@@ -2088,6 +2058,21 @@
    "is_remote": false,
    "published_at": "2026-09-02T04:31:26-04:00",
    "url": "https://helsing.ai/jobs/4966173101?gh_jid=4966173101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4969183101",
+   "lineage_key": "guidance-navigation-control-engineer@london",
+   "title": "Guidance, Navigation & Control Engineer",
+   "department": "Physical Products",
+   "team": "",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-04T13:25:18-04:00",
+   "url": "https://helsing.ai/jobs/4969183101?gh_jid=4969183101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-09-03T19:25:54+00:00",
- "job_count": 115,
+ "fetched_at": "2026-09-04T14:30:43+00:00",
+ "job_count": 118,
  "jobs": [
   {
    "job_id": "7374533",
@@ -366,6 +366,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "7907733",
+   "lineage_key": "electrical-engineer@san-francisco-ca",
+   "title": "Electrical Engineer",
+   "department": "RF, Comms & Electrical Engineering",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-05-13T14:54:19-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7907733",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "7907756",
    "lineage_key": "deployment-strategist-professional-services-global-d-i@stockholm-sweden",
    "title": "Deployment Strategist, Professional Services Global D&I",
@@ -453,36 +468,6 @@
    "is_remote": false,
    "published_at": "2026-07-29T20:27:04-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7967529",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7967533",
-   "lineage_key": "executive-communications-manager@san-francisco-ca",
-   "title": "Executive Communications Manager",
-   "department": "Global Communications and Government Affairs (Global Communications and Government Affairs)",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-10T14:18:41-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7967533",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7972328",
-   "lineage_key": "technical-program-manager@berlin-germany",
-   "title": "Technical Program Manager",
-   "department": "Space Mission Delivery",
-   "team": "",
-   "location": "Berlin, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-08T05:36:58-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7972328",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1386,6 +1371,36 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8148627",
+   "lineage_key": "logistics-manager@san-francisco-ca",
+   "title": "Logistics Manager",
+   "department": "Ground Operations",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-03T20:11:26-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8148627",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8148629",
+   "lineage_key": "senior-service-delivery-manager@san-francisco-ca",
+   "title": "Senior Service Delivery Manager",
+   "department": "Ground Operations",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-03T20:11:55-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8148629",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8154608",
    "lineage_key": "vice-president-revenue-operations@arlington-va",
    "title": "Vice President, Revenue Operations",
@@ -1413,6 +1428,21 @@
    "is_remote": false,
    "published_at": "2026-08-26T09:06:10-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8154628",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8154780",
+   "lineage_key": "senior-software-engineer-storage-infrastructure@united-states-remote",
+   "title": "Senior Software Engineer, Storage Infrastructure",
+   "department": "Infrastructure and Operations",
+   "team": "",
+   "location": "United States, Remote",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-09-03T17:45:53-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8154780",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1473,6 +1503,21 @@
    "is_remote": false,
    "published_at": "2026-08-26T12:08:30-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8159685",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8160294",
+   "lineage_key": "senior-software-engineer-storage-infrastructure@canada-remote",
+   "title": "Senior Software Engineer, Storage Infrastructure",
+   "department": "Infrastructure and Operations",
+   "team": "",
+   "location": "Canada, Remote",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-09-03T17:45:56-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8160294",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

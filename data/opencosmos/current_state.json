@@ -2,8 +2,8 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-09-02T19:29:21+00:00",
- "job_count": 58,
+ "fetched_at": "2026-09-04T14:30:43+00:00",
+ "job_count": 59,
  "jobs": [
   {
    "job_id": "063679a7-77f0-4e6d-8296-bcff69f4ec4f",
@@ -124,6 +124,21 @@
    "published_at": "2026-03-30T22:31:59+01:00",
    "url": "https://careers.open-cosmos.com/jobs/7487112-senior-aocs-systems-engineer",
    "description_sha256": "408d16ff185fa67200ae61c924914f90c5e7f0ca037b0e5ab6ea8cbe3952f1d9"
+  },
+  {
+   "job_id": "26d14c7f-1aa1-4939-bdce-a02a77283c78",
+   "lineage_key": "mission-concept-engineer@harwell-uk",
+   "title": "Mission Concept Engineer",
+   "department": "GROWTH",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-09-04T10:03:14+01:00",
+   "url": "https://careers.open-cosmos.com/jobs/8321878-mission-concept-engineer",
+   "description_sha256": "d6bec59fc428e64a2ad6794667fa7d6243e73b888747f33a3d1ba098090d2378"
   },
   {
    "job_id": "2b38fc1d-6f1c-43a2-a13b-b5f090eae183",
@@ -379,21 +394,6 @@
    "published_at": "2025-11-24T08:10:58+00:00",
    "url": "https://careers.open-cosmos.com/jobs/6828550-2nd-line-it-support-engineer",
    "description_sha256": "7e27a94961716bff5fb7dc483cc9e46b2f3cdf9e49419a92caf1ada0d1c2d37c"
-  },
-  {
-   "job_id": "7920a066-826d-43dd-afe2-74d50fe57bde",
-   "lineage_key": "mission-concept-engineer@athens-greece",
-   "title": "Mission Concept Engineer",
-   "department": "GROWTH",
-   "team": "",
-   "location": "Athens, Greece",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-07-01T09:23:10+01:00",
-   "url": "https://careers.open-cosmos.com/jobs/7999421-mission-concept-engineer",
-   "description_sha256": "69abc91f71c06f8415415d3b011cda7c5edb2e9822bf38c68f1a1b0c6fedfe6a"
   },
   {
    "job_id": "80ba050a-d1a0-40d7-91ef-b16b514746d5",
@@ -769,6 +769,21 @@
    "published_at": "2026-05-12T14:04:06+01:00",
    "url": "https://careers.open-cosmos.com/jobs/7725009-earth-observation-presales-engineer",
    "description_sha256": "4ebb600534a55b2a223712159269511d8225d1f96b93fb3c34c58e518f40f920"
+  },
+  {
+   "job_id": "d5342aa0-dc34-4da2-a210-74564be6c143",
+   "lineage_key": "senior-mission-manager@harwell-uk",
+   "title": "Senior Mission Manager",
+   "department": "MISSION MANAGEMENT",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-04-28T11:04:50+01:00",
+   "url": "https://careers.open-cosmos.com/jobs/7648929-senior-mission-manager",
+   "description_sha256": "ade48d7b0904b9979d1fa5a4ef09efc055f1e3c19e011d84b3dee69348e817c5"
   },
   {
    "job_id": "da2d004a-a096-4e2d-a611-32522c3cf589",

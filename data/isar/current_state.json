@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-09-03T14:42:10+00:00",
- "job_count": 97,
+ "fetched_at": "2026-09-04T14:30:43+00:00",
+ "job_count": 96,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -1323,21 +1323,6 @@
    "is_remote": false,
    "published_at": "2026-08-17T03:52:44-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4953614101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4954986101",
-   "lineage_key": "supply-chain-leader-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Supply Chain Leader (m/f/d)",
-   "department": "Production, Operations & Quality",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-26T08:05:04-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4954986101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

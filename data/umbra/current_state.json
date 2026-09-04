@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-09-01T19:34:44+00:00",
- "job_count": 25,
+ "fetched_at": "2026-09-04T14:30:43+00:00",
+ "job_count": 24,
  "jobs": [
   {
    "job_id": "076F11402A",
@@ -55,21 +55,6 @@
    "description_sha256": "c06a16089660f3ffaefa9d4a883128f59f680bd11593b9ee3859748665edef49"
   },
   {
-   "job_id": "206837042F",
-   "lineage_key": "spacecraft-thermal-engineer@reston-united-states",
-   "title": "Spacecraft Thermal Engineer",
-   "department": "Mission Solutions",
-   "team": "",
-   "location": "Reston, United States",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-04T00:00:00+00:00",
-   "url": "https://apply.workable.com/j/206837042F",
-   "description_sha256": "9a8b269ff6c7d8ecc52908a022db56a1731b8a18ec4f13d1ebe908c46fa4eb82"
-  },
-  {
    "job_id": "33F903685D",
    "lineage_key": "director-of-communications@arlington-united-states",
    "title": "Director of Communications",
@@ -112,7 +97,7 @@
    "is_remote": false,
    "published_at": "2026-08-27T00:00:00+00:00",
    "url": "https://apply.workable.com/j/49CF1FA326",
-   "description_sha256": "5df8ed76fc22a044692f291de145f67e9d643970a420835da2bea16a5deb129d"
+   "description_sha256": "1aa2069d9f8672777684f948ab2d85e76768871363fb4fefa8b6bc5f0f8ec9be"
   },
   {
    "job_id": "4A5E102FBA",
@@ -225,7 +210,7 @@
    ],
    "employment_type": "",
    "workplace_type": "",
-   "is_remote": false,
+   "is_remote": true,
    "published_at": "2026-01-19T00:00:00+00:00",
    "url": "https://apply.workable.com/j/63E33F2615",
    "description_sha256": "585ce562f1581c78689cc1b2d8990e7fd3dc0bc5f3b6545cc4ad842a1bf82871"

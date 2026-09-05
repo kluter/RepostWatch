@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-09-04T14:30:43+00:00",
- "job_count": 118,
+ "fetched_at": "2026-09-05T13:31:00+00:00",
+ "job_count": 117,
  "jobs": [
   {
    "job_id": "7374533",
@@ -393,21 +393,6 @@
    "is_remote": false,
    "published_at": "2026-06-25T17:37:17-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7907756",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7938235",
-   "lineage_key": "senior-director-creative-marketing@san-francisco-ca",
-   "title": "Senior Director, Creative Marketing",
-   "department": "Creative",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-05T18:17:24-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7938235",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

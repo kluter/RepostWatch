@@ -2,7 +2,7 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-09-07T16:00:46+00:00",
+ "fetched_at": "2026-09-07T20:08:37+00:00",
  "job_count": 101,
  "jobs": [
   {
@@ -1492,8 +1492,8 @@
   },
   {
    "job_id": "4970085101",
-   "lineage_key": "working-student-talent-attraction-m-f-d@parsdorf-bavaria-germany",
-   "title": "Working Student Talent Attraction (m/f/d)",
+   "lineage_key": "working-student-talent-acquisition-m-f-d@parsdorf-bavaria-germany",
+   "title": "Working Student Talent Acquisition (m/f/d)",
    "department": "Talent",
    "team": "",
    "location": "Parsdorf, Bavaria, Germany",
@@ -1507,8 +1507,8 @@
   },
   {
    "job_id": "4970106101",
-   "lineage_key": "intern-talent-attraction-m-f-d@parsdorf-bavaria-germany",
-   "title": "Intern Talent Attraction (m/f/d)",
+   "lineage_key": "talent-acquisition-6-months-internship-m-f-d@parsdorf-bavaria-germany",
+   "title": "Talent Acquisition - 6 months Internship (m/f/d)",
    "department": "Talent",
    "team": "",
    "location": "Parsdorf, Bavaria, Germany",

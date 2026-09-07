@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-09-05T13:31:00+00:00",
- "job_count": 117,
+ "fetched_at": "2026-09-07T16:00:46+00:00",
+ "job_count": 119,
  "jobs": [
   {
    "job_id": "7374533",
@@ -468,21 +468,6 @@
    "is_remote": false,
    "published_at": "2026-06-24T17:30:33-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7979253",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7992823",
-   "lineage_key": "senior-missions-manager-constellation-services@berlin-germany",
-   "title": "Senior Missions Manager, Constellation Services",
-   "department": "Space Mission Delivery",
-   "team": "",
-   "location": "Berlin, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-09T10:52:48-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7992823",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1072,15 +1057,15 @@
   },
   {
    "job_id": "8128479",
-   "lineage_key": "senior-cost-accountant@berlin-germany",
+   "lineage_key": "senior-cost-accountant@germany-remote",
    "title": "Senior Cost Accountant",
    "department": "Accounting",
    "team": "",
-   "location": "Berlin, Germany",
+   "location": "Germany, Remote",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
-   "is_remote": false,
+   "is_remote": true,
    "published_at": "2026-08-20T06:51:54-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8128479",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
@@ -1716,6 +1701,36 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8164967",
+   "lineage_key": "director-pre-sales-global-d-i@germany-remote",
+   "title": "Director, Pre-Sales Global D&I",
+   "department": "Sales Manager",
+   "team": "",
+   "location": "Germany, Remote",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-09-07T05:16:23-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8164967",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8164995",
+   "lineage_key": "presales-engineer-civ-gov-and-commercial@berlin-germany",
+   "title": "PreSales Engineer, Civ Gov and Commercial",
+   "department": "Pre-Sales and Services",
+   "team": "",
+   "location": "Berlin, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-07T04:45:07-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8164995",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8165021",
    "lineage_key": "vice-president-defense-and-intelligence-engineering@arlington-va",
    "title": "Vice President Defense and Intelligence Engineering",
@@ -1758,6 +1773,21 @@
    "is_remote": false,
    "published_at": "2026-08-31T14:38:57-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8167760",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8167892",
+   "lineage_key": "director-pre-sales-global-d-i@united-kingdom-remote",
+   "title": "Director, Pre-Sales Global D&I",
+   "department": "Sales Manager",
+   "team": "",
+   "location": "United Kingdom, Remote",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-09-07T05:16:20-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8167892",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

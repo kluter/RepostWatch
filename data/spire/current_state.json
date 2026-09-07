@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-09-02T14:39:25+00:00",
- "job_count": 36,
+ "fetched_at": "2026-09-07T16:00:46+00:00",
+ "job_count": 38,
  "jobs": [
   {
    "job_id": "6729465",
@@ -456,21 +456,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8113829",
-   "lineage_key": "senior-systems-engineer@munich-germany",
-   "title": "Senior Systems Engineer",
-   "department": "Engineering",
-   "team": "",
-   "location": "Munich, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-07T06:29:09-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8113829&gh_jid=8113829",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8114332",
    "lineage_key": "software-and-satellite-operations-quality-assurance-engineer@glasgow-scotland-united-kingdom",
    "title": "Software and Satellite Operations Quality Assurance Engineer",
@@ -543,6 +528,51 @@
    "is_remote": false,
    "published_at": "2026-08-27T06:19:54-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8157070&gh_jid=8157070",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8171029",
+   "lineage_key": "program-coordinator-federal-programs@washington-district-of-columbia-united-states",
+   "title": "Program Coordinator - Federal Programs",
+   "department": "Program Management",
+   "team": "",
+   "location": "Washington, District of Columbia, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-07T05:53:11-04:00",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8171029&gh_jid=8171029",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8180412",
+   "lineage_key": "systems-operations-engineer@boulder-colorado-united-states",
+   "title": "Systems Operations Engineer",
+   "department": "Engineering",
+   "team": "",
+   "location": "Boulder, Colorado, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-07T10:31:49-04:00",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8180412&gh_jid=8180412",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8180440",
+   "lineage_key": "senior-systems-engineer@munich-bavaria-germany",
+   "title": "Senior Systems Engineer",
+   "department": "Engineering",
+   "team": "",
+   "location": "Munich, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-07T10:38:54-04:00",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8180440&gh_jid=8180440",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

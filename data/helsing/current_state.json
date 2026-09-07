@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-09-04T19:07:40+00:00",
- "job_count": 138,
+ "fetched_at": "2026-09-07T16:00:46+00:00",
+ "job_count": 140,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -561,6 +561,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4862537101",
+   "lineage_key": "procurement-project-manager@munich",
+   "title": "Procurement Project Manager",
+   "department": "Core Operations",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-05-08T09:18:26-04:00",
+   "url": "https://helsing.ai/jobs/4862537101?gh_jid=4862537101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4865187101",
    "lineage_key": "accounts-payable-lead@munich",
    "title": "Accounts Payable Lead",
@@ -723,21 +738,6 @@
    "is_remote": false,
    "published_at": "2026-05-26T04:36:43-04:00",
    "url": "https://helsing.ai/jobs/4875025101?gh_jid=4875025101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4876267101",
-   "lineage_key": "mechanical-designer@munich",
-   "title": "Mechanical Designer",
-   "department": "Hardware Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-27T08:35:24-04:00",
-   "url": "https://helsing.ai/jobs/4876267101?gh_jid=4876267101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -2058,6 +2058,36 @@
    "is_remote": false,
    "published_at": "2026-09-02T04:31:26-04:00",
    "url": "https://helsing.ai/jobs/4966173101?gh_jid=4966173101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4967013101",
+   "lineage_key": "senior-flight-test-engineer-pl@munich",
+   "title": "Senior Flight Test Engineer {PL}",
+   "department": "AI & Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-07T09:58:12-04:00",
+   "url": "https://helsing.ai/jobs/4967013101?gh_jid=4967013101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4968741101",
+   "lineage_key": "senior-programme-manager-mission-systems@munich",
+   "title": "(Senior) Programme Manager Mission Systems",
+   "department": "AI & Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-07T02:51:23-04:00",
+   "url": "https://helsing.ai/jobs/4968741101?gh_jid=4968741101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

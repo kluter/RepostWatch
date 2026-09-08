@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-09-08T14:44:31+00:00",
- "job_count": 121,
+ "fetched_at": "2026-09-08T19:34:11+00:00",
+ "job_count": 122,
  "jobs": [
   {
    "job_id": "7374533",
@@ -393,6 +393,21 @@
    "is_remote": false,
    "published_at": "2026-06-25T17:37:17-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7907756",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "7938235",
+   "lineage_key": "senior-director-creative-marketing@san-francisco-ca",
+   "title": "Senior Director, Creative Marketing",
+   "department": "Creative",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-06-05T18:17:24-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7938235",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1267,8 +1282,8 @@
   },
   {
    "job_id": "8143129",
-   "lineage_key": "senior-software-engineer-front-end-d-i-solutions@united-states-remote",
-   "title": "Senior Software Engineer, Front-end - D&I Solutions",
+   "lineage_key": "senior-software-engineer-full-stack-d-i-solutions@united-states-remote",
+   "title": "Senior Software Engineer, Full-stack - D&I Solutions",
    "department": "Global Monitoring Solutions (SWE)",
    "team": "",
    "location": "United States, Remote",

@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-09-08T14:44:31+00:00",
- "job_count": 100,
+ "fetched_at": "2026-09-08T19:34:11+00:00",
+ "job_count": 97,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -153,21 +153,6 @@
    "is_remote": false,
    "published_at": "2025-10-27T04:00:02-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4695891101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4697662101",
-   "lineage_key": "werkstudent-arbeitssicherheit-gesundheitsmanagement-m-w-d@ottobrunn-bavaria-germany",
-   "title": "Werkstudent Arbeitssicherheit & Gesundheitsmanagement (m/w/d)",
-   "department": "Infrastructure, Safety & Service",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2025-10-29T04:00:06-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4697662101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -408,21 +393,6 @@
    "is_remote": false,
    "published_at": "2026-01-29T18:00:01-05:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4765503101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4772565101",
-   "lineage_key": "werkstudent-health-safety-environment-m-w-d@ottobrunn-bavaria-germany",
-   "title": "Werkstudent Health, Safety & Environment (m/w/d)",
-   "department": "Infrastructure, Safety & Service",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-02-02T14:36:28-05:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4772565101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -978,21 +948,6 @@
    "is_remote": false,
    "published_at": "2026-08-10T03:24:46-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4941074101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4941433101",
-   "lineage_key": "praktikant-arbeitssicherheit-gesundheitsmanagement-m-w-d@ottobrunn-bavaria-germany",
-   "title": "Praktikant Arbeitssicherheit & Gesundheitsmanagement (m/w/d)",
-   "department": "Infrastructure, Safety & Service",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-30T05:58:56-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4941433101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

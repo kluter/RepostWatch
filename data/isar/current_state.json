@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-09-07T20:08:37+00:00",
- "job_count": 101,
+ "fetched_at": "2026-09-08T14:44:31+00:00",
+ "job_count": 100,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -1207,8 +1207,8 @@
   },
   {
    "job_id": "4950974101",
-   "lineage_key": "senior-mechanical-ground-systems-engineer-f-m-d@parsdorf-bavaria-germany",
-   "title": "Senior Mechanical Ground Systems Engineer (f/m/d)",
+   "lineage_key": "senior-mechanical-engineer-f-m-d@parsdorf-bavaria-germany",
+   "title": "Senior Mechanical Engineer (f/m/d)",
    "department": "Ground Systems",
    "team": "",
    "location": "Parsdorf, Bavaria, Germany",
@@ -1338,21 +1338,6 @@
    "is_remote": false,
    "published_at": "2026-08-17T03:52:44-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4953614101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4955724101",
-   "lineage_key": "universitatspraktikum-test-ingenieur-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Universitätspraktikum Test- Ingenieur  (m/f/d)",
-   "department": "Infrastructure, Safety & Service",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-19T04:23:17-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4955724101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

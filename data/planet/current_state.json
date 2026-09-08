@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-09-07T16:00:46+00:00",
- "job_count": 119,
+ "fetched_at": "2026-09-08T14:44:31+00:00",
+ "job_count": 121,
  "jobs": [
   {
    "job_id": "7374533",
@@ -1686,6 +1686,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8161967",
+   "lineage_key": "solutions-architect-i@berlin-germany",
+   "title": "Solutions Architect I",
+   "department": "Pre-Sales and Services",
+   "team": "",
+   "location": "Berlin, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-08T05:02:35-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8161967",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8163185",
    "lineage_key": "vice-president-defense-and-intelligence-engineering@san-francisco-ca",
    "title": "Vice President Defense and Intelligence Engineering",
@@ -1698,6 +1713,21 @@
    "is_remote": false,
    "published_at": "2026-08-28T20:43:05-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8163185",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8164904",
+   "lineage_key": "working-student-professional-services@berlin-germany",
+   "title": "Working Student, Professional Services",
+   "department": "Pre-Sales and Services",
+   "team": "",
+   "location": "Berlin, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-08T05:02:47-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8164904",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

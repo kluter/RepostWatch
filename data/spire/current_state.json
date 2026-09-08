@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-09-07T16:00:46+00:00",
- "job_count": 38,
+ "fetched_at": "2026-09-08T14:44:31+00:00",
+ "job_count": 39,
  "jobs": [
   {
    "job_id": "6729465",
@@ -543,6 +543,21 @@
    "is_remote": false,
    "published_at": "2026-09-07T05:53:11-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8171029&gh_jid=8171029",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8173462",
+   "lineage_key": "quality-control-technician@glasgow",
+   "title": "Quality Control Technician",
+   "department": "Engineering",
+   "team": "",
+   "location": "Glasgow",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-08T04:49:22-04:00",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8173462&gh_jid=8173462",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

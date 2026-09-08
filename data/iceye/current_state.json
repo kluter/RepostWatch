@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-07T16:00:46+00:00",
+ "fetched_at": "2026-09-08T14:44:31+00:00",
  "job_count": 189,
  "jobs": [
   {
@@ -96,6 +96,21 @@
    "description_sha256": "aafc2da7d4a91a214bf42f31111f2ec32dd2b789630a0d5f9b49559dfd5fd773"
   },
   {
+   "job_id": "0e38b99f-7936-4b44-9bf5-5b77cc175af0",
+   "lineage_key": "engineering-opportunities-space-systems@valencia",
+   "title": "Engineering Opportunities - Space Systems",
+   "department": "Engineering",
+   "team": "SIGINT",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-09-08T06:29:47.022+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/0e38b99f-7936-4b44-9bf5-5b77cc175af0",
+   "description_sha256": "791699e1609e66500dc5fd6218ac7da6c00f235d524bd228570134e74e2314b8"
+  },
+  {
    "job_id": "1197834e-3203-4546-8f55-2bde6fe39546",
    "lineage_key": "c-engineer-satellite-real-time-control-systems@warsaw",
    "title": "C++ Engineer - Satellite Real-Time Control Systems",
@@ -181,7 +196,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-08-24T07:43:19.943+00:00",
+   "published_at": "2026-09-08T09:42:10.280+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/18952119-94cf-46c8-a6b8-9c05df99dd34",
    "description_sha256": "2035002c658b29ee537d83fae3cfb8c35f03f3556757b51a5d9a650f0fb84141"
   },
@@ -1030,21 +1045,6 @@
    "description_sha256": "abb5533871bb7e3467edc685f4f5cc2141e9b2a93cbe198222555a6e20353bdb"
   },
   {
-   "job_id": "5d8393c0-ab67-4a3b-b39f-3a183a4665fb",
-   "lineage_key": "cleanroom-lab-manager-athens@athens",
-   "title": "Cleanroom & Lab Manager - Athens",
-   "department": "Global Manufacturing Organization",
-   "team": "GR Satellite Production",
-   "location": "Athens",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-08-11T16:15:02.020+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/5d8393c0-ab67-4a3b-b39f-3a183a4665fb",
-   "description_sha256": "decdd73e527b02e09f876c0ac65b4bc40ededdc2009f25a8e699eed4a7151276"
-  },
-  {
    "job_id": "609632e0-17a2-4440-974f-9969551e80af",
    "lineage_key": "mission-sales-director-greece-balkans-and-eastern-mediterranean@athens",
    "title": "Mission Sales Director - Greece, Balkans and Eastern Mediterranean",
@@ -1772,21 +1772,6 @@
    "description_sha256": "173bca12b3f858ab2232ca3b5c7924c1842d17d869d0c432d59bef2584955e3a"
   },
   {
-   "job_id": "96932d24-c2d0-4fe1-b1f6-97221b32ee8e",
-   "lineage_key": "release-engineer@espoo",
-   "title": "Release Engineer",
-   "department": "Engineering",
-   "team": "Release Engineering",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-04-08T07:31:58.830+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/96932d24-c2d0-4fe1-b1f6-97221b32ee8e",
-   "description_sha256": "b2ce93eca53f0fb5cfb3e64fc3510df341635de77fa50a2e2eb0105fa4c63434"
-  },
-  {
    "job_id": "975d1e9a-19e1-442e-8384-69c6dc8ab9a8",
    "lineage_key": "security-officer-classified-information-greece@athens",
    "title": "Security Officer - Classified Information (Greece)",
@@ -1905,21 +1890,6 @@
    "published_at": "2026-08-07T08:11:39.933+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/b05f92c4-8b2c-4a02-853c-bbeae69f76b5",
    "description_sha256": "aa91cdb5126e528ed48e139e34ee1cb4769e33dffa88f9a4d977785504124064"
-  },
-  {
-   "job_id": "b0ef3dc9-6d59-4388-a64e-1dd6ae77a599",
-   "lineage_key": "integration-mechanical-thermal-production-team-lead@valencia",
-   "title": "Integration, Mechanical & Thermal Production Team Lead",
-   "department": "Global Manufacturing Organization",
-   "team": "Global Manufacturing Organization",
-   "location": "Valencia",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-06-10T17:24:29.643+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/b0ef3dc9-6d59-4388-a64e-1dd6ae77a599",
-   "description_sha256": "94f60cbc76418e227385be206dbc750e9f7ee3024fa29dc75a94876819503191"
   },
   {
    "job_id": "b1137fd0-cc9e-44e5-90c0-2802cd37d41f",
@@ -2130,6 +2100,21 @@
    "published_at": "2026-07-01T08:25:12.815+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/c02a179c-cf37-4eae-be66-05c3fc49f67d",
    "description_sha256": "caadd1b4dbbe69d11f76513c107cfaecf55de63b2a92ff72f42990e38318e739"
+  },
+  {
+   "job_id": "c27729e6-99f6-4e62-bc39-1a7b5cc6ee8c",
+   "lineage_key": "engineering-opportunities-haps@valencia",
+   "title": "Engineering Opportunities - HAPS",
+   "department": "Engineering",
+   "team": "HAPS",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-09-08T06:40:31.953+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/c27729e6-99f6-4e62-bc39-1a7b5cc6ee8c",
+   "description_sha256": "16c6427cbf27bff9dbe92630eb72fc674aef8558473f6eaf8cf5a2343299087f"
   },
   {
    "job_id": "c3536786-e2fa-4564-ba73-f26a44a02fde",
@@ -2447,6 +2432,23 @@
    "description_sha256": "3ff944359dbff5562d2fa3bd3a2a9b71a0c48db8ad3b3d6203e95c743a41a8c4"
   },
   {
+   "job_id": "d930bdab-a9ee-49e3-ac73-46b42b69eb63",
+   "lineage_key": "program-director-germany@berlin",
+   "title": "Program Director - Germany",
+   "department": "Missions",
+   "team": "Missions Programs",
+   "location": "Berlin",
+   "secondary_locations": [
+    "Munich"
+   ],
+   "employment_type": "FullTime",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-08T14:41:43.063+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/d930bdab-a9ee-49e3-ac73-46b42b69eb63",
+   "description_sha256": "10441bd582491ad22f9395a4f496ebc0c798f904ccc55a54382efa1971efc29b"
+  },
+  {
    "job_id": "d9a4bdaa-a0bc-4e10-85e2-f99a2ed9b17b",
    "lineage_key": "cnc-technician@valencia",
    "title": "CNC Technician",
@@ -2697,7 +2699,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-08-28T15:14:37.395+00:00",
+   "published_at": "2026-09-08T12:49:30.486+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/ef4c789d-85da-466c-ac71-0c20cc5a8023",
    "description_sha256": "a1e38831b2965e588e2cb4b7678c0fa8bf66db55813651920d2a0edc81a0a88f"
   },

@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-09-07T16:00:46+00:00",
- "job_count": 140,
+ "fetched_at": "2026-09-08T14:44:31+00:00",
+ "job_count": 141,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -1852,8 +1852,8 @@
   },
   {
    "job_id": "4961556101",
-   "lineage_key": "robotics-senior-mechanical-engineer-area-9@barcelona",
-   "title": "Robotics Senior Mechanical Engineer (Area 9)",
+   "lineage_key": "robotics-senior-mechanical-engineer@barcelona",
+   "title": "Robotics Senior Mechanical Engineer",
    "department": "Physical Products",
    "team": "",
    "location": "Barcelona",
@@ -2103,6 +2103,21 @@
    "is_remote": false,
    "published_at": "2026-09-04T13:25:18-04:00",
    "url": "https://helsing.ai/jobs/4969183101?gh_jid=4969183101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4969604101",
+   "lineage_key": "commercial-director@munich",
+   "title": "Commercial Director",
+   "department": "Government Affairs",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-08T08:44:44-04:00",
+   "url": "https://helsing.ai/jobs/4969604101?gh_jid=4969604101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

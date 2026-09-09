@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-09-08T19:34:11+00:00",
- "job_count": 122,
+ "fetched_at": "2026-09-09T14:46:22+00:00",
+ "job_count": 118,
  "jobs": [
   {
    "job_id": "7374533",
@@ -441,6 +441,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "7964648",
+   "lineage_key": "senior-product-marketing-manager-global-monitoring-services@san-francisco-ca",
+   "title": "Senior Product Marketing Manager,  Global Monitoring Services",
+   "department": "Product Marketing",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-06-18T13:39:18-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7964648",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "7967527",
    "lineage_key": "senior-software-engineer-storage-infrastructure@united-states-remote",
    "title": "Senior Software Engineer, Storage Infrastructure",
@@ -636,21 +651,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8038788",
-   "lineage_key": "knowledge-ai-agent-manager@berlin-germany",
-   "title": "Knowledge & AI Agent Manager",
-   "department": "Tech Support",
-   "team": "",
-   "location": "Berlin, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-06T08:58:05-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8038788",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8042428",
    "lineage_key": "technical-support-engineer-iii@berlin-germany",
    "title": "Technical Support Engineer III",
@@ -711,21 +711,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8052727",
-   "lineage_key": "senior-data-engineer-constellation-services@berlin-germany",
-   "title": "Senior Data Engineer, Constellation Services",
-   "department": "(OLD) Data Science",
-   "team": "",
-   "location": "Berlin, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-10T03:59:10-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8052727",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8052729",
    "lineage_key": "customer-success-manager@apac-remote",
    "title": "Customer Success Manager",
@@ -768,6 +753,21 @@
    "is_remote": false,
    "published_at": "2026-07-15T17:55:48-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8055706",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8067731",
+   "lineage_key": "technical-program-manager-solutions@arlington-va",
+   "title": "Technical Program Manager, Solutions",
+   "department": "Program Management",
+   "team": "",
+   "location": "Arlington, VA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-13T17:54:07-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8067731",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -873,21 +873,6 @@
    "is_remote": false,
    "published_at": "2026-07-30T19:04:14-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8088251",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8088256",
-   "lineage_key": "senior-product-designer@haarlem-netherlands",
-   "title": "Senior Product Designer",
-   "department": "UX",
-   "team": "",
-   "location": "Haarlem, Netherlands",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-28T09:22:57-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8088256",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1041,21 +1026,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8126704",
-   "lineage_key": "senior-product-designer@berlin-germany",
-   "title": "Senior Product Designer",
-   "department": "UX",
-   "team": "",
-   "location": "Berlin, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-12T16:37:18-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8126704",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8128410",
    "lineage_key": "customer-success-manager-ii@brazil-remote",
    "title": "Customer Success Manager II",
@@ -1132,15 +1102,15 @@
   },
   {
    "job_id": "8134793",
-   "lineage_key": "solutions-architect-pre-sales-german-defense-intelligence@berlin-germany",
+   "lineage_key": "solutions-architect-pre-sales-german-defense-intelligence@germany-remote",
    "title": "Solutions Architect, Pre-Sales - German Defense & Intelligence",
    "department": "Pre-Sales and Services",
    "team": "",
-   "location": "Berlin, Germany",
+   "location": "Germany, Remote",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
-   "is_remote": false,
+   "is_remote": true,
    "published_at": "2026-09-01T02:47:33-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8134793",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
@@ -1233,21 +1203,6 @@
    "is_remote": false,
    "published_at": "2026-08-24T10:37:50-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8140278",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8142905",
-   "lineage_key": "solution-delivery-engineer@graz-austria",
-   "title": "Solution Delivery Engineer",
-   "department": "CG&C Solution Operations & Delivery",
-   "team": "",
-   "location": "Graz, Austria",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-21T03:26:28-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8142905",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1461,36 +1416,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8159684",
-   "lineage_key": "solution-delivery-engineer@haarlem-netherlands",
-   "title": "Solution Delivery Engineer",
-   "department": "CG&C Solution Operations & Delivery",
-   "team": "",
-   "location": "Haarlem, Netherlands",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-26T12:08:28-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8159684",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8159685",
-   "lineage_key": "solution-delivery-engineer@ljubljana-slovenia",
-   "title": "Solution Delivery Engineer",
-   "department": "CG&C Solution Operations & Delivery",
-   "team": "",
-   "location": "Ljubljana, Slovenia",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-26T12:08:30-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8159685",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8160294",
    "lineage_key": "senior-software-engineer-storage-infrastructure@canada-remote",
    "title": "Senior Software Engineer, Storage Infrastructure",
@@ -1596,6 +1521,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8160748",
+   "lineage_key": "senior-product-marketing-manager-global-monitoring-services@arlington-va",
+   "title": "Senior Product Marketing Manager, Global Monitoring Services",
+   "department": "Product Marketing",
+   "team": "",
+   "location": "Arlington, VA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-26T18:20:49-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8160748",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8160756",
    "lineage_key": "vice-president-chief-information-security-officer@arlington-va",
    "title": "Vice President & Chief Information Security Officer",
@@ -1626,6 +1566,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8160762",
+   "lineage_key": "technical-program-manager-solutions@denver-co",
+   "title": "Technical Program Manager, Solutions",
+   "department": "Program Management",
+   "team": "",
+   "location": "Denver, CO",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-26T18:26:56-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8160762",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8161244",
    "lineage_key": "customer-success-manager-civil-government@haarlem-netherlands",
    "title": "Customer Success Manager, Civil Government",
@@ -1653,21 +1608,6 @@
    "is_remote": false,
    "published_at": "2026-08-28T11:41:37-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8161246",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8161277",
-   "lineage_key": "knowledge-ai-agent-manager@haarlem-netherlands",
-   "title": "Knowledge & AI Agent Manager",
-   "department": "Tech Support",
-   "team": "",
-   "location": "Haarlem, Netherlands",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-27T06:09:52-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8161277",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

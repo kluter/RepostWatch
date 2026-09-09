@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-09-08T14:44:31+00:00",
- "job_count": 141,
+ "fetched_at": "2026-09-09T14:46:22+00:00",
+ "job_count": 140,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -678,21 +678,6 @@
    "is_remote": false,
    "published_at": "2026-05-20T06:09:42-04:00",
    "url": "https://helsing.ai/jobs/4871604101?gh_jid=4871604101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4871611101",
-   "lineage_key": "process-internal-control-system-lead@munich",
-   "title": "Process & Internal Control System Lead",
-   "department": "Finance",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-20T06:09:54-04:00",
-   "url": "https://helsing.ai/jobs/4871611101?gh_jid=4871611101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1612,11 +1597,11 @@
   },
   {
    "job_id": "4948430101",
-   "lineage_key": "simulation-engineer@munich",
+   "lineage_key": "simulation-engineer@london",
    "title": "Simulation Engineer",
    "department": "Physical Products",
    "team": "",
-   "location": "Munich",
+   "location": "London",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
@@ -1944,7 +1929,7 @@
    "job_id": "4962381101",
    "lineage_key": "people-operations-lead@london",
    "title": "People Operations Lead",
-   "department": "Core Operations",
+   "department": "People",
    "team": "",
    "location": "London",
    "secondary_locations": [],

@@ -2,7 +2,7 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-09-08T19:34:11+00:00",
+ "fetched_at": "2026-09-09T14:46:22+00:00",
  "job_count": 97,
  "jobs": [
   {
@@ -711,6 +711,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4897729101",
+   "lineage_key": "senior-security-engineer-m-f-d@parsdorf-bavaria-germany",
+   "title": "Senior Security Engineer (m/f/d)",
+   "department": "Information & Cybersecurity",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-06-15T11:01:33-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4897729101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4907775101",
    "lineage_key": "fluid-systems-process-design-engineer@ottobrunn-bavaria-germany",
    "title": "Fluid Systems / Process Design Engineer",
@@ -1023,21 +1038,6 @@
    "is_remote": false,
    "published_at": "2026-08-07T10:41:00-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4948756101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4948831101",
-   "lineage_key": "c-flight-software-engineer-f-m-d@parsdorf-bavaria-germany",
-   "title": "C++ Flight Software Engineer (f/m/d)",
-   "department": "Flight Software",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-07T11:32:14-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4948831101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

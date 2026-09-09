@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-08T14:44:31+00:00",
- "job_count": 189,
+ "fetched_at": "2026-09-09T14:46:22+00:00",
+ "job_count": 188,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -513,7 +513,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-07-13T09:39:39.273+00:00",
+   "published_at": "2026-09-08T22:26:37.369+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/332b1d49-0d7e-43de-a460-41e36bd42519",
    "description_sha256": "621dba98bac862bc8efe31b3f723c5456c7afd17283a18482250de60d8fdd2e3"
   },
@@ -653,21 +653,6 @@
    "description_sha256": "22e373fefd5f4500c040f6c75fae3b2916f508d586b71ea418e68bb5c942ae6c"
   },
   {
-   "job_id": "38a65e7e-1063-4071-8aba-0184ab09f996",
-   "lineage_key": "missions-sales-director-indonesia@indonesia",
-   "title": "Missions Sales Director, Indonesia",
-   "department": "Missions",
-   "team": "Missions Sales",
-   "location": "Indonesia",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Remote",
-   "is_remote": true,
-   "published_at": "2026-06-26T07:51:36.367+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/38a65e7e-1063-4071-8aba-0184ab09f996",
-   "description_sha256": "fafc3a6e62a2bb9859663f45728f621926f92c7f9c52a381d64216ddf4a975d4"
-  },
-  {
    "job_id": "3cc1954a-b537-4d7b-8a79-a51ad07e97f2",
    "lineage_key": "senior-backend-software-engineer@espoo",
    "title": "Senior Backend Software Engineer",
@@ -723,7 +708,7 @@
    "employment_type": "FullTime",
    "workplace_type": "Hybrid",
    "is_remote": true,
-   "published_at": "2026-07-18T14:35:33.941+00:00",
+   "published_at": "2026-09-08T22:27:16.166+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/42ec11f9-2c5a-417d-aca7-1ff6740dea7d",
    "description_sha256": "062566bf9c575ac8f35751ab9f2fd8ca13507782c80efb9523e6452707d931b6"
   },
@@ -948,9 +933,9 @@
    "location": "Warsaw",
    "secondary_locations": [],
    "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-25T10:12:30.721+00:00",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-09-08T22:22:23.599+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/551ed47a-6af8-48ef-8275-4273e635b909",
    "description_sha256": "6a86372cb02000c3384dc9e07ff0d9129b16050cb1821dd21197634e8a83b67e"
   },
@@ -1283,9 +1268,9 @@
    "location": "Warsaw",
    "secondary_locations": [],
    "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-06-29T17:07:34.404+00:00",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-09-08T22:21:10.327+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/728ba3dc-5ab4-4f86-b7cc-5bd24c37f2d4",
    "description_sha256": "7b84e32bc481518c8c328c960b6daec413b348237e77e782648d441dc3aa1f0d"
   },
@@ -1692,7 +1677,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-06-10T17:33:33.984+00:00",
+   "published_at": "2026-09-08T22:25:36.463+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9371410f-1664-48c7-8153-466766739c8d",
    "description_sha256": "7e758f76c37e878033cc4c0d494d05cf79850896afe240da6badc0103d7629dc"
   },
@@ -1770,21 +1755,6 @@
    "published_at": "2026-08-25T16:02:39.369+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9649c999-70dc-4620-9487-e664767fa88d",
    "description_sha256": "173bca12b3f858ab2232ca3b5c7924c1842d17d869d0c432d59bef2584955e3a"
-  },
-  {
-   "job_id": "975d1e9a-19e1-442e-8384-69c6dc8ab9a8",
-   "lineage_key": "security-officer-classified-information-greece@athens",
-   "title": "Security Officer - Classified Information (Greece)",
-   "department": "Missions",
-   "team": "Local Subsidiary, Greece",
-   "location": "Athens",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-07-22T17:32:35.832+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/975d1e9a-19e1-442e-8384-69c6dc8ab9a8",
-   "description_sha256": "7d0a8555ec2b87cd65c39d18708d971c749352e345dfa7a60949524bf5f57f18"
   },
   {
    "job_id": "a11a91a1-e3d5-46d0-a055-41b13ad33967",
@@ -2065,9 +2035,9 @@
    "location": "Warsaw",
    "secondary_locations": [],
    "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-27T07:52:30.084+00:00",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-09-08T22:24:33.606+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/bfef9f94-e3c6-4f09-9d69-157601968c2c",
    "description_sha256": "160de3f82fc0b94ba51c655c55ec59cdaebef43f0a54971bab1a0e37b482751b"
   },
@@ -2082,7 +2052,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-08-11T17:53:15.429+00:00",
+   "published_at": "2026-09-08T22:23:15.535+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/c0286ea9-19c2-4af3-8917-1bde2f693a09",
    "description_sha256": "a9ba943e9632fe2ff563fade29a5d66d8702a35ab933a0b320ae5f4f9ec094cf"
   },
@@ -2720,6 +2690,21 @@
    "published_at": "2026-08-21T08:52:23.628+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/f1923306-9ffa-4b2f-bee3-c7472c711167",
    "description_sha256": "2b2b8c0afcd75277f2d21eb7130940b4ff571a1d4469ef93e3c8557989caffea"
+  },
+  {
+   "job_id": "f3026b5d-c6c1-4ead-b6e8-46560ff51ce0",
+   "lineage_key": "head-of-strategic-operations@lisbon",
+   "title": "Head of Strategic Operations",
+   "department": "CEO Office",
+   "team": "CEO Office",
+   "location": "Lisbon",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-09T08:20:58.102+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/f3026b5d-c6c1-4ead-b6e8-46560ff51ce0",
+   "description_sha256": "8f4cc3369e63f14266863c886e68b08f0238190a81a091a3e7ae5f76345a30cd"
   },
   {
    "job_id": "f3a4e7d3-6099-470d-ac0c-e88a9dfc456f",

@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-09T14:46:22+00:00",
- "job_count": 188,
+ "fetched_at": "2026-09-09T19:29:08+00:00",
+ "job_count": 189,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -259,6 +259,21 @@
    "published_at": "2026-07-27T07:35:20.742+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/1d549489-1557-489d-8cb4-1d6ec124f624",
    "description_sha256": "2f259aeb293feec6df2f2229245f56464c7e386033ea56a19842f673491b0c45"
+  },
+  {
+   "job_id": "1d854eb3-6624-4ca8-8e3b-9c787f381b7a",
+   "lineage_key": "program-director-uae@united-arab-emirates",
+   "title": "Program Director - UAE",
+   "department": "Missions",
+   "team": "Missions Programs",
+   "location": "United Arab Emirates",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-09T15:14:39.104+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/1d854eb3-6624-4ca8-8e3b-9c787f381b7a",
+   "description_sha256": "50fd72ab87e55ba3aa53bb4c09f013920c4991ffb4bb374bdd9957786bb1866e"
   },
   {
    "job_id": "1ffce4d4-4088-4336-9007-622dc10399fb",

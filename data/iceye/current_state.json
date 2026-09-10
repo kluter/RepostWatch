@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-10T14:36:46+00:00",
- "job_count": 190,
+ "fetched_at": "2026-09-10T19:15:05+00:00",
+ "job_count": 191,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -1468,6 +1468,21 @@
    "published_at": "2026-08-20T07:03:43.689+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/7efd1aea-7d35-4d3f-9ee1-01ca355f0f39",
    "description_sha256": "d4a5161073c3957f3b0d9014687c78c90e9456e9a8d004c75cb64d8a107e842d"
+  },
+  {
+   "job_id": "7fc58c08-96fa-4470-b04c-6e65c5964c04",
+   "lineage_key": "security-officer-spain@valencia",
+   "title": "Security Officer - Spain",
+   "department": "IT & Security",
+   "team": "Security",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-09-10T16:02:00.769+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/7fc58c08-96fa-4470-b04c-6e65c5964c04",
+   "description_sha256": "be2c5794d9886e1f75cc51a200138dd71d0a4382cb685c7477240cabff16d79e"
   },
   {
    "job_id": "8096ddfe-64c4-4555-87ad-45c4e9dc09cd",

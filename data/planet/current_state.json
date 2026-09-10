@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-09-10T14:36:46+00:00",
- "job_count": 118,
+ "fetched_at": "2026-09-10T19:15:05+00:00",
+ "job_count": 117,
  "jobs": [
   {
    "job_id": "7374533",
@@ -771,21 +771,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8068089",
-   "lineage_key": "senior-engineering-manager-d-i-analytics@united-states-remote",
-   "title": "Senior Engineering Manager, D&I Analytics",
-   "department": "Global Monitoring Analytics",
-   "team": "",
-   "location": "United States, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-07-23T12:51:48-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8068089",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8069677",
    "lineage_key": "senior-analyst-international-trade-compliance@san-francisco-ca",
    "title": "Senior Analyst, International Trade Compliance",
@@ -817,11 +802,11 @@
   },
   {
    "job_id": "8079178",
-   "lineage_key": "industry-account-executive-united-states@us-remote",
+   "lineage_key": "industry-account-executive-united-states@united-states-remote",
    "title": "Industry Account Executive, United States",
    "department": "Account Executive",
    "team": "",
-   "location": "US, Remote",
+   "location": "United States, Remote",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
@@ -1207,8 +1192,8 @@
   },
   {
    "job_id": "8142926",
-   "lineage_key": "senior-technical-program-manager@arlington-va",
-   "title": "Senior Technical Program Manager",
+   "lineage_key": "senior-technical-program-manager-platform@arlington-va",
+   "title": "Senior Technical Program Manager-Platform",
    "department": "Program Management",
    "team": "",
    "location": "Arlington, VA",
@@ -1612,8 +1597,8 @@
   },
   {
    "job_id": "8161967",
-   "lineage_key": "solutions-architect-i@berlin-germany",
-   "title": "Solutions Architect I",
+   "lineage_key": "solutions-architect-i-professional-services@berlin-germany",
+   "title": "Solutions Architect I, Professional Services",
    "department": "Pre-Sales and Services",
    "team": "",
    "location": "Berlin, Germany",

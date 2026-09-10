@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-09-10T14:36:46+00:00",
- "job_count": 147,
+ "fetched_at": "2026-09-10T19:15:05+00:00",
+ "job_count": 148,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -2092,11 +2092,11 @@
   },
   {
    "job_id": "4969604101",
-   "lineage_key": "commercial-director@munich",
+   "lineage_key": "commercial-director@london",
    "title": "Commercial Director",
    "department": "Government Affairs",
    "team": "",
-   "location": "Munich",
+   "location": "London",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
@@ -2148,6 +2148,21 @@
    "is_remote": false,
    "published_at": "2026-09-10T03:59:48-04:00",
    "url": "https://helsing.ai/jobs/4972083101?gh_jid=4972083101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4972086101",
+   "lineage_key": "simulation-engineer@munich",
+   "title": "Simulation Engineer",
+   "department": "Physical Products",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-10T10:53:59-04:00",
+   "url": "https://helsing.ai/jobs/4972086101?gh_jid=4972086101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

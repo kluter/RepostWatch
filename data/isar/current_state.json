@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-09-10T14:36:46+00:00",
- "job_count": 96,
+ "fetched_at": "2026-09-10T19:15:05+00:00",
+ "job_count": 97,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -1383,6 +1383,21 @@
    "is_remote": false,
    "published_at": "2026-08-26T09:53:32-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4961224101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4963501101",
+   "lineage_key": "supply-chain-management-specialist-transport-logistics-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Supply Chain Management Specialist / Transport Logistics (m/f/d)",
+   "department": "Production, Operations & Quality",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-10T12:27:34-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4963501101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

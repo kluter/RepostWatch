@@ -2,8 +2,8 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-09-07T16:00:46+00:00",
- "job_count": 58,
+ "fetched_at": "2026-09-10T19:15:05+00:00",
+ "job_count": 57,
  "jobs": [
   {
    "job_id": "063679a7-77f0-4e6d-8296-bcff69f4ec4f",
@@ -79,21 +79,6 @@
    "published_at": "2025-09-11T10:20:12+01:00",
    "url": "https://careers.open-cosmos.com/jobs/6438920-business-development-opportunities",
    "description_sha256": "4eb5f06108899991c48e70db7464fc4403e526bc5d1a581ab4ec71164a383b56"
-  },
-  {
-   "job_id": "105ffb2c-965a-4374-9e70-72065c84fd2a",
-   "lineage_key": "verification-validation-engineer@harwell-uk",
-   "title": "Verification & Validation Engineer",
-   "department": "SATCOM (Broadband and Narrowband)",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2025-12-31T16:05:33+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/6993720-verification-validation-engineer",
-   "description_sha256": "bd12ca5413c99340549b0b984be77803c7a578ea3e4f5445b49076cb84f11a07"
   },
   {
    "job_id": "144c4c5d-e0bf-4af2-a9b6-df7f9807ebb2",

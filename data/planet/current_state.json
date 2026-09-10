@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-09-09T19:29:08+00:00",
- "job_count": 119,
+ "fetched_at": "2026-09-10T14:36:46+00:00",
+ "job_count": 118,
  "jobs": [
   {
    "job_id": "7374533",
@@ -247,11 +247,11 @@
   },
   {
    "job_id": "7700887",
-   "lineage_key": "global-deal-desk-senior-manager@washington-d-c",
+   "lineage_key": "global-deal-desk-senior-manager@arlington-va",
    "title": "Global Deal Desk Senior Manager",
    "department": "Global Revenue Operations",
    "team": "",
-   "location": "Washington D.C",
+   "location": "Arlington, VA",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
@@ -322,11 +322,11 @@
   },
   {
    "job_id": "7766342",
-   "lineage_key": "global-deal-desk-senior-manager@arlington-va",
+   "lineage_key": "global-deal-desk-senior-manager@san-francisco-ca",
    "title": "Global Deal Desk Senior Manager",
    "department": "Global Revenue Operations",
    "team": "",
-   "location": "Arlington, VA",
+   "location": "San Francisco, CA",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
@@ -816,21 +816,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8079172",
-   "lineage_key": "abm-marketing-manager-emea@berlin-germany",
-   "title": "ABM Marketing Manager, EMEA",
-   "department": "Regional, Customer and Events Marketing",
-   "team": "",
-   "location": "Berlin, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-24T10:47:45-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8079172",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8079178",
    "lineage_key": "industry-account-executive-united-states@us-remote",
    "title": "Industry Account Executive, United States",
@@ -1042,8 +1027,8 @@
   },
   {
    "job_id": "8128479",
-   "lineage_key": "senior-cost-accountant@germany-remote",
-   "title": "Senior Cost Accountant",
+   "lineage_key": "werkscontroller-m-w-d-controller-manufacturing@germany-remote",
+   "title": "Werkscontroller (m/w/d) / Controller Manufacturing",
    "department": "Accounting",
    "team": "",
    "location": "Germany, Remote",
@@ -1401,21 +1386,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8157898",
-   "lineage_key": "abm-marketing-manager-emea@london-united-kingdom",
-   "title": "ABM Marketing Manager, EMEA",
-   "department": "Regional, Customer and Events Marketing",
-   "team": "",
-   "location": "London, United Kingdom",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-26T14:41:39-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8157898",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8160294",
    "lineage_key": "senior-software-engineer-storage-infrastructure@canada-remote",
    "title": "Senior Software Engineer, Storage Infrastructure",
@@ -1702,8 +1672,8 @@
   },
   {
    "job_id": "8164995",
-   "lineage_key": "presales-engineer-civ-gov-and-commercial@berlin-germany",
-   "title": "PreSales Engineer, Civ Gov and Commercial",
+   "lineage_key": "presales-engineer-civil-government-and-commercial@berlin-germany",
+   "title": "PreSales Engineer, Civil Government and Commercial",
    "department": "Pre-Sales and Services",
    "team": "",
    "location": "Berlin, Germany",
@@ -1773,6 +1743,21 @@
    "is_remote": true,
    "published_at": "2026-09-07T05:16:20-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8167892",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8178696",
+   "lineage_key": "director-of-sales-europe@london-united-kingdom",
+   "title": "Director of Sales, Europe",
+   "department": "Sales Manager",
+   "team": "",
+   "location": "London, United Kingdom",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-10T03:31:55-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8178696",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

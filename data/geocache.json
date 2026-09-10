@@ -510,6 +510,12 @@
    "lat": 39.7392364,
    "lon": -104.984862,
    "label": "Denver"
+  },
+  "remote | finland": {
+   "lat": 60.3061141,
+   "lon": 24.937748,
+   "label": "Remote | Finland",
+   "remote": true
   }
  }
 }

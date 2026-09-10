@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-09-09T14:46:22+00:00",
- "job_count": 97,
+ "fetched_at": "2026-09-10T14:36:46+00:00",
+ "job_count": 96,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -352,8 +352,8 @@
   },
   {
    "job_id": "4756747101",
-   "lineage_key": "senior-project-manager-ground-systems-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Senior Project Manager - Ground Systems (m/f/d)",
+   "lineage_key": "senior-project-manager-ground-systems-infrastruktur-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Senior Project Manager - Ground Systems Infrastruktur (m/f/d)",
    "department": "Ground Systems",
    "team": "",
    "location": "Ottobrunn, Bavaria, Germany",
@@ -756,6 +756,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4912131101",
+   "lineage_key": "electrical-harness-design-engineer-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Electrical Harness Design Engineer (m/f/d)",
+   "department": "AGNC",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-06T00:00:00-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4912131101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4919871101",
    "lineage_key": "senior-fluid-systems-process-design-engineer@ottobrunn-bavaria-germany",
    "title": "Senior Fluid Systems / Process Design Engineer",
@@ -993,21 +1008,6 @@
    "is_remote": false,
    "published_at": "2026-08-03T11:12:17-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4943578101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4944474101",
-   "lineage_key": "intern-launch-vehicle-assembly-integration-test-f-m-d@parsdorf-bavaria-germany",
-   "title": "Intern - Launch Vehicle Assembly, Integration, & Test (f/m/d)",
-   "department": "Launch Vehicle Structures",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-10T11:12:07-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4944474101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1281,9 +1281,9 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4953614101",
-   "lineage_key": "working-student-cad-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Working Student CAD(m/f/d)",
+   "job_id": "4954986101",
+   "lineage_key": "supply-chain-leader-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Supply Chain Leader (m/f/d)",
    "department": "Production, Operations & Quality",
    "team": "",
    "location": "Ottobrunn, Bavaria, Germany",
@@ -1291,8 +1291,8 @@
    "employment_type": "",
    "workplace_type": "",
    "is_remote": false,
-   "published_at": "2026-08-17T03:52:44-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4953614101",
+   "published_at": "2026-08-26T08:05:04-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4954986101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1398,21 +1398,6 @@
    "is_remote": false,
    "published_at": "2026-09-01T07:33:48-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4965225101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4969097101",
-   "lineage_key": "working-student-launch-operations-norway-m-f-d@andenes-nordland-norway",
-   "title": "Working Student, Launch Operations Norway (m/f/d)",
-   "department": "Mission & Launch Operations",
-   "team": "",
-   "location": "Andenes, Nordland, Norway",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-04T11:01:47-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4969097101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

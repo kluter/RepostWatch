@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-09T19:29:08+00:00",
- "job_count": 189,
+ "fetched_at": "2026-09-10T14:36:46+00:00",
+ "job_count": 190,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -48,7 +48,7 @@
    "is_remote": true,
    "published_at": "2026-06-25T09:37:15.157+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/06f113d6-1702-4346-9369-97d70d68738b",
-   "description_sha256": "1cf54c73701dca1a57904ff84763ddc499a384cbc4796290db41eb6afb5654ce"
+   "description_sha256": "bf2d0e55135e31b6e441c20007edc959412e0a1c1dedfc38ad81570138f853d1"
   },
   {
    "job_id": "09d02ba3-5ba6-4a11-bb30-74e42c22c485",
@@ -367,11 +367,11 @@
   },
   {
    "job_id": "29558448-5b4e-4aef-b395-642acc666efa",
-   "lineage_key": "satellite-operations-specialist@espoo",
+   "lineage_key": "satellite-operations-specialist@remote-finland",
    "title": "Satellite Operations Specialist",
    "department": "Engineering",
    "team": "Satellite Operations",
-   "location": "Espoo",
+   "location": "Remote | Finland",
    "secondary_locations": [],
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
@@ -440,7 +440,7 @@
    "is_remote": true,
    "published_at": "2026-06-26T08:52:57.811+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/2ef68fcc-6ce8-476e-8c94-6e7b099842e9",
-   "description_sha256": "8f14475901f98b29e5e5c918df0a45746b7248022445663fa1483f07fe6baef7"
+   "description_sha256": "d0113cbb3671efb91d9e8870d81520fc8155c411e0716b6949b66699d24e5138"
   },
   {
    "job_id": "30035258-9970-4f6f-a5ba-7b770c6b941d",
@@ -576,21 +576,6 @@
    "published_at": "2026-07-03T12:39:48.411+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/35528f9f-8244-465e-bf4b-799b8fffed53",
    "description_sha256": "cb22ce866a6e215f889695738bcff5999c86a12ab00f606cf26e2e198af760b2"
-  },
-  {
-   "job_id": "3618225c-f265-4110-9cfe-cb66748fa1d5",
-   "lineage_key": "facility-security-manager@espoo",
-   "title": "Facility Security Manager",
-   "department": "IT & Security",
-   "team": "Security",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-13T12:22:26.807+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/3618225c-f265-4110-9cfe-cb66748fa1d5",
-   "description_sha256": "a6859dcc43a9c649cf0507b0c7f3e4f6b30529cf5246b3c4a8fe8d0e0f663dcb"
   },
   {
    "job_id": "367ea774-2be1-436b-8e94-7c38e79d4c24",
@@ -908,6 +893,21 @@
    "published_at": "2026-08-20T11:34:52.186+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/51a5d21b-80e2-420f-b7e2-ff031b42e836",
    "description_sha256": "10b3c735e49594186ecdf01ec2b52b9ae050719d3ef39b16c04947760ea5083e"
+  },
+  {
+   "job_id": "51bb267b-c556-49f1-9f23-4802f76bd9ad",
+   "lineage_key": "workplace-experience-specialist@espoo",
+   "title": "Workplace Experience Specialist",
+   "department": "Operations",
+   "team": "Operations",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-10T13:47:49.770+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/51bb267b-c556-49f1-9f23-4802f76bd9ad",
+   "description_sha256": "da551a6a2c1432f085489f1273b2aaa35953517f062cbd800ca02dcb2e7c3fcf"
   },
   {
    "job_id": "532afee6-79d9-4693-9c4a-9726b5fb20e5",
@@ -1787,6 +1787,21 @@
    "description_sha256": "109397338aa1630ba56f27484563b9a59f3db80e68b7726454cc8e6539ef55ae"
   },
   {
+   "job_id": "a27d71ea-c377-4f26-ba6d-8c725356f21c",
+   "lineage_key": "workplace-space-planner@espoo",
+   "title": "Workplace Space Planner",
+   "department": "Operations",
+   "team": "Operations",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-10T13:48:26.873+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/a27d71ea-c377-4f26-ba6d-8c725356f21c",
+   "description_sha256": "b9325277c15e265051e0ab0aee19ba2f1e48dfb547edb32aaadc97d527c091d9"
+  },
+  {
    "job_id": "a6d0bba0-2219-4f01-8c79-f4d945de5af7",
    "lineage_key": "senior-electronics-engineer@valencia-spain",
    "title": "Senior Electronics Engineer",
@@ -2267,6 +2282,21 @@
    "description_sha256": "1753c2a7a204d6c1da01c4aa0f76afcde6b1e2060f70161659237f35c192313a"
   },
   {
+   "job_id": "cc987d13-95f4-46bb-847c-cc86c5676fd4",
+   "lineage_key": "forward-deployed-backend-devops-engineer-portugal@lisbon",
+   "title": "Forward Deployed Backend/DevOps Engineer, Portugal",
+   "department": "Product",
+   "team": "Forward Deployed Engineering",
+   "location": "Lisbon",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-10T09:54:30.890+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/cc987d13-95f4-46bb-847c-cc86c5676fd4",
+   "description_sha256": "0dee2274e4d0b18836cc7a978d244d307c17cdaccfb65b50f6f864c803290d66"
+  },
+  {
    "job_id": "cd035996-66ce-478b-beb9-d42a69293946",
    "lineage_key": "manufacturing-engineer-electronics@espoo",
    "title": "Manufacturing Engineer (Electronics)",
@@ -2529,21 +2559,6 @@
    "published_at": "2026-04-29T16:43:14.373+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e276cf77-21f8-4509-b926-d9d24fda8d48",
    "description_sha256": "ac3b6b8435ba86b5f7413c3ca4cb2d9b23dbeb1442fa781db84e1ffe9b7437e2"
-  },
-  {
-   "job_id": "e358575f-01c4-40ce-aac5-68f7255fce67",
-   "lineage_key": "information-security-officer-governance-risk-compliance@espoo",
-   "title": "Information Security Officer – Governance, Risk & Compliance",
-   "department": "IT & Security",
-   "team": "IT & Security Staff",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-06T10:32:08.052+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/e358575f-01c4-40ce-aac5-68f7255fce67",
-   "description_sha256": "bb00c8cb6b90cae8710f4c61d95a5e167642c91894a26b479544ff575a2f9760"
   },
   {
    "job_id": "e3aa757d-c62b-43d9-96b3-1aca3ae0ff21",

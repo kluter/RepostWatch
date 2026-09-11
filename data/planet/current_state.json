@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-09-11T14:35:01+00:00",
- "job_count": 117,
+ "fetched_at": "2026-09-11T19:16:53+00:00",
+ "job_count": 116,
  "jobs": [
   {
    "job_id": "7374533",
@@ -1263,21 +1263,6 @@
    "is_remote": false,
    "published_at": "2026-08-26T09:05:26-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8148595",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8148627",
-   "lineage_key": "logistics-manager@san-francisco-ca",
-   "title": "Logistics Manager",
-   "department": "Ground Operations",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-03T20:11:26-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8148627",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

@@ -2,8 +2,8 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-09-10T19:15:05+00:00",
- "job_count": 57,
+ "fetched_at": "2026-09-11T14:35:01+00:00",
+ "job_count": 58,
  "jobs": [
   {
    "job_id": "063679a7-77f0-4e6d-8296-bcff69f4ec4f",
@@ -289,6 +289,21 @@
    "published_at": "2025-08-01T13:38:28+01:00",
    "url": "https://careers.open-cosmos.com/jobs/6255243-quality-and-product-assurance-manager",
    "description_sha256": "d698aa4679dde085da9ba66b5f6d21f64f2ed8d134e52d92a002cb325a167cbf"
+  },
+  {
+   "job_id": "5f0694fb-929c-478e-aaa7-52d245ce226e",
+   "lineage_key": "quality-and-product-assurance-manager@harwell-uk",
+   "title": "Quality and Product Assurance Manager",
+   "department": "QUALITY & PRODUCT ASSURANCE",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2025-05-20T14:18:31+01:00",
+   "url": "https://careers.open-cosmos.com/jobs/5953818-quality-and-product-assurance-manager",
+   "description_sha256": "509ea1bc77f5523b6121f1689ec18d080df9ce7f687137af8d2a90b4a76359bb"
   },
   {
    "job_id": "5f4038e2-d87b-4660-aab2-514cd41f7906",

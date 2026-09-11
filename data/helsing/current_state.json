@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-09-10T19:15:05+00:00",
- "job_count": 148,
+ "fetched_at": "2026-09-11T14:35:01+00:00",
+ "job_count": 149,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -498,21 +498,6 @@
    "is_remote": false,
    "published_at": "2026-04-23T09:55:28-04:00",
    "url": "https://helsing.ai/jobs/4839745101?gh_jid=4839745101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4841774101",
-   "lineage_key": "people-business-partner-munich@munich",
-   "title": "People Business Partner - Munich",
-   "department": "People",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-04-15T03:51:02-04:00",
-   "url": "https://helsing.ai/jobs/4841774101?gh_jid=4841774101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1282,8 +1267,8 @@
   },
   {
    "job_id": "4927641101",
-   "lineage_key": "senior-accountant@munich",
-   "title": "Senior Accountant",
+   "lineage_key": "accountant@munich",
+   "title": "Accountant",
    "department": "Finance",
    "team": "",
    "location": "Munich",
@@ -1398,21 +1383,6 @@
    "is_remote": false,
    "published_at": "2026-07-28T07:14:09-04:00",
    "url": "https://helsing.ai/jobs/4939591101?gh_jid=4939591101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4939612101",
-   "lineage_key": "security-manager@paris",
-   "title": "Security Manager",
-   "department": "Corporate Security",
-   "team": "",
-   "location": "Paris",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-28T07:31:54-04:00",
-   "url": "https://helsing.ai/jobs/4939612101?gh_jid=4939612101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -2223,6 +2193,51 @@
    "is_remote": false,
    "published_at": "2026-09-10T03:01:40-04:00",
    "url": "https://helsing.ai/jobs/4972262101?gh_jid=4972262101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4974214101",
+   "lineage_key": "procurement-manager-professional-services-marketing@munich",
+   "title": "Procurement Manager – Professional Services & Marketing",
+   "department": "Market",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-11T07:29:32-04:00",
+   "url": "https://helsing.ai/jobs/4974214101?gh_jid=4974214101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4974320101",
+   "lineage_key": "procurement-manager-professional-services-marketing@munich",
+   "title": "Procurement Manager – Professional Services & Marketing",
+   "department": "Market",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-11T07:29:34-04:00",
+   "url": "https://helsing.ai/jobs/4974320101?gh_jid=4974320101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4974612101",
+   "lineage_key": "accountant-part-time@munich",
+   "title": "Accountant - Part time",
+   "department": "Finance",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-11T09:56:59-04:00",
+   "url": "https://helsing.ai/jobs/4974612101?gh_jid=4974612101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

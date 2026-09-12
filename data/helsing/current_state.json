@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-09-11T14:35:01+00:00",
- "job_count": 149,
+ "fetched_at": "2026-09-12T13:42:28+00:00",
+ "job_count": 148,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -1833,21 +1833,6 @@
    "is_remote": false,
    "published_at": "2026-08-27T08:05:47-04:00",
    "url": "https://helsing.ai/jobs/4961559101?gh_jid=4961559101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4961662101",
-   "lineage_key": "legal-counsel-export-control@washington-dc",
-   "title": "Legal Counsel, Export Control",
-   "department": "Legal",
-   "team": "",
-   "location": "Washington, DC",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-26T17:39:08-04:00",
-   "url": "https://helsing.ai/jobs/4961662101?gh_jid=4961662101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

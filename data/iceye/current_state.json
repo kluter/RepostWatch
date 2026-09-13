@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-12T13:42:28+00:00",
- "job_count": 189,
+ "fetched_at": "2026-09-13T14:37:32+00:00",
+ "job_count": 188,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -2574,23 +2574,6 @@
    "published_at": "2026-08-04T07:37:48.416+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e7d59b96-29fb-4d6c-8e4b-4cdb4e38da1b",
    "description_sha256": "d89df4f459d45da848c8464e7306747502876ff4c5b73695ffabfd28502187f5"
-  },
-  {
-   "job_id": "e8a204a5-9a8b-4fe5-b4ff-bedf3cb7ad79",
-   "lineage_key": "flight-software-deployment-engineer@espoo",
-   "title": "Flight Software Deployment Engineer",
-   "department": "Engineering",
-   "team": "Flight Software",
-   "location": "Espoo",
-   "secondary_locations": [
-    "Warsaw"
-   ],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-21T07:19:33.773+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/e8a204a5-9a8b-4fe5-b4ff-bedf3cb7ad79",
-   "description_sha256": "470ca64f2dffeeeec1dde211b53e3ff345b895ce5c79dcd03545dc97f72d6051"
   },
   {
    "job_id": "e8bba89b-1a9f-4b40-b476-454b43bb0244",

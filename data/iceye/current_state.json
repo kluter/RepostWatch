@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-13T14:37:32+00:00",
- "job_count": 188,
+ "fetched_at": "2026-09-14T16:29:22+00:00",
+ "job_count": 189,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -820,6 +820,21 @@
    "description_sha256": "3f5828e35327972358cc72eb19ff6c5eadeba37300e9a206c2bc457162fd41a5"
   },
   {
+   "job_id": "4b263ffa-135a-4855-b843-156cb8628683",
+   "lineage_key": "mission-delivery-engineer-portugal@lisbon",
+   "title": "Mission Delivery Engineer Portugal",
+   "department": "Missions",
+   "team": "Missions Programs",
+   "location": "Lisbon",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-14T15:09:28.217+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/4b263ffa-135a-4855-b843-156cb8628683",
+   "description_sha256": "72a9ea7f6bad190c52c4a429d0821c0551cee4997bbf98418a257ee3b92ff2d4"
+  },
+  {
    "job_id": "4f00e104-a4a1-4fa3-ac73-3c8c3f64b123",
    "lineage_key": "engineering-lead-electronics@warsaw",
    "title": "Engineering Lead, Electronics",
@@ -863,6 +878,21 @@
    "published_at": "2026-08-20T11:34:52.186+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/51a5d21b-80e2-420f-b7e2-ff031b42e836",
    "description_sha256": "10b3c735e49594186ecdf01ec2b52b9ae050719d3ef39b16c04947760ea5083e"
+  },
+  {
+   "job_id": "51bb267b-c556-49f1-9f23-4802f76bd9ad",
+   "lineage_key": "workplace-experience-specialist@espoo",
+   "title": "Workplace Experience Specialist",
+   "department": "Operations",
+   "team": "Operations",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-14T07:16:50.381+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/51bb267b-c556-49f1-9f23-4802f76bd9ad",
+   "description_sha256": "0d9fc412d946c52d709bb4347e95e2a69b7261d305531e8967fd456e6582b730"
   },
   {
    "job_id": "532afee6-79d9-4693-9c4a-9726b5fb20e5",
@@ -1617,12 +1647,12 @@
    "is_remote": true,
    "published_at": "2026-07-02T06:39:30.657+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/8f7f141e-a48d-409e-96e4-f413afc738f0",
-   "description_sha256": "3458732ab482bc7481a1e3a3330a72e88b290703d777cc66776e2c16e8e89835"
+   "description_sha256": "88e0aef413740f4934ed5e51de549cd9b5797dc88d59ff9bbd8066fbe92cf43c"
   },
   {
    "job_id": "9291f281-9da4-482b-a7ce-bb6775668b3b",
-   "lineage_key": "technical-program-manager@warsaw",
-   "title": "Technical Program Manager",
+   "lineage_key": "mission-delivery-engineer@warsaw",
+   "title": "Mission Delivery Engineer",
    "department": "Missions",
    "team": "Missions Programs",
    "location": "Warsaw",
@@ -1634,7 +1664,7 @@
    "is_remote": true,
    "published_at": "2026-08-06T10:04:51.111+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9291f281-9da4-482b-a7ce-bb6775668b3b",
-   "description_sha256": "af74f637193391a5c29b2548e5133cc6c6b2ddca8e9f6823e5bef93ec9cdb7f2"
+   "description_sha256": "74ab8c536e38b18812d3e29de2f9c8826e719995b82b72507780bb937471b236"
   },
   {
    "job_id": "9345ad5b-0bc7-4fdc-9988-743857de3c94",
@@ -1742,6 +1772,21 @@
    "description_sha256": "173bca12b3f858ab2232ca3b5c7924c1842d17d869d0c432d59bef2584955e3a"
   },
   {
+   "job_id": "9e91192a-ae07-4ba6-b0d8-dd2d99064d9d",
+   "lineage_key": "senior-targeting-analyst@espoo",
+   "title": "Senior Targeting Analyst",
+   "department": "Solutions",
+   "team": "Solutions Operations",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-14T06:08:12.215+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/9e91192a-ae07-4ba6-b0d8-dd2d99064d9d",
+   "description_sha256": "ae2f0aec4bb065e19191afc9a78fd7b4a16c5bb89f3880805231c22ed41387a7"
+  },
+  {
    "job_id": "a11a91a1-e3d5-46d0-a055-41b13ad33967",
    "lineage_key": "senior-software-engineer-product-engineering@espoo",
    "title": "Senior Software Engineer, Product Engineering",
@@ -1754,7 +1799,7 @@
    "is_remote": true,
    "published_at": "2026-08-05T09:00:20.909+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/a11a91a1-e3d5-46d0-a055-41b13ad33967",
-   "description_sha256": "109397338aa1630ba56f27484563b9a59f3db80e68b7726454cc8e6539ef55ae"
+   "description_sha256": "b7cad1476e7ef48c3e9e3aa14948a8f2217d16c00357b5343dcad155e05abb9a"
   },
   {
    "job_id": "a27d71ea-c377-4f26-ba6d-8c725356f21c",
@@ -1844,7 +1889,7 @@
    "is_remote": false,
    "published_at": "2026-06-10T17:28:24.635+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/af4bb424-4f4e-451d-b34a-aa86611a61b5",
-   "description_sha256": "a65667de0a402c996258f752c552af81c8055c8f0ae7bbb769b318e6dcee7dd3"
+   "description_sha256": "748493c02f550c5477ceb268cc0f215131953102511015eac6bc9b0c88b773fd"
   },
   {
    "job_id": "b05f92c4-8b2c-4a02-853c-bbeae69f76b5",
@@ -1860,21 +1905,6 @@
    "published_at": "2026-08-07T08:11:39.933+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/b05f92c4-8b2c-4a02-853c-bbeae69f76b5",
    "description_sha256": "aa91cdb5126e528ed48e139e34ee1cb4769e33dffa88f9a4d977785504124064"
-  },
-  {
-   "job_id": "b1137fd0-cc9e-44e5-90c0-2802cd37d41f",
-   "lineage_key": "forward-deployed-operations-specialist@espoo",
-   "title": "Forward Deployed Operations Specialist",
-   "department": "Product",
-   "team": "Forward Deployed Engineering",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-20T11:57:17.150+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/b1137fd0-cc9e-44e5-90c0-2802cd37d41f",
-   "description_sha256": "65b89e01e9ca4c378dd127831668f7131856ae5f7bb152176a9570bc90bc491e"
   },
   {
    "job_id": "b12fce39-5cbb-44ed-8f02-ca1654d41659",
@@ -2718,23 +2748,6 @@
    "published_at": "2026-04-08T07:27:00.327+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/f3a4e7d3-6099-470d-ac0c-e88a9dfc456f",
    "description_sha256": "272d3baba596f67805764f1c8eff3885cfb37474d437de14b3953766168b2f89"
-  },
-  {
-   "job_id": "f40592d0-d7b9-4f47-bfe3-2f95c273188f",
-   "lineage_key": "ap-specialist-supplier-finance-operations@warsaw",
-   "title": "AP Specialist (Supplier Finance Operations)",
-   "department": "Finance",
-   "team": "Finance",
-   "location": "Warsaw",
-   "secondary_locations": [
-    "Espoo"
-   ],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-13T14:30:36.284+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/f40592d0-d7b9-4f47-bfe3-2f95c273188f",
-   "description_sha256": "a98e0b8b22ca2327915d3bf013b6a592201949d24880176d1d0edf0407388e27"
   },
   {
    "job_id": "f457fd1a-738e-417c-aa94-d5d94f3ed0c5",

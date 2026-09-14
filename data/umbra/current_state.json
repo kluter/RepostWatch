@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-09-11T19:16:53+00:00",
- "job_count": 25,
+ "fetched_at": "2026-09-14T16:29:22+00:00",
+ "job_count": 24,
  "jobs": [
   {
    "job_id": "076F11402A",
@@ -294,24 +294,6 @@
    "published_at": "2026-08-03T00:00:00+00:00",
    "url": "https://apply.workable.com/j/A9AE7BC7D6",
    "description_sha256": "06d238cf9923957ec0072cdd77b0ffa34d78b52b509a590cf5ae8f6ea511c213"
-  },
-  {
-   "job_id": "C15BDC33AE",
-   "lineage_key": "senior-software-engineer-order-and-delivery@arlington-united-states",
-   "title": "Senior Software Engineer (Order and Delivery)",
-   "department": "Remote Sensing",
-   "team": "",
-   "location": "Arlington, United States",
-   "secondary_locations": [
-    "Reston, United States",
-    "Santa Barbara, United States"
-   ],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-02-11T00:00:00+00:00",
-   "url": "https://apply.workable.com/j/C15BDC33AE",
-   "description_sha256": "909bd6a646448f96c54b50ff1f2c37a8c6489349e6270d22c77cb6d6dd4c361e"
   },
   {
    "job_id": "C2A49317A8",

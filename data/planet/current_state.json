@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-09-11T19:16:53+00:00",
- "job_count": 116,
+ "fetched_at": "2026-09-14T16:29:22+00:00",
+ "job_count": 119,
  "jobs": [
   {
    "job_id": "7374533",
@@ -1743,6 +1743,51 @@
    "is_remote": false,
    "published_at": "2026-09-09T12:06:06-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8188842",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8190766",
+   "lineage_key": "software-engineer@berlin-germany",
+   "title": "Software Engineer",
+   "department": "Platform",
+   "team": "",
+   "location": "Berlin, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-14T11:49:30-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8190766",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8190771",
+   "lineage_key": "senior-software-engineer@berlin-germany",
+   "title": "Senior Software Engineer",
+   "department": "Platform",
+   "team": "",
+   "location": "Berlin, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-14T11:49:05-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8190771",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8200827",
+   "lineage_key": "werkscontroller-m-w-d-controller-manufacturing@germany-remote",
+   "title": "Werkscontroller (m/w/d) / Controller Manufacturing",
+   "department": "Accounting",
+   "team": "",
+   "location": "Germany, Remote",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-09-14T07:10:54-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8200827",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

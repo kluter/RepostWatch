@@ -2,8 +2,8 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-09-11T14:35:01+00:00",
- "job_count": 58,
+ "fetched_at": "2026-09-14T16:29:22+00:00",
+ "job_count": 63,
  "jobs": [
   {
    "job_id": "063679a7-77f0-4e6d-8296-bcff69f4ec4f",
@@ -51,21 +51,6 @@
    "description_sha256": "fabf6086c94ce8930ec0959917d2d6403d9a9618817a252500aa615e21247ae8"
   },
   {
-   "job_id": "09c726c6-e946-4d2a-a4b6-1fca8fa23631",
-   "lineage_key": "senior-antenna-and-rf-payload-engineer@harwell-uk",
-   "title": "Senior Antenna and RF Payload Engineer",
-   "department": "SATCOM (Broadband and Narrowband)",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-05-06T16:26:15+01:00",
-   "url": "https://careers.open-cosmos.com/jobs/7693615-senior-antenna-and-rf-payload-engineer",
-   "description_sha256": "496fee08e61b936f91f572580fd3f5a883a6268ac0acbe5db94a2a0146f52b36"
-  },
-  {
    "job_id": "0aea72fb-e5b8-4275-8cf5-b3017ba6187b",
    "lineage_key": "business-development-opportunities@athens-greece",
    "title": "Business Development Opportunities",
@@ -111,6 +96,21 @@
    "description_sha256": "408d16ff185fa67200ae61c924914f90c5e7f0ca037b0e5ab6ea8cbe3952f1d9"
   },
   {
+   "job_id": "23ac1ee6-5945-43e7-b61c-afc6deea516c",
+   "lineage_key": "mission-manager@harwell-uk",
+   "title": "Mission Manager",
+   "department": "MISSION MANAGEMENT",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-09-14T11:11:26+01:00",
+   "url": "https://careers.open-cosmos.com/jobs/8373091-mission-manager",
+   "description_sha256": "dab04da0d173af880e0799f9099789da3e242fffeae977d45f71a3c290426b2c"
+  },
+  {
    "job_id": "26d14c7f-1aa1-4939-bdce-a02a77283c78",
    "lineage_key": "mission-concept-engineer@harwell-uk",
    "title": "Mission Concept Engineer",
@@ -124,6 +124,21 @@
    "published_at": "2026-09-04T10:03:14+01:00",
    "url": "https://careers.open-cosmos.com/jobs/8321878-mission-concept-engineer",
    "description_sha256": "d6bec59fc428e64a2ad6794667fa7d6243e73b888747f33a3d1ba098090d2378"
+  },
+  {
+   "job_id": "276cf8cb-c142-4666-ade9-6711d7a6e72e",
+   "lineage_key": "senior-mission-manager@harwell-uk",
+   "title": "Senior Mission Manager",
+   "department": "MISSION MANAGEMENT",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-09-14T11:21:06+01:00",
+   "url": "https://careers.open-cosmos.com/jobs/8373185-senior-mission-manager",
+   "description_sha256": "96545fff35bd48ccc281f4017719b72d96c9104eeb2c29edef9ba5e746f1f9ac"
   },
   {
    "job_id": "2b38fc1d-6f1c-43a2-a13b-b5f090eae183",
@@ -621,6 +636,36 @@
    "description_sha256": "3bbc752da21b5938e05faa08e4eecb3eb251f2d516347503038b9885809e7d7f"
   },
   {
+   "job_id": "b0b61ad4-52d6-4d23-bff7-29561ef48c49",
+   "lineage_key": "senior-mission-manager-barcelona-spain@barcelona-spain",
+   "title": "Senior Mission Manager (Barcelona, Spain)",
+   "department": "MISSION MANAGEMENT",
+   "team": "",
+   "location": "Barcelona, Spain",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-09-14T11:07:27+01:00",
+   "url": "https://careers.open-cosmos.com/jobs/8373058-senior-mission-manager-barcelona-spain",
+   "description_sha256": "67bf9fa3e30d4a8df6c7018792a54172d04517fafad5e53a7dd6dd63ba04024e"
+  },
+  {
+   "job_id": "b201a5e1-262e-40e6-b868-9e4c46f11359",
+   "lineage_key": "senior-mission-concept-engineer@harwell-uk",
+   "title": "Senior Mission Concept Engineer",
+   "department": "GROWTH",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-09-14T11:45:02+01:00",
+   "url": "https://careers.open-cosmos.com/jobs/8373403-senior-mission-concept-engineer",
+   "description_sha256": "aed38dbd8c588b340d7d18bb2c4285d6059d849d8b6c0e50037952f13be9e74d"
+  },
+  {
    "job_id": "b6c279a5-0191-47a4-b67d-1410cd2b440c",
    "lineage_key": "air-interface-architect@harwell-uk",
    "title": "Air Interface Architect",
@@ -726,21 +771,6 @@
    "description_sha256": "acd908ba570807554b5dbb70a0adc100c7f3784f44a75aa02813b5a7a57dad12"
   },
   {
-   "job_id": "d37c333e-7bcb-41ab-b92f-07f72220754f",
-   "lineage_key": "head-of-software-cloud-infrastructure@harwell-uk",
-   "title": "Head of Software & Cloud Infrastructure",
-   "department": "SATCOM (Broadband and Narrowband)",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-03-22T22:54:54+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/7441126-head-of-software-cloud-infrastructure",
-   "description_sha256": "3b6c7e39bb8bf5f98a9928a653318e408a333076b7b4d5fcdfa3009d25d4c3c9"
-  },
-  {
    "job_id": "d3b9f416-b454-4a9b-ac79-17c734fca0cb",
    "lineage_key": "earth-observation-presales-engineer@harwell-uk",
    "title": "Earth Observation Presales Engineer",
@@ -816,6 +846,21 @@
    "description_sha256": "d0737b646df47917f5252fdc4e007c701b802d31126491534a8cdaeaa5c3b495"
   },
   {
+   "job_id": "df2e94f1-ae44-4a1b-876e-1417d5975133",
+   "lineage_key": "optical-systems-engineer@harwell-uk",
+   "title": "Optical Systems Engineer",
+   "department": "SYSTEMS",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-09-14T11:58:02+01:00",
+   "url": "https://careers.open-cosmos.com/jobs/8373505-optical-systems-engineer",
+   "description_sha256": "743d70476f60eb20169a8af698a372b249857ce29bb0f6d0317f61ccc7157dc7"
+  },
+  {
    "job_id": "e8b4ee21-37b7-4946-b29b-f35d985cddb5",
    "lineage_key": "quality-control-qc-engineer-shift-based@harwell-uk",
    "title": "Quality Control (QC) Engineer (shift based)",
@@ -844,6 +889,36 @@
    "published_at": "2026-02-06T02:42:40+00:00",
    "url": "https://careers.open-cosmos.com/jobs/7183438-data-processing-technical-project-manager",
    "description_sha256": "99800bd9bbb0b2378a47202dbca28a5b4d3134dac42833ceb5fdc1e68d16611b"
+  },
+  {
+   "job_id": "f5a3e42e-e17e-41e0-ae17-10b3d46dda8f",
+   "lineage_key": "fpga-engineer@harwell-uk",
+   "title": "FPGA Engineer",
+   "department": "FLIGHT SOFTWARE",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-09-14T09:13:36+01:00",
+   "url": "https://careers.open-cosmos.com/jobs/8371763-fpga-engineer",
+   "description_sha256": "17dd0e8a018b69bbebeac3c5f7cafda1389974f926b1426acd70b69d9b765f43"
+  },
+  {
+   "job_id": "f62e150b-6da0-4988-85a8-07ce29b76edf",
+   "lineage_key": "senior-mission-manager-coimbra-or-porto@porto-portugal",
+   "title": "Senior Mission Manager (Coimbra or Porto)",
+   "department": "MISSION MANAGEMENT",
+   "team": "",
+   "location": "Porto, Portugal",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-09-14T11:38:57+01:00",
+   "url": "https://careers.open-cosmos.com/jobs/8373340-senior-mission-manager-coimbra-or-porto",
+   "description_sha256": "637fb1a27b61e9ad2a4ae8cdd6aa68f58b6a1c80535c03faac6f54ae175b275c"
   },
   {
    "job_id": "f779d0c2-c7fd-4af2-802d-436381618984",

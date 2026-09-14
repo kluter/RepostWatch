@@ -516,6 +516,12 @@
    "lon": 24.937748,
    "label": "Remote | Finland",
    "remote": true
+  },
+  "remote us": {
+   "lat": 43.0059455,
+   "lon": -123.8925908,
+   "label": "Remote US",
+   "remote": true
   }
  }
 }

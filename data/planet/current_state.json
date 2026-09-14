@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-09-14T16:29:22+00:00",
- "job_count": 119,
+ "fetched_at": "2026-09-14T20:33:07+00:00",
+ "job_count": 118,
  "jobs": [
   {
    "job_id": "7374533",
@@ -1026,21 +1026,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8133689",
-   "lineage_key": "senior-data-visualization-engineer@san-francisco-ca",
-   "title": "Senior Data Visualization Engineer",
-   "department": "Creative",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-24T15:35:33-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8133689",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8133691",
    "lineage_key": "videographer@san-francisco-ca",
    "title": "Videographer",
@@ -1177,15 +1162,15 @@
   },
   {
    "job_id": "8142926",
-   "lineage_key": "senior-technical-program-manager-platform@arlington-va",
+   "lineage_key": "senior-technical-program-manager-platform@remote-us",
    "title": "Senior Technical Program Manager-Platform",
    "department": "Program Management",
    "team": "",
-   "location": "Arlington, VA",
+   "location": "Remote US",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
-   "is_remote": false,
+   "is_remote": true,
    "published_at": "2026-08-26T20:30:48-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8142926",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

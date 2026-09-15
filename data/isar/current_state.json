@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-09-14T20:33:07+00:00",
- "job_count": 104,
+ "fetched_at": "2026-09-15T15:14:08+00:00",
+ "job_count": 107,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -831,21 +831,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4931908101",
-   "lineage_key": "working-student-computer-science-f-m-d@ottobrunn-bavaria-germany",
-   "title": "Working Student Computer Science (f/m/d)",
-   "department": "Ground Systems",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-20T03:32:25-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4931908101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4933835101",
    "lineage_key": "mechanisms-design-engineer-m-f-d@ottobrunn-bavaria-germany",
    "title": "Mechanisms Design Engineer (m/f/d)",
@@ -1563,6 +1548,66 @@
    "is_remote": false,
    "published_at": "2026-09-11T10:29:20-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4974682101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4976420101",
+   "lineage_key": "software-test-engineer-ground-systems-m-f-d@parsdorf-bavaria-germany",
+   "title": "Software Test Engineer, Ground Systems (m/f/d)",
+   "department": "Ground Systems",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-15T05:32:20-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4976420101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4976524101",
+   "lineage_key": "fluid-systems-engineer-f-m-d@ottobrunn-bavaria-germany",
+   "title": "Fluid Systems Engineer (f/m/d)",
+   "department": "Ground Systems",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-15T07:28:48-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4976524101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4976775101",
+   "lineage_key": "working-student-software-engineer-f-m-d@parsdorf-bavaria-germany",
+   "title": "Working Student Software Engineer (f/m/d)",
+   "department": "Ground Systems",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-15T09:08:16-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4976775101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4976916101",
+   "lineage_key": "launch-vehicle-intern-f-m-d@ottobrunn-bavaria-germany",
+   "title": "Launch Vehicle Intern (f/m/d)",
+   "department": "Spectrum AIT",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-15T10:41:05-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4976916101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-09-14T16:29:22+00:00",
- "job_count": 149,
+ "fetched_at": "2026-09-15T15:14:08+00:00",
+ "job_count": 154,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -441,6 +441,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4791366101",
+   "lineage_key": "executive-assistant@munich",
+   "title": "Executive Assistant",
+   "department": "Executive Administration",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-15T04:03:38-04:00",
+   "url": "https://helsing.ai/jobs/4791366101?gh_jid=4791366101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4809235101",
    "lineage_key": "hardware-electronics-engineer-robotics@barcelona",
    "title": "Hardware Electronics Engineer - Robotics",
@@ -472,8 +487,8 @@
   },
   {
    "job_id": "4835300101",
-   "lineage_key": "front-office-workplace-coordinator@munich",
-   "title": "Front Office & Workplace Coordinator",
+   "lineage_key": "front-office-coordinator-guest-service-agent@munich",
+   "title": "Front Office Coordinator / Guest Service Agent",
    "department": "Core Operations",
    "team": "",
    "location": "Munich",
@@ -573,6 +588,21 @@
    "is_remote": false,
    "published_at": "2026-05-08T09:18:26-04:00",
    "url": "https://helsing.ai/jobs/4862537101?gh_jid=4862537101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4862586101",
+   "lineage_key": "quality-inspector-production-quality@munich",
+   "title": "Quality Inspector - Production Quality",
+   "department": "Production Operations",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-05-08T09:17:15-04:00",
+   "url": "https://helsing.ai/jobs/4862586101?gh_jid=4862586101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -858,21 +888,6 @@
    "is_remote": false,
    "published_at": "2026-06-01T10:08:12-04:00",
    "url": "https://helsing.ai/jobs/4879386101?gh_jid=4879386101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4880207101",
-   "lineage_key": "senior-project-manager-physical-products@munich",
-   "title": "Senior Project Manager – Physical Products",
-   "department": "Physical Products",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-02T04:24:50-04:00",
-   "url": "https://helsing.ai/jobs/4880207101?gh_jid=4880207101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -2091,6 +2106,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4972043101",
+   "lineage_key": "software-engineer-early-careers@berlin",
+   "title": "Software Engineer (Early Careers)",
+   "department": "AI & Engineering",
+   "team": "",
+   "location": "Berlin",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-15T06:34:58-04:00",
+   "url": "https://helsing.ai/jobs/4972043101?gh_jid=4972043101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4972083101",
    "lineage_key": "guidance-navigation-control-engineer@munich",
    "title": "Guidance, Navigation, & Control Engineer",
@@ -2238,6 +2268,51 @@
    "is_remote": false,
    "published_at": "2026-09-14T04:39:05-04:00",
    "url": "https://helsing.ai/jobs/4975282101?gh_jid=4975282101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4976480101",
+   "lineage_key": "junior-software-engineer@berlin",
+   "title": "Junior Software Engineer",
+   "department": "AI & Engineering",
+   "team": "",
+   "location": "Berlin",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-15T06:36:55-04:00",
+   "url": "https://helsing.ai/jobs/4976480101?gh_jid=4976480101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4976906101",
+   "lineage_key": "senior-accountant-accounts-payable@munich",
+   "title": "Senior Accountant Accounts Payable",
+   "department": "Finance",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-15T10:36:02-04:00",
+   "url": "https://helsing.ai/jobs/4976906101?gh_jid=4976906101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4976946101",
+   "lineage_key": "kreditorenbuchhalter-m-w-d@munich",
+   "title": "Kreditorenbuchhalter (m/w/d)",
+   "department": "Finance",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-15T11:01:31-04:00",
+   "url": "https://helsing.ai/jobs/4976946101?gh_jid=4976946101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

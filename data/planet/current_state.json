@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-09-14T20:33:07+00:00",
- "job_count": 118,
+ "fetched_at": "2026-09-15T15:14:08+00:00",
+ "job_count": 117,
  "jobs": [
   {
    "job_id": "7374533",
@@ -111,21 +111,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "7527437",
-   "lineage_key": "fp-a-revenue-manager@united-states-remote",
-   "title": "FP&A Revenue Manager",
-   "department": "FP&A",
-   "team": "",
-   "location": "United States, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-01-26T19:52:19-05:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7527437",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "7555019",
    "lineage_key": "software-engineer-platform-operations@united-states-remote",
    "title": "Software Engineer, Platform Operations",
@@ -183,21 +168,6 @@
    "is_remote": false,
    "published_at": "2026-02-20T15:52:06-05:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7603801",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7603831",
-   "lineage_key": "account-executive-defence-intelligence-france@france-remote",
-   "title": "Account Executive, Defence & Intelligence, France",
-   "department": "Account Executive",
-   "team": "",
-   "location": "France, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-02-17T10:45:42-05:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7603831",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -396,21 +366,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "7938235",
-   "lineage_key": "senior-director-creative-marketing@san-francisco-ca",
-   "title": "Senior Director, Creative Marketing",
-   "department": "Creative",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-05T18:17:24-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7938235",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "7946662",
    "lineage_key": "senior-product-marketing-manager-constellation-services@san-francisco-ca",
    "title": "Senior Product Marketing Manager, Constellation Services",
@@ -423,6 +378,21 @@
    "is_remote": false,
    "published_at": "2026-06-15T15:01:25-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7946662",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "7963971",
+   "lineage_key": "senior-spacecraft-qualification-engineer@berlin-germany",
+   "title": "Senior Spacecraft Qualification Engineer",
+   "department": "Production",
+   "team": "",
+   "location": "Berlin, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-06-11T07:57:15-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7963971",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -486,21 +456,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "7992927",
-   "lineage_key": "revenue-operations-analyst-working-student@berlin-germany",
-   "title": "Revenue Operations Analyst - Working Student",
-   "department": "Global Revenue Operations",
-   "team": "",
-   "location": "Berlin, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-15T17:55:42-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7992927",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8008355",
    "lineage_key": "software-engineer-missions-software@united-states-remote",
    "title": "Software Engineer, Missions Software",
@@ -513,21 +468,6 @@
    "is_remote": true,
    "published_at": "2026-07-02T10:46:28-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8008355",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8011111",
-   "lineage_key": "senior-forward-deployed-engineer@united-states-remote",
-   "title": "Senior Forward Deployed Engineer",
-   "department": "(OLD) D&I Solutions (SWE)",
-   "team": "",
-   "location": "United States, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-06-17T14:40:50-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8011111",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1716,6 +1656,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8188408",
+   "lineage_key": "industry-marketing-manager-defense-intelligence-emea@london-united-kingdom",
+   "title": "Industry Marketing Manager, Defense & Intelligence (EMEA)",
+   "department": "Product Marketing",
+   "team": "",
+   "location": "London, United Kingdom",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-15T03:06:55-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8188408",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8188842",
    "lineage_key": "senior-product-marketing-manager-constellation-services@arlington-va",
    "title": "Senior Product Marketing Manager, Constellation Services",
@@ -1761,6 +1716,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8197584",
+   "lineage_key": "data-scientist@ljubljana-slovenia",
+   "title": "Data Scientist",
+   "department": "CG&C Solution Operations & Delivery",
+   "team": "",
+   "location": "Ljubljana, Slovenia",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-15T05:28:16-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8197584",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8200827",
    "lineage_key": "werkscontroller-m-w-d-controller-manufacturing@germany-remote",
    "title": "Werkscontroller (m/w/d) / Controller Manufacturing",
@@ -1773,6 +1743,21 @@
    "is_remote": true,
    "published_at": "2026-09-14T07:10:54-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8200827",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8204162",
+   "lineage_key": "account-executive-defence-intelligence-france@france-remote",
+   "title": "Account Executive, Defence & Intelligence, France",
+   "department": "Account Executive",
+   "team": "",
+   "location": "France, Remote",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-09-15T10:30:50-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8204162",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

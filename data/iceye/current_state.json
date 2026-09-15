@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-15T15:14:08+00:00",
- "job_count": 187,
+ "fetched_at": "2026-09-15T19:49:17+00:00",
+ "job_count": 186,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -591,21 +591,6 @@
    "published_at": "2026-08-04T07:36:05.304+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/387a2a71-1b63-44b4-ac07-eaa487a78f63",
    "description_sha256": "22e373fefd5f4500c040f6c75fae3b2916f508d586b71ea418e68bb5c942ae6c"
-  },
-  {
-   "job_id": "3cc1954a-b537-4d7b-8a79-a51ad07e97f2",
-   "lineage_key": "senior-backend-software-engineer@espoo",
-   "title": "Senior Backend Software Engineer",
-   "department": "Engineering",
-   "team": "Acquisition Planning",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-27T07:52:16.610+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/3cc1954a-b537-4d7b-8a79-a51ad07e97f2",
-   "description_sha256": "d161e3d3a0d40b0488530d28c72d101af3af7f97ddecb54096d52bae8b04a26f"
   },
   {
    "job_id": "3d7f14e7-e116-4885-9d3d-a66080532999",

@@ -2,7 +2,7 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-09-16T15:08:11+00:00",
+ "fetched_at": "2026-09-16T19:41:10+00:00",
  "job_count": 114,
  "jobs": [
   {
@@ -378,21 +378,6 @@
    "is_remote": false,
    "published_at": "2026-06-25T17:37:17-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7907756",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7946662",
-   "lineage_key": "senior-product-marketing-manager-constellation-services@san-francisco-ca",
-   "title": "Senior Product Marketing Manager, Constellation Services",
-   "department": "Product Marketing",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-15T15:01:25-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7946662",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1578,6 +1563,21 @@
    "is_remote": false,
    "published_at": "2026-09-10T03:31:55-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8178696",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8178701",
+   "lineage_key": "director-of-sales-middle-east@uae-remote",
+   "title": "Director of Sales, Middle East",
+   "department": "Sales Manager",
+   "team": "",
+   "location": "UAE, Remote",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-09-16T11:18:54-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8178701",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

@@ -522,6 +522,12 @@
    "lon": -123.8925908,
    "label": "Remote US",
    "remote": true
+  },
+  "uae, remote": {
+   "lat": 24.0002488,
+   "lon": 53.9994829,
+   "label": "UAE",
+   "remote": true
   }
  }
 }

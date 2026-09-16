@@ -2,7 +2,7 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-09-14T16:29:22+00:00",
+ "fetched_at": "2026-09-16T15:08:11+00:00",
  "job_count": 63,
  "jobs": [
   {
@@ -903,7 +903,7 @@
    "is_remote": true,
    "published_at": "2026-09-14T09:13:36+01:00",
    "url": "https://careers.open-cosmos.com/jobs/8371763-fpga-engineer",
-   "description_sha256": "17dd0e8a018b69bbebeac3c5f7cafda1389974f926b1426acd70b69d9b765f43"
+   "description_sha256": "117c9f1bd5ae36391433ae4a3032f4ce82ddedab3e7115a073d5af8b98184f74"
   },
   {
    "job_id": "f62e150b-6da0-4988-85a8-07ce29b76edf",

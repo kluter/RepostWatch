@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-15T19:49:17+00:00",
- "job_count": 186,
+ "fetched_at": "2026-09-16T15:08:11+00:00",
+ "job_count": 182,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -19,21 +19,6 @@
    "published_at": "2026-08-20T14:39:03.955+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
    "description_sha256": "ff3b6dc9d3c0e93c3002bebf2329870b64fc72d2caa90f6326677a4ea7311208"
-  },
-  {
-   "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
-   "lineage_key": "satellite-launch-specialist@warsaw",
-   "title": "Satellite Launch Specialist",
-   "department": "Global Manufacturing Organization",
-   "team": "Launch Management",
-   "location": "Warsaw",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-13T09:04:06.453+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/055bf193-bb2c-4af9-8cd8-96e421ae2940",
-   "description_sha256": "d75b132194429bcc83b9ea6849dce1ad13b10d8e47c78daeed7ef26f39fbd058"
   },
   {
    "job_id": "06f113d6-1702-4346-9369-97d70d68738b",
@@ -500,7 +485,7 @@
    "is_remote": true,
    "published_at": "2026-08-18T11:49:18.685+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/339329ca-5f4d-4f29-b681-47dab7ffb88f",
-   "description_sha256": "45d89441268ab132bf8e99ad56b9c96d4ef6caa51bc8028ffed0362af8040ff5"
+   "description_sha256": "2b74ccd31989bc2532df76014755f231cb9c97edaf8d4f3b5e443dead6f95a6a"
   },
   {
    "job_id": "34f68a39-6743-4af1-ae67-bd0ef78c904e",
@@ -635,7 +620,7 @@
    "is_remote": true,
    "published_at": "2026-09-08T22:27:16.166+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/42ec11f9-2c5a-417d-aca7-1ff6740dea7d",
-   "description_sha256": "062566bf9c575ac8f35751ab9f2fd8ca13507782c80efb9523e6452707d931b6"
+   "description_sha256": "f9616a6fd544c259c727b1d0d94be6a073c316f723002e69c8413224f9499c5e"
   },
   {
    "job_id": "431baaab-347b-485b-a52a-67d18dcbc2be",
@@ -683,21 +668,6 @@
    "published_at": "2026-07-13T08:51:34.638+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/45422d7a-13ca-442e-97e8-ab5c056db6db",
    "description_sha256": "920ef9961f19a428aa858b07e4494f36472c19607fb993cafa995040c88e0d70"
-  },
-  {
-   "job_id": "4572f413-69db-4c73-a8a4-920a26107dbe",
-   "lineage_key": "satellite-launch-specialist@espoo",
-   "title": "Satellite Launch Specialist",
-   "department": "Global Manufacturing Organization",
-   "team": "Launch Management",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-07-13T08:42:41.972+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/4572f413-69db-4c73-a8a4-920a26107dbe",
-   "description_sha256": "249621adab5f29761ebb4117e783bd11143f8c2dc61455e6797cd07ec6fded39"
   },
   {
    "job_id": "45aee45a-8a66-4a88-8a1f-7b9e5d192241",
@@ -1874,7 +1844,7 @@
    "is_remote": true,
    "published_at": "2026-08-07T08:11:39.933+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/b05f92c4-8b2c-4a02-853c-bbeae69f76b5",
-   "description_sha256": "aa91cdb5126e528ed48e139e34ee1cb4769e33dffa88f9a4d977785504124064"
+   "description_sha256": "8bcb7cb714b3241d4075663d9a641fa8065ac9e50406e9d93bb8feef26526649"
   },
   {
    "job_id": "b12fce39-5cbb-44ed-8f02-ca1654d41659",
@@ -1890,21 +1860,6 @@
    "published_at": "2026-07-13T13:26:54.622+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/b12fce39-5cbb-44ed-8f02-ca1654d41659",
    "description_sha256": "9a7a24c9a9fee2f1ed9124d1d07dfb71d14ffd146ea5dcf42ee86f305c88ff28"
-  },
-  {
-   "job_id": "b2c9f42a-04af-4cd1-8550-abec4a67e9e1",
-   "lineage_key": "quality-control-technician-electronics@athens",
-   "title": "Quality Control Technician - Electronics",
-   "department": "Global Manufacturing Organization",
-   "team": "Production Greece",
-   "location": "Athens",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-06-04T15:08:16.365+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/b2c9f42a-04af-4cd1-8550-abec4a67e9e1",
-   "description_sha256": "a8c629b4dc4bb488ef8fa74dcddadaca78a79982b133f40aa07c6ebd106d1fdc"
   },
   {
    "job_id": "b2cdf1d7-086c-4ea6-a76c-388c871a6148",
@@ -2220,21 +2175,6 @@
    "published_at": "2026-05-05T09:05:06.284+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/c9efcbfb-8542-413e-8bbc-4ef9178dab31",
    "description_sha256": "1f7bdce3c58ef96063992a58c13ad451e52d900533d246447b998b0794d98af7"
-  },
-  {
-   "job_id": "cb38954e-a97b-4340-aa5a-61fd0eeefc55",
-   "lineage_key": "satellite-launch-specialist@valencia",
-   "title": "Satellite Launch Specialist",
-   "department": "Global Manufacturing Organization",
-   "team": "Launch Management",
-   "location": "Valencia",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-07-13T09:01:44.124+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/cb38954e-a97b-4340-aa5a-61fd0eeefc55",
-   "description_sha256": "a54ed954ce6bfec7730b8868ce8da914e4320f17b834f08f29f721a25fef020b"
   },
   {
    "job_id": "cc0b017f-f910-4e64-9dd6-4b4da5538089",

@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-16T19:41:10+00:00",
- "job_count": 183,
+ "fetched_at": "2026-09-17T15:16:22+00:00",
+ "job_count": 185,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -19,6 +19,21 @@
    "published_at": "2026-08-20T14:39:03.955+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
    "description_sha256": "ff3b6dc9d3c0e93c3002bebf2329870b64fc72d2caa90f6326677a4ea7311208"
+  },
+  {
+   "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
+   "lineage_key": "satellite-launch-specialist@warsaw",
+   "title": "Satellite Launch Specialist",
+   "department": "Global Manufacturing Organization",
+   "team": "Launch Management",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-17T08:34:13.256+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/055bf193-bb2c-4af9-8cd8-96e421ae2940",
+   "description_sha256": "d75b132194429bcc83b9ea6849dce1ad13b10d8e47c78daeed7ef26f39fbd058"
   },
   {
    "job_id": "06f113d6-1702-4346-9369-97d70d68738b",
@@ -670,6 +685,21 @@
    "description_sha256": "920ef9961f19a428aa858b07e4494f36472c19607fb993cafa995040c88e0d70"
   },
   {
+   "job_id": "4572f413-69db-4c73-a8a4-920a26107dbe",
+   "lineage_key": "satellite-launch-specialist@espoo",
+   "title": "Satellite Launch Specialist",
+   "department": "Global Manufacturing Organization",
+   "team": "Launch Management",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-09-17T08:34:24.973+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/4572f413-69db-4c73-a8a4-920a26107dbe",
+   "description_sha256": "249621adab5f29761ebb4117e783bd11143f8c2dc61455e6797cd07ec6fded39"
+  },
+  {
    "job_id": "45aee45a-8a66-4a88-8a1f-7b9e5d192241",
    "lineage_key": "electrical-harness-design-engineer@espoo",
    "title": "Electrical Harness Design Engineer",
@@ -685,19 +715,19 @@
    "description_sha256": "8852d56602858e097435d3a1bda6d26e5dc83e49350665bbb8e8013d7967aff3"
   },
   {
-   "job_id": "46d1c835-f9d4-451a-b1ec-19d996bde8cd",
-   "lineage_key": "satellite-production-technician-harness@valencia",
-   "title": "Satellite Production Technician, Harness",
+   "job_id": "4684576e-929f-4a2d-a39d-bbf90c9f399d",
+   "lineage_key": "rf-ait-engineer@tokyo",
+   "title": "RF AIT Engineer",
    "department": "Global Manufacturing Organization",
-   "team": "ES Satellite Production",
-   "location": "Valencia",
+   "team": "Production Japan",
+   "location": "Tokyo",
    "secondary_locations": [],
    "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-08-14T08:21:28.046+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/46d1c835-f9d4-451a-b1ec-19d996bde8cd",
-   "description_sha256": "819d45e7ef6630ac98174d5137459d193a43ae7a89cf89f44107b98573a4cd64"
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-17T07:10:12.980+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/4684576e-929f-4a2d-a39d-bbf90c9f399d",
+   "description_sha256": "8a7a9a398a0512668542791f9a7e265e2ba47ac46c05b3c8eca4ac4ddca38b14"
   },
   {
    "job_id": "471cf438-9c29-4167-9c18-be4cc5f4e115",
@@ -832,7 +862,7 @@
    "is_remote": true,
    "published_at": "2026-07-24T14:27:01.495+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/532afee6-79d9-4693-9c4a-9726b5fb20e5",
-   "description_sha256": "966bc7749767896f5780bc0d5cb6d2f3245c6db7afab9e4044b6bfd149293e41"
+   "description_sha256": "75244a66ff326ef11090857947a510176c1b5d7d36cf794a23f1997c3aa032ce"
   },
   {
    "job_id": "54476294-191e-4e00-96a2-922d3ac4ca16",

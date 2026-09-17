@@ -2,7 +2,7 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-09-16T15:08:11+00:00",
+ "fetched_at": "2026-09-17T15:16:22+00:00",
  "job_count": 39,
  "jobs": [
   {
@@ -108,21 +108,6 @@
    "is_remote": false,
    "published_at": "2025-11-05T10:34:13-05:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=7353388&gh_jid=7353388",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7411466",
-   "lineage_key": "senior-backend-software-engineer@boulder-colorado-united-states",
-   "title": "Senior Backend Software Engineer",
-   "department": "Engineering",
-   "team": "",
-   "location": "Boulder, Colorado, United States",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2025-11-24T15:52:23-05:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7411466&gh_jid=7411466",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -588,6 +573,21 @@
    "is_remote": false,
    "published_at": "2026-09-14T07:09:24-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8200811&gh_jid=8200811",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8210664",
+   "lineage_key": "senior-backend-software-engineer@boulder-colorado-united-states",
+   "title": "Senior Backend Software Engineer",
+   "department": "Engineering",
+   "team": "",
+   "location": "Boulder, Colorado, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-17T09:39:16-04:00",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8210664&gh_jid=8210664",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

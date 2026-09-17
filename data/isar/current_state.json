@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-09-16T19:41:10+00:00",
- "job_count": 107,
+ "fetched_at": "2026-09-17T15:16:22+00:00",
+ "job_count": 104,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -696,21 +696,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4907775101",
-   "lineage_key": "fluid-systems-process-design-engineer@ottobrunn-bavaria-germany",
-   "title": "Fluid Systems / Process Design Engineer",
-   "department": "Ground Systems",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-25T05:00:01-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4907775101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4907850101",
    "lineage_key": "supply-chain-management-specialist-m-f-d@andenes-nordland-norway",
    "title": "Supply Chain Management Specialist (m/f/d)",
@@ -738,21 +723,6 @@
    "is_remote": false,
    "published_at": "2026-07-06T00:00:00-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4912131101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4919871101",
-   "lineage_key": "senior-fluid-systems-process-design-engineer@ottobrunn-bavaria-germany",
-   "title": "Senior Fluid Systems / Process Design Engineer",
-   "department": "Ground Systems",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-06T06:21:26-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4919871101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -858,21 +828,6 @@
    "is_remote": false,
    "published_at": "2026-07-23T11:40:04-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4936418101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4937173101",
-   "lineage_key": "working-student-propulsion-m-w-f@ottobrunn-bavaria-germany",
-   "title": "Working Student Propulsion (m/w/f)",
-   "department": "Propulsion",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-24T09:34:51-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4937173101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1147,11 +1102,11 @@
   },
   {
    "job_id": "4952519101",
-   "lineage_key": "junior-calibration-technician-m-f-d@parsdorf-bavaria-germany",
+   "lineage_key": "junior-calibration-technician-m-f-d@ottobrunn-bavaria-germany",
    "title": "Junior Calibration Technician (m/f/d)",
    "department": "Infrastructure, Safety & Service",
    "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
+   "location": "Ottobrunn, Bavaria, Germany",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
@@ -1282,11 +1237,11 @@
   },
   {
    "job_id": "4960889101",
-   "lineage_key": "working-student-m-w-f@ottobrunn-bavaria-germany",
+   "lineage_key": "working-student-m-w-f@parsdorf-bavaria-germany",
    "title": "Working Student (m/w/f)",
    "department": "Production, Operations & Quality",
    "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
+   "location": "Parsdorf, Bavaria, Germany",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",

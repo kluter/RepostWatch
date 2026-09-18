@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-18T14:36:56+00:00",
+ "fetched_at": "2026-09-18T19:10:56+00:00",
  "job_count": 188,
  "jobs": [
   {
@@ -868,7 +868,7 @@
    "job_id": "51a5d21b-80e2-420f-b7e2-ff031b42e836",
    "lineage_key": "staff-lead-product-designer-design-system@espoo",
    "title": "Staff/Lead Product Designer, Design System",
-   "department": "Missions",
+   "department": "Product",
    "team": "Product Management",
    "location": "Espoo",
    "secondary_locations": [],

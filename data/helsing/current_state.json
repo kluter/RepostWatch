@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-09-17T15:16:22+00:00",
- "job_count": 155,
+ "fetched_at": "2026-09-18T14:36:56+00:00",
+ "job_count": 156,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -33,6 +33,21 @@
    "is_remote": false,
    "published_at": "2023-03-14T09:43:21-04:00",
    "url": "https://helsing.ai/jobs/4126378101?gh_jid=4126378101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4327973101",
+   "lineage_key": "systems-engineer-land@munich",
+   "title": "Systems Engineer - Land",
+   "department": "Systems Architecture",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2024-04-29T02:53:34-04:00",
+   "url": "https://helsing.ai/jobs/4327973101?gh_jid=4327973101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -213,21 +228,6 @@
    "is_remote": false,
    "published_at": "2025-08-04T05:33:15-04:00",
    "url": "https://helsing.ai/jobs/4636978101?gh_jid=4636978101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4660594101",
-   "lineage_key": "design-engineer-electronics@munich",
-   "title": "Design Engineer - Electronics",
-   "department": "Hardware Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2025-08-24T15:53:38-04:00",
-   "url": "https://helsing.ai/jobs/4660594101?gh_jid=4660594101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -498,6 +498,21 @@
    "is_remote": false,
    "published_at": "2026-03-17T10:46:22-04:00",
    "url": "https://helsing.ai/jobs/4813822101?gh_jid=4813822101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4823231101",
+   "lineage_key": "schichtleiter-in-der-produktion@munich",
+   "title": "Schichtleiter in der Produktion",
+   "department": "Production Operations",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-03-26T04:22:34-04:00",
+   "url": "https://helsing.ai/jobs/4823231101?gh_jid=4823231101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1311,36 +1326,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4928128101",
-   "lineage_key": "senior-capex-fixed-assets-accountant@munich",
-   "title": "Senior CAPEX & Fixed Assets Accountant",
-   "department": "Finance",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-15T07:52:41-04:00",
-   "url": "https://helsing.ai/jobs/4928128101?gh_jid=4928128101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4928133101",
-   "lineage_key": "senior-inventory-accountant@munich",
-   "title": "Senior Inventory Accountant",
-   "department": "Finance",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-15T07:53:47-04:00",
-   "url": "https://helsing.ai/jobs/4928133101?gh_jid=4928133101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4929769101",
    "lineage_key": "programme-manager@paris",
    "title": "Programme Manager",
@@ -1896,21 +1881,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4962381101",
-   "lineage_key": "people-operations-lead@london",
-   "title": "People Operations Lead",
-   "department": "People",
-   "team": "",
-   "location": "London",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-28T13:03:48-04:00",
-   "url": "https://helsing.ai/jobs/4962381101?gh_jid=4962381101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4963213101",
    "lineage_key": "warehouse-operator@munich",
    "title": "Warehouse Operator",
@@ -2226,21 +2196,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4974320101",
-   "lineage_key": "procurement-manager-professional-services-marketing@munich",
-   "title": "Procurement Manager – Professional Services & Marketing",
-   "department": "Market",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-11T07:29:34-04:00",
-   "url": "https://helsing.ai/jobs/4974320101?gh_jid=4974320101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4974612101",
    "lineage_key": "accountant-part-time@munich",
    "title": "Accountant - Part time",
@@ -2328,6 +2283,66 @@
    "is_remote": false,
    "published_at": "2026-09-16T05:30:16-04:00",
    "url": "https://helsing.ai/jobs/4976970101?gh_jid=4976970101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4977427101",
+   "lineage_key": "team-assistant@munich",
+   "title": "Team Assistant",
+   "department": "Core Operations",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-18T08:00:36-04:00",
+   "url": "https://helsing.ai/jobs/4977427101?gh_jid=4977427101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4978367101",
+   "lineage_key": "chief-of-staff-s-o-aus@canberra",
+   "title": "Chief of Staff, S&O (AUS)",
+   "department": "Market",
+   "team": "",
+   "location": "Canberra",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-18T09:25:07-04:00",
+   "url": "https://helsing.ai/jobs/4978367101?gh_jid=4978367101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4979778101",
+   "lineage_key": "uas-flight-operations-germany@munich",
+   "title": "UAS Flight Operations - Germany",
+   "department": "Strategy & Operations",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-18T01:27:27-04:00",
+   "url": "https://helsing.ai/jobs/4979778101?gh_jid=4979778101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4980357101",
+   "lineage_key": "treasury-manager@munich",
+   "title": "Treasury Manager",
+   "department": "Finance",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-18T08:35:30-04:00",
+   "url": "https://helsing.ai/jobs/4980357101?gh_jid=4980357101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

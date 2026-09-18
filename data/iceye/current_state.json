@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-17T15:16:22+00:00",
- "job_count": 185,
+ "fetched_at": "2026-09-18T14:36:56+00:00",
+ "job_count": 188,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -111,6 +111,21 @@
    "description_sha256": "791699e1609e66500dc5fd6218ac7da6c00f235d524bd228570134e74e2314b8"
   },
   {
+   "job_id": "105d0392-a86e-49e2-ab75-d96ec84c2186",
+   "lineage_key": "senior-people-generalist@lisbon",
+   "title": "Senior People Generalist",
+   "department": "CEO Office",
+   "team": "CEO Office",
+   "location": "Lisbon",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-18T07:10:55.910+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/105d0392-a86e-49e2-ab75-d96ec84c2186",
+   "description_sha256": "0c7d3f33d7eaaa9387a32918d69898f25020821cceaa02ed615a318616f2c5f6"
+  },
+  {
    "job_id": "1197834e-3203-4546-8f55-2bde6fe39546",
    "lineage_key": "c-engineer-satellite-real-time-control-systems@warsaw",
    "title": "C++ Engineer - Satellite Real-Time Control Systems",
@@ -139,6 +154,21 @@
    "published_at": "2026-08-31T09:08:36.809+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/1267e2f2-20dc-4902-b1c0-58125e524ec9",
    "description_sha256": "057fc345f64904649107c736e3acb6668e7b3f0f112cf90fde93363e34ad4b41"
+  },
+  {
+   "job_id": "12b245fc-8b29-454e-96e2-6b621288a781",
+   "lineage_key": "driver@espoo",
+   "title": "Driver",
+   "department": "Global Manufacturing Organization",
+   "team": "FI Stock Management",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-09-18T11:25:33.954+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/12b245fc-8b29-454e-96e2-6b621288a781",
+   "description_sha256": "18a847c3cf8fa7f3570a3072f2cfcb559fc28629c60193c83ae6efafa7accaf4"
   },
   {
    "job_id": "15ec7f83-01ba-46fc-91c6-88cd28bb6338",
@@ -805,6 +835,21 @@
    "description_sha256": "6ab0dd75be335d993325d755d2fa37124cc1927b87a128103cf40b896cf86d17"
   },
   {
+   "job_id": "4f06e7bf-5b09-4b93-b71e-ca5a8bfb8d8f",
+   "lineage_key": "quality-control-technician-mechanical@valencia",
+   "title": "Quality Control Technician - Mechanical",
+   "department": "Global Manufacturing Organization",
+   "team": "ES Stock Management",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-09-18T13:13:54.061+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/4f06e7bf-5b09-4b93-b71e-ca5a8bfb8d8f",
+   "description_sha256": "8fdafc945494abe485becd6cb23dd5aafc7b29659ad7902f4b4e13f8d2179701"
+  },
+  {
    "job_id": "50ea94b9-1799-49ed-98f2-fdf29bf4fef8",
    "lineage_key": "maite-facility-management-team-lead@espoo",
    "title": "MAITE Facility Management Team Lead",
@@ -1305,21 +1350,6 @@
    "description_sha256": "4926594843bc59e6139f943795b8b88141aafe7c6df5632d5ff900b51d9bd37f"
   },
   {
-   "job_id": "77810597-e144-4931-acb3-2a022f546098",
-   "lineage_key": "production-planner-satellite-manufacturing@valencia",
-   "title": "Production Planner, Satellite Manufacturing",
-   "department": "Global Manufacturing Organization",
-   "team": "Global Manufacturing Strategy & Compliance",
-   "location": "Valencia",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-08-26T07:27:45.488+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/77810597-e144-4931-acb3-2a022f546098",
-   "description_sha256": "e33ec2cc04a9d1840e971d183407d74fd9455f983fa3f7c7c0c231b4b2d0882a"
-  },
-  {
    "job_id": "77ee1494-3ca4-4774-a0ad-9e731d63cec1",
    "lineage_key": "senior-electronics-test-engineer@espoo",
    "title": "Senior Electronics Test Engineer",
@@ -1363,6 +1393,21 @@
    "published_at": "2026-07-01T08:25:09.894+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/7939fd30-429c-4905-b5f1-cea49915ecfd",
    "description_sha256": "f5cae2aeab3f779986729e081aaefe3abf5b6a8d6d2f8c803ce16ea54d1891c4"
+  },
+  {
+   "job_id": "7ce28487-16fa-4054-a225-d91c4f996350",
+   "lineage_key": "quality-control-technician-electronics@valencia",
+   "title": "Quality Control Technician - Electronics",
+   "department": "Global Manufacturing Organization",
+   "team": "ES Stock Management",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-09-18T13:19:33.096+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/7ce28487-16fa-4054-a225-d91c4f996350",
+   "description_sha256": "ab1c8fa2f1b462deb881bc647d308502da6e31c6dfef9b17e00456dacfdbdbf9"
   },
   {
    "job_id": "7e1be691-32b2-4a35-9338-8fec83b67c55",
@@ -1649,7 +1694,7 @@
    "is_remote": false,
    "published_at": "2026-09-08T22:25:36.463+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9371410f-1664-48c7-8153-466766739c8d",
-   "description_sha256": "7e758f76c37e878033cc4c0d494d05cf79850896afe240da6badc0103d7629dc"
+   "description_sha256": "f93ea89e8092706c48c6d9f51ee1970744bdf505c10e4c7a9b3401ef40749353"
   },
   {
    "job_id": "938ce5df-501a-4349-9586-2ce758dbfd0a",
@@ -1920,21 +1965,6 @@
    "published_at": "2026-06-04T15:09:07.832+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/b2cdf1d7-086c-4ea6-a76c-388c871a6148",
    "description_sha256": "db384bb2844ba9819138cdc776c179696512ec15d762863d61bd274a03d55463"
-  },
-  {
-   "job_id": "b8274010-df0f-4321-bd58-2da00918f307",
-   "lineage_key": "supply-chain-specialist@valencia",
-   "title": "Supply Chain Specialist",
-   "department": "Global Manufacturing Organization",
-   "team": "Global Supply Chain",
-   "location": "Valencia",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-08-26T07:20:41.733+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/b8274010-df0f-4321-bd58-2da00918f307",
-   "description_sha256": "d4b419188c80660c6e3fe389c385380423ee32e8a3b235937035ac36534a4f3a"
   },
   {
    "job_id": "b84b17ba-5619-4909-9f4e-bb1d79e027b5",
@@ -2416,7 +2446,7 @@
    "is_remote": false,
    "published_at": "2026-09-08T14:41:43.063+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/d930bdab-a9ee-49e3-ac73-46b42b69eb63",
-   "description_sha256": "10441bd582491ad22f9395a4f496ebc0c798f904ccc55a54382efa1971efc29b"
+   "description_sha256": "1d59acd109a0f8a78b21ef95c8ae3d1cca71120944d2ca21627b9d845b643546"
   },
   {
    "job_id": "d9af7181-4e5c-4ab4-9bca-db371c5c19d6",
@@ -2733,6 +2763,21 @@
    "published_at": "2026-07-01T13:57:44.571+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/f6d34236-1ec0-4567-8b6a-fb6d3eb6bb87",
    "description_sha256": "5c5fdc55f7ebb2a82b41622de5e405cbede09e7115cfbb6c6d40aa73dec38149"
+  },
+  {
+   "job_id": "f710849f-4a69-48b6-9f4d-0000c7c1265a",
+   "lineage_key": "senior-talent-attraction-partner@espoo",
+   "title": "Senior Talent Attraction Partner",
+   "department": "Operations",
+   "team": "HR Operations",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-18T12:44:35.664+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/f710849f-4a69-48b6-9f4d-0000c7c1265a",
+   "description_sha256": "552265b233b388d796af2ca5ca11cfc049d7564599ff33ebadc73365fb754496"
   },
   {
    "job_id": "f806e6c7-0817-49fa-b8d5-55130ae45e3a",

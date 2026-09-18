@@ -528,6 +528,11 @@
    "lon": 53.9994829,
    "label": "UAE",
    "remote": true
+  },
+  "canberra": {
+   "lat": -35.2975906,
+   "lon": 149.1012676,
+   "label": "Canberra"
   }
  }
 }

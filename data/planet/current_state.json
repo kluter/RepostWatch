@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-09-17T19:50:50+00:00",
- "job_count": 113,
+ "fetched_at": "2026-09-18T14:36:56+00:00",
+ "job_count": 111,
  "jobs": [
   {
    "job_id": "7374533",
@@ -453,21 +453,6 @@
    "is_remote": true,
    "published_at": "2026-07-01T18:11:40-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8013156",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8014499",
-   "lineage_key": "vice-president-chief-information-security-officer@san-francisco-ca",
-   "title": "Vice President & Chief Information Security Officer",
-   "department": "Security (Security)",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-18T15:40:00-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8014499",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1278,21 +1263,6 @@
    "is_remote": false,
    "published_at": "2026-08-26T18:20:49-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8160748",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8160756",
-   "lineage_key": "vice-president-chief-information-security-officer@arlington-va",
-   "title": "Vice President & Chief Information Security Officer",
-   "department": "Security (Security)",
-   "team": "",
-   "location": "Arlington, VA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-26T18:22:19-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8160756",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-09-16T15:08:11+00:00",
- "job_count": 23,
+ "fetched_at": "2026-09-19T13:58:26+00:00",
+ "job_count": 24,
  "jobs": [
   {
    "job_id": "076F11402A",
@@ -214,6 +214,24 @@
    "published_at": "2026-01-19T00:00:00+00:00",
    "url": "https://apply.workable.com/j/63E33F2615",
    "description_sha256": "585ce562f1581c78689cc1b2d8990e7fd3dc0bc5f3b6545cc4ad842a1bf82871"
+  },
+  {
+   "job_id": "6519B5059D",
+   "lineage_key": "senior-systems-engineer@arlington-united-states",
+   "title": "Senior Systems Engineer",
+   "department": "Mission Solutions",
+   "team": "",
+   "location": "Arlington, United States",
+   "secondary_locations": [
+    "Reston, United States",
+    "Santa Barbara, United States"
+   ],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-18T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/6519B5059D",
+   "description_sha256": "51758bd344351b2e085a9a99bed46f2aeee693695d45957fcfda7922be7ceb84"
   },
   {
    "job_id": "71AA98A76F",

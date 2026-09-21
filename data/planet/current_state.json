@@ -2,7 +2,7 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-09-21T16:33:37+00:00",
+ "fetched_at": "2026-09-21T20:34:34+00:00",
  "job_count": 111,
  "jobs": [
   {
@@ -231,21 +231,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "7727892",
-   "lineage_key": "customer-success-manager-u-s-defense-and-intelligence@arlington-va",
-   "title": "Customer Success Manager, U.S. Defense and Intelligence",
-   "department": "Customer Success Management",
-   "team": "",
-   "location": "Arlington, VA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-04-13T13:07:12-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7727892",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "7740653",
    "lineage_key": "senior-manager-talent-operations@san-francisco-ca",
    "title": "Senior Manager, Talent Operations",
@@ -333,6 +318,21 @@
    "is_remote": false,
    "published_at": "2026-05-13T14:54:19-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7907733",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "7907756",
+   "lineage_key": "deployment-strategist-professional-services-global-d-i@stockholm-sweden",
+   "title": "Deployment Strategist, Professional Services Global D&I",
+   "department": "Pre-Sales and Services",
+   "team": "",
+   "location": "Stockholm, Sweden",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-06-25T17:37:17-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7907756",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -528,21 +528,6 @@
    "is_remote": false,
    "published_at": "2026-07-20T17:14:36-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8053281",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8055706",
-   "lineage_key": "director-sales-development@san-francisco-ca",
-   "title": "Director, Sales Development",
-   "department": "Sales Manager",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-15T17:55:48-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8055706",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1578,6 +1563,21 @@
    "is_remote": false,
    "published_at": "2026-09-16T17:23:55-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8197384",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8197528",
+   "lineage_key": "workplace-coordinator@arlington-va",
+   "title": "Workplace Coordinator",
+   "department": "Workplace",
+   "team": "",
+   "location": "Arlington, VA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-21T15:17:44-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8197528",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

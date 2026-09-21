@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-09-18T14:36:56+00:00",
- "job_count": 39,
+ "fetched_at": "2026-09-21T16:33:37+00:00",
+ "job_count": 40,
  "jobs": [
   {
    "job_id": "6729465",
@@ -588,6 +588,21 @@
    "is_remote": false,
    "published_at": "2026-09-17T09:39:16-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8210664&gh_jid=8210664",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8220359",
+   "lineage_key": "launch-services-contracts-manager@munich-bavaria-germany",
+   "title": "Launch Services Contracts Manager",
+   "department": "Launch",
+   "team": "",
+   "location": "Munich, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-21T10:01:03-04:00",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8220359&gh_jid=8220359",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

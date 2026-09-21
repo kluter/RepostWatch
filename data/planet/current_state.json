@@ -2,7 +2,7 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-09-19T13:58:26+00:00",
+ "fetched_at": "2026-09-21T16:33:37+00:00",
  "job_count": 111,
  "jobs": [
   {
@@ -171,21 +171,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "7622544",
-   "lineage_key": "presales-sr-solutions-architect-french-defense-and-intelligence@france-remote",
-   "title": "PreSales Sr. Solutions Architect - French Defense and Intelligence",
-   "department": "Pre-Sales and Services",
-   "team": "",
-   "location": "France, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-02-19T16:21:00-05:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7622544",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "7644560",
    "lineage_key": "senior-camera-systems-engineer@san-francisco-ca",
    "title": "Senior Camera Systems Engineer",
@@ -198,21 +183,6 @@
    "is_remote": false,
    "published_at": "2026-03-16T17:23:11-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7644560",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7700271",
-   "lineage_key": "presales-sr-solutions-architect-french-defense-and-intelligence@united-kingdom-remote",
-   "title": "PreSales Sr. Solutions Architect - French Defense and Intelligence",
-   "department": "Pre-Sales and Services",
-   "team": "",
-   "location": "United Kingdom, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-03-11T07:30:08-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7700271",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -453,6 +423,21 @@
    "is_remote": false,
    "published_at": "2026-06-29T16:58:04-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8014103",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8014499",
+   "lineage_key": "vice-president-chief-information-security-officer@san-francisco-ca",
+   "title": "Vice President & Chief Information Security Officer",
+   "department": "Security (Security)",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-06-18T15:40:00-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8014499",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1233,6 +1218,21 @@
    "is_remote": false,
    "published_at": "2026-08-26T18:20:49-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8160748",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8160756",
+   "lineage_key": "vice-president-chief-information-security-officer@arlington-va",
+   "title": "Vice President & Chief Information Security Officer",
+   "department": "Security (Security)",
+   "team": "",
+   "location": "Arlington, VA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-26T18:22:19-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8160756",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

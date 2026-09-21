@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-09-19T13:58:26+00:00",
- "job_count": 24,
+ "fetched_at": "2026-09-21T16:33:37+00:00",
+ "job_count": 26,
  "jobs": [
   {
    "job_id": "076F11402A",
@@ -55,6 +55,24 @@
    "description_sha256": "c06a16089660f3ffaefa9d4a883128f59f680bd11593b9ee3859748665edef49"
   },
   {
+   "job_id": "27EBA846B1",
+   "lineage_key": "senior-flight-software-engineer-rust@arlington-united-states",
+   "title": "Senior Flight Software Engineer (Rust)",
+   "department": "Space Systems",
+   "team": "",
+   "location": "Arlington, United States",
+   "secondary_locations": [
+    "Reston, United States",
+    "Santa Barbara, United States"
+   ],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/27EBA846B1",
+   "description_sha256": "b932a99d8e95d458d9deb5f22b20bb6596564dc8f339555022f0d6e75357fb79"
+  },
+  {
    "job_id": "33F903685D",
    "lineage_key": "director-of-communications@arlington-united-states",
    "title": "Director of Communications",
@@ -83,6 +101,24 @@
    "published_at": "2026-06-30T00:00:00+00:00",
    "url": "https://apply.workable.com/j/423E64A881",
    "description_sha256": "31ade16a448fd2b0ec294c1ea4080778533a3c602edb3b697f6356a010613192"
+  },
+  {
+   "job_id": "460E5DED83",
+   "lineage_key": "flight-software-engineer-rust@arlington-united-states",
+   "title": "Flight Software Engineer (Rust)",
+   "department": "Space Systems",
+   "team": "",
+   "location": "Arlington, United States",
+   "secondary_locations": [
+    "Reston, United States",
+    "Santa Barbara, United States"
+   ],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/460E5DED83",
+   "description_sha256": "acebfdeecf98eeea275fe8d482bb9e16bfd686a8857f7e66bc7476fd313de210"
   },
   {
    "job_id": "49CF1FA326",

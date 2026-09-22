@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-22T15:08:13+00:00",
- "job_count": 188,
+ "fetched_at": "2026-09-22T19:52:34+00:00",
+ "job_count": 186,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -516,21 +516,6 @@
    "description_sha256": "cb22ce866a6e215f889695738bcff5999c86a12ab00f606cf26e2e198af760b2"
   },
   {
-   "job_id": "367ea774-2be1-436b-8e94-7c38e79d4c24",
-   "lineage_key": "senior-frontend-engineer-missions-ui@espoo",
-   "title": "Senior Frontend Engineer (Missions UI)",
-   "department": "Engineering",
-   "team": "Business Automation",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-12T06:13:34.719+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/367ea774-2be1-436b-8e94-7c38e79d4c24",
-   "description_sha256": "50c6d6453a58ca0264efc6818dd72887ddf2b98ba554fda7412c5415b943df08"
-  },
-  {
    "job_id": "37b350c7-9a07-441b-b7a5-18b1aeff4d90",
    "lineage_key": "staff-mechanical-engineer@warsaw",
    "title": "Staff Mechanical Engineer",
@@ -574,6 +559,21 @@
    "published_at": "2026-08-04T07:36:05.304+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/387a2a71-1b63-44b4-ac07-eaa487a78f63",
    "description_sha256": "f1dd64477e075928fd3e2b00392c652765e5cdd1b1f4f4d083fb0c694d02962d"
+  },
+  {
+   "job_id": "3c2152be-b654-498d-a932-e36c68fd79e8",
+   "lineage_key": "hr-generalist@valencia",
+   "title": "HR Generalist",
+   "department": "Operations",
+   "team": "HR Operations",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-09-22T15:24:02.282+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/3c2152be-b654-498d-a932-e36c68fd79e8",
+   "description_sha256": "d043b4f9b8db51fffa8ef8f070d075bc51e8d3e9addb74834b0e7a276b5abcb9"
   },
   {
    "job_id": "3d7f14e7-e116-4885-9d3d-a66080532999",
@@ -1195,21 +1195,6 @@
    "description_sha256": "f5ee52738846db421f1637679ebd29b3cb7f9ccb34f14f59c0ec5f8577f83bc9"
   },
   {
-   "job_id": "6f9a9e61-65b1-4c90-9e69-55646487df82",
-   "lineage_key": "propulsion-operations-engineer@warsaw",
-   "title": "Propulsion Operations Engineer",
-   "department": "Engineering",
-   "team": "Attitude and Orbit Control System Hardware",
-   "location": "Warsaw",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-17T14:04:16.478+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/6f9a9e61-65b1-4c90-9e69-55646487df82",
-   "description_sha256": "27ad11074163270a958638241ca35d671eecf4010457202d4223464f1655fbd0"
-  },
-  {
    "job_id": "6ff3a63c-29b2-4652-83df-6546a875804e",
    "lineage_key": "senior-electronics-engineer@warsaw",
    "title": "Senior Electronics Engineer",
@@ -1586,21 +1571,6 @@
    "published_at": "2026-09-22T08:42:24.528+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/8a1f917f-09fa-45b0-8e05-2f6eb2cdc793",
    "description_sha256": "0dee2274e4d0b18836cc7a978d244d307c17cdaccfb65b50f6f864c803290d66"
-  },
-  {
-   "job_id": "8a6bfe22-bf26-49da-a1ce-b64b314897ee",
-   "lineage_key": "devops-engineer@espoo",
-   "title": "DevOps Engineer",
-   "department": "Engineering",
-   "team": "CONNECT and Ground Stations",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-27T10:03:55.576+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/8a6bfe22-bf26-49da-a1ce-b64b314897ee",
-   "description_sha256": "db74180da52e0c48f065764fe78391824a4c295e74547f986ca55badf32722d4"
   },
   {
    "job_id": "8bbb61b2-e417-4d48-b6e2-45843174e21c",

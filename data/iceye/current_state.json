@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-21T16:33:37+00:00",
- "job_count": 187,
+ "fetched_at": "2026-09-22T15:08:13+00:00",
+ "job_count": 188,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -381,6 +381,21 @@
    "description_sha256": "37cbf51bc4b1a26b5d9c8aee5b32e63e7f47706111323e78d410dddd279138a2"
   },
   {
+   "job_id": "2af22301-ecca-4a6a-a483-625371b9d195",
+   "lineage_key": "satellite-operations-specialist@warsaw",
+   "title": "Satellite Operations Specialist",
+   "department": "Engineering",
+   "team": "Satellite Operations",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-09-22T08:47:29.683+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/2af22301-ecca-4a6a-a483-625371b9d195",
+   "description_sha256": "9e91b39a4b6d6175f4d781ec5f51d5ce30fe620a2ddb9e585a8e01bcd76fb687"
+  },
+  {
    "job_id": "2ce98cea-3f03-41a2-8f9a-0a19408b3fab",
    "lineage_key": "lab-technician@espoo",
    "title": "Lab Technician",
@@ -394,38 +409,6 @@
    "published_at": "2026-08-06T11:43:08.271+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/2ce98cea-3f03-41a2-8f9a-0a19408b3fab",
    "description_sha256": "1613381c44ad4ba3e8c6103b7e32f27281404cb2836b1b88159415453bfc65d8"
-  },
-  {
-   "job_id": "2dd441cd-718a-449b-9e5f-a9a0bbd91c23",
-   "lineage_key": "corporate-financial-analyst@espoo",
-   "title": "Corporate Financial Analyst",
-   "department": "Finance",
-   "team": "FP&A",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-18T14:22:36.182+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/2dd441cd-718a-449b-9e5f-a9a0bbd91c23",
-   "description_sha256": "230779983b2cc64e1fb3ecb39ac1abaab2691b1d67ebf196192d811ed61e055d"
-  },
-  {
-   "job_id": "2ef68fcc-6ce8-476e-8c94-6e7b099842e9",
-   "lineage_key": "forward-deployed-ai-engineer-portugal@lisbon",
-   "title": "Forward Deployed AI Engineer, Portugal",
-   "department": "Product",
-   "team": "Forward Deployed Engineering",
-   "location": "Lisbon",
-   "secondary_locations": [
-    "Portugal"
-   ],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-06-26T08:52:57.811+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/2ef68fcc-6ce8-476e-8c94-6e7b099842e9",
-   "description_sha256": "d0113cbb3671efb91d9e8870d81520fc8155c411e0716b6949b66699d24e5138"
   },
   {
    "job_id": "307e5ecf-9033-424d-b6e5-39d0483e7f49",
@@ -608,6 +591,21 @@
    "description_sha256": "feb4c7b25448d58b71899c7a03139921c013ea31377568181dcf95e0338e5964"
   },
   {
+   "job_id": "3d996476-2c6c-4170-894b-f48ee218c9e4",
+   "lineage_key": "customer-excellence-specialist@south-korea",
+   "title": "Customer Excellence Specialist",
+   "department": "Data",
+   "team": "Customer Excellence",
+   "location": "South Korea",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Remote",
+   "is_remote": true,
+   "published_at": "2026-09-22T12:04:44.565+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/3d996476-2c6c-4170-894b-f48ee218c9e4",
+   "description_sha256": "f8cb6d8fdc7018fa1771233e3eeb44f896b1393d241b5bcd49e0363166a77bea"
+  },
+  {
    "job_id": "3eb0f7b1-ab19-4d41-b633-dfeea0990086",
    "lineage_key": "configuration-specialist@espoo",
    "title": "Configuration Specialist",
@@ -745,21 +743,6 @@
    "description_sha256": "41f75b3787cba4b70c9429e3e74bcfc0dbce16d52c6ecf983ceb0d0f5d33e578"
   },
   {
-   "job_id": "482053f5-a2b0-4be8-b513-ec9524346fd6",
-   "lineage_key": "it-site-engineer-germany@berlin",
-   "title": "IT Site Engineer - Germany",
-   "department": "Operations",
-   "team": "IT",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-13T07:16:41.993+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/482053f5-a2b0-4be8-b513-ec9524346fd6",
-   "description_sha256": "64c86178cd23a00eb819ff064f2a80739b9031e337655393ec29bec4f3f3f1fd"
-  },
-  {
    "job_id": "49688ae2-0ada-46dc-b867-09ea1fe2e228",
    "lineage_key": "ait-mechanical-test-engineer@espoo",
    "title": "AIT Mechanical Test Engineer",
@@ -788,6 +771,21 @@
    "published_at": "2026-09-14T15:09:28.217+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/4b263ffa-135a-4855-b843-156cb8628683",
    "description_sha256": "72a9ea7f6bad190c52c4a429d0821c0551cee4997bbf98418a257ee3b92ff2d4"
+  },
+  {
+   "job_id": "4b5957fb-dd07-424f-b1b0-59bbd2864a0f",
+   "lineage_key": "senior-geospatial-software-engineer@espoo",
+   "title": "Senior Geospatial Software Engineer",
+   "department": "Solutions",
+   "team": "Solutions",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-22T08:05:24.616+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/4b5957fb-dd07-424f-b1b0-59bbd2864a0f",
+   "description_sha256": "e1b7ddebb00d75c991ac3ab12d1f53018fa26b4e19a32e171215887bdba84192"
   },
   {
    "job_id": "4f00e104-a4a1-4fa3-ac73-3c8c3f64b123",
@@ -970,6 +968,36 @@
    "description_sha256": "74ff7d9093006a2e04ab3fa9bcb537c863e217ecd51f8a4de560687a06ee34a9"
   },
   {
+   "job_id": "59b8fbfe-7a13-40c7-93e2-daef007de1b7",
+   "lineage_key": "senior-fp-a-manager@warsaw",
+   "title": "Senior FP&A Manager",
+   "department": "Finance",
+   "team": "FP&A",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-22T07:19:12.639+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/59b8fbfe-7a13-40c7-93e2-daef007de1b7",
+   "description_sha256": "a53ea785ca808a5887a74a7ff2cea551c4cd86fcd6fbe2e8b0015b97b4e4f460"
+  },
+  {
+   "job_id": "5b61f138-6bc9-4d81-b820-d1bf7b30a224",
+   "lineage_key": "customer-excellence-specialist@singapore",
+   "title": "Customer Excellence Specialist",
+   "department": "Data",
+   "team": "Customer Excellence",
+   "location": "Singapore",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-22T12:05:38.597+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/5b61f138-6bc9-4d81-b820-d1bf7b30a224",
+   "description_sha256": "d3e550eced536fad6ef5153eb976cb90a0a9482ed6262a03b227b44b57543d40"
+  },
+  {
    "job_id": "5bc4767f-7ae6-429a-a784-a9d260680462",
    "lineage_key": "smart-manufacturing-engineer-sw-electronics@espoo",
    "title": "Smart Manufacturing Engineer, SW & Electronics",
@@ -983,6 +1011,21 @@
    "published_at": "2026-04-28T13:13:51.694+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/5bc4767f-7ae6-429a-a784-a9d260680462",
    "description_sha256": "79a7864f6be4e0f7bbdf1267c18215530c805ffe88998bcd478bc91fb7524c95"
+  },
+  {
+   "job_id": "5c68a956-9359-4045-9664-c42f79b163fa",
+   "lineage_key": "customer-excellence-specialist@new-dehli",
+   "title": "Customer Excellence Specialist",
+   "department": "Data",
+   "team": "Customer Excellence",
+   "location": "New Dehli",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-22T12:05:24.489+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/5c68a956-9359-4045-9664-c42f79b163fa",
+   "description_sha256": "d3e550eced536fad6ef5153eb976cb90a0a9482ed6262a03b227b44b57543d40"
   },
   {
    "job_id": "5d1c9124-8b45-4b12-b3b4-8e91168afbbc",
@@ -1293,8 +1336,8 @@
    "job_id": "766bfeea-9868-4f0c-a629-5822dce0fa51",
    "lineage_key": "technical-sales-lead@berlin",
    "title": "Technical Sales Lead",
-   "department": "Missions",
-   "team": "Local Subsidiary, Germany",
+   "department": "CEO Office",
+   "team": "CEO Office",
    "location": "Berlin",
    "secondary_locations": [],
    "employment_type": "FullTime",
@@ -1377,7 +1420,7 @@
    "is_remote": false,
    "published_at": "2026-09-18T13:19:33.096+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/7ce28487-16fa-4054-a225-d91c4f996350",
-   "description_sha256": "ab1c8fa2f1b462deb881bc647d308502da6e31c6dfef9b17e00456dacfdbdbf9"
+   "description_sha256": "61eded2c4f15f6b3ddc49de78eae1624c933c58b0d006f1bb9dda5f032f1cffa"
   },
   {
    "job_id": "7e1be691-32b2-4a35-9338-8fec83b67c55",
@@ -1515,21 +1558,6 @@
    "description_sha256": "ebb79dc4a50fc336327fcfc1011d88bf8bf38662ee2e18ab2f06d7b06366203e"
   },
   {
-   "job_id": "878e90e4-99bf-4cc9-b383-3451d2c0d3c9",
-   "lineage_key": "full-stack-ai-software-engineer-portugal@lisbon",
-   "title": "Full Stack AI Software Engineer, Portugal",
-   "department": "Product",
-   "team": "Forward Deployed Engineering",
-   "location": "Lisbon",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-30T07:23:00.423+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/878e90e4-99bf-4cc9-b383-3451d2c0d3c9",
-   "description_sha256": "a7a30677e6cdc6da7921835765bcedf20c0b0ca6fcb381a55d4b48231954dc33"
-  },
-  {
    "job_id": "879b620d-c9c0-4d71-b642-814fc3996688",
    "lineage_key": "senior-electronics-engineer@warsaw",
    "title": "Senior Electronics Engineer",
@@ -1543,6 +1571,21 @@
    "published_at": "2026-06-26T12:18:45.905+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/879b620d-c9c0-4d71-b642-814fc3996688",
    "description_sha256": "d63df699aa5127c99eff6eb7f7e9959337a759a9abdac8d5ed9f2f2ead33d9c1"
+  },
+  {
+   "job_id": "8a1f917f-09fa-45b0-8e05-2f6eb2cdc793",
+   "lineage_key": "forward-deployed-backend-devops-engineer-portugal@lisbon",
+   "title": "Forward Deployed Backend/DevOps Engineer, Portugal",
+   "department": "Product",
+   "team": "Forward Deployed Engineering",
+   "location": "Lisbon",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-22T08:42:24.528+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/8a1f917f-09fa-45b0-8e05-2f6eb2cdc793",
+   "description_sha256": "0dee2274e4d0b18836cc7a978d244d307c17cdaccfb65b50f6f864c803290d66"
   },
   {
    "job_id": "8a6bfe22-bf26-49da-a1ce-b64b314897ee",
@@ -1787,6 +1830,21 @@
    "description_sha256": "ae2f0aec4bb065e19191afc9a78fd7b4a16c5bb89f3880805231c22ed41387a7"
   },
   {
+   "job_id": "9e92da27-90b8-4822-a79d-4525f0b8b0e9",
+   "lineage_key": "senior-fp-a-manager@espoo",
+   "title": "Senior FP&A Manager",
+   "department": "Finance",
+   "team": "FP&A",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-22T07:17:57.066+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/9e92da27-90b8-4822-a79d-4525f0b8b0e9",
+   "description_sha256": "c1e13a3198cf970d981b36e16b69ad699ffd8f4a391965e6042da080c5ac4686"
+  },
+  {
    "job_id": "a11a91a1-e3d5-46d0-a055-41b13ad33967",
    "lineage_key": "senior-software-engineer-product-engineering@espoo",
    "title": "Senior Software Engineer, Product Engineering",
@@ -1893,8 +1951,8 @@
   },
   {
    "job_id": "b05f92c4-8b2c-4a02-853c-bbeae69f76b5",
-   "lineage_key": "it-site-engineer@lisbon",
-   "title": "IT Site Engineer",
+   "lineage_key": "it-on-site-support@lisbon",
+   "title": "IT On-Site Support",
    "department": "Operations",
    "team": "IT",
    "location": "Lisbon",
@@ -1904,7 +1962,7 @@
    "is_remote": true,
    "published_at": "2026-08-07T08:11:39.933+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/b05f92c4-8b2c-4a02-853c-bbeae69f76b5",
-   "description_sha256": "8bcb7cb714b3241d4075663d9a641fa8065ac9e50406e9d93bb8feef26526649"
+   "description_sha256": "e6ddc1426d8c51554082e998d27ce386c8e9c4280fc4cf7766264e4dd456e16c"
   },
   {
    "job_id": "b12fce39-5cbb-44ed-8f02-ca1654d41659",
@@ -2222,21 +2280,6 @@
    "description_sha256": "1753c2a7a204d6c1da01c4aa0f76afcde6b1e2060f70161659237f35c192313a"
   },
   {
-   "job_id": "cc987d13-95f4-46bb-847c-cc86c5676fd4",
-   "lineage_key": "forward-deployed-backend-devops-engineer-portugal@lisbon",
-   "title": "Forward Deployed Backend/DevOps Engineer, Portugal",
-   "department": "Product",
-   "team": "Forward Deployed Engineering",
-   "location": "Lisbon",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-09-10T09:54:30.890+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/cc987d13-95f4-46bb-847c-cc86c5676fd4",
-   "description_sha256": "0dee2274e4d0b18836cc7a978d244d307c17cdaccfb65b50f6f864c803290d66"
-  },
-  {
    "job_id": "cd035996-66ce-478b-beb9-d42a69293946",
    "lineage_key": "manufacturing-engineer-electronics@espoo",
    "title": "Manufacturing Engineer (Electronics)",
@@ -2456,21 +2499,6 @@
    "description_sha256": "74dac61f6b9f3be1f772c44f97b6a45d46ba3c026b8058aab9d32904a85afe3a"
   },
   {
-   "job_id": "e03c7457-59ea-49bf-b64b-98e839eb28c8",
-   "lineage_key": "devops-engineer@espoo",
-   "title": "DevOps Engineer",
-   "department": "Missions",
-   "team": "Delivery & Support",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-06-24T16:03:07.978+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/e03c7457-59ea-49bf-b64b-98e839eb28c8",
-   "description_sha256": "aec0b306461d5113fc874998ab064cbf141d583c91541ed8b2d085203d855a92"
-  },
-  {
    "job_id": "e276cf77-21f8-4509-b926-d9d24fda8d48",
    "lineage_key": "subsystem-assembly-technician@greece",
    "title": "Subsystem Assembly Technician",
@@ -2487,8 +2515,8 @@
   },
   {
    "job_id": "e358575f-01c4-40ce-aac5-68f7255fce67",
-   "lineage_key": "information-security-officer-governance-risk-compliance@espoo",
-   "title": "Information Security Officer – Governance, Risk & Compliance",
+   "lineage_key": "staff-grc-engineer@espoo",
+   "title": "Staff GRC Engineer",
    "department": "IT & Security",
    "team": "IT & Security Staff",
    "location": "Espoo",
@@ -2498,7 +2526,7 @@
    "is_remote": true,
    "published_at": "2026-08-06T10:32:08.052+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e358575f-01c4-40ce-aac5-68f7255fce67",
-   "description_sha256": "0902d40b331478406580b67aa7790d6e688879ffc381909e0d54b93b96b7590d"
+   "description_sha256": "4f4d29b0a365917af6c0d3f3c06c6baf0ba1977b2c617ff3780f5c21792e8807"
   },
   {
    "job_id": "e3aa757d-c62b-43d9-96b3-1aca3ae0ff21",
@@ -2606,27 +2634,6 @@
    "published_at": "2026-09-10T20:32:26.977+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/ec3f4a74-8f55-4286-9237-9c0d998cc098",
    "description_sha256": "896e2f8094c2067474bbe593cc8aaffabee9c9c6af907ead94b19fab03674a1e"
-  },
-  {
-   "job_id": "edd8127b-1ecd-4a50-8e5a-ff95685f5922",
-   "lineage_key": "senior-meteorologist@espoo",
-   "title": "Senior Meteorologist",
-   "department": "Solutions",
-   "team": "Solutions Operations",
-   "location": "Espoo",
-   "secondary_locations": [
-    "Valencia",
-    "Berlin",
-    "Remote",
-    "Athens",
-    "Warsaw"
-   ],
-   "employment_type": "Contract",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-14T12:13:11.593+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/edd8127b-1ecd-4a50-8e5a-ff95685f5922",
-   "description_sha256": "584d82b3d4865b00ad50a3407c71f19a803aa2724292ee723972065463d77713"
   },
   {
    "job_id": "edf13659-c648-4ca9-9676-cbf002b6aaef",

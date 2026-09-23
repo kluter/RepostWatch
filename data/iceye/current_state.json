@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-23T15:10:01+00:00",
- "job_count": 188,
+ "fetched_at": "2026-09-23T19:48:03+00:00",
+ "job_count": 189,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -1843,6 +1843,21 @@
    "published_at": "2026-09-10T13:48:26.873+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/a27d71ea-c377-4f26-ba6d-8c725356f21c",
    "description_sha256": "b9325277c15e265051e0ab0aee19ba2f1e48dfb547edb32aaadc97d527c091d9"
+  },
+  {
+   "job_id": "a463a0f7-2610-4205-9f6a-9976f92c8341",
+   "lineage_key": "staff-software-engineer-commercial-platform@espoo",
+   "title": "Staff Software Engineer (Commercial Platform)",
+   "department": "Engineering",
+   "team": "Business Automation",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-23T19:14:55.523+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/a463a0f7-2610-4205-9f6a-9976f92c8341",
+   "description_sha256": "57bc5b2b29093035b62e704fe4b7bb676ad7c0e631c208faa64a4d35c131ab6d"
   },
   {
    "job_id": "a6d0bba0-2219-4f01-8c79-f4d945de5af7",

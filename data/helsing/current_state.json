@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-09-23T15:10:01+00:00",
- "job_count": 153,
+ "fetched_at": "2026-09-23T19:48:03+00:00",
+ "job_count": 156,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -2298,6 +2298,51 @@
    "is_remote": false,
    "published_at": "2026-09-21T11:37:59-04:00",
    "url": "https://helsing.ai/jobs/4981556101?gh_jid=4981556101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4983519101",
+   "lineage_key": "software-programme-manager-uk-land@london-england-united-kingdom",
+   "title": "Software Programme Manager UK – Land",
+   "department": "Campaigns & Programmes",
+   "team": "",
+   "location": "London, England, United Kingdom",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-23T11:29:38-04:00",
+   "url": "https://helsing.ai/jobs/4983519101?gh_jid=4983519101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4983527101",
+   "lineage_key": "programme-manager-uk-land@london-england-united-kingdom",
+   "title": "Programme Manager UK – Land",
+   "department": "Campaigns & Programmes",
+   "team": "",
+   "location": "London, England, United Kingdom",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-23T11:29:52-04:00",
+   "url": "https://helsing.ai/jobs/4983527101?gh_jid=4983527101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4983549101",
+   "lineage_key": "system-engineer@london-england-united-kingdom",
+   "title": "System Engineer",
+   "department": "Campaigns & Programmes",
+   "team": "",
+   "location": "London, England, United Kingdom",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-23T11:30:46-04:00",
+   "url": "https://helsing.ai/jobs/4983549101?gh_jid=4983549101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-22T19:52:34+00:00",
- "job_count": 186,
+ "fetched_at": "2026-09-23T15:10:01+00:00",
+ "job_count": 188,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -346,7 +346,7 @@
    "employment_type": "FullTime",
    "workplace_type": "",
    "is_remote": false,
-   "published_at": "2026-07-02T16:08:24.106+00:00",
+   "published_at": "2026-09-23T07:49:27.646+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/25d1fe95-5578-4cc8-8b5a-334e238e6f3d",
    "description_sha256": "9a67c4f963702931ff280b411fd29794859921184e9935c751b1ecc80c7d9cf9"
   },
@@ -483,7 +483,7 @@
    "is_remote": true,
    "published_at": "2026-08-18T11:49:18.685+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/339329ca-5f4d-4f29-b681-47dab7ffb88f",
-   "description_sha256": "2b74ccd31989bc2532df76014755f231cb9c97edaf8d4f3b5e443dead6f95a6a"
+   "description_sha256": "9bdc54f8cbb529f10e16006abaf9143a48005167ba4e5a6292a73e36648f42a4"
   },
   {
    "job_id": "34f68a39-6743-4af1-ae67-bd0ef78c904e",
@@ -860,7 +860,7 @@
    "is_remote": true,
    "published_at": "2026-09-14T07:16:50.381+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/51bb267b-c556-49f1-9f23-4802f76bd9ad",
-   "description_sha256": "0d9fc412d946c52d709bb4347e95e2a69b7261d305531e8967fd456e6582b730"
+   "description_sha256": "9774cf5f1dff1dbf01d3b5f8ddc4a2cee5ecd3e3cd15617f42c8b7f3a244012e"
   },
   {
    "job_id": "532afee6-79d9-4693-9c4a-9726b5fb20e5",
@@ -980,7 +980,7 @@
    "is_remote": true,
    "published_at": "2026-09-22T07:19:12.639+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/59b8fbfe-7a13-40c7-93e2-daef007de1b7",
-   "description_sha256": "a53ea785ca808a5887a74a7ff2cea551c4cd86fcd6fbe2e8b0015b97b4e4f460"
+   "description_sha256": "40584d5f1db44a3c9fc1b21a65ee802fab3639ca144f493de9e87e6cb4f57381"
   },
   {
    "job_id": "5b61f138-6bc9-4d81-b820-d1bf7b30a224",
@@ -1321,8 +1321,8 @@
    "job_id": "766bfeea-9868-4f0c-a629-5822dce0fa51",
    "lineage_key": "technical-sales-lead@berlin",
    "title": "Technical Sales Lead",
-   "department": "CEO Office",
-   "team": "CEO Office",
+   "department": "Missions",
+   "team": "Local Subsidiary, Germany",
    "location": "Berlin",
    "secondary_locations": [],
    "employment_type": "FullTime",
@@ -1615,7 +1615,7 @@
    "is_remote": true,
    "published_at": "2026-09-21T15:06:14.917+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/8f1aaed7-9418-49f5-9dcf-c71359b0bc8e",
-   "description_sha256": "08d07b79c53cd95bc6711edea16b95e5a78d2685f6fd42666961b93ecfff66c0"
+   "description_sha256": "f4bbe34aabb7ea140be7aa836a76ebb811adfeb907bb772a30d4915a69905981"
   },
   {
    "job_id": "8f6aae6f-73d9-4b7e-afb5-9e27089d13d7",
@@ -1903,6 +1903,21 @@
    "published_at": "2026-08-12T09:52:00.559+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/a905295f-6d4c-4def-bddd-42deb123bfe0",
    "description_sha256": "c4ecabb24f690735a79fef18b61e6a187947a4381a966eaef3e5e93961b5d5f6"
+  },
+  {
+   "job_id": "a954c433-570d-423a-a096-69d438005ddb",
+   "lineage_key": "customs-specialist@espoo",
+   "title": "Customs Specialist",
+   "department": "Global Manufacturing Organization",
+   "team": "Supply Chain Logistics and Compliance",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-23T15:04:15.136+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/a954c433-570d-423a-a096-69d438005ddb",
+   "description_sha256": "227c41a7aed3096a3772ce0ede8484a6b7a1dcc72047f4bd21838990ed1a9f1e"
   },
   {
    "job_id": "aa323d27-cb46-49da-ad7b-2af2821fccfa",
@@ -2247,7 +2262,7 @@
    "is_remote": true,
    "published_at": "2026-07-20T06:01:05.344+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/cc0b017f-f910-4e64-9dd6-4b4da5538089",
-   "description_sha256": "1753c2a7a204d6c1da01c4aa0f76afcde6b1e2060f70161659237f35c192313a"
+   "description_sha256": "3623aaa42d3cf15507286af01b306e292156a18622b8ce45eb6f0e1321425afc"
   },
   {
    "job_id": "cd035996-66ce-478b-beb9-d42a69293946",
@@ -2527,6 +2542,21 @@
    "published_at": "2026-08-20T09:18:26.835+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e4d89d32-5bee-4090-8bd0-5634803b6d3f",
    "description_sha256": "44e4a1a7e3617348b69e121c2c13f2f94f88a0a7b2f0cf51b76f6930139b8fb3"
+  },
+  {
+   "job_id": "e595c160-7caf-4697-a4d5-a2a85bf5c481",
+   "lineage_key": "staff-structural-analysis-engineer@valencia",
+   "title": "Staff Structural Analysis Engineer",
+   "department": "Engineering",
+   "team": "SIGINT",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-09-23T14:40:13.366+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/e595c160-7caf-4697-a4d5-a2a85bf5c481",
+   "description_sha256": "c58268b4033b642d2ac602464359a07071e9d64c093470744d6b2da727da5c09"
   },
   {
    "job_id": "e7d59b96-29fb-4d6c-8e4b-4cdb4e38da1b",

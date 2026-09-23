@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-09-21T16:33:37+00:00",
- "job_count": 103,
+ "fetched_at": "2026-09-23T15:10:01+00:00",
+ "job_count": 100,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -378,21 +378,6 @@
    "is_remote": false,
    "published_at": "2026-01-29T18:00:01-05:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4765503101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4778527101",
-   "lineage_key": "controls-automation-engineer-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Controls & Automation Engineer (m/f/d)",
-   "department": "Ground Systems",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-02-16T18:00:01-05:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4778527101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -816,21 +801,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4934396101",
-   "lineage_key": "working-student-fluid-systems-design-m-w-d@ottobrunn-bavaria-germany",
-   "title": "Working Student Fluid Systems Design (m/w/d)",
-   "department": "Ground Systems",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-22T04:14:37-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4934396101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4936418101",
    "lineage_key": "senior-program-manager-launch-services-m-f-d@ottobrunn-bavaria-germany",
    "title": "Senior Program Manager Launch Services (m/f/d)",
@@ -924,7 +894,7 @@
    "job_id": "4943578101",
    "lineage_key": "mechanical-design-routing-engineer-m-w-d@ottobrunn-bavaria-germany",
    "title": "Mechanical Design & Routing Engineer (m/w/d)",
-   "department": "AGNC",
+   "department": "Avionics",
    "team": "",
    "location": "Ottobrunn, Bavaria, Germany",
    "secondary_locations": [],
@@ -1206,21 +1176,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4960889101",
-   "lineage_key": "working-student-m-w-f@parsdorf-bavaria-germany",
-   "title": "Working Student (m/w/f)",
-   "department": "Production, Operations & Quality",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-26T05:51:00-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4960889101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4961155101",
    "lineage_key": "propulsion-valves-engineer-m-f-d@parsdorf-bavaria-germany",
    "title": "Propulsion Valves Engineer (m/f/d)",
@@ -1387,8 +1342,8 @@
   },
   {
    "job_id": "4974646101",
-   "lineage_key": "engine-thrust-chamber-engineer-m-f-d@parsdorf-bavaria-germany",
-   "title": "Engine Thrust Chamber Engineer (m/f/d)",
+   "lineage_key": "thrust-chamber-assembly-engineer-m-f-d@parsdorf-bavaria-germany",
+   "title": "Thrust Chamber Assembly Engineer (m/f/d)",
    "department": "Propulsion",
    "team": "",
    "location": "Parsdorf, Bavaria, Germany",

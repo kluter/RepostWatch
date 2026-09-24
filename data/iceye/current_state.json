@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-23T19:48:03+00:00",
- "job_count": 189,
+ "fetched_at": "2026-09-24T15:27:54+00:00",
+ "job_count": 187,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -588,7 +588,7 @@
    "is_remote": false,
    "published_at": "2026-08-14T11:51:08.317+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/3d7f14e7-e116-4885-9d3d-a66080532999",
-   "description_sha256": "feb4c7b25448d58b71899c7a03139921c013ea31377568181dcf95e0338e5964"
+   "description_sha256": "cb039aab75c6aa5937d66c68ed3a9ef62eb79c9bf180e9b967f6afcbb3d9e8e3"
   },
   {
    "job_id": "3d996476-2c6c-4170-894b-f48ee218c9e4",
@@ -601,9 +601,9 @@
    "employment_type": "FullTime",
    "workplace_type": "Remote",
    "is_remote": true,
-   "published_at": "2026-09-22T12:04:44.565+00:00",
+   "published_at": "2026-09-24T09:18:49.481+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/3d996476-2c6c-4170-894b-f48ee218c9e4",
-   "description_sha256": "f8cb6d8fdc7018fa1771233e3eeb44f896b1393d241b5bcd49e0363166a77bea"
+   "description_sha256": "4068b16c45af48a36de7c6a20914aa654888d1ff81d9103aa15d6a8cb115e77f"
   },
   {
    "job_id": "3eb0f7b1-ab19-4d41-b633-dfeea0990086",
@@ -619,6 +619,21 @@
    "published_at": "2026-06-24T16:16:41.423+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/3eb0f7b1-ab19-4d41-b633-dfeea0990086",
    "description_sha256": "eb26642810f668ad0e5779dc9d63b5c81dcbdeb41b186dc3533712a63dd8e00e"
+  },
+  {
+   "job_id": "42d95b7e-c150-4ebd-8814-5993dbafb921",
+   "lineage_key": "satellite-rf-senior-technician@valencia",
+   "title": "Satellite RF Senior Technician",
+   "department": "Global Manufacturing Organization",
+   "team": "ES AIT Engineering",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-09-24T08:19:29.212+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/42d95b7e-c150-4ebd-8814-5993dbafb921",
+   "description_sha256": "da9567fd356d416775fe2a40a913221bf2e29ac84f58df5997dd0c05bc49f6e0"
   },
   {
    "job_id": "42ec11f9-2c5a-417d-aca7-1ff6740dea7d",
@@ -815,7 +830,7 @@
    "is_remote": false,
    "published_at": "2026-09-18T13:13:54.061+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/4f06e7bf-5b09-4b93-b71e-ca5a8bfb8d8f",
-   "description_sha256": "8fdafc945494abe485becd6cb23dd5aafc7b29659ad7902f4b4e13f8d2179701"
+   "description_sha256": "b03cdf9ab414a22c39652cbe9e2e4d5659d441a5e9ab07cb028655667169f316"
   },
   {
    "job_id": "50ea94b9-1799-49ed-98f2-fdf29bf4fef8",
@@ -983,21 +998,6 @@
    "description_sha256": "40584d5f1db44a3c9fc1b21a65ee802fab3639ca144f493de9e87e6cb4f57381"
   },
   {
-   "job_id": "5b61f138-6bc9-4d81-b820-d1bf7b30a224",
-   "lineage_key": "customer-excellence-specialist@singapore",
-   "title": "Customer Excellence Specialist",
-   "department": "Data",
-   "team": "Customer Excellence",
-   "location": "Singapore",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-22T12:05:38.597+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/5b61f138-6bc9-4d81-b820-d1bf7b30a224",
-   "description_sha256": "d3e550eced536fad6ef5153eb976cb90a0a9482ed6262a03b227b44b57543d40"
-  },
-  {
    "job_id": "5bc4767f-7ae6-429a-a784-a9d260680462",
    "lineage_key": "smart-manufacturing-engineer-sw-electronics@espoo",
    "title": "Smart Manufacturing Engineer, SW & Electronics",
@@ -1011,21 +1011,6 @@
    "published_at": "2026-04-28T13:13:51.694+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/5bc4767f-7ae6-429a-a784-a9d260680462",
    "description_sha256": "79a7864f6be4e0f7bbdf1267c18215530c805ffe88998bcd478bc91fb7524c95"
-  },
-  {
-   "job_id": "5c68a956-9359-4045-9664-c42f79b163fa",
-   "lineage_key": "customer-excellence-specialist@new-dehli",
-   "title": "Customer Excellence Specialist",
-   "department": "Data",
-   "team": "Customer Excellence",
-   "location": "New Dehli",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-22T12:05:24.489+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/5c68a956-9359-4045-9664-c42f79b163fa",
-   "description_sha256": "d3e550eced536fad6ef5153eb976cb90a0a9482ed6262a03b227b44b57543d40"
   },
   {
    "job_id": "5d1c9124-8b45-4b12-b3b4-8e91168afbbc",
@@ -1405,7 +1390,7 @@
    "is_remote": false,
    "published_at": "2026-09-18T13:19:33.096+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/7ce28487-16fa-4054-a225-d91c4f996350",
-   "description_sha256": "61eded2c4f15f6b3ddc49de78eae1624c933c58b0d006f1bb9dda5f032f1cffa"
+   "description_sha256": "958f1892be54a8ed735aae60dc713367007e812c5c0fce5d04afbc2d54d5d8c5"
   },
   {
    "job_id": "7e1be691-32b2-4a35-9338-8fec83b67c55",
@@ -1771,8 +1756,8 @@
   },
   {
    "job_id": "9649c999-70dc-4620-9487-e664767fa88d",
-   "lineage_key": "satellite-production-senior-technician-rf-systems-software@valencia",
-   "title": "Satellite Production Senior Technician, RF, Systems & Software",
+   "lineage_key": "satellite-systems-senior-technician@valencia",
+   "title": "Satellite Systems Senior Technician",
    "department": "Global Manufacturing Organization",
    "team": "ES Satellite Production",
    "location": "Valencia",
@@ -1780,9 +1765,9 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-09-11T14:08:34.950+00:00",
+   "published_at": "2026-09-24T07:36:04.976+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9649c999-70dc-4620-9487-e664767fa88d",
-   "description_sha256": "173bca12b3f858ab2232ca3b5c7924c1842d17d869d0c432d59bef2584955e3a"
+   "description_sha256": "f10a43babeb675ca5134d021f75cf1d291ad519cdec3660d5601b4c7093327e7"
   },
   {
    "job_id": "9e91192a-ae07-4ba6-b0d8-dd2d99064d9d",
@@ -2023,21 +2008,6 @@
    "published_at": "2026-07-13T08:51:22.242+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/b9a28deb-3abb-4a68-9437-6d823cdac199",
    "description_sha256": "6c07a7e2676dccc4e68f6aea01e09fcb401287745cbf1764704884546a78b008"
-  },
-  {
-   "job_id": "ba1f5690-afe8-4479-a03b-cd367cc16fd5",
-   "lineage_key": "senior-ai-engineer@espoo",
-   "title": "Senior AI Engineer",
-   "department": "Engineering",
-   "team": "Business Automation",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-17T13:54:15.581+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/ba1f5690-afe8-4479-a03b-cd367cc16fd5",
-   "description_sha256": "96ceed232abcf394f662f1249b478b21bd5b6abecae8c78f9d1deb4eabe593f3"
   },
   {
    "job_id": "bb49fc90-0bee-4ee4-8eb8-2771a9a01450",

@@ -2,7 +2,7 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-09-22T19:52:34+00:00",
+ "fetched_at": "2026-09-24T15:27:54+00:00",
  "job_count": 26,
  "jobs": [
   {
@@ -123,7 +123,7 @@
   {
    "job_id": "49CF1FA326",
    "lineage_key": "senior-program-manager-remote-sensing@arlington-united-states",
-   "title": "Senior Program Manager - Remote Sensing",
+   "title": "(Senior) Program Manager - Remote Sensing",
    "department": "Remote Sensing",
    "team": "",
    "location": "Arlington, United States",
@@ -133,7 +133,7 @@
    "is_remote": false,
    "published_at": "2026-08-27T00:00:00+00:00",
    "url": "https://apply.workable.com/j/49CF1FA326",
-   "description_sha256": "1aa2069d9f8672777684f948ab2d85e76768871363fb4fefa8b6bc5f0f8ec9be"
+   "description_sha256": "63ec12bf13affa7c20fcc2b81141e113407f929248a17f7d0d5d578b9fd26096"
   },
   {
    "job_id": "4A5E102FBA",

@@ -2,8 +2,8 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-09-23T15:10:01+00:00",
- "job_count": 63,
+ "fetched_at": "2026-09-24T15:27:54+00:00",
+ "job_count": 62,
  "jobs": [
   {
    "job_id": "063679a7-77f0-4e6d-8296-bcff69f4ec4f",
@@ -441,21 +441,6 @@
    "description_sha256": "659f5ec68fa17bc480fc6dbb19f0cac22c6d1eb51dd052af73c88c553581b923"
   },
   {
-   "job_id": "86263e5d-9bb9-4ca2-90f6-efb7c79d212c",
-   "lineage_key": "bookkeeper@barcelona-spain",
-   "title": "Bookkeeper",
-   "department": "FINANCE",
-   "team": "",
-   "location": "Barcelona, Spain",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-08-05T13:16:08+01:00",
-   "url": "https://careers.open-cosmos.com/jobs/8174442-bookkeeper",
-   "description_sha256": "fe757c095aaeb70aedaab06ad6d5785e5a3a366bdf409c74d8964eab79bb056c"
-  },
-  {
    "job_id": "88c9f24e-ce2a-408b-bb70-fd24b9a43b95",
    "lineage_key": "senior-mission-concept-engineer@barcelona-spain",
    "title": "Senior Mission Concept Engineer",
@@ -768,7 +753,7 @@
    "is_remote": true,
    "published_at": "2026-07-01T10:01:49+01:00",
    "url": "https://careers.open-cosmos.com/jobs/7999895-software-engineer-on-board-processing",
-   "description_sha256": "acd908ba570807554b5dbb70a0adc100c7f3784f44a75aa02813b5a7a57dad12"
+   "description_sha256": "590688b37c35df9185010972f36e091d0ffd748feb7f51c27e492e1336374fb1"
   },
   {
    "job_id": "d3b9f416-b454-4a9b-ac79-17c734fca0cb",

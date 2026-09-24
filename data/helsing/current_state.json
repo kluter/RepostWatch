@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-09-23T19:48:03+00:00",
- "job_count": 156,
+ "fetched_at": "2026-09-24T15:27:54+00:00",
+ "job_count": 154,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -168,6 +168,21 @@
    "is_remote": false,
    "published_at": "2025-01-13T12:15:06-05:00",
    "url": "https://helsing.ai/jobs/4516967101?gh_jid=4516967101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4538119101",
+   "lineage_key": "forward-strategist@munich",
+   "title": "Forward Strategist",
+   "department": "Deployed Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-20T08:58:17-04:00",
+   "url": "https://helsing.ai/jobs/4538119101?gh_jid=4538119101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1086,21 +1101,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4912850101",
-   "lineage_key": "senior-talent-acquisition-partner@berlin",
-   "title": "Senior Talent Acquisition Partner",
-   "department": "Talent Acquisition",
-   "team": "",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-30T05:36:57-04:00",
-   "url": "https://helsing.ai/jobs/4912850101?gh_jid=4912850101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4913312101",
    "lineage_key": "senior-programme-manager-integrated-logistics-support@munich",
    "title": "(Senior) Programme Manager - Integrated Logistics Support",
@@ -1173,21 +1173,6 @@
    "is_remote": false,
    "published_at": "2026-07-14T08:17:40-04:00",
    "url": "https://helsing.ai/jobs/4923775101?gh_jid=4923775101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4923845101",
-   "lineage_key": "wireless-communications-systems-engineer@munich",
-   "title": "Wireless Communications Systems Engineer",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-09T10:46:25-04:00",
-   "url": "https://helsing.ai/jobs/4923845101?gh_jid=4923845101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1623,21 +1608,6 @@
    "is_remote": false,
    "published_at": "2026-08-17T12:40:09-04:00",
    "url": "https://helsing.ai/jobs/4954096101?gh_jid=4954096101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4954115101",
-   "lineage_key": "it-support-specialist@washington-dc",
-   "title": "IT Support Specialist",
-   "department": "IT",
-   "team": "",
-   "location": "Washington, DC",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-18T15:00:20-04:00",
-   "url": "https://helsing.ai/jobs/4954115101?gh_jid=4954115101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -2227,8 +2197,8 @@
   },
   {
    "job_id": "4978367101",
-   "lineage_key": "chief-of-staff-s-o-aus@canberra",
-   "title": "Chief of Staff, S&O (AUS)",
+   "lineage_key": "strategy-operations-aus@canberra",
+   "title": "Strategy & Operations (AUS)",
    "department": "Market",
    "team": "",
    "location": "Canberra",
@@ -2302,8 +2272,8 @@
   },
   {
    "job_id": "4983519101",
-   "lineage_key": "software-programme-manager-uk-land@london-england-united-kingdom",
-   "title": "Software Programme Manager UK – Land",
+   "lineage_key": "software-programme-manager-land@london-england-united-kingdom",
+   "title": "Software Programme Manager – Land",
    "department": "Campaigns & Programmes",
    "team": "",
    "location": "London, England, United Kingdom",
@@ -2317,8 +2287,8 @@
   },
   {
    "job_id": "4983527101",
-   "lineage_key": "programme-manager-uk-land@london-england-united-kingdom",
-   "title": "Programme Manager UK – Land",
+   "lineage_key": "programme-manager-land@london-england-united-kingdom",
+   "title": "Programme Manager – Land",
    "department": "Campaigns & Programmes",
    "team": "",
    "location": "London, England, United Kingdom",
@@ -2332,8 +2302,8 @@
   },
   {
    "job_id": "4983549101",
-   "lineage_key": "system-engineer@london-england-united-kingdom",
-   "title": "System Engineer",
+   "lineage_key": "systems-engineer@london-england-united-kingdom",
+   "title": "Systems Engineer",
    "department": "Campaigns & Programmes",
    "team": "",
    "location": "London, England, United Kingdom",

@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-09-24T15:27:54+00:00",
- "job_count": 154,
+ "fetched_at": "2026-09-24T20:07:10+00:00",
+ "job_count": 156,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -558,6 +558,21 @@
    "is_remote": false,
    "published_at": "2026-04-17T03:53:05-04:00",
    "url": "https://helsing.ai/jobs/4844205101?gh_jid=4844205101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4852743101",
+   "lineage_key": "security-guard@munich",
+   "title": "Security Guard",
+   "department": "Corporate Security",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-05-05T06:39:44-04:00",
+   "url": "https://helsing.ai/jobs/4852743101?gh_jid=4852743101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -2313,6 +2328,21 @@
    "is_remote": false,
    "published_at": "2026-09-23T11:30:46-04:00",
    "url": "https://helsing.ai/jobs/4983549101?gh_jid=4983549101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4986867101",
+   "lineage_key": "mitarbeiter-in-im-internen-werk-und-objektschutz@munich",
+   "title": "Mitarbeiter/in im internen Werk-und Objektschutz",
+   "department": "Corporate Security",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-24T12:42:39-04:00",
+   "url": "https://helsing.ai/jobs/4986867101?gh_jid=4986867101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

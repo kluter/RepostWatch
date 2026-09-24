@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-09-24T15:27:54+00:00",
- "job_count": 26,
+ "fetched_at": "2026-09-24T20:07:10+00:00",
+ "job_count": 25,
  "jobs": [
   {
    "job_id": "076F11402A",
@@ -316,23 +316,6 @@
    "published_at": "2026-09-11T00:00:00+00:00",
    "url": "https://apply.workable.com/j/94E9BDA8D3",
    "description_sha256": "783c5eb5c2d4cd0b22109636dae44a4c4590a8bb8008701cd99250e91291059f"
-  },
-  {
-   "job_id": "A6F8E3AB69",
-   "lineage_key": "program-manager@arlington-united-states",
-   "title": "Program Manager",
-   "department": "Mission Solutions",
-   "team": "",
-   "location": "Arlington, United States",
-   "secondary_locations": [
-    "Reston, United States"
-   ],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-23T00:00:00+00:00",
-   "url": "https://apply.workable.com/j/A6F8E3AB69",
-   "description_sha256": "b2ca6f2cc3504b1b6db3a03b3e764b9eb1b3769104ec180cc4f8d3b4102d4a5e"
   },
   {
    "job_id": "A9AE7BC7D6",

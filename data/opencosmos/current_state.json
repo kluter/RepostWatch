@@ -2,8 +2,8 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-09-25T15:29:33+00:00",
- "job_count": 62,
+ "fetched_at": "2026-09-25T20:07:27+00:00",
+ "job_count": 58,
  "jobs": [
   {
    "job_id": "063679a7-77f0-4e6d-8296-bcff69f4ec4f",
@@ -411,21 +411,6 @@
    "description_sha256": "7e27a94961716bff5fb7dc483cc9e46b2f3cdf9e49419a92caf1ada0d1c2d37c"
   },
   {
-   "job_id": "80ba050a-d1a0-40d7-91ef-b16b514746d5",
-   "lineage_key": "data-software-engineer@harwell-uk",
-   "title": "Data Software Engineer",
-   "department": "DATA",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-02-14T16:28:25+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/7231067-data-software-engineer",
-   "description_sha256": "e69468042fbdafdfefdfc81a626d85d0b4a988e72d543b9c4a98faf1ada98bda"
-  },
-  {
    "job_id": "860f2589-f7e6-473e-a595-c6f705d5fb50",
    "lineage_key": "electronics-engineer-satellite-manufacturing-ait-production@harwell-uk",
    "title": "Electronics Engineer – Satellite Manufacturing (AIT Production)",
@@ -454,21 +439,6 @@
    "published_at": "2025-10-15T09:43:04+01:00",
    "url": "https://careers.open-cosmos.com/jobs/6614129-senior-mission-concept-engineer",
    "description_sha256": "215004d1a2e3739cb70f7f846935fd2370eafc4afee9c8281436b56f83d068b9"
-  },
-  {
-   "job_id": "89ee091b-01b3-44b9-869e-b8b29a5c9c76",
-   "lineage_key": "test-engineer-data@harwell-uk",
-   "title": "Test Engineer (Data)",
-   "department": "DATA",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-05-12T07:54:29+01:00",
-   "url": "https://careers.open-cosmos.com/jobs/7720874-test-engineer-data",
-   "description_sha256": "f8928e1cc645709b341cdabc860c534a7a11c9a038f1d9151de3ee9cec6f8c5c"
   },
   {
    "job_id": "8ad00658-c787-4f46-b65f-ae4ab061d539",
@@ -514,21 +484,6 @@
    "published_at": "2026-02-14T18:04:31+00:00",
    "url": "https://careers.open-cosmos.com/jobs/7231083-inventory-logistics-coordinator-harwell-oxfordshire",
    "description_sha256": "ac8d808cae80f77bd879742816195f80ea9c16dce5cdbb1ae762b5a0ca72bebe"
-  },
-  {
-   "job_id": "94c0b48d-e75c-4bab-add2-6dd1de81d473",
-   "lineage_key": "senior-react-frontend-developer-data@harwell-uk",
-   "title": "Senior React Frontend Developer (Data)",
-   "department": "DATA",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-05-21T09:54:55+01:00",
-   "url": "https://careers.open-cosmos.com/jobs/7772658-senior-react-frontend-developer-data",
-   "description_sha256": "75b7e26d0241c3ded3975c1a53e84da7c442feacd0c51b4412eb3950d0f1ea0f"
   },
   {
    "job_id": "9666bee1-3d6c-495a-b592-9d50ecf7907a",
@@ -754,21 +709,6 @@
    "published_at": "2026-07-01T10:01:49+01:00",
    "url": "https://careers.open-cosmos.com/jobs/7999895-software-engineer-on-board-processing",
    "description_sha256": "590688b37c35df9185010972f36e091d0ffd748feb7f51c27e492e1336374fb1"
-  },
-  {
-   "job_id": "d3b9f416-b454-4a9b-ac79-17c734fca0cb",
-   "lineage_key": "earth-observation-presales-engineer@harwell-uk",
-   "title": "Earth Observation Presales Engineer",
-   "department": "DATA",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-05-12T14:04:06+01:00",
-   "url": "https://careers.open-cosmos.com/jobs/7725009-earth-observation-presales-engineer",
-   "description_sha256": "4ebb600534a55b2a223712159269511d8225d1f96b93fb3c34c58e518f40f920"
   },
   {
    "job_id": "d5342aa0-dc34-4da2-a210-74564be6c143",

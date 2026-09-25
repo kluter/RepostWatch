@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-09-24T20:07:10+00:00",
- "job_count": 25,
+ "fetched_at": "2026-09-25T20:07:27+00:00",
+ "job_count": 26,
  "jobs": [
   {
    "job_id": "076F11402A",
@@ -348,6 +348,23 @@
    "published_at": "2026-06-25T00:00:00+00:00",
    "url": "https://apply.workable.com/j/C2A49317A8",
    "description_sha256": "81bb87e3c9d9b363886d6583b1e1141fbe3e855df0e4483bfb58377c534780ad"
+  },
+  {
+   "job_id": "CE5C24CBE2",
+   "lineage_key": "senior-staff-flight-software-systems-engineer@arlington-united-states",
+   "title": "Senior/Staff Flight Software Systems Engineer",
+   "department": "Mission Solutions",
+   "team": "",
+   "location": "Arlington, United States",
+   "secondary_locations": [
+    "Reston, United States"
+   ],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-25T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/CE5C24CBE2",
+   "description_sha256": "d9572b4e862a72cf5f92a6d02cfe1d22b4d4fa2127db7c09b10e0a6e2abf20ba"
   },
   {
    "job_id": "D8FC6D2A00",

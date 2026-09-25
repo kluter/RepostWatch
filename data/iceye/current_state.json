@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-24T20:07:10+00:00",
- "job_count": 187,
+ "fetched_at": "2026-09-25T15:29:33+00:00",
+ "job_count": 188,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -366,6 +366,21 @@
    "description_sha256": "836002115f483f599c6d45902b2469c424eabb53364310af31c8605cb3cd30d3"
   },
   {
+   "job_id": "2a0250ec-cd39-4589-9ee9-f1bffd4a4975",
+   "lineage_key": "senior-mechanical-test-engineer@espoo",
+   "title": "Senior Mechanical Test Engineer",
+   "department": "Engineering",
+   "team": "Mechanical Engineering",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-25T07:51:30.576+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/2a0250ec-cd39-4589-9ee9-f1bffd4a4975",
+   "description_sha256": "96a5581e5d1c1bee26ae95dcc4295ab2f199349076a8d27b782f0441170e328e"
+  },
+  {
    "job_id": "2a7fa616-d6b3-469d-a724-73150c417fac",
    "lineage_key": "staff-optical-engineer@warsaw",
    "title": "Staff Optical Engineer",
@@ -396,21 +411,6 @@
    "description_sha256": "9e91b39a4b6d6175f4d781ec5f51d5ce30fe620a2ddb9e585a8e01bcd76fb687"
   },
   {
-   "job_id": "2ce98cea-3f03-41a2-8f9a-0a19408b3fab",
-   "lineage_key": "lab-technician@espoo",
-   "title": "Lab Technician",
-   "department": "Global Manufacturing Organization",
-   "team": "Production Finland",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-06T11:43:08.271+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/2ce98cea-3f03-41a2-8f9a-0a19408b3fab",
-   "description_sha256": "1613381c44ad4ba3e8c6103b7e32f27281404cb2836b1b88159415453bfc65d8"
-  },
-  {
    "job_id": "307e5ecf-9033-424d-b6e5-39d0483e7f49",
    "lineage_key": "senior-electronics-engineer-radar-payload-team@espoo",
    "title": "Senior Electronics Engineer, Radar Payload Team",
@@ -438,7 +438,7 @@
    "is_remote": false,
    "published_at": "2026-08-25T10:11:44.988+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/3177be0f-5997-45cf-bbdb-60b1c38543ea",
-   "description_sha256": "2cf161eff75b016d4406b6f00ff6699f2ce002c85343b6e1cd5848f5e398bfab"
+   "description_sha256": "2494591ca1ac14230b8913f4b738c7ba1fe75b863e934c4393b558eda8376ee0"
   },
   {
    "job_id": "32a84004-0c4b-44f6-baa7-a288696745f2",
@@ -591,21 +591,6 @@
    "description_sha256": "cb039aab75c6aa5937d66c68ed3a9ef62eb79c9bf180e9b967f6afcbb3d9e8e3"
   },
   {
-   "job_id": "3d996476-2c6c-4170-894b-f48ee218c9e4",
-   "lineage_key": "customer-excellence-specialist@south-korea",
-   "title": "Customer Excellence Specialist",
-   "department": "Data",
-   "team": "Customer Excellence",
-   "location": "South Korea",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Remote",
-   "is_remote": true,
-   "published_at": "2026-09-24T09:18:49.481+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/3d996476-2c6c-4170-894b-f48ee218c9e4",
-   "description_sha256": "4068b16c45af48a36de7c6a20914aa654888d1ff81d9103aa15d6a8cb115e77f"
-  },
-  {
    "job_id": "3eb0f7b1-ab19-4d41-b633-dfeea0990086",
    "lineage_key": "configuration-specialist@espoo",
    "title": "Configuration Specialist",
@@ -756,6 +741,21 @@
    "published_at": "2026-08-14T09:15:45.525+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/471cf438-9c29-4167-9c18-be4cc5f4e115",
    "description_sha256": "41f75b3787cba4b70c9429e3e74bcfc0dbce16d52c6ecf983ceb0d0f5d33e578"
+  },
+  {
+   "job_id": "482053f5-a2b0-4be8-b513-ec9524346fd6",
+   "lineage_key": "it-onsite-support-specialist@berlin",
+   "title": "IT Onsite Support Specialist",
+   "department": "Operations",
+   "team": "IT",
+   "location": "Berlin",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-13T07:16:41.993+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/482053f5-a2b0-4be8-b513-ec9524346fd6",
+   "description_sha256": "dfe2e977ab815e092629f655fa509c410121e3b5e46d1f08b055a8f03c6f5816"
   },
   {
    "job_id": "49688ae2-0ada-46dc-b867-09ea1fe2e228",
@@ -1026,6 +1026,21 @@
    "published_at": "2026-07-13T19:14:52.436+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/5d1c9124-8b45-4b12-b3b4-8e91168afbbc",
    "description_sha256": "abb5533871bb7e3467edc685f4f5cc2141e9b2a93cbe198222555a6e20353bdb"
+  },
+  {
+   "job_id": "5e2a3b45-7342-4f01-ba0b-330abe99f89e",
+   "lineage_key": "staff-mechanical-design-engineer@espoo",
+   "title": "Staff Mechanical Design Engineer",
+   "department": "Engineering",
+   "team": "Spacecraft Hardware",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-25T14:10:48.552+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/5e2a3b45-7342-4f01-ba0b-330abe99f89e",
+   "description_sha256": "8c5c751f74cb4be631bc3af018feb51d1ea73c3166e978752a61853d23200e99"
   },
   {
    "job_id": "609632e0-17a2-4440-974f-9969551e80af",
@@ -1360,7 +1375,7 @@
    "is_remote": true,
    "published_at": "2026-07-30T12:18:42.027+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/781f4574-906c-44ef-a7b4-8a5d8e59ad4f",
-   "description_sha256": "3e4b7671a062b4502f4a5c9f9cb76030f297d2b28352a625845e11da51bb8d31"
+   "description_sha256": "ffbdccb35925855e77782b0b7b3fec65380f7153997448fbd6e500024b767f91"
   },
   {
    "job_id": "7939fd30-429c-4905-b5f1-cea49915ecfd",
@@ -1932,7 +1947,7 @@
    "is_remote": true,
    "published_at": "2026-08-06T11:21:50.920+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/aa323d27-cb46-49da-ad7b-2af2821fccfa",
-   "description_sha256": "cc97f4a1c605755f307dbb1058391131fa8d1c894bbeafa7e2d6a94861d02bbe"
+   "description_sha256": "c5c16519785a70f1d7d58a6a600fa1842bbd5597a784d18e02e1ad69ad9346b9"
   },
   {
    "job_id": "b05f92c4-8b2c-4a02-853c-bbeae69f76b5",
@@ -1978,6 +1993,21 @@
    "published_at": "2026-06-04T15:09:07.832+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/b2cdf1d7-086c-4ea6-a76c-388c871a6148",
    "description_sha256": "db384bb2844ba9819138cdc776c179696512ec15d762863d61bd274a03d55463"
+  },
+  {
+   "job_id": "b477b608-8346-4824-afb3-bb8845b5c865",
+   "lineage_key": "sovereign-infrastructure-operations-engineer@espoo",
+   "title": "Sovereign Infrastructure Operations Engineer",
+   "department": "Operations",
+   "team": "IT",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-25T10:46:42.471+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/b477b608-8346-4824-afb3-bb8845b5c865",
+   "description_sha256": "9bdffab75db6ddc26a44e4f12c90288dc4277e2ac8b45347f68330f125c33c0b"
   },
   {
    "job_id": "b84b17ba-5619-4909-9f4e-bb1d79e027b5",
@@ -2496,22 +2526,7 @@
    "is_remote": true,
    "published_at": "2026-08-06T10:32:08.052+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e358575f-01c4-40ce-aac5-68f7255fce67",
-   "description_sha256": "4f4d29b0a365917af6c0d3f3c06c6baf0ba1977b2c617ff3780f5c21792e8807"
-  },
-  {
-   "job_id": "e3aa757d-c62b-43d9-96b3-1aca3ae0ff21",
-   "lineage_key": "subsystem-assembly-verification-technician-rf-avionics@espoo",
-   "title": "Subsystem Assembly & Verification Technician (RF & Avionics)",
-   "department": "Global Manufacturing Organization",
-   "team": "FI Satellite Production Avionics",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-07T06:56:55.333+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/e3aa757d-c62b-43d9-96b3-1aca3ae0ff21",
-   "description_sha256": "4c228ac4dec2cac798b4f6e9d7bd2e79257673b6a2841687d3ea31ec283f0440"
+   "description_sha256": "7b04aa36e22e6516d1a63edabcd538c9d15b420c8543039d48a206033c27ea64"
   },
   {
    "job_id": "e4d89d32-5bee-4090-8bd0-5634803b6d3f",

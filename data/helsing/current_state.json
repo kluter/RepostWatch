@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-09-24T20:07:10+00:00",
- "job_count": 156,
+ "fetched_at": "2026-09-25T15:29:33+00:00",
+ "job_count": 155,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -648,21 +648,6 @@
    "is_remote": false,
    "published_at": "2026-05-13T07:19:54-04:00",
    "url": "https://helsing.ai/jobs/4865187101?gh_jid=4865187101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4865559101",
-   "lineage_key": "systems-engineer-electromagnetic-interference-emi@munich",
-   "title": "Systems Engineer - Electromagnetic Interference (EMI)",
-   "department": "Systems Architecture",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-13T07:48:42-04:00",
-   "url": "https://helsing.ai/jobs/4865559101?gh_jid=4865559101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1911,21 +1896,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4968741101",
-   "lineage_key": "senior-programme-manager-mission-systems@munich",
-   "title": "(Senior) Programme Manager Mission Systems",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-07T02:51:23-04:00",
-   "url": "https://helsing.ai/jobs/4968741101?gh_jid=4968741101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4969183101",
    "lineage_key": "guidance-navigation-control-engineer@london",
    "title": "Guidance, Navigation & Control Engineer",
@@ -2283,6 +2253,21 @@
    "is_remote": false,
    "published_at": "2026-09-21T11:37:59-04:00",
    "url": "https://helsing.ai/jobs/4981556101?gh_jid=4981556101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4982899101",
+   "lineage_key": "workplace-planning-lead@munich",
+   "title": "Workplace Planning Lead",
+   "department": "Core Operations",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-25T04:40:58-04:00",
+   "url": "https://helsing.ai/jobs/4982899101?gh_jid=4982899101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

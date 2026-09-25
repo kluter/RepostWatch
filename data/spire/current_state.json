@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-09-24T15:27:54+00:00",
- "job_count": 43,
+ "fetched_at": "2026-09-25T15:29:33+00:00",
+ "job_count": 42,
  "jobs": [
   {
    "job_id": "6729465",
@@ -123,21 +123,6 @@
    "is_remote": false,
    "published_at": "2026-02-06T14:39:23-05:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=7512196&gh_jid=7512196",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7686961",
-   "lineage_key": "senior-manager-digital-marketing-channel@munich",
-   "title": "Senior Manager, Digital Marketing & Channel",
-   "department": "Marketing",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-03-06T12:02:17-05:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7686961&gh_jid=7686961",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

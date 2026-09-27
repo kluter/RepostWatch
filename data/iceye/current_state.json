@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-25T15:29:33+00:00",
- "job_count": 188,
+ "fetched_at": "2026-09-27T15:15:43+00:00",
+ "job_count": 190,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -2447,6 +2447,21 @@
    "description_sha256": "1d59acd109a0f8a78b21ef95c8ae3d1cca71120944d2ca21627b9d845b643546"
   },
   {
+   "job_id": "d99923a8-6a54-4968-9468-74dd064b953c",
+   "lineage_key": "data-sales-director-japan@tokyo",
+   "title": "Data Sales Director (Japan)",
+   "department": "Data",
+   "team": "Data",
+   "location": "Tokyo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-27T10:22:16.749+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/d99923a8-6a54-4968-9468-74dd064b953c",
+   "description_sha256": "da31094a1450cc1af2e25339427dd70604660793cd0e11189964099c9e3a1147"
+  },
+  {
    "job_id": "d9af7181-4e5c-4ab4-9bca-db371c5c19d6",
    "lineage_key": "system-engineer@espoo",
    "title": "System Engineer",
@@ -2512,6 +2527,21 @@
    "published_at": "2026-04-29T16:43:14.373+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e276cf77-21f8-4509-b926-d9d24fda8d48",
    "description_sha256": "ac3b6b8435ba86b5f7413c3ca4cb2d9b23dbeb1442fa781db84e1ffe9b7437e2"
+  },
+  {
+   "job_id": "e28c6e08-79ca-442b-aae8-adb02ee56076",
+   "lineage_key": "senior-hr-generalist-japan@tokyo",
+   "title": "Senior HR Generalist, Japan",
+   "department": "Operations",
+   "team": "Human Resources",
+   "location": "Tokyo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-27T12:02:05.220+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/e28c6e08-79ca-442b-aae8-adb02ee56076",
+   "description_sha256": "9f145a627449a1343f3e61c4c60199e2b67de14571f4914f68dd2bcea5680eb1"
   },
   {
    "job_id": "e358575f-01c4-40ce-aac5-68f7255fce67",

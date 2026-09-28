@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-09-28T18:14:24+00:00",
- "job_count": 157,
+ "fetched_at": "2026-09-28T22:16:01+00:00",
+ "job_count": 158,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -2358,6 +2358,21 @@
    "is_remote": false,
    "published_at": "2026-09-28T12:20:46-04:00",
    "url": "https://helsing.ai/jobs/4988772101?gh_jid=4988772101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4988981101",
+   "lineage_key": "senior-quality-engineer@martinsburg-wv",
+   "title": "Senior Quality Engineer",
+   "department": "Production Operations",
+   "team": "",
+   "location": "Martinsburg, WV",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-28T15:05:06-04:00",
+   "url": "https://helsing.ai/jobs/4988981101?gh_jid=4988981101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

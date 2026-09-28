@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-27T15:15:43+00:00",
+ "fetched_at": "2026-09-28T18:14:24+00:00",
  "job_count": 190,
  "jobs": [
   {
@@ -49,6 +49,21 @@
    "published_at": "2026-06-25T09:37:15.157+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/06f113d6-1702-4346-9369-97d70d68738b",
    "description_sha256": "bf2d0e55135e31b6e441c20007edc959412e0a1c1dedfc38ad81570138f853d1"
+  },
+  {
+   "job_id": "08012612-81fe-4563-998f-e336ca3c333c",
+   "lineage_key": "business-applications-specialist@espoo",
+   "title": "Business Applications Specialist",
+   "department": "Operations",
+   "team": "Operations",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-28T13:23:43.119+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/08012612-81fe-4563-998f-e336ca3c333c",
+   "description_sha256": "06626b6f4e4a315d17cb7ddd16655c529eb774d796180b2e5f966e1f0ba9eb5e"
   },
   {
    "job_id": "09d02ba3-5ba6-4a11-bb30-74e42c22c485",
@@ -346,7 +361,7 @@
    "employment_type": "FullTime",
    "workplace_type": "",
    "is_remote": false,
-   "published_at": "2026-09-23T07:49:27.646+00:00",
+   "published_at": "2026-09-28T15:51:00.133+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/25d1fe95-5578-4cc8-8b5a-334e238e6f3d",
    "description_sha256": "9a67c4f963702931ff280b411fd29794859921184e9935c751b1ecc80c7d9cf9"
   },
@@ -1028,21 +1043,6 @@
    "description_sha256": "abb5533871bb7e3467edc685f4f5cc2141e9b2a93cbe198222555a6e20353bdb"
   },
   {
-   "job_id": "5e2a3b45-7342-4f01-ba0b-330abe99f89e",
-   "lineage_key": "staff-mechanical-design-engineer@espoo",
-   "title": "Staff Mechanical Design Engineer",
-   "department": "Engineering",
-   "team": "Spacecraft Hardware",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-09-25T14:10:48.552+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/5e2a3b45-7342-4f01-ba0b-330abe99f89e",
-   "description_sha256": "8c5c751f74cb4be631bc3af018feb51d1ea73c3166e978752a61853d23200e99"
-  },
-  {
    "job_id": "609632e0-17a2-4440-974f-9969551e80af",
    "lineage_key": "mission-sales-director-greece-balkans-and-eastern-mediterranean@athens",
    "title": "Mission Sales Director - Greece, Balkans and Eastern Mediterranean",
@@ -1131,21 +1131,6 @@
    "published_at": "2026-08-24T04:42:52.985+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/67b84d2a-1f66-473a-b24c-b7ba35f02fe5",
    "description_sha256": "81743579a0c4de526e90f69b9ff9b51cfbff7a3f3614f651d1a2468cab389897"
-  },
-  {
-   "job_id": "680034d6-e73c-47d8-8916-4a4d3f5f1c91",
-   "lineage_key": "intelligence-analyst@berlin",
-   "title": "Intelligence Analyst",
-   "department": "CEO Office",
-   "team": "CEO Office",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-09-02T07:58:15.425+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/680034d6-e73c-47d8-8916-4a4d3f5f1c91",
-   "description_sha256": "a3506f1a058df735cbc86b9ef25283b6debd42069933f12ef7af4b4b0bc33b64"
   },
   {
    "job_id": "6b5378f4-9af0-4092-9e75-e1d0d0bbaad9",
@@ -1378,21 +1363,6 @@
    "description_sha256": "ffbdccb35925855e77782b0b7b3fec65380f7153997448fbd6e500024b767f91"
   },
   {
-   "job_id": "7939fd30-429c-4905-b5f1-cea49915ecfd",
-   "lineage_key": "forward-deployed-geospatial-engineer-sar-intelligence-portugal@lisbon",
-   "title": "Forward Deployed Geospatial Engineer - SAR Intelligence, Portugal",
-   "department": "Product",
-   "team": "Forward Deployed Engineering",
-   "location": "Lisbon",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-01T08:25:09.894+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/7939fd30-429c-4905-b5f1-cea49915ecfd",
-   "description_sha256": "f5cae2aeab3f779986729e081aaefe3abf5b6a8d6d2f8c803ce16ea54d1891c4"
-  },
-  {
    "job_id": "7ce28487-16fa-4054-a225-d91c4f996350",
    "lineage_key": "quality-control-technician-electronics@valencia",
    "title": "Quality Control Technician - Electronics",
@@ -1406,6 +1376,21 @@
    "published_at": "2026-09-18T13:19:33.096+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/7ce28487-16fa-4054-a225-d91c4f996350",
    "description_sha256": "958f1892be54a8ed735aae60dc713367007e812c5c0fce5d04afbc2d54d5d8c5"
+  },
+  {
+   "job_id": "7d6dab8e-b665-41aa-8c65-61e05f34b858",
+   "lineage_key": "tax-manager@espoo",
+   "title": "Tax Manager",
+   "department": "Finance",
+   "team": "Group Accounting",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-28T10:17:23.835+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/7d6dab8e-b665-41aa-8c65-61e05f34b858",
+   "description_sha256": "e735076c207bb96543fe602c4dbe92a5151c8e3f7ff6f251c3e5c80b7bb10f59"
   },
   {
    "job_id": "7e1be691-32b2-4a35-9338-8fec83b67c55",
@@ -1681,8 +1666,8 @@
   },
   {
    "job_id": "9371410f-1664-48c7-8153-466766739c8d",
-   "lineage_key": "rf-satellite-systems-software-production-team-lead@valencia",
-   "title": "RF, Satellite Systems & Software Production Team Lead",
+   "lineage_key": "satellite-systems-software-rf-production-team-lead@valencia",
+   "title": "Satellite Systems, Software & RF Production Team Lead",
    "department": "Global Manufacturing Organization",
    "team": "ES Satellite Production",
    "location": "Valencia",
@@ -1692,7 +1677,7 @@
    "is_remote": false,
    "published_at": "2026-09-08T22:25:36.463+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9371410f-1664-48c7-8153-466766739c8d",
-   "description_sha256": "f93ea89e8092706c48c6d9f51ee1970744bdf505c10e4c7a9b3401ef40749353"
+   "description_sha256": "df35e29e47786082adb59f1544dfceab4f0f81388804c9b02ff27594fd72e5b3"
   },
   {
    "job_id": "938ce5df-501a-4349-9586-2ce758dbfd0a",
@@ -2128,21 +2113,6 @@
    "published_at": "2026-09-08T06:40:31.953+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/c27729e6-99f6-4e62-bc39-1a7b5cc6ee8c",
    "description_sha256": "16c6427cbf27bff9dbe92630eb72fc674aef8558473f6eaf8cf5a2343299087f"
-  },
-  {
-   "job_id": "c3536786-e2fa-4564-ba73-f26a44a02fde",
-   "lineage_key": "satellite-operations-manager@warsaw",
-   "title": "Satellite Operations Manager",
-   "department": "Engineering",
-   "team": "Satellite Operations & Maintenance",
-   "location": "Warsaw",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-04-24T11:34:01.722+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/c3536786-e2fa-4564-ba73-f26a44a02fde",
-   "description_sha256": "f0b4b4ef340db1254c367c2723bdc3b978fb90c5513d0b3b60b2a0ca90f7a2da"
   },
   {
    "job_id": "c4e73cc7-2fb0-4cc9-a335-f41a3eb70073",
@@ -2681,6 +2651,21 @@
    "description_sha256": "ea52658994a7b4c97e7ec250bd9f9a58750f8e4217748882ae5193560f3a9a21"
   },
   {
+   "job_id": "eed578d8-f50c-48fc-9544-b8bcd178362f",
+   "lineage_key": "program-manager-finland@espoo",
+   "title": "Program Manager - Finland",
+   "department": "Missions",
+   "team": "Missions",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-28T14:18:47.442+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/eed578d8-f50c-48fc-9544-b8bcd178362f",
+   "description_sha256": "6556c6b5c3f4e3b5d7e7f9121e8a9c1067f52832567f1b70397254dfb63dd4d2"
+  },
+  {
    "job_id": "ef4c789d-85da-466c-ac71-0c20cc5a8023",
    "lineage_key": "satellite-production-senior-technician-integration-mechanical-thermal@valencia",
    "title": "Satellite Production Senior Technician, Integration, Mechanical & Thermal",
@@ -2832,6 +2817,21 @@
    "published_at": "2026-08-14T06:28:35.941+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/fa7cbdf7-5c86-48b7-84f8-12c3476113e7",
    "description_sha256": "f577ca9d6522ab0a87ab547fd36d6e6af2bc296483d94682161a170059ca08db"
+  },
+  {
+   "job_id": "fe0001f5-f3c9-4df7-b968-23451c9b4b1d",
+   "lineage_key": "head-of-marketing-communications@new-dehli",
+   "title": "Head of Marketing & Communications",
+   "department": "Marketing",
+   "team": "Marketing",
+   "location": "New Dehli",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-28T10:31:05.625+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/fe0001f5-f3c9-4df7-b968-23451c9b4b1d",
+   "description_sha256": "2a63abe91645496b6e026ca3a507dfbe26df11729d6182d36d7dd419bb1491ea"
   },
   {
    "job_id": "fec79d94-ccd5-409a-81ae-182a9eafc208",

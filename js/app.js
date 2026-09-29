@@ -308,8 +308,10 @@
         }
         const map = L.map(el, { scrollWheelZoom: false, worldCopyJump: true });
         mapInstance = map;
-        L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
-            attribution: '&copy; OpenStreetMap &copy; CARTO', subdomains: "abcd", maxZoom: 11,
+        // Esri's free dark-gray basemap. CARTO's public raster tiles now require an API key
+        // (they serve an "API KEY REQUIRED" watermark tile otherwise); Esri needs no key.
+        L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}", {
+            attribution: "Tiles &copy; Esri", maxZoom: 11,
         }).addTo(map);
 
         const pts = [...agg.values()];

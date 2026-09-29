@@ -543,6 +543,7 @@ a.mf-role:hover { color: var(--accent); text-decoration: underline; }
 .nav-co[data-co="umbra"]  .nav-logo img { height: 18px; }
 .nav-co[data-co="liveeo"] .nav-logo img { height: 19px; }
 .nav-co[data-co="planet"] .nav-logo img { height: 21px; }
+.nav-co[data-co="kpler"]  .nav-logo img { height: 22px; }   /* wide wordmark with a 'p' descender: match the others' cap-height */
 .nav-fallback { font-size: 13px; color: #fff; font-weight: 500; }
 
 .home-charts-2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 12px; }

@@ -185,6 +185,18 @@
    "partners": [
     "SpaceX (launch)"
    ]
+  },
+  {
+   "slug": "kpler",
+   "ats": "lever",
+   "board": "kpler",
+   "name": "Kpler",
+   "website": "https://www.kpler.com",
+   "facts": {
+    "Founded": "2014",
+    "HQ": "Brussels, Belgium",
+    "Industry": "Maritime & commodity market intelligence"
+   }
   }
  ]
 }

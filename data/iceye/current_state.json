@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-29T16:36:37+00:00",
- "job_count": 188,
+ "fetched_at": "2026-09-29T20:57:57+00:00",
+ "job_count": 187,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -1146,23 +1146,6 @@
    "published_at": "2026-09-29T13:41:53.677+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/6b325c6e-480e-4237-91bf-6e1e0e90ca76",
    "description_sha256": "727bf610c24147f50c502d033b994c95ec4ff110d1f2d197bd3c19035cfdb310"
-  },
-  {
-   "job_id": "6b5378f4-9af0-4092-9e75-e1d0d0bbaad9",
-   "lineage_key": "senior-global-payroll-manager@warsaw",
-   "title": "Senior Global Payroll Manager",
-   "department": "Finance",
-   "team": "Finance",
-   "location": "Warsaw",
-   "secondary_locations": [
-    "Espoo"
-   ],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-15T08:56:26.374+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/6b5378f4-9af0-4092-9e75-e1d0d0bbaad9",
-   "description_sha256": "34b41ea8e1dbac5a1391df3b1a0f8b360e416608d40fbe917f3c290e5a3d177c"
   },
   {
    "job_id": "6e531bd0-02f1-4191-91dd-f16910246d23",

@@ -538,6 +538,96 @@
    "lat": 36.638392,
    "lon": 127.6961188,
    "label": "대한민국"
+  },
+  "beijing": {
+   "lat": 39.9057136,
+   "lon": 116.3912972,
+   "label": "北京市"
+  },
+  "brussels": {
+   "lat": 50.8467372,
+   "lon": 4.352493,
+   "label": "Bruxelles - Brussel"
+  },
+  "budapest": {
+   "lat": 47.4978789,
+   "lon": 19.0402383,
+   "label": "Budapest"
+  },
+  "calgary": {
+   "lat": 51.0456064,
+   "lon": -114.057541,
+   "label": "Calgary"
+  },
+  "colombia": {
+   "lat": 4.099917,
+   "lon": -72.9088133,
+   "label": "Colombia"
+  },
+  "dubai": {
+   "lat": 25.0742823,
+   "lon": 55.1885624,
+   "label": "دبي"
+  },
+  "geneva": {
+   "lat": 46.2017559,
+   "lon": 6.1466014,
+   "label": "Genève"
+  },
+  "houston": {
+   "lat": 29.7589382,
+   "lon": -95.3676974,
+   "label": "Houston"
+  },
+  "hungary": {
+   "lat": 47.1817585,
+   "lon": 19.5060937,
+   "label": "Magyarország"
+  },
+  "india": {
+   "lat": 22.3511148,
+   "lon": 78.6677428,
+   "label": "India"
+  },
+  "japan": {
+   "lat": 36.5748441,
+   "lon": 139.2394179,
+   "label": "日本"
+  },
+  "mexico": {
+   "lat": 23.6585116,
+   "lon": -102.0077097,
+   "label": "México"
+  },
+  "new york": {
+   "lat": 40.7127281,
+   "lon": -74.0060152,
+   "label": "New York"
+  },
+  "oklahoma": {
+   "lat": 34.9550817,
+   "lon": -97.2684063,
+   "label": "Oklahoma"
+  },
+  "riyadh": {
+   "lat": 24.638916,
+   "lon": 46.7160104,
+   "label": "الرياض"
+  },
+  "shanghai": {
+   "lat": 31.2312707,
+   "lon": 121.4700152,
+   "label": "上海市"
+  },
+  "toronto": {
+   "lat": 43.6534817,
+   "lon": -79.3839347,
+   "label": "Toronto"
+  },
+  "vietnam": {
+   "lat": 15.9266657,
+   "lon": 107.9650855,
+   "label": "Việt Nam"
   }
  }
 }

@@ -2,7 +2,7 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-09-25T20:07:27+00:00",
+ "fetched_at": "2026-09-29T20:57:57+00:00",
  "job_count": 26,
  "jobs": [
   {
@@ -225,13 +225,16 @@
    "department": "Shared Services",
    "team": "",
    "location": "Arlington, United States",
-   "secondary_locations": [],
+   "secondary_locations": [
+    "Reston, United States",
+    "Santa Barbara, United States"
+   ],
    "employment_type": "",
    "workplace_type": "",
    "is_remote": false,
    "published_at": "2026-07-30T00:00:00+00:00",
    "url": "https://apply.workable.com/j/5DEC056541",
-   "description_sha256": "cd7ef3e8bd2f0850c8473f8f0c5cd8c2c5b6a85eae1ff7f677ab166edbeaac67"
+   "description_sha256": "ec2f7c9d6e2e242df46dd847740280fdfecfe979cd103247e411f194dd41d945"
   },
   {
    "job_id": "63E33F2615",

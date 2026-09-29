@@ -786,18 +786,6 @@
         return h("div", { class: "move-stat" }, h("b", { style: `color:${color}` }, String(n)), h("span", {}, label));
     }
 
-    function recentMovement(loaded) {
-        const evs = [];
-        for (const d of loaded) for (const e of d.events)
-            if (["opened", "closed", "republished"].includes(e.type))
-                evs.push({ type: e.type, title: e.title, date: e.date, company: d.cfg.name || d.cfg.slug, url: e.url });
-        evs.sort((a, b) => (a.date < b.date ? 1 : -1));
-        const since = Date.now() - 7 * 86400e3;
-        const wk = evs.filter(e => Date.parse(e.date) >= since);
-        const n = t => wk.filter(e => e.type === t).length;
-        return { opened: n("opened"), closed: n("closed"), republished: n("republished"), feed: evs.slice(0, 8) };
-    }
-
     // slim company row for the overview sidebar nav: logo + a severity mini-bar
     function navItem(r) {
         const cfg = r.cfg;
@@ -844,27 +832,87 @@
             h("div", { class: "side-sect" }, "Companies"),
             h("nav", { class: "co-nav" }, nav.map(navItem)));
 
-        // ---- recent movement ----
-        const mv = recentMovement(loaded);
-        const movement = h("section", {},
-            h("div", { class: "home-cards-head" }, h("h2", {}, "Recent movement"),
-                h("span", { class: "caption" }, "opens, closes and reposts across every company, last 7 days")),
-            h("div", { class: "move-row" },
-                moveStat(mv.opened, "opened", sevColor("fresh")),
-                moveStat(mv.republished, "republished", sevColor("aging")),
-                moveStat(mv.closed, "closed", sevColor("flagged"))),
-            mv.feed.length
-                ? h("ul", { class: "move-feed" }, mv.feed.map(f => h("li", {},
+        // ---- recent movement (day / week window, paginated, expandable to 25) ----
+        const mvAll = [];
+        for (const d of loaded) for (const e of d.events)
+            if (["opened", "closed", "republished"].includes(e.type))
+                mvAll.push({ type: e.type, title: e.title, date: e.date, company: d.cfg.name || d.cfg.slug, url: e.url });
+        mvAll.sort((a, b) => (a.date < b.date ? 1 : -1));
+
+        const MV_WINDOWS = { day: 86400e3, week: 7 * 86400e3 };
+        const MV_ROW = 32;                     // must match .move-feed li height in the CSS
+        let mvWin = "week", mvPage = 0, mvSize = 10;
+
+        const mvCaption = h("span", { class: "caption" });
+        const mvStats = h("div", { class: "move-row" });
+        const mvBody = h("div", { class: "move-feed-wrap" });
+        const mvFoot = h("div", { class: "move-foot" });
+
+        // re-renders the feed in place (state stays in this closure) so paging / the
+        // window switch never rebuild the map or charts below.
+        function refreshMovement() {
+            const since = Date.now() - MV_WINDOWS[mvWin];
+            const list = mvAll.filter(e => Date.parse(e.date) >= since);
+            const total = list.length;
+            const count = t => list.filter(e => e.type === t).length;
+
+            mvCaption.textContent =
+                `opens, closes and reposts across every company, ${mvWin === "day" ? "last 24 hours" : "last 7 days"}`;
+            mvStats.replaceChildren(
+                moveStat(count("opened"), "opened", sevColor("fresh")),
+                moveStat(count("republished"), "republished", sevColor("aging")),
+                moveStat(count("closed"), "closed", sevColor("flagged")));
+
+            const pages = Math.max(1, Math.ceil(total / mvSize));
+            mvPage = Math.min(Math.max(mvPage, 0), pages - 1);
+            const shown = list.slice(mvPage * mvSize, mvPage * mvSize + mvSize);
+
+            if (total) {
+                // reserve a whole page of height so the footer never jumps on a short last page
+                mvBody.style.minHeight = `${Math.min(mvSize, total) * MV_ROW}px`;
+                mvBody.replaceChildren(h("ul", { class: "move-feed" }, shown.map(f => h("li", {},
                     h("span", { class: `chip ${f.type}` }, f.type),
                     f.type !== "closed" && safeUrl(f.url)
                         ? h("a", { class: "mf-role", href: safeUrl(f.url), target: "_blank", rel: "noopener" }, f.title)
                         : h("span", { class: "mf-role", title: f.type === "closed" ? "this role has since closed" : "" }, f.title),
                     h("span", { class: "mf-co" }, f.company),
-                    h("span", { class: "mf-when" }, relTime(f.date)))))
-                : h("p", { class: "caption" }, "No changes logged yet. Fills in as the polls observe opens and closes."),
-            (mv.opened + mv.closed + mv.republished) > mv.feed.length
-                ? h("p", { class: "move-more" }, `Showing the ${mv.feed.length} most recent of ${(mv.opened + mv.closed + mv.republished).toLocaleString("en-US")} changes this week.`)
-                : null);
+                    h("span", { class: "mf-when" }, relTime(f.date))))));
+            } else {
+                mvBody.style.minHeight = "";
+                mvBody.replaceChildren(h("p", { class: "caption" },
+                    mvWin === "day" ? "No changes in the last 24 hours." : "No changes logged in the last 7 days."));
+            }
+
+            mvFoot.replaceChildren(...[
+                total > 10 ? h("button", { class: "mini-btn",
+                    onclick: () => { mvSize = mvSize === 10 ? 25 : 10; mvPage = 0; refreshMovement(); },
+                }, mvSize === 10 ? "Show 25" : "Show 10") : null,
+                pages > 1 ? h("div", { class: "log-pager" },
+                    h("button", { class: "mini-btn", disabled: mvPage === 0,
+                        onclick: () => { mvPage--; refreshMovement(); } }, "‹ Prev"),
+                    h("span", { class: "log-pageinfo" },
+                        `${mvPage * mvSize + 1}–${Math.min(total, (mvPage + 1) * mvSize)} of ${total}`),
+                    h("button", { class: "mini-btn", disabled: mvPage >= pages - 1,
+                        onclick: () => { mvPage++; refreshMovement(); } }, "Next ›")) : null,
+            ].filter(Boolean));
+        }
+
+        const mvSeg = h("div", { class: "seg-toggle" }, ["day", "week"].map(w => {
+            const b = h("button", { class: mvWin === w ? "active" : "",
+                onclick: () => {
+                    if (mvWin === w) return;
+                    mvWin = w; mvPage = 0;
+                    for (const x of mvSeg.children) x.classList.toggle("active", x === b);
+                    refreshMovement();
+                } }, w === "day" ? "Day" : "Week");
+            return b;
+        }));
+
+        refreshMovement();
+        const movement = h("section", {},
+            h("div", { class: "home-cards-head" },
+                h("h2", {}, "Recent movement"), mvCaption, mvSeg),
+            mvStats, mvBody, mvFoot);
 
         // ---- trend charts ----
         const charts = h("section", {},

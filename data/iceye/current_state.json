@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-28T18:14:24+00:00",
- "job_count": 190,
+ "fetched_at": "2026-09-29T16:36:37+00:00",
+ "job_count": 188,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -1133,6 +1133,21 @@
    "description_sha256": "81743579a0c4de526e90f69b9ff9b51cfbff7a3f3614f651d1a2468cab389897"
   },
   {
+   "job_id": "6b325c6e-480e-4237-91bf-6e1e0e90ca76",
+   "lineage_key": "engineering-satellite-build-lead@valencia",
+   "title": "Engineering Satellite Build Lead",
+   "department": "Engineering",
+   "team": "SIGINT",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-09-29T13:41:53.677+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/6b325c6e-480e-4237-91bf-6e1e0e90ca76",
+   "description_sha256": "727bf610c24147f50c502d033b994c95ec4ff110d1f2d197bd3c19035cfdb310"
+  },
+  {
    "job_id": "6b5378f4-9af0-4092-9e75-e1d0d0bbaad9",
    "lineage_key": "senior-global-payroll-manager@warsaw",
    "title": "Senior Global Payroll Manager",
@@ -1253,7 +1268,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-09-08T22:21:10.327+00:00",
+   "published_at": "2026-09-29T10:41:34.756+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/728ba3dc-5ab4-4f86-b7cc-5bd24c37f2d4",
    "description_sha256": "7b84e32bc481518c8c328c960b6daec413b348237e77e782648d441dc3aa1f0d"
   },
@@ -1514,8 +1529,8 @@
   },
   {
    "job_id": "87472167-0929-46d4-9d75-075fba6907b8",
-   "lineage_key": "staff-mechanical-engineer@valencia-spain",
-   "title": "Staff Mechanical Engineer",
+   "lineage_key": "senior-mechanical-engineer@valencia-spain",
+   "title": "Senior Mechanical Engineer",
    "department": "Engineering",
    "team": "SIGINT",
    "location": "Valencia, Spain",
@@ -1525,7 +1540,7 @@
    "is_remote": false,
    "published_at": "2026-07-23T12:22:01.311+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/87472167-0929-46d4-9d75-075fba6907b8",
-   "description_sha256": "ebb79dc4a50fc336327fcfc1011d88bf8bf38662ee2e18ab2f06d7b06366203e"
+   "description_sha256": "3d953f59860d7a1bf0a75634059f5b633b681b25b621fa9de9a2449f3338cccf"
   },
   {
    "job_id": "879b620d-c9c0-4d71-b642-814fc3996688",
@@ -1618,21 +1633,6 @@
    "description_sha256": "b7501b21e9662e4762abf6efd76f19b00bb2fac93a3383ef1832c30660d0b253"
   },
   {
-   "job_id": "8f7f141e-a48d-409e-96e4-f413afc738f0",
-   "lineage_key": "machine-learning-engineer@espoo",
-   "title": "Machine Learning Engineer",
-   "department": "Solutions",
-   "team": "Product Engineering",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-02T06:39:30.657+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/8f7f141e-a48d-409e-96e4-f413afc738f0",
-   "description_sha256": "88e0aef413740f4934ed5e51de549cd9b5797dc88d59ff9bbd8066fbe92cf43c"
-  },
-  {
    "job_id": "9291f281-9da4-482b-a7ce-bb6775668b3b",
    "lineage_key": "mission-delivery-engineer@warsaw",
    "title": "Mission Delivery Engineer",
@@ -1675,7 +1675,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-09-08T22:25:36.463+00:00",
+   "published_at": "2026-09-29T13:37:10.253+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9371410f-1664-48c7-8153-466766739c8d",
    "description_sha256": "df35e29e47786082adb59f1544dfceab4f0f81388804c9b02ff27594fd72e5b3"
   },
@@ -1701,11 +1701,13 @@
    "department": "Missions",
    "team": "Missions Programs",
    "location": "Stockholm",
-   "secondary_locations": [],
+   "secondary_locations": [
+    "Espoo"
+   ],
    "employment_type": "FullTime",
    "workplace_type": "",
    "is_remote": false,
-   "published_at": "2026-09-16T16:56:21.159+00:00",
+   "published_at": "2026-09-29T15:28:56.679+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/943bfb53-f3c9-44ef-acf7-81d29f280ba5",
    "description_sha256": "cfd43312c2b5142a733a827df83adf482336218f8ed7e05aad80387a624104ef"
   },
@@ -1980,6 +1982,21 @@
    "description_sha256": "db384bb2844ba9819138cdc776c179696512ec15d762863d61bd274a03d55463"
   },
   {
+   "job_id": "b4432ff0-6b94-4630-a7f6-833415ae7d63",
+   "lineage_key": "senior-program-manager-japan@tokyo",
+   "title": "Senior Program Manager - Japan",
+   "department": "Missions",
+   "team": "Missions",
+   "location": "Tokyo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-29T15:25:31.420+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/b4432ff0-6b94-4630-a7f6-833415ae7d63",
+   "description_sha256": "dfb35a5e797185d02cd3c27f8016fe1f1d01c4d126b0f8251aca00fc82db3416"
+  },
+  {
    "job_id": "b477b608-8346-4824-afb3-bb8845b5c865",
    "lineage_key": "sovereign-infrastructure-operations-engineer@espoo",
    "title": "Sovereign Infrastructure Operations Engineer",
@@ -1992,7 +2009,7 @@
    "is_remote": true,
    "published_at": "2026-09-25T10:46:42.471+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/b477b608-8346-4824-afb3-bb8845b5c865",
-   "description_sha256": "9bdffab75db6ddc26a44e4f12c90288dc4277e2ac8b45347f68330f125c33c0b"
+   "description_sha256": "3f753faef1ca09bc15edeb2f160e0929341becb6b481d3bd57646fd5c07cc250"
   },
   {
    "job_id": "b84b17ba-5619-4909-9f4e-bb1d79e027b5",
@@ -2023,21 +2040,6 @@
    "published_at": "2026-07-13T08:51:22.242+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/b9a28deb-3abb-4a68-9437-6d823cdac199",
    "description_sha256": "6c07a7e2676dccc4e68f6aea01e09fcb401287745cbf1764704884546a78b008"
-  },
-  {
-   "job_id": "bb49fc90-0bee-4ee4-8eb8-2771a9a01450",
-   "lineage_key": "electronics-engineering-manager-radar-payload-team@espoo",
-   "title": "Electronics Engineering Manager, Radar Payload Team",
-   "department": "Engineering",
-   "team": "Radar Payload",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-04-08T07:29:59.268+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/bb49fc90-0bee-4ee4-8eb8-2771a9a01450",
-   "description_sha256": "67e8ceb4af1037d42b9024a38cc750d1f885edc162497545278c3561363c1e86"
   },
   {
    "job_id": "bbdfcc0b-0a2c-4ce4-9327-acf12fc3afe1",
@@ -2080,24 +2082,9 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-09-08T22:24:33.606+00:00",
+   "published_at": "2026-09-29T10:41:36.398+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/bfef9f94-e3c6-4f09-9d69-157601968c2c",
    "description_sha256": "160de3f82fc0b94ba51c655c55ec59cdaebef43f0a54971bab1a0e37b482751b"
-  },
-  {
-   "job_id": "c0286ea9-19c2-4af3-8917-1bde2f693a09",
-   "lineage_key": "facility-lab-manager@warsaw",
-   "title": "Facility & Lab Manager",
-   "department": "Global Manufacturing Organization",
-   "team": "PL Facility Management",
-   "location": "Warsaw",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-09-08T22:23:15.535+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/c0286ea9-19c2-4af3-8917-1bde2f693a09",
-   "description_sha256": "a9ba943e9632fe2ff563fade29a5d66d8702a35ab933a0b320ae5f4f9ec094cf"
   },
   {
    "job_id": "c27729e6-99f6-4e62-bc39-1a7b5cc6ee8c",
@@ -2661,9 +2648,9 @@
    "employment_type": "FullTime",
    "workplace_type": "Hybrid",
    "is_remote": true,
-   "published_at": "2026-09-28T14:18:47.442+00:00",
+   "published_at": "2026-09-29T13:47:07.448+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/eed578d8-f50c-48fc-9544-b8bcd178362f",
-   "description_sha256": "6556c6b5c3f4e3b5d7e7f9121e8a9c1067f52832567f1b70397254dfb63dd4d2"
+   "description_sha256": "2c9b2aa73d52d130f321c0b18c6dfc09934bdf4dba80ff1da586c5fc6a4bdf5c"
   },
   {
    "job_id": "ef4c789d-85da-466c-ac71-0c20cc5a8023",
@@ -2817,21 +2804,6 @@
    "published_at": "2026-08-14T06:28:35.941+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/fa7cbdf7-5c86-48b7-84f8-12c3476113e7",
    "description_sha256": "f577ca9d6522ab0a87ab547fd36d6e6af2bc296483d94682161a170059ca08db"
-  },
-  {
-   "job_id": "fe0001f5-f3c9-4df7-b968-23451c9b4b1d",
-   "lineage_key": "head-of-marketing-communications@new-dehli",
-   "title": "Head of Marketing & Communications",
-   "department": "Marketing",
-   "team": "Marketing",
-   "location": "New Dehli",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-28T10:31:05.625+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/fe0001f5-f3c9-4df7-b968-23451c9b4b1d",
-   "description_sha256": "2a63abe91645496b6e026ca3a507dfbe26df11729d6182d36d7dd419bb1491ea"
   },
   {
    "job_id": "fec79d94-ccd5-409a-81ae-182a9eafc208",

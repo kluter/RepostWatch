@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-09-28T22:16:01+00:00",
- "job_count": 158,
+ "fetched_at": "2026-09-29T16:36:37+00:00",
+ "job_count": 160,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -771,6 +771,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4875282101",
+   "lineage_key": "senior-talent-acquisition-partner@munich",
+   "title": "Senior Talent Acquisition Partner",
+   "department": "Talent Acquisition",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-06-05T01:30:27-04:00",
+   "url": "https://helsing.ai/jobs/4875282101?gh_jid=4875282101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4876328101",
    "lineage_key": "stress-dynamics-engineer@munich",
    "title": "Stress & Dynamics Engineer",
@@ -1248,21 +1263,6 @@
    "is_remote": false,
    "published_at": "2026-07-16T10:13:01-04:00",
    "url": "https://helsing.ai/jobs/4929769101?gh_jid=4929769101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4934633101",
-   "lineage_key": "legal-counsel-contracts-commercial@munich",
-   "title": "Legal Counsel Contracts & Commercial",
-   "department": "Legal",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-23T05:19:12-04:00",
-   "url": "https://helsing.ai/jobs/4934633101?gh_jid=4934633101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -2032,8 +2032,8 @@
   },
   {
    "job_id": "4972249101",
-   "lineage_key": "senior-system-engineer-product-security-crypto-and-cyber@munich",
-   "title": "Senior System Engineer – Product Security, Crypto and Cyber",
+   "lineage_key": "senior-systems-security-engineer-combat-aircraft@munich",
+   "title": "Senior Systems Security Engineer – Combat Aircraft",
    "department": "AI & Engineering",
    "team": "",
    "location": "Munich",
@@ -2347,8 +2347,8 @@
   },
   {
    "job_id": "4988772101",
-   "lineage_key": "learning-and-onboarding-enablement-manager@munich",
-   "title": "Learning and Onboarding Enablement Manager",
+   "lineage_key": "learning-and-enablement-manager@munich",
+   "title": "Learning and Enablement Manager",
    "department": "People",
    "team": "",
    "location": "Munich",
@@ -2373,6 +2373,36 @@
    "is_remote": false,
    "published_at": "2026-09-28T15:05:06-04:00",
    "url": "https://helsing.ai/jobs/4988981101?gh_jid=4988981101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4989373101",
+   "lineage_key": "senior-manufacturing-engineer@martinsburg-wv",
+   "title": "Senior Manufacturing Engineer",
+   "department": "Production Operations",
+   "team": "",
+   "location": "Martinsburg, WV",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-29T05:13:18-04:00",
+   "url": "https://helsing.ai/jobs/4989373101?gh_jid=4989373101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4989382101",
+   "lineage_key": "supply-chain-and-procurement-manager@martinsburg-wv",
+   "title": "Supply Chain and Procurement Manager",
+   "department": "Production Operations",
+   "team": "",
+   "location": "Martinsburg, WV",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-29T05:28:06-04:00",
+   "url": "https://helsing.ai/jobs/4989382101?gh_jid=4989382101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

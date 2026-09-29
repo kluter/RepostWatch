@@ -2,7 +2,7 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-09-28T22:16:01+00:00",
+ "fetched_at": "2026-09-29T16:36:37+00:00",
  "job_count": 121,
  "jobs": [
   {
@@ -1071,21 +1071,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8160311",
-   "lineage_key": "software-engineer-missions-software@canada-remote",
-   "title": "Software Engineer, Missions Software",
-   "department": "Missions Software",
-   "team": "",
-   "location": "Canada, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-08-26T15:02:48-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8160311",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8160736",
    "lineage_key": "data-analyst@arlington-va",
    "title": "Data Analyst",
@@ -1357,15 +1342,15 @@
   },
   {
    "job_id": "8178696",
-   "lineage_key": "director-of-sales-europe@london-united-kingdom",
+   "lineage_key": "director-of-sales-europe@united-kingdom-remote",
    "title": "Director of Sales, Europe",
    "department": "Sales Manager",
    "team": "",
-   "location": "London, United Kingdom",
+   "location": "United Kingdom, Remote",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
-   "is_remote": false,
+   "is_remote": true,
    "published_at": "2026-09-10T03:31:55-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8178696",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
@@ -1758,6 +1743,21 @@
    "is_remote": false,
    "published_at": "2026-09-28T04:53:38-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8231380",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8231925",
+   "lineage_key": "space-systems-engineer-space-operations@berlin-germany",
+   "title": "Space Systems Engineer, Space Operations",
+   "department": "Space Operations",
+   "team": "",
+   "location": "Berlin, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-29T03:43:08-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8231925",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

@@ -305,6 +305,32 @@ def fetch_workable(board: str) -> list[dict]:
     return jobs
 
 
+def fetch_lever(board: str) -> list[dict]:
+    """Lever's public postings API. board is the account slug in the feed URL
+    (api.lever.co/v0/postings/{board}). The response is a JSON array; createdAt is epoch ms,
+    and categories carries location / allLocations / department."""
+    raw = http_get_json(f"https://api.lever.co/v0/postings/{board}?mode=json")
+    jobs = []
+    for j in raw:
+        cats = j.get("categories") or {}
+        loc = (cats.get("location") or "").strip()
+        extra = [x.strip() for x in (cats.get("allLocations") or [])
+                 if x and x.strip() and x.strip() != loc]
+        ts = j.get("createdAt")
+        pub = datetime.fromtimestamp(int(ts) / 1000, tz=timezone.utc).isoformat() if ts else ""
+        wt = j.get("workplaceType") or ""
+        job = normalize_job(
+            j.get("id"), j.get("text"), loc, pub, j.get("hostedUrl"),
+            department=cats.get("department") or "", team=cats.get("team") or "",
+            is_remote=(wt == "remote") or ("remote" in loc.lower()),
+            desc=j.get("descriptionPlain") or "")
+        job["secondary_locations"] = extra
+        job["workplace_type"] = wt
+        jobs.append(job)
+    jobs.sort(key=lambda j: j["job_id"])
+    return jobs
+
+
 ADAPTERS = {
     "ashby": fetch_ashby,
     "greenhouse": fetch_greenhouse,
@@ -312,6 +338,7 @@ ADAPTERS = {
     "personio": fetch_personio,
     "teamtailor": fetch_teamtailor,
     "workable": fetch_workable,
+    "lever": fetch_lever,
 }
 
 

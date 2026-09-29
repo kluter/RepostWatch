@@ -1,6 +1,6 @@
 # One entry per tracked company. Adding a company is a config change, not a code change.
 #   slug:   directory name under data/
-#   ats:    adapter to use (ashby | greenhouse | recruitee | personio | teamtailor | workable)
+#   ats:    adapter to use (ashby | greenhouse | recruitee | personio | teamtailor | workable | lever)
 #   board:  board identifier in the ATS public feed URL:
 #             ashby      -> job-board name          (api.ashbyhq.com/.../{board})
 #             greenhouse -> board token             (boards-api.greenhouse.io/.../{board}/jobs)
@@ -8,6 +8,7 @@
 #             personio   -> subdomain               ({board}.jobs.personio.de/xml)
 #             teamtailor -> careers host            (https://{board}/jobs.rss)
 #             workable   -> account slug            (apply.workable.com/api/v1/widget/accounts/{board})
+#             lever      -> account slug            (api.lever.co/v0/postings/{board})
 #   name / website / facts: shown in the dashboard sidebar (all optional).
 #   A logo dropped at assets/companies/{slug}.png (dark-on-transparent) is picked up automatically.
 - slug: iceye
@@ -162,3 +163,13 @@
     Industry: SAR Earth-observation satellites
   partners:
     - SpaceX (launch)
+
+- slug: kpler
+  ats: lever
+  board: kpler
+  name: Kpler
+  website: https://www.kpler.com
+  facts:
+    Founded: "2014"
+    HQ: Brussels, Belgium
+    Industry: Maritime & commodity market intelligence

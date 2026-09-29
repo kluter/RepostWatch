@@ -192,6 +192,7 @@
    "board": "kpler",
    "name": "Kpler",
    "website": "https://www.kpler.com",
+   "logo": "assets/companies/kpler.svg",
    "facts": {
     "Founded": "2014",
     "HQ": "Brussels, Belgium",

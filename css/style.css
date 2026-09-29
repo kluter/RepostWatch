@@ -218,6 +218,9 @@ main { flex: 1; min-width: 0; max-width: 1200px; margin: 0 auto; padding: 20px 2
 }
 .side-logo img.logo-keep { filter: brightness(1.7); }   /* colored logos: keep hue, just lift */
 .side-logo img[data-co="constellr"] { filter: brightness(0) invert(1); }   /* constellr reads better as a white silhouette */
+/* Kpler's wordmark is already white, so it must not be inverted (sidebar and nav) */
+.side-logo img[data-co="kpler"],
+.nav-co[data-co="kpler"] .nav-logo img { filter: none; }
 .side-sect {
     font-size: 10px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase;
     color: var(--faint); margin: 20px 2px 6px;

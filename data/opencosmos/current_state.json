@@ -2,7 +2,7 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-09-29T20:57:57+00:00",
+ "fetched_at": "2026-09-30T20:59:31+00:00",
  "job_count": 58,
  "jobs": [
   {
@@ -64,6 +64,21 @@
    "published_at": "2025-09-11T10:20:12+01:00",
    "url": "https://careers.open-cosmos.com/jobs/6438920-business-development-opportunities",
    "description_sha256": "4eb5f06108899991c48e70db7464fc4403e526bc5d1a581ab4ec71164a383b56"
+  },
+  {
+   "job_id": "133cc451-e336-47f7-9aae-7c455e414442",
+   "lineage_key": "onboard-processing-software-engineer-gpu-edge-earth-observation@harwell-uk",
+   "title": "Onboard Processing Software Engineer (GPU / Edge, Earth  Observation)",
+   "department": "DATA",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-09-30T11:09:08+01:00",
+   "url": "https://careers.open-cosmos.com/jobs/8478374-onboard-processing-software-engineer-gpu-edge-earth-observation",
+   "description_sha256": "d0fb25bfb79fd18525f4d9e10cc86920d758b18cb6bd7457366660c69cd5eb41"
   },
   {
    "job_id": "144c4c5d-e0bf-4af2-a9b6-df7f9807ebb2",
@@ -799,21 +814,6 @@
    "published_at": "2026-01-30T08:49:33+00:00",
    "url": "https://careers.open-cosmos.com/jobs/7142875-quality-control-qc-engineer-shift-based",
    "description_sha256": "1616fc532a405cb12fcc6eb624e5c48f191bb38ae1f4f3fff944e7987dfc943b"
-  },
-  {
-   "job_id": "ede0b52e-5d2a-4793-ab37-ed736084c921",
-   "lineage_key": "data-processing-technical-project-manager@harwell-uk",
-   "title": "Data Processing Technical Project Manager",
-   "department": "DATA",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-02-06T02:42:40+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/7183438-data-processing-technical-project-manager",
-   "description_sha256": "99800bd9bbb0b2378a47202dbca28a5b4d3134dac42833ceb5fdc1e68d16611b"
   },
   {
    "job_id": "f5a3e42e-e17e-41e0-ae17-10b3d46dda8f",

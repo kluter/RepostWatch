@@ -2,7 +2,7 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-09-29T20:57:57+00:00",
+ "fetched_at": "2026-09-30T20:59:31+00:00",
  "job_count": 26,
  "jobs": [
   {
@@ -25,7 +25,7 @@
   {
    "job_id": "0A5C0881FE",
    "lineage_key": "senior-antenna-rf-design-engineer@reston-united-states",
-   "title": "Senior Antenna & RF Design Engineer",
+   "title": "(Senior) Antenna & RF Design Engineer",
    "department": "Mission Solutions",
    "team": "",
    "location": "Reston, United States",

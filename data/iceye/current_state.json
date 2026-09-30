@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-30T16:29:07+00:00",
+ "fetched_at": "2026-09-30T20:59:31+00:00",
  "job_count": 183,
  "jobs": [
   {
@@ -207,13 +207,15 @@
    "department": "Engineering",
    "team": "Platform & Release Staff Engineers",
    "location": "Espoo",
-   "secondary_locations": [],
+   "secondary_locations": [
+    "Berlin"
+   ],
    "employment_type": "FullTime",
    "workplace_type": "Hybrid",
    "is_remote": true,
    "published_at": "2026-08-18T16:05:28.007+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/19a2709c-1e6d-4c8d-958a-2f07f017f372",
-   "description_sha256": "836e4ea03f87f29400e7842b63733b6c1c251e18c619d03b9421576837468f78"
+   "description_sha256": "7c422a01c48ecb7286e1283efa083e07bf9fbc2ca32abc04be2c7425dc207e0d"
   },
   {
    "job_id": "19d29db2-9a39-4e9b-967a-c63105c1eeaa",
@@ -1087,7 +1089,7 @@
    "is_remote": true,
    "published_at": "2026-09-01T07:12:54.680+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/65672a82-d0bd-4f86-99d6-5d35432453fd",
-   "description_sha256": "11a50c00f9807f977ff854bb28ac281d1f6acd51e357c055b8dad0bca8b8bd1b"
+   "description_sha256": "e5e1ccc1624261824cf34e80e9a9d27052549cdca3d30814f413055962ea4c11"
   },
   {
    "job_id": "67b84d2a-1f66-473a-b24c-b7ba35f02fe5",
@@ -2108,13 +2110,15 @@
    "department": "Engineering",
    "team": "Release Engineering",
    "location": "Espoo",
-   "secondary_locations": [],
+   "secondary_locations": [
+    "Berlin"
+   ],
    "employment_type": "FullTime",
    "workplace_type": "Hybrid",
    "is_remote": true,
    "published_at": "2026-04-22T08:49:14.127+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/c6b51b8b-94af-4007-8464-4a4b858fa5e7",
-   "description_sha256": "0f0b9343fa605973016708d3ffe19908e34e06b02c45d65b43ea22b0b2f97ac8"
+   "description_sha256": "761fee80bcf545a41aa35bae42834661d64f95c1f1a98fe8b2a6d9787ac9cbee"
   },
   {
    "job_id": "c7cf51bc-0164-45cd-a5d9-53f1e4f77845",
@@ -2243,13 +2247,15 @@
    "department": "Engineering",
    "team": "Core Platform Engineering",
    "location": "Espoo",
-   "secondary_locations": [],
+   "secondary_locations": [
+    "Berlin"
+   ],
    "employment_type": "FullTime",
    "workplace_type": "Hybrid",
    "is_remote": true,
    "published_at": "2026-04-08T07:32:56.461+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/cf6ba0e9-a750-4ee7-9b0a-8cb519cb7c39",
-   "description_sha256": "3dc94b191a46bda31f13307a092898ccf9790a2e7d7698f197878884fea8e44b"
+   "description_sha256": "105f170b35b36317467d86405110c0ed64d85c945613383d911e9f1634548f20"
   },
   {
    "job_id": "cfc19497-d4ed-465d-9b7d-e2ed114c4ba4",

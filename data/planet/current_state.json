@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-09-30T16:29:07+00:00",
- "job_count": 125,
+ "fetched_at": "2026-09-30T20:59:31+00:00",
+ "job_count": 123,
  "jobs": [
   {
    "job_id": "7374533",
@@ -561,21 +561,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8088251",
-   "lineage_key": "manager-customer-success-commercial-markets@san-francisco-ca",
-   "title": "Manager, Customer Success - Commercial Markets",
-   "department": "Customer Success Management",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-30T19:04:14-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8088251",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8088361",
    "lineage_key": "senior-satellite-constellation-manager@uae-remote",
    "title": "Senior Satellite Constellation Manager",
@@ -663,21 +648,6 @@
    "is_remote": false,
    "published_at": "2026-08-06T14:02:28-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8112641",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8119750",
-   "lineage_key": "customer-success-manager-ii-commercial-markets@san-francisco-ca",
-   "title": "Customer Success Manager II, Commercial Markets",
-   "department": "Customer Success Management",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-13T20:13:48-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8119750",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1401,21 +1371,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8189833",
-   "lineage_key": "manager-customer-success-commercial-markets@arlington-va",
-   "title": "Manager, Customer Success - Commercial Markets",
-   "department": "Customer Success Management",
-   "team": "",
-   "location": "Arlington, VA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-19T00:31:04-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8189833",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8190766",
    "lineage_key": "software-engineer@berlin-germany",
    "title": "Software Engineer",
@@ -1683,6 +1638,21 @@
    "is_remote": false,
    "published_at": "2026-09-23T03:56:29-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8221607",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8221853",
+   "lineage_key": "harness-manufacturing-engineer@san-francisco-ca",
+   "title": "Harness Manufacturing Engineer",
+   "department": "NPI Engineering",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-30T14:52:56-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8221853",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

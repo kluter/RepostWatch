@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-09-29T16:36:37+00:00",
- "job_count": 160,
+ "fetched_at": "2026-09-30T16:29:07+00:00",
+ "job_count": 163,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -666,21 +666,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4865991101",
-   "lineage_key": "technical-programme-manager-air@munich",
-   "title": "Technical Programme Manager - Air",
-   "department": "Campaigns & Programmes",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-15T07:48:23-04:00",
-   "url": "https://helsing.ai/jobs/4865991101?gh_jid=4865991101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4869481101",
    "lineage_key": "product-manager-electronic-warfare-offboard-cross-platform@munich",
    "title": "Product Manager — Electronic Warfare (Offboard & Cross-Platform)",
@@ -786,6 +771,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4876267101",
+   "lineage_key": "mechanical-designer@munich",
+   "title": "Mechanical Designer",
+   "department": "Hardware Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-05-27T08:35:24-04:00",
+   "url": "https://helsing.ai/jobs/4876267101?gh_jid=4876267101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4876328101",
    "lineage_key": "stress-dynamics-engineer@munich",
    "title": "Stress & Dynamics Engineer",
@@ -843,21 +843,6 @@
    "is_remote": false,
    "published_at": "2026-05-29T05:37:20-04:00",
    "url": "https://helsing.ai/jobs/4878160101?gh_jid=4878160101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4878616101",
-   "lineage_key": "rf-emc-engineer@munich",
-   "title": "RF & EMC Engineer",
-   "department": "Hardware Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-29T10:06:40-04:00",
-   "url": "https://helsing.ai/jobs/4878616101?gh_jid=4878616101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1101,6 +1086,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4911660101",
+   "lineage_key": "electrical-harness-engineer@munich",
+   "title": "Electrical Harness Engineer",
+   "department": "Hardware Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-06-30T05:09:08-04:00",
+   "url": "https://helsing.ai/jobs/4911660101?gh_jid=4911660101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4911999101",
    "lineage_key": "ai-research-engineer-3d-computer-vision@berlin",
    "title": "AI Research Engineer -  3D Computer Vision",
@@ -1173,6 +1173,21 @@
    "is_remote": false,
    "published_at": "2026-07-14T08:17:40-04:00",
    "url": "https://helsing.ai/jobs/4923775101?gh_jid=4923775101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4924017101",
+   "lineage_key": "senior-systems-safety-engineer-land@munich",
+   "title": "(Senior) Systems Safety Engineer - Land",
+   "department": "Hardware Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-10T04:50:46-04:00",
+   "url": "https://helsing.ai/jobs/4924017101?gh_jid=4924017101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1671,21 +1686,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4959374101",
-   "lineage_key": "procurement-manager-tech-it@munich",
-   "title": "Procurement Manager – Tech & IT",
-   "department": "Market",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-24T15:02:15-04:00",
-   "url": "https://helsing.ai/jobs/4959374101?gh_jid=4959374101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4960547101",
    "lineage_key": "senior-commercial-manager@london-england-united-kingdom",
    "title": "Senior Commercial Manager",
@@ -2181,6 +2181,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4977408101",
+   "lineage_key": "payroll-lead@munich",
+   "title": "Payroll Lead",
+   "department": "People",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-30T03:52:14-04:00",
+   "url": "https://helsing.ai/jobs/4977408101?gh_jid=4977408101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4977427101",
    "lineage_key": "team-assistant@munich",
    "title": "Team Assistant",
@@ -2403,6 +2418,36 @@
    "is_remote": false,
    "published_at": "2026-09-29T05:28:06-04:00",
    "url": "https://helsing.ai/jobs/4989382101?gh_jid=4989382101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4989465101",
+   "lineage_key": "test-engineer-environment@munich",
+   "title": "Test Engineer - Environment",
+   "department": "Hardware Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-30T08:09:12-04:00",
+   "url": "https://helsing.ai/jobs/4989465101?gh_jid=4989465101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4989531101",
+   "lineage_key": "test-engineer-ground@munich",
+   "title": "Test Engineer - Ground",
+   "department": "Hardware Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-30T08:10:59-04:00",
+   "url": "https://helsing.ai/jobs/4989531101?gh_jid=4989531101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

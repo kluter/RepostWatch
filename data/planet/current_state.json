@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-09-29T20:57:57+00:00",
- "job_count": 122,
+ "fetched_at": "2026-09-30T16:29:07+00:00",
+ "job_count": 125,
  "jobs": [
   {
    "job_id": "7374533",
@@ -546,21 +546,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8079170",
-   "lineage_key": "regional-marketing-manager-emea@berlin-germany",
-   "title": "Regional Marketing Manager, EMEA",
-   "department": "Regional, Customer and Events Marketing",
-   "team": "",
-   "location": "Berlin, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-24T10:48:22-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8079170",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8081498",
    "lineage_key": "senior-director-global-talent-acquisition@san-francisco-ca",
    "title": "Senior Director, Global Talent Acquisition",
@@ -618,21 +603,6 @@
    "is_remote": false,
    "published_at": "2026-07-31T18:13:01-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8094173",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8096079",
-   "lineage_key": "software-engineer@san-francisco-ca",
-   "title": "Software Engineer",
-   "department": "Business Systems",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-12T13:39:18-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8096079",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1267,15 +1237,15 @@
   },
   {
    "job_id": "8164995",
-   "lineage_key": "presales-engineer-civil-government-and-commercial@berlin-germany",
+   "lineage_key": "presales-engineer-civil-government-and-commercial@germany-remote",
    "title": "PreSales Engineer, Civil Government and Commercial",
    "department": "Pre-Sales and Services",
    "team": "",
-   "location": "Berlin, Germany",
+   "location": "Germany, Remote",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
-   "is_remote": false,
+   "is_remote": true,
    "published_at": "2026-09-07T04:45:07-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8164995",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
@@ -1536,6 +1506,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8197622",
+   "lineage_key": "senior-software-engineer-mission-optimization@san-francisco-ca",
+   "title": "Senior Software Engineer, Mission Optimization",
+   "department": "Orbits R&D",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-30T12:00:48-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8197622",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8197626",
    "lineage_key": "senior-solutions-architect-ii-pre-sales-middle-east-and-north-africa@united-arab-emirates-remote",
    "title": "Senior Solutions Architect II, Pre-Sales, Middle East and North Africa",
@@ -1548,6 +1533,21 @@
    "is_remote": true,
    "published_at": "2026-09-15T12:17:14-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8197626",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8202848",
+   "lineage_key": "senior-solutions-architect-i-pre-sales-nato@netherlands",
+   "title": "Senior Solutions Architect I, Pre-Sales - NATO",
+   "department": "Pre-Sales and Services",
+   "team": "",
+   "location": "Netherlands",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-30T01:45:11-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8202848",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1641,6 +1641,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8220995",
+   "lineage_key": "space-systems-engineer-space-operations@san-francisco-ca",
+   "title": "Space Systems Engineer, Space Operations",
+   "department": "Space Operations",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-29T18:24:21-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8220995",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8221300",
    "lineage_key": "satellite-data-processing-engineer@berlin-germany",
    "title": "Satellite Data Processing Engineer",
@@ -1701,6 +1716,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8226128",
+   "lineage_key": "program-manager-german-civil-government@berlin-germany",
+   "title": "Program Manager, German Civil Government",
+   "department": "Pre-Sales and Services",
+   "team": "",
+   "location": "Berlin, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-30T02:43:52-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8226128",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8226246",
    "lineage_key": "senior-infrastructure-solutions-engineer@netherlands-remote",
    "title": "Senior Infrastructure Solutions Engineer",
@@ -1728,6 +1758,21 @@
    "is_remote": true,
    "published_at": "2026-09-24T09:47:50-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8226250",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8229990",
+   "lineage_key": "senior-solutions-architect-i-pre-sales-nato@belgium",
+   "title": "Senior Solutions Architect I, Pre-Sales - NATO",
+   "department": "Pre-Sales and Services",
+   "team": "",
+   "location": "Belgium",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-30T01:45:14-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8229990",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

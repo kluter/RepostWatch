@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-09-25T15:29:33+00:00",
- "job_count": 42,
+ "fetched_at": "2026-09-30T16:29:07+00:00",
+ "job_count": 40,
  "jobs": [
   {
    "job_id": "6729465",
@@ -156,21 +156,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "7870835",
-   "lineage_key": "ivvq-systems-engineer@glasgow-scotland-united-kingdom",
-   "title": "IVVQ Systems Engineer",
-   "department": "Engineering",
-   "team": "",
-   "location": "Glasgow, Scotland, United Kingdom",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-06T08:51:49-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7870835&gh_jid=7870835",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "7874484",
    "lineage_key": "senior-go-to-market-ops-leader@washington-dc",
    "title": "Senior Go to Market Ops Leader",
@@ -198,21 +183,6 @@
    "is_remote": false,
    "published_at": "2026-09-24T09:14:18-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=7904704&gh_jid=7904704",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7950114",
-   "lineage_key": "senior-rf-engineer@glasgow-scotland-united-kingdom",
-   "title": "Senior RF Engineer",
-   "department": "Engineering",
-   "team": "",
-   "location": "Glasgow, Scotland, United Kingdom",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-22T08:06:16-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7950114&gh_jid=7950114",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -273,21 +243,6 @@
    "is_remote": false,
    "published_at": "2026-06-30T05:57:20-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8015574&gh_jid=8015574",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8018459",
-   "lineage_key": "senior-go-to-market-ops-leader@boulder",
-   "title": "Senior Go to Market Ops Leader",
-   "department": "Marketing",
-   "team": "",
-   "location": "Boulder",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-19T10:47:25-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8018459&gh_jid=8018459",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -633,6 +588,21 @@
    "is_remote": false,
    "published_at": "2026-09-24T09:12:14-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8230260&gh_jid=8230260",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8242356",
+   "lineage_key": "senior-go-to-market-ops-leader@boulder",
+   "title": "Senior Go to Market Ops Leader",
+   "department": "Marketing",
+   "team": "",
+   "location": "Boulder",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-30T03:37:06-04:00",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8242356&gh_jid=8242356",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

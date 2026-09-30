@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-09-29T20:57:57+00:00",
- "job_count": 85,
+ "fetched_at": "2026-09-30T16:29:07+00:00",
+ "job_count": 87,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -81,6 +81,21 @@
    "published_at": "2026-09-23T12:07:21.680000+00:00",
    "url": "https://jobs.lever.co/kpler/10105b9b-ed9c-4ebe-8f3b-76b18edeccb8",
    "description_sha256": "60141ba414a7b114fc66a6de969f2e0735a3b5ba4925679ec42f9d84d09631f5"
+  },
+  {
+   "job_id": "15474088-c317-42ba-bb01-502a4b1617d3",
+   "lineage_key": "senior-data-visualisation-engineer@london",
+   "title": "Senior Data Visualisation Engineer",
+   "department": "Product",
+   "team": "Product Data Platform",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-08-06T16:13:23.938000+00:00",
+   "url": "https://jobs.lever.co/kpler/15474088-c317-42ba-bb01-502a4b1617d3",
+   "description_sha256": "79dea0ebf8df1bfea94c1e7c87cb60b8aacaf3b4369e29a64ddfcd6134a1fac3"
   },
   {
    "job_id": "1632bc19-f4dc-4103-bd5f-5a8eecab1480",
@@ -625,8 +640,8 @@
   },
   {
    "job_id": "8406b890-cd64-4f78-bc58-f8f842e8db72",
-   "lineage_key": "account-manager-maritime@new-york",
-   "title": "Account Manager - Maritime",
+   "lineage_key": "account-manager-supply-chain-and-logistics@new-york",
+   "title": "Account Manager - Supply Chain and Logistics",
    "department": "Commercial",
    "team": "Sales - Mid Market Americas",
    "location": "New York",
@@ -638,7 +653,7 @@
    "is_remote": false,
    "published_at": "2026-09-24T12:28:36.827000+00:00",
    "url": "https://jobs.lever.co/kpler/8406b890-cd64-4f78-bc58-f8f842e8db72",
-   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+   "description_sha256": "18856ad022b27ce240c6ca9afde16c5afc31d1a2ae421c9f91e5d1c664bfda52"
   },
   {
    "job_id": "85248b31-c44c-4689-b004-ca4228adc2b9",
@@ -758,7 +773,7 @@
    "is_remote": false,
    "published_at": "2026-09-21T19:56:27.932000+00:00",
    "url": "https://jobs.lever.co/kpler/8e80a0b5-49f4-429a-9be2-d2eecd412f79",
-   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+   "description_sha256": "ed656feb5f3829d39b81afa73c0afe3639530affc2468109b2ad482e427e7565"
   },
   {
    "job_id": "8ff15f9a-f8a7-415c-88c3-dbbc0583d934",
@@ -942,7 +957,7 @@
    "is_remote": false,
    "published_at": "2026-09-28T13:31:04.737000+00:00",
    "url": "https://jobs.lever.co/kpler/aed203cd-f69b-4be1-ae7d-1496445d4084",
-   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+   "description_sha256": "9ff8899e5b18c1ad8a0f46ec0cb240777086dfa73f4be46e3abf9062ecf366cf"
   },
   {
    "job_id": "b93250d4-23b6-496e-8483-63fbeaf8c1fa",
@@ -1235,6 +1250,21 @@
    "is_remote": false,
    "published_at": "2026-05-27T08:58:08.885000+00:00",
    "url": "https://jobs.lever.co/kpler/ee05fe01-7e4d-4292-897d-e9114f7f3509",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+  },
+  {
+   "job_id": "ee3ad1a8-7c6c-4633-9d4f-4116621037d9",
+   "lineage_key": "commercial-manager-commodities-financials@brazil",
+   "title": "Commercial Manager — Commodities & Financials",
+   "department": "Commercial",
+   "team": "Sales - Mid Market Americas",
+   "location": "Brazil",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-09-30T15:48:11.436000+00:00",
+   "url": "https://jobs.lever.co/kpler/ee3ad1a8-7c6c-4633-9d4f-4116621037d9",
    "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {

@@ -2,22 +2,22 @@
  "company": "ororatech",
  "source": "personio",
  "board": "ororatech",
- "fetched_at": "2026-09-01T15:07:54+00:00",
+ "fetched_at": "2026-09-30T16:29:07+00:00",
  "job_count": 1,
  "jobs": [
   {
-   "job_id": "2775924",
-   "lineage_key": "customer-success-manager-m-f-d@usa-denver",
-   "title": "Customer Success Manager (m/f/d)",
-   "department": "Sales | Customer Success",
+   "job_id": "2821024",
+   "lineage_key": "senior-projektcontroller-m-w-d@munich",
+   "title": "Senior Projektcontroller (m/w/d)",
+   "department": "Finance & Controlling",
    "team": "",
-   "location": "USA - Denver",
+   "location": "Munich",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
    "is_remote": false,
-   "published_at": "2026-09-01T08:33:38+00:00",
-   "url": "https://ororatech.jobs.personio.de/job/2775924",
+   "published_at": "2026-09-30T11:25:19+00:00",
+   "url": "https://ororatech.jobs.personio.de/job/2821024",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

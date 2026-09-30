@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-29T20:57:57+00:00",
- "job_count": 187,
+ "fetched_at": "2026-09-30T16:29:07+00:00",
+ "job_count": 183,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -592,8 +592,8 @@
   },
   {
    "job_id": "3d7f14e7-e116-4885-9d3d-a66080532999",
-   "lineage_key": "avionics-verification-technician@espoo",
-   "title": "Avionics Verification Technician",
+   "lineage_key": "electronics-verification-technician@espoo",
+   "title": "Electronics Verification Technician",
    "department": "Global Manufacturing Organization",
    "team": "FI Satellite Production Avionics",
    "location": "Espoo",
@@ -603,7 +603,7 @@
    "is_remote": false,
    "published_at": "2026-08-14T11:51:08.317+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/3d7f14e7-e116-4885-9d3d-a66080532999",
-   "description_sha256": "cb039aab75c6aa5937d66c68ed3a9ef62eb79c9bf180e9b967f6afcbb3d9e8e3"
+   "description_sha256": "aea654671738aadcc0fb78acfb0f778fb2a961cd6c5bba7d17b7a8f3f3f691cb"
   },
   {
    "job_id": "3eb0f7b1-ab19-4d41-b633-dfeea0990086",
@@ -711,21 +711,6 @@
    "published_at": "2026-09-17T08:34:24.973+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/4572f413-69db-4c73-a8a4-920a26107dbe",
    "description_sha256": "249621adab5f29761ebb4117e783bd11143f8c2dc61455e6797cd07ec6fded39"
-  },
-  {
-   "job_id": "45aee45a-8a66-4a88-8a1f-7b9e5d192241",
-   "lineage_key": "electrical-harness-design-engineer@espoo",
-   "title": "Electrical Harness Design Engineer",
-   "department": "Engineering",
-   "team": "Testing Engineering",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-29T07:08:14.094+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/45aee45a-8a66-4a88-8a1f-7b9e5d192241",
-   "description_sha256": "8852d56602858e097435d3a1bda6d26e5dc83e49350665bbb8e8013d7967aff3"
   },
   {
    "job_id": "4684576e-929f-4a2d-a39d-bbf90c9f399d",
@@ -1094,28 +1079,15 @@
    "department": "Engineering",
    "team": "Product Networking",
    "location": "Espoo",
-   "secondary_locations": [],
+   "secondary_locations": [
+    "Berlin"
+   ],
    "employment_type": "FullTime",
    "workplace_type": "Hybrid",
    "is_remote": true,
    "published_at": "2026-09-01T07:12:54.680+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/65672a82-d0bd-4f86-99d6-5d35432453fd",
-   "description_sha256": "b489b292bafc80ca3eb0b73c89100a1cb1db9c3aa0962cde1daaa751205a8ecf"
-  },
-  {
-   "job_id": "6796ce6b-05bf-41ec-a53c-bc882ac74d3c",
-   "lineage_key": "forward-deployed-geospatial-engineer-sar-intelligence-germany@munich",
-   "title": "Forward Deployed Geospatial Engineer - SAR Intelligence, Germany",
-   "department": "Product",
-   "team": "Forward Deployed Engineering",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-01T07:38:53.046+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/6796ce6b-05bf-41ec-a53c-bc882ac74d3c",
-   "description_sha256": "12e73e96292a795d53c9272864c265ce7cbcb1e08ea6ed11fa1d73b7d4ce379c"
+   "description_sha256": "11a50c00f9807f977ff854bb28ac281d1f6acd51e357c055b8dad0bca8b8bd1b"
   },
   {
    "job_id": "67b84d2a-1f66-473a-b24c-b7ba35f02fe5",
@@ -1494,21 +1466,6 @@
    "published_at": "2026-08-26T13:15:51.237+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/824f4858-2692-4b97-82bf-cbe2805dfbd6",
    "description_sha256": "957893a5380f6429d4d673210b026d85c7687e6c089273c38520a0c06ec2d048"
-  },
-  {
-   "job_id": "8525aea6-9765-41ae-b1c8-87617030564e",
-   "lineage_key": "senior-electronics-engineer-avionics@espoo",
-   "title": "Senior Electronics Engineer - Avionics",
-   "department": "Engineering",
-   "team": "Avionics",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-04-08T07:28:21.634+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/8525aea6-9765-41ae-b1c8-87617030564e",
-   "description_sha256": "edb49642e39b78391cf48faeed022c9c30362446a0ea5eaf972f40daee5e4ac1"
   },
   {
    "job_id": "87472167-0929-46d4-9d75-075fba6907b8",
@@ -2526,7 +2483,7 @@
    "is_remote": false,
    "published_at": "2026-09-23T14:40:13.366+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e595c160-7caf-4697-a4d5-a2a85bf5c481",
-   "description_sha256": "c58268b4033b642d2ac602464359a07071e9d64c093470744d6b2da727da5c09"
+   "description_sha256": "2a69bcdd713d237a94cdd569c1b6efe7740bc7fce920acc7ff9b68d15d0ab49c"
   },
   {
    "job_id": "e7d59b96-29fb-4d6c-8e4b-4cdb4e38da1b",
@@ -2712,21 +2669,6 @@
    "published_at": "2026-08-13T15:22:32.977+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/f457fd1a-738e-417c-aa94-d5d94f3ed0c5",
    "description_sha256": "6284c884dad424cea5dce22ecbe208d94c1623c89270290ec45decc6f5ae1b5c"
-  },
-  {
-   "job_id": "f57cfdfe-3f46-4488-af0e-8465b65efaaf",
-   "lineage_key": "electronics-engineer-avionics@espoo",
-   "title": "Electronics Engineer - Avionics",
-   "department": "Engineering",
-   "team": "Avionics",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-04-08T07:27:41.367+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/f57cfdfe-3f46-4488-af0e-8465b65efaaf",
-   "description_sha256": "251e2e5ff780e1af7b984a9195bd0f7dfa8034d5ad45451f276081baad334b63"
   },
   {
    "job_id": "f6d34236-1ec0-4567-8b6a-fb6d3eb6bb87",

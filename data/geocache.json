@@ -634,6 +634,11 @@
    "lon": -53.2,
    "label": "Brasil"
   },
-  "global": null
+  "global": null,
+  "us": {
+   "lat": 39.7837304,
+   "lon": -100.445882,
+   "label": "United States"
+  }
  }
 }

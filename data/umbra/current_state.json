@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-10-01T17:07:15+00:00",
- "job_count": 25,
+ "fetched_at": "2026-10-01T21:19:55+00:00",
+ "job_count": 24,
  "jobs": [
   {
    "job_id": "076F11402A",
@@ -21,21 +21,6 @@
    "published_at": "2026-03-23T00:00:00+00:00",
    "url": "https://apply.workable.com/j/076F11402A",
    "description_sha256": "df98748b9eb5dabde6585be361fe8d38e43f5ed766cdb7f32e990283226eef0b"
-  },
-  {
-   "job_id": "0A5C0881FE",
-   "lineage_key": "senior-antenna-rf-design-engineer@reston-united-states",
-   "title": "(Senior) Antenna & RF Design Engineer",
-   "department": "Mission Solutions",
-   "team": "",
-   "location": "Reston, United States",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-15T00:00:00+00:00",
-   "url": "https://apply.workable.com/j/0A5C0881FE",
-   "description_sha256": "3f5a2316b90975eb8345d46d941248d370f0c3d3d49a8e6042e97be936f5883f"
   },
   {
    "job_id": "1956636B85",

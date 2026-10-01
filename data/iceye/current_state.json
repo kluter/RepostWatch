@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-09-30T20:59:31+00:00",
+ "fetched_at": "2026-10-01T17:07:15+00:00",
  "job_count": 183,
  "jobs": [
   {
@@ -63,7 +63,7 @@
    "is_remote": true,
    "published_at": "2026-09-28T13:23:43.119+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/08012612-81fe-4563-998f-e336ca3c333c",
-   "description_sha256": "06626b6f4e4a315d17cb7ddd16655c529eb774d796180b2e5f966e1f0ba9eb5e"
+   "description_sha256": "82e80fe47f2d9beb2b898b538bea8a01b4d9a4b3cd3542ab794fb4da91142006"
   },
   {
    "job_id": "09d02ba3-5ba6-4a11-bb30-74e42c22c485",
@@ -623,6 +623,23 @@
    "description_sha256": "eb26642810f668ad0e5779dc9d63b5c81dcbdeb41b186dc3533712a63dd8e00e"
   },
   {
+   "job_id": "421500ca-7543-4dfe-807c-72ea368be2b2",
+   "lineage_key": "senior-network-engineer@espoo",
+   "title": "Senior Network Engineer",
+   "department": "Engineering",
+   "team": "Product Networking",
+   "location": "Espoo",
+   "secondary_locations": [
+    "Berlin"
+   ],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-01T14:31:11.102+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/421500ca-7543-4dfe-807c-72ea368be2b2",
+   "description_sha256": "064b2dda69df4a17ed2b9505257638ba4e9cc7aad01e537a336e5798a581ca9e"
+  },
+  {
    "job_id": "42d95b7e-c150-4ebd-8814-5993dbafb921",
    "lineage_key": "satellite-rf-senior-technician@valencia",
    "title": "Satellite RF Senior Technician",
@@ -1076,8 +1093,8 @@
   },
   {
    "job_id": "65672a82-d0bd-4f86-99d6-5d35432453fd",
-   "lineage_key": "senior-infrastructure-engineer@espoo",
-   "title": "Senior Infrastructure Engineer",
+   "lineage_key": "senior-cloud-network-engineer@espoo",
+   "title": "Senior Cloud Network Engineer",
    "department": "Engineering",
    "team": "Product Networking",
    "location": "Espoo",
@@ -1089,7 +1106,7 @@
    "is_remote": true,
    "published_at": "2026-09-01T07:12:54.680+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/65672a82-d0bd-4f86-99d6-5d35432453fd",
-   "description_sha256": "e5e1ccc1624261824cf34e80e9a9d27052549cdca3d30814f413055962ea4c11"
+   "description_sha256": "0513baf53272b76aa357de877cca679cd86240f4b8f0b9d8bfbc32b8d09af4cc"
   },
   {
    "job_id": "67b84d2a-1f66-473a-b24c-b7ba35f02fe5",
@@ -1290,21 +1307,6 @@
    "description_sha256": "33dbec950c310aeb68185122c742a36ef98039660099202b32a234260eb5161e"
   },
   {
-   "job_id": "769bb953-4b97-43f5-b01f-1a63da09a605",
-   "lineage_key": "missions-sales-director-singapore@singapore",
-   "title": "Missions Sales Director, Singapore",
-   "department": "Missions",
-   "team": "Missions Sales",
-   "location": "Singapore",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Remote",
-   "is_remote": true,
-   "published_at": "2026-08-11T05:01:17.978+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/769bb953-4b97-43f5-b01f-1a63da09a605",
-   "description_sha256": "4926594843bc59e6139f943795b8b88141aafe7c6df5632d5ff900b51d9bd37f"
-  },
-  {
    "job_id": "77ee1494-3ca4-4774-a0ad-9e731d63cec1",
    "lineage_key": "senior-electronics-test-engineer@espoo",
    "title": "Senior Electronics Test Engineer",
@@ -1422,7 +1424,7 @@
    "is_remote": false,
    "published_at": "2026-09-10T16:02:00.769+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/7fc58c08-96fa-4470-b04c-6e65c5964c04",
-   "description_sha256": "be2c5794d9886e1f75cc51a200138dd71d0a4382cb685c7477240cabff16d79e"
+   "description_sha256": "f2be592575d7b967d58683114f320939da8857c894c9ee1cb31eec748c67c87b"
   },
   {
    "job_id": "8096ddfe-64c4-4555-87ad-45c4e9dc09cd",
@@ -1470,21 +1472,6 @@
    "description_sha256": "957893a5380f6429d4d673210b026d85c7687e6c089273c38520a0c06ec2d048"
   },
   {
-   "job_id": "87472167-0929-46d4-9d75-075fba6907b8",
-   "lineage_key": "senior-mechanical-engineer@valencia-spain",
-   "title": "Senior Mechanical Engineer",
-   "department": "Engineering",
-   "team": "SIGINT",
-   "location": "Valencia, Spain",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-07-23T12:22:01.311+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/87472167-0929-46d4-9d75-075fba6907b8",
-   "description_sha256": "3d953f59860d7a1bf0a75634059f5b633b681b25b621fa9de9a2449f3338cccf"
-  },
-  {
    "job_id": "879b620d-c9c0-4d71-b642-814fc3996688",
    "lineage_key": "senior-electronics-engineer@warsaw",
    "title": "Senior Electronics Engineer",
@@ -1513,6 +1500,23 @@
    "published_at": "2026-09-22T08:42:24.528+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/8a1f917f-09fa-45b0-8e05-2f6eb2cdc793",
    "description_sha256": "0dee2274e4d0b18836cc7a978d244d307c17cdaccfb65b50f6f864c803290d66"
+  },
+  {
+   "job_id": "8a6bfe22-bf26-49da-a1ce-b64b314897ee",
+   "lineage_key": "senior-devops-engineer-ground-stations@espoo",
+   "title": "Senior DevOps Engineer (Ground Stations)",
+   "department": "Engineering",
+   "team": "CONNECT and Ground Stations",
+   "location": "Espoo",
+   "secondary_locations": [
+    "Berlin"
+   ],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-01T12:27:29.075+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/8a6bfe22-bf26-49da-a1ce-b64b314897ee",
+   "description_sha256": "18a45e6c983d64c54f69fdda62fd372976d8f386201de3c3d47436bd8eb5187b"
   },
   {
    "job_id": "8bbb61b2-e417-4d48-b6e2-45843174e21c",

@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-09-30T20:59:31+00:00",
- "job_count": 26,
+ "fetched_at": "2026-10-01T17:07:15+00:00",
+ "job_count": 25,
  "jobs": [
   {
    "job_id": "076F11402A",
@@ -86,21 +86,6 @@
    "published_at": "2026-08-25T00:00:00+00:00",
    "url": "https://apply.workable.com/j/33F903685D",
    "description_sha256": "226c3295c36dde0ec626148573c41931b941ebf09bae670ab2569ddf8e23d546"
-  },
-  {
-   "job_id": "423E64A881",
-   "lineage_key": "spacecraft-manufacturing-engineer@santa-barbara-united-states",
-   "title": "Spacecraft Manufacturing Engineer",
-   "department": "Space Systems",
-   "team": "",
-   "location": "Santa Barbara, United States",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-30T00:00:00+00:00",
-   "url": "https://apply.workable.com/j/423E64A881",
-   "description_sha256": "31ade16a448fd2b0ec294c1ea4080778533a3c602edb3b697f6356a010613192"
   },
   {
    "job_id": "460E5DED83",

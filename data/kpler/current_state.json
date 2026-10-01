@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-09-30T16:29:07+00:00",
- "job_count": 87,
+ "fetched_at": "2026-10-01T17:07:15+00:00",
+ "job_count": 85,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -126,25 +126,6 @@
    "published_at": "2026-08-26T14:38:03.229000+00:00",
    "url": "https://jobs.lever.co/kpler/1830300f-a7ce-4bd8-a79f-41df57387abc",
    "description_sha256": "969395a0cbbd8f79eacb6c8c352b59927ecddc331dc324597df453bb1d7cf634"
-  },
-  {
-   "job_id": "19cde75e-93b5-4740-b578-baea3c05965e",
-   "lineage_key": "osint-analyst-vessel-identification@united-kingdom",
-   "title": "OSINT Analyst - Vessel Identification",
-   "department": "Business Units",
-   "team": "Maritime and Logistics",
-   "location": "United Kingdom",
-   "secondary_locations": [
-    "Dubai",
-    "United States",
-    "Greece"
-   ],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-08-13T13:32:29.525000+00:00",
-   "url": "https://jobs.lever.co/kpler/19cde75e-93b5-4740-b578-baea3c05965e",
-   "description_sha256": "4dd17245fa438c685e2aabaf2ecacce951876907b5001e81a7667fb8a768db66"
   },
   {
    "job_id": "1c976953-88d4-4487-9c56-2b8ff2587857",
@@ -1140,21 +1121,6 @@
    "published_at": "2026-09-22T09:14:16.308000+00:00",
    "url": "https://jobs.lever.co/kpler/dd8e0a88-62fe-4711-80b5-3380e492f41c",
    "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
-  },
-  {
-   "job_id": "e3df96d6-804f-4963-b869-9ecb8f086221",
-   "lineage_key": "software-engineer-commodities@singapore",
-   "title": "Software Engineer - Commodities",
-   "department": "Engineering",
-   "team": "Engineering Commodities",
-   "location": "Singapore",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-07-23T11:56:55.763000+00:00",
-   "url": "https://jobs.lever.co/kpler/e3df96d6-804f-4963-b869-9ecb8f086221",
-   "description_sha256": "2bedb287b20ac2d17171132c5c49724500bbc4984d27d42945184ff47e690001"
   },
   {
    "job_id": "e7c7c95b-6724-4ad2-9926-af69e3dbe258",

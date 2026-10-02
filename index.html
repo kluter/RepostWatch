@@ -22,21 +22,6 @@
             <h1>Repost<span class="accent">Watch</span></h1>
         </a>
         <div class="nav-main">
-            <a id="btn-overview" class="nav-btn" href="#" title="Back to the overview">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" width="14" height="14"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>
-                Overview
-            </a>
-            <div id="company-switcher">
-                <button id="cs-btn" aria-haspopup="listbox" aria-expanded="false">
-                    <span class="cs-label">Company</span>
-                    <span id="cs-name"></span>
-                    <svg class="cs-caret" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
-                </button>
-                <div id="cs-menu" role="listbox" hidden>
-                    <input id="cs-search" type="search" placeholder="Search companies…" autocomplete="off">
-                    <div id="cs-list"></div>
-                </div>
-            </div>
             <div class="navbar-right">
                 <span id="poll-meta"></span>
                 <button id="tz-toggle" type="button" title="Show times in your local zone or UTC"></button>
@@ -49,10 +34,11 @@
         </div>
     </nav>
     <div id="layout">
-        <aside id="sidebar"></aside>
+        <aside id="rail" aria-label="Companies"></aside>
         <main>
             <div id="app"></div>
         </main>
+        <aside id="detail" aria-label="Company details"></aside>
     </div>
     <script src="js/charts.js"></script>
     <script src="js/app.js"></script>

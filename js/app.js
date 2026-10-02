@@ -363,7 +363,7 @@
             ["Feed", `${state.source[0].toUpperCase()}${state.source.slice(1)} (public)`],
         ];
 
-        document.getElementById("sidebar").replaceChildren(
+        document.getElementById("detail").replaceChildren(
             logoBox,
             h("dl", { class: "side-facts" },
                 cfg.website ? factRow("Homepage", h("a", { href: cfg.website, target: "_blank", rel: "noopener" },
@@ -730,14 +730,18 @@
     async function route() {
         const slug = currentSlug();
         document.body.classList.toggle("home", !slug);
-        if (!slug) { await renderHome(); return; }
-        const cfg = companies.find(c => c.slug === slug) || {};
-        document.getElementById("cs-name").textContent = cfg.name || slug;
+        setActiveRail(slug);
+        if (!slug) {
+            document.getElementById("detail").replaceChildren();
+            await renderHome();
+            return;
+        }
         try {
             renderCompany(slug, await loadCompany(slug));
         } catch (err) {
             document.getElementById("app").replaceChildren(
                 h("p", { class: "caption" }, `Failed to load data for ${slug}: ${err.message}`));
+            document.getElementById("detail").replaceChildren();
         }
     }
 
@@ -788,18 +792,33 @@
         return h("div", { class: "move-stat" }, h("b", { style: `color:${color}` }, String(n)), h("span", {}, label));
     }
 
-    // slim company row for the overview sidebar nav: logo + a severity mini-bar
-    function navItem(r) {
-        const cfg = r.cfg;
+    // persistent left rail: one logo chip per company, alphabetical, the current one highlighted.
+    function railItem(cfg) {
         const logo = h("img", { src: cfg.logo || `assets/companies/${cfg.slug}.png`, alt: "",
             class: cfg.logo_invert === false ? "logo-keep" : "" });
         const box = h("span", { class: "nav-logo" }, logo);
         logo.onerror = () => box.replaceChildren(h("b", { class: "nav-fallback" }, cfg.name || cfg.slug));
-        return h("a", { class: "nav-co", href: `#${cfg.slug}`, "data-co": cfg.slug, title: `${cfg.name || cfg.slug}: ${r.jobs} open, ${r.sev.flagged} flagged` }, box);
+        return h("a", { class: "nav-co", href: `#${cfg.slug}`, "data-co": cfg.slug, title: cfg.name || cfg.slug }, box);
+    }
+
+    function buildRail() {
+        const sorted = [...companies].sort((a, b) =>
+            (a.name || a.slug).localeCompare(b.name || b.slug, undefined, { sensitivity: "base" }));
+        document.getElementById("rail").replaceChildren(
+            h("div", { class: "side-intro" },
+                h("p", {},
+                    h("b", {}, "RepostWatch"),
+                    ` tracks the public job feeds of ${companies.length} space, Earth-observation and defence companies, logging every time a role opens, closes, or is quietly republished.`)),
+            h("div", { class: "side-sect" }, "Companies"),
+            h("nav", { class: "co-nav" }, sorted.map(railItem)));
+    }
+
+    function setActiveRail(slug) {
+        for (const a of document.querySelectorAll("#rail .nav-co"))
+            a.classList.toggle("active", a.getAttribute("data-co") === slug);
     }
 
     async function renderHome() {
-        document.getElementById("cs-name").textContent = "Overview";
         const app = document.getElementById("app");
         app.replaceChildren(h("p", { class: "caption" }, "Loading overview…"));
 
@@ -820,19 +839,6 @@
         let open = 0, changes = 0;
         for (const r of rows) { open += r.jobs; changes += r.changes || 0; for (const s of SEV) tot[s] += r.sev[s]; }
         const concern = tot.stale + tot.flagged;
-
-        // ---- sidebar: short intro + company nav (alphabetical) ----
-        const nav = [...rows].sort((a, b) =>
-            (a.cfg.name || a.cfg.slug).localeCompare(b.cfg.name || b.cfg.slug, undefined, { sensitivity: "base" }));
-        document.getElementById("sidebar").replaceChildren(
-            h("div", { class: "side-intro" },
-                h("p", {},
-                    h("b", {}, "RepostWatch"),
-                    ` scrapes the public job feeds of ${rows.length} space, Earth-observation and defence companies and logs every time a role opens, closes, or is quietly republished.`,
-                    h("br"),
-                    "How a company treats its postings is a quiet tell of what it is up to.")),
-            h("div", { class: "side-sect" }, "Companies"),
-            h("nav", { class: "co-nav" }, nav.map(navItem)));
 
         // ---- recent movement (day / week window, paginated, expandable to 25) ----
         const mvAll = [];
@@ -953,38 +959,6 @@
         app.replaceChildren(hero, h("hr", { class: "home-rule" }), movement, charts);
     }
 
-    function initSwitcher() {
-        const wrap = document.getElementById("company-switcher"),
-            btn = document.getElementById("cs-btn"),
-            menu = document.getElementById("cs-menu"),
-            search = document.getElementById("cs-search"),
-            list = document.getElementById("cs-list");
-        const close = () => { menu.hidden = true; wrap.classList.remove("open"); btn.setAttribute("aria-expanded", "false"); };
-        const fill = q => {
-            const ql = (q || "").trim().toLowerCase();
-            const matches = companies.filter(c =>
-                (c.name || c.slug).toLowerCase().includes(ql) || c.slug.includes(ql))
-                .sort((a, b) => (a.name || a.slug).localeCompare(b.name || b.slug, undefined, { sensitivity: "base" }));
-            list.replaceChildren(...(matches.length
-                ? matches.map(c => h("a", {
-                    href: `#${c.slug}`, role: "option",
-                    class: c.slug === currentSlug() ? "active" : "",
-                    onclick: close,
-                }, c.name || c.slug))
-                : [h("div", { class: "cs-empty" }, "No matches")]));
-        };
-        btn.addEventListener("click", () => {
-            const open = menu.hidden;
-            menu.hidden = !open; wrap.classList.toggle("open", open); btn.setAttribute("aria-expanded", String(open));
-            if (open) { search.value = ""; fill(""); search.focus(); }
-        });
-        search.addEventListener("input", () => fill(search.value));
-        search.addEventListener("keydown", e => { if (e.key === "Escape") close(); });
-        document.addEventListener("click", e => { if (!e.target.closest("#company-switcher")) close(); });
-        // a lone company isn't worth a search box
-        if (companies.length < 2) search.style.display = "none";
-    }
-
     function initTz() {
         const btn = document.getElementById("tz-toggle");
         if (!btn) return;
@@ -1050,7 +1024,7 @@
         ]);
         companies = index.companies;
         geocache = geo;
-        initSwitcher();
+        buildRail();          // persistent left company rail, built once; route() toggles the active chip
         initTz();
         addEventListener("hashchange", () => {
             logQuery = ""; logSev = new Set(); logPage = 0; logSize = 10; logOpen = new Set(); logSort = defaultSort();

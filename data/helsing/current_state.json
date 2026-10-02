@@ -2,7 +2,7 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-10-01T17:07:15+00:00",
+ "fetched_at": "2026-10-02T16:20:48+00:00",
  "job_count": 166,
  "jobs": [
   {
@@ -183,21 +183,6 @@
    "is_remote": false,
    "published_at": "2026-08-20T08:58:17-04:00",
    "url": "https://helsing.ai/jobs/4538119101?gh_jid=4538119101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4564710101",
-   "lineage_key": "product-designer@munich",
-   "title": "Product Designer",
-   "department": "Product Design",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2025-04-22T09:17:59-04:00",
-   "url": "https://helsing.ai/jobs/4564710101?gh_jid=4564710101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -2493,6 +2478,21 @@
    "is_remote": false,
    "published_at": "2026-10-01T10:59:48-04:00",
    "url": "https://helsing.ai/jobs/4995452101?gh_jid=4995452101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4996583101",
+   "lineage_key": "logistics-manager@munich",
+   "title": "Logistics Manager",
+   "department": "Production Operations",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-02T10:23:56-04:00",
+   "url": "https://helsing.ai/jobs/4996583101?gh_jid=4996583101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

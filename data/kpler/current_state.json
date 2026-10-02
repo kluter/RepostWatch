@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-10-01T17:07:15+00:00",
- "job_count": 85,
+ "fetched_at": "2026-10-02T16:20:48+00:00",
+ "job_count": 86,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -246,6 +246,21 @@
    "published_at": "2026-09-17T12:02:54.332000+00:00",
    "url": "https://jobs.lever.co/kpler/35db18e4-9d96-4378-901b-f712325f1dd2",
    "description_sha256": "765434bc6f3c9946a6291b7656c66fb8fb897b8bfa4218a62be64aa631ca0a6a"
+  },
+  {
+   "job_id": "3a57da80-b4ed-434e-8048-ed2f1fd84408",
+   "lineage_key": "senior-account-manager-maritime-nordics@london",
+   "title": "Senior Account Manager - Maritime - Nordics",
+   "department": "Commercial",
+   "team": "Sales - Mid Market EMEA",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-09-16T08:55:08.705000+00:00",
+   "url": "https://jobs.lever.co/kpler/3a57da80-b4ed-434e-8048-ed2f1fd84408",
+   "description_sha256": "8e41d7d2e42b17c3cdea27604d326435b2c7a65717aba2b385eb2cc85eb74f80"
   },
   {
    "job_id": "3c351162-0b2f-4670-b03f-5954b50a02c1",
@@ -1120,7 +1135,7 @@
    "is_remote": false,
    "published_at": "2026-09-22T09:14:16.308000+00:00",
    "url": "https://jobs.lever.co/kpler/dd8e0a88-62fe-4711-80b5-3380e492f41c",
-   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+   "description_sha256": "3dcc3cb3b999e3a406674bea56569a601e347b3ec375a05894e08ed61409c53f"
   },
   {
    "job_id": "e7c7c95b-6724-4ad2-9926-af69e3dbe258",

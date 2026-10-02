@@ -639,6 +639,11 @@
    "lat": 39.7837304,
    "lon": -100.445882,
    "label": "United States"
+  },
+  "new delhi": {
+   "lat": 28.6138954,
+   "lon": 77.2090057,
+   "label": "New Delhi"
   }
  }
 }

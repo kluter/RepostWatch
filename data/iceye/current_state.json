@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-01T17:07:15+00:00",
+ "fetched_at": "2026-10-02T16:20:48+00:00",
  "job_count": 183,
  "jobs": [
   {
@@ -293,6 +293,21 @@
    "description_sha256": "899371c78fbda509b93ea246584f0ce2bdf32e5af5ae7de2d376544d5d2dc0ae"
   },
   {
+   "job_id": "1e29609f-111a-453f-a557-bac520a88783",
+   "lineage_key": "business-development-manager-missions-portugal@lisbon",
+   "title": "Business Development Manager, Missions - Portugal",
+   "department": "Missions",
+   "team": "Missions Sales",
+   "location": "Lisbon",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-09-29T11:57:45.151+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/1e29609f-111a-453f-a557-bac520a88783",
+   "description_sha256": "469628cf4adfc012334aa160b7e503dccdd78f03159b63450b65c1badd5b8e0b"
+  },
+  {
    "job_id": "1ffce4d4-4088-4336-9007-622dc10399fb",
    "lineage_key": "senior-software-engineer-developer-enablement@espoo",
    "title": "Senior Software Engineer (Developer Enablement)",
@@ -354,11 +369,11 @@
   },
   {
    "job_id": "25d1fe95-5578-4cc8-8b5a-334e238e6f3d",
-   "lineage_key": "finance-manager@new-dehli",
+   "lineage_key": "finance-manager@new-delhi",
    "title": "Finance Manager",
    "department": "Finance",
    "team": "Finance",
-   "location": "New Dehli",
+   "location": "New Delhi",
    "secondary_locations": [],
    "employment_type": "FullTime",
    "workplace_type": "",
@@ -605,7 +620,7 @@
    "is_remote": false,
    "published_at": "2026-08-14T11:51:08.317+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/3d7f14e7-e116-4885-9d3d-a66080532999",
-   "description_sha256": "aea654671738aadcc0fb78acfb0f778fb2a961cd6c5bba7d17b7a8f3f3f691cb"
+   "description_sha256": "812b1544d6b78e4f94ac18659245c940981a62bf2cb842119b3ebf87f7e9dbd5"
   },
   {
    "job_id": "3eb0f7b1-ab19-4d41-b633-dfeea0990086",
@@ -1497,7 +1512,7 @@
    "employment_type": "FullTime",
    "workplace_type": "Hybrid",
    "is_remote": true,
-   "published_at": "2026-09-22T08:42:24.528+00:00",
+   "published_at": "2026-10-02T10:58:49.181+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/8a1f917f-09fa-45b0-8e05-2f6eb2cdc793",
    "description_sha256": "0dee2274e4d0b18836cc7a978d244d307c17cdaccfb65b50f6f864c803290d66"
   },
@@ -1881,21 +1896,6 @@
    "published_at": "2026-08-06T11:21:50.920+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/aa323d27-cb46-49da-ad7b-2af2821fccfa",
    "description_sha256": "c5c16519785a70f1d7d58a6a600fa1842bbd5597a784d18e02e1ad69ad9346b9"
-  },
-  {
-   "job_id": "b05f92c4-8b2c-4a02-853c-bbeae69f76b5",
-   "lineage_key": "it-on-site-support@lisbon",
-   "title": "IT On-Site Support",
-   "department": "Operations",
-   "team": "IT",
-   "location": "Lisbon",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-07T08:11:39.933+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/b05f92c4-8b2c-4a02-853c-bbeae69f76b5",
-   "description_sha256": "e6ddc1426d8c51554082e998d27ce386c8e9c4280fc4cf7766264e4dd456e16c"
   },
   {
    "job_id": "b12fce39-5cbb-44ed-8f02-ca1654d41659",
@@ -2696,6 +2696,21 @@
    "description_sha256": "5c5fdc55f7ebb2a82b41622de5e405cbede09e7115cfbb6c6d40aa73dec38149"
   },
   {
+   "job_id": "f6f3578b-ded1-486f-853f-a8b4489acc39",
+   "lineage_key": "warehouse-logistics-operator@valencia",
+   "title": "Warehouse / Logistics Operator",
+   "department": "Global Manufacturing Organization",
+   "team": "ES Stock Management",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-10-02T15:29:18.556+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/f6f3578b-ded1-486f-853f-a8b4489acc39",
+   "description_sha256": "3ab7f241a5b0775a4344cb41737892d61a3d975e005cfbff46642682443f8769"
+  },
+  {
    "job_id": "f710849f-4a69-48b6-9f4d-0000c7c1265a",
    "lineage_key": "senior-talent-attraction-partner@espoo",
    "title": "Senior Talent Attraction Partner",
@@ -2754,21 +2769,6 @@
    "published_at": "2026-08-13T13:40:10.185+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/fec79d94-ccd5-409a-81ae-182a9eafc208",
    "description_sha256": "b608dd3483f5a194f5e9437d15218cac7f653985393358d0951405a62f89076c"
-  },
-  {
-   "job_id": "feed753d-0e9a-4c2e-a7e2-ee3e588e5149",
-   "lineage_key": "rf-ait-engineer@valencia",
-   "title": "RF AIT Engineer",
-   "department": "Global Manufacturing Organization",
-   "team": "ES AIT Engineering",
-   "location": "Valencia",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-08-24T07:43:09.996+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/feed753d-0e9a-4c2e-a7e2-ee3e588e5149",
-   "description_sha256": "4b0ff626fb811402301576d68ced77d64d85e157bb76a597d829c12f7f858eb0"
   },
   {
    "job_id": "fef6416f-b3cd-436f-ad19-2272027863c6",

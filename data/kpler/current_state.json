@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-10-02T16:20:48+00:00",
- "job_count": 86,
+ "fetched_at": "2026-10-02T20:57:32+00:00",
+ "job_count": 88,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -496,6 +496,21 @@
    "description_sha256": "9f0b17f2231be95894d6bbd0b4c95d41ced3023885b083dab2954010f296dd14"
   },
   {
+   "job_id": "65674b91-1b8e-402b-b1aa-875a13ec0949",
+   "lineage_key": "senior-data-engineer@athens",
+   "title": "Senior Data Engineer",
+   "department": "Engineering",
+   "team": "Engineering Maritime & Logistic",
+   "location": "Athens",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-02T17:42:21.867000+00:00",
+   "url": "https://jobs.lever.co/kpler/65674b91-1b8e-402b-b1aa-875a13ec0949",
+   "description_sha256": "5fc42b47b55a032dadc5afc37cdbbb0519af343e9bda81aaabe35a2c6c6c8e0e"
+  },
+  {
    "job_id": "6ac79b30-6b3b-4934-a603-7a5ed57fa379",
    "lineage_key": "full-stack-engineer@athens",
    "title": "Full Stack Engineer",
@@ -680,6 +695,21 @@
    "published_at": "2026-09-14T17:11:03.730000+00:00",
    "url": "https://jobs.lever.co/kpler/89347b75-036c-4ae6-8f55-ff7834462edc",
    "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+  },
+  {
+   "job_id": "8a52af87-a0dd-46d6-bc25-9c40bab1f49c",
+   "lineage_key": "senior-data-engineer@united-kingdom",
+   "title": "Senior Data Engineer",
+   "department": "Engineering",
+   "team": "Engineering Maritime & Logistic",
+   "location": "United Kingdom",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-02T17:39:56.319000+00:00",
+   "url": "https://jobs.lever.co/kpler/8a52af87-a0dd-46d6-bc25-9c40bab1f49c",
+   "description_sha256": "5fc42b47b55a032dadc5afc37cdbbb0519af343e9bda81aaabe35a2c6c6c8e0e"
   },
   {
    "job_id": "8a854040-5c93-426f-a864-abc3d70d27f7",

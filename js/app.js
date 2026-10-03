@@ -77,6 +77,9 @@
     let closedPage = 0;
     let closedSev = new Set();
     let closedSize = 10;
+    let repQuery = "";
+    let repPage = 0;
+    let repSize = 10;
     // rows are a fixed height (see .log-table tbody td in the CSS) so every page is the same
     // height and the Prev/Next pager never moves — and no scrollbar. This reserves a full
     // page of height via min-height, so a short last page doesn't pull the pager up.
@@ -515,23 +518,58 @@
         // --- republished roles --- (the flagship view; only shown once there is data)
         const repeats = [...lineage.entries()].filter(([, r]) => r.republishes > 0)
             .sort((a, b) => b[1].republishes - a[1].republishes);
-        const repSection = repeats.length
-            ? h("section", {},
-                h("h2", {}, "Republished roles"),
-                h("div", { class: "tablewrap" }, h("table", {},
-                    h("thead", {}, h("tr", {},
-                        h("th", {}, "Role"), h("th", {}, "Location"), h("th", {}, "Times published"),
-                        h("th", {}, "First seen"), h("th", {}, "Last published"), h("th", {}, "Status"))),
-                    h("tbody", {}, repeats.map(([key, r]) => h("tr", {},
-                        h("td", { class: "wrap" },
-                            h("span", { class: "chip republished" }, "republished"), " ", r.title),
-                        h("td", {}, r.location || ""),
-                        h("td", { class: "num" }, String(r.republishes + 1)),
-                        h("td", { class: "dt" }, fmtDate(r.first)),
-                        h("td", { class: "dt" }, fmtDate(r.last)),
-                        h("td", {}, h("span", { class: `chip ${openKeys.has(key) ? "opened" : "closed"}` },
-                            openKeys.has(key) ? "open" : "closed"))))))))
-            : null;
+        let repSection = null;
+        if (repeats.length) {
+            const REP_COLS = [
+                { label: "Role", w: 0 }, { label: "Location", w: 130 }, { label: "Times published", w: 124 },
+                { label: "First seen", w: 104 }, { label: "Last published", w: 120 }, { label: "Status", w: 88 },
+            ];
+            const repMatch = ([, r]) => {
+                const q = repQuery.trim().toLowerCase();
+                return !q || (r.title || "").toLowerCase().includes(q) || (r.location || "").toLowerCase().includes(q);
+            };
+            const repBody = h("div");
+            const repPager = h("div");
+            const repControls = h("span", { class: "log-controls" });
+            const refreshRep = () => {
+                const filtered = repeats.filter(repMatch);
+                const pages = Math.max(1, Math.ceil(filtered.length / repSize));
+                repPage = Math.min(Math.max(repPage, 0), pages - 1);
+                const shown = filtered.slice(repPage * repSize, repPage * repSize + repSize);
+                repBody.replaceChildren(h("div", { class: "tablewrap", style: `min-height:${bodyHeight(Math.min(repSize, filtered.length))}` },
+                    h("table", { class: "log-table" },
+                        h("colgroup", {}, REP_COLS.map(c => h("col", c.w ? { style: `width:${c.w}px` } : {}))),
+                        h("thead", {}, h("tr", {}, REP_COLS.map(c => h("th", {}, c.label)))),
+                        h("tbody", {}, shown.map(([key, r]) => h("tr", {},
+                            h("td", { class: "wrap", title: r.title || "" },
+                                h("span", { class: "chip republished" }, "republished"), " ", r.title),
+                            h("td", {}, r.location || ""),
+                            h("td", { class: "num" }, String(r.republishes + 1)),
+                            h("td", { class: "dt" }, fmtDate(r.first)),
+                            h("td", { class: "dt" }, fmtDate(r.last)),
+                            h("td", {}, h("span", { class: `chip ${openKeys.has(key) ? "opened" : "closed"}` },
+                                openKeys.has(key) ? "open" : "closed"))))))));
+                repControls.replaceChildren(...(filtered.length > 10 ? [h("button", {
+                    class: "mini-btn",
+                    onclick: () => { repSize = repSize === 10 ? 25 : 10; repPage = 0; refreshRep(); },
+                }, repSize === 10 ? "Show 25" : "Show 10")] : []));
+                repPager.replaceChildren(...(pages > 1 ? [h("div", { class: "log-pager" },
+                    h("button", { class: "mini-btn", disabled: repPage === 0, onclick: () => { repPage--; refreshRep(); } }, "‹ Prev"),
+                    h("span", { class: "log-pageinfo" },
+                        `${repPage * repSize + 1}–${Math.min(filtered.length, (repPage + 1) * repSize)} of ${filtered.length}`),
+                    h("button", { class: "mini-btn", disabled: repPage >= pages - 1, onclick: () => { repPage++; refreshRep(); } }, "Next ›"))] : []));
+            };
+            const repSearch = h("input", {
+                class: "log-search", type: "search", placeholder: "Filter republished roles…",
+                value: repQuery, "aria-label": "Filter republished roles",
+                oninput: e => { repQuery = e.target.value; repPage = 0; refreshRep(); },
+            });
+            refreshRep();
+            repSection = h("section", {},
+                h("div", { class: "sect-head" }, h("h2", {}, "Republished roles"), repSearch, repControls),
+                repBody,
+                repPager);
+        }
 
         // --- event log ---
         // the event log is the live roster: one row per posting still in the feed, showing that
@@ -1031,6 +1069,7 @@
         addEventListener("hashchange", () => {
             logQuery = ""; logSev = new Set(); logPage = 0; logSize = 10; logOpen = new Set(); logSort = defaultSort();
             closedQuery = ""; closedPage = 0; closedSev = new Set(); closedSize = 10;
+            repQuery = ""; repPage = 0; repSize = 10;
             route();
         });
         let rt = null;

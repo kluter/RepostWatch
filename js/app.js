@@ -935,9 +935,15 @@
 
         // ---- recent movement (day / week window, paginated, expandable to 25) ----
         const mvAll = [];
-        for (const d of loaded) for (const e of d.events)
-            if (["opened", "closed", "republished"].includes(e.type))
-                mvAll.push({ type: e.type, title: e.title, date: e.date, company: d.cfg.name || d.cfg.slug, url: e.url });
+        for (const d of loaded) {
+            const reps = new Map();   // lineage_key -> republish count, for "times published"
+            for (const e of d.events)
+                if (e.type === "republished") reps.set(e.lineage_key, (reps.get(e.lineage_key) || 0) + 1);
+            for (const e of d.events)
+                if (["opened", "closed", "republished"].includes(e.type))
+                    mvAll.push({ type: e.type, title: e.title, date: e.date, company: d.cfg.name || d.cfg.slug,
+                        url: e.url, location: e.location, times: (reps.get(e.lineage_key) || 0) + 1 });
+        }
         mvAll.sort((a, b) => (a.date < b.date ? 1 : -1));
 
         const MV_WINDOWS = { day: 86400e3, week: 7 * 86400e3 };
@@ -976,6 +982,9 @@
                     f.type !== "closed" && safeUrl(f.url)
                         ? h("a", { class: "mf-role", href: safeUrl(f.url), target: "_blank", rel: "noopener" }, f.title)
                         : h("span", { class: "mf-role", title: f.type === "closed" ? "this role has since closed" : "" }, f.title),
+                    h("span", { class: "mf-loc", title: f.location || "" }, f.location || ""),
+                    h("span", { class: "mf-times", title: f.times > 1 ? `published ${f.times} times` : "" },
+                        f.times > 1 ? `×${f.times}` : ""),
                     h("span", { class: "mf-co" }, f.company),
                     h("span", { class: "mf-when" }, relTime(f.date))))));
             } else {

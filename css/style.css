@@ -385,8 +385,9 @@ section h2 {
     height: auto; white-space: normal; overflow: visible; padding: 0; background: var(--panel-2);
 }
 .log-history { list-style: none; margin: 0; padding: 6px 14px 8px 33px; display: flex; flex-direction: column; gap: 5px; }
-.log-history li { display: flex; align-items: center; gap: 10px; font-size: 11px; }
-.log-history-date { color: var(--text-2); min-width: 82px; }
+/* fixed columns so date / type / id line up no matter how wide the type chip is */
+.log-history li { display: grid; grid-template-columns: 116px 98px 1fr; align-items: center; justify-items: start; column-gap: 10px; font-size: 11px; }
+.log-history-date { color: var(--text-2); }
 .log-history-id { color: var(--faint); font-size: 10.5px; }   /* ATS id of that posting in the lineage */
 
 /* sortable table headers */

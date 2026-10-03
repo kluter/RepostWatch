@@ -497,9 +497,13 @@ def run_company(cfg: dict, now: datetime) -> dict:
         prev_state = json.loads(state_path.read_text(encoding="utf-8"))
         prev_jobs = prev_state["jobs"]
         had_error = "feed_error" in prev_state
-        if not cur_jobs and prev_jobs:
-            # An empty feed is far more likely an outage than every role closing at
-            # once; emitting a wave of closes here would poison the event log.
+        if not cur_jobs and prev_jobs and not had_error:
+            # A *healthy* feed suddenly returning empty is far more likely a transient
+            # outage than every role closing at once, so skip to avoid a false wave of
+            # closes. But if the feed was already flagged as erroring and now returns a
+            # clean (reachable) empty board, trust it: fall through so the diff closes the
+            # gone roles and the rewrite below clears the stale feed_error. Otherwise a
+            # 404-then-empty recovery would leave the outage banner stuck forever.
             print(f"  {slug}: feed returned 0 listed jobs while {len(prev_jobs)} were known; "
                   f"skipping diff, keeping previous state", file=sys.stderr)
             return {"slug": slug, "skipped": True, "locations": [j["location"] for j in prev_jobs]}

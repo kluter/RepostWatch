@@ -423,7 +423,7 @@
             if (ev.type === "republished") r.republishes++;
             const p = ev.published_at || ev.date;
             if (!r.first || p < r.first) r.first = p;
-            if (p > r.last) { r.last = p; r.title = ev.title; r.location = ev.location; }
+            if (p > r.last) { r.last = p; r.title = ev.title; r.location = ev.location; r.job_id = ev.job_id; }
         }
         const openKeys = new Set(jobs.map(j => j.lineage_key));
         const republishesOf = k => (lineage.get(k) || {}).republishes || 0;
@@ -525,10 +525,12 @@
             const REP_COLS = [
                 { label: "Role", w: 0 }, { label: "Location", w: 130 }, { label: "Times published", w: 124 },
                 { label: "First seen", w: 104 }, { label: "Last published", w: 120 }, { label: "Status", w: 88 },
+                { label: "ATS id", w: 88 },   // the latest posting's id (a republished role may have had several)
             ];
             const repMatch = ([, r]) => {
                 const q = repQuery.trim().toLowerCase();
-                return !q || (r.title || "").toLowerCase().includes(q) || (r.location || "").toLowerCase().includes(q);
+                return !q || (r.title || "").toLowerCase().includes(q) || (r.location || "").toLowerCase().includes(q)
+                    || (r.job_id || "").toLowerCase().includes(q);
             };
             const repBody = h("div");
             const repPager = h("div");
@@ -550,7 +552,8 @@
                             h("td", { class: "dt" }, fmtDate(r.first)),
                             h("td", { class: "dt" }, fmtDate(r.last)),
                             h("td", {}, h("span", { class: `chip ${openKeys.has(key) ? "opened" : "closed"}` },
-                                openKeys.has(key) ? "open" : "closed"))))))));
+                                openKeys.has(key) ? "open" : "closed")),
+                            h("td", { class: "ats-id", title: r.job_id || "" }, r.job_id || "")))))));
                 repControls.replaceChildren(...(filtered.length > 10 ? [h("button", {
                     class: "mini-btn",
                     onclick: () => { repSize = repSize === 10 ? 25 : 10; repPage = 0; refreshRep(); },

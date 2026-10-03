@@ -246,6 +246,7 @@
         { label: "Location",  w: 118, val: r => r.ev.location || "",              defDir: 1 },
         { label: "Severity",  w: 92,  val: r => SEV_RANK[r.sev] || 0,             defDir: -1 },
         { label: "Published", w: 196, val: r => r.ev.published_at || "",          defDir: -1 },
+        { label: "ATS id",    w: 88,  val: r => r.ev.job_id || "",                defDir: 1 },
     ];
 
     // Renders an already-sorted, already-paged list of { ev, sev, history } rows. Sorting and
@@ -278,7 +279,8 @@
                     : jobLink(ev)),
                 h("td", {}, ev.location || ""),
                 h("td", {}, sev ? chip2(`sev-${sev}`, sev) : ""),
-                h("td", { class: "dt" }, fmtPublished(ev.published_at))));
+                h("td", { class: "dt" }, fmtPublished(ev.published_at)),
+                h("td", { class: "ats-id", title: ev.job_id || "" }, ev.job_id || "")));
             if (open) {
                 body.push(h("tr", { class: "log-detail-row" },
                     h("td", { colspan: LOG_COLS.length },
@@ -571,6 +573,17 @@
                 repPager);
         }
 
+        // every title + location a posting ever carried, keyed by job id, so a search matches a role
+        // by ANY label it has had. Companies relabel postings in place (the founding example: an
+        // ICEYE role posted as "...Berlin"/Berlin was later retitled "...Germany"/Munich on the same
+        // job id, then closed), so it must still be findable by its original "Berlin" label.
+        const jobHistoryText = new Map();
+        for (const e of events) {
+            if (!e.job_id) continue;
+            jobHistoryText.set(e.job_id,
+                `${jobHistoryText.get(e.job_id) || ""} ${e.title || ""} ${e.location || ""} ${e.job_id}`.toLowerCase());
+        }
+
         // --- event log ---
         // the event log is the live roster: one row per posting still in the feed, showing that
         // posting's most recent non-closed event (its current status). the full lifecycle of each
@@ -595,7 +608,8 @@
             if (!q) return true;
             return (ev.title || "").toLowerCase().includes(q)
                 || (ev.location || "").toLowerCase().includes(q)
-                || (ev.type || "").toLowerCase().includes(q);
+                || (ev.type || "").toLowerCase().includes(q)
+                || (jobHistoryText.get(ev.job_id) || "").includes(q);   // match any past label
         };
         const onSort = i => {
             if (logSort.col === i) logSort.dir *= -1;
@@ -678,6 +692,7 @@
         const CLOSED_COLS = [
             { label: "Closed", w: 150 }, { label: "Title", w: 0 }, { label: "Location", w: 118 },
             { label: "Severity", w: 92 }, { label: "Published", w: 196 }, { label: "Days listed", w: 112 },
+            { label: "ATS id", w: 88 },
         ];
         let closedSection;
         if (!closedAll.length) {
@@ -687,7 +702,8 @@
             const closedSevCounts = Object.fromEntries(SEV.map(s => [s, closedAll.filter(ev => closedSevOf(ev) === s).length]));
             const closedMatch = ev => {
                 const q = closedQuery.trim().toLowerCase();
-                return !q || (ev.title || "").toLowerCase().includes(q) || (ev.location || "").toLowerCase().includes(q);
+                return !q || (ev.title || "").toLowerCase().includes(q) || (ev.location || "").toLowerCase().includes(q)
+                    || (jobHistoryText.get(ev.job_id) || "").includes(q);   // match any past label (e.g. find the "Berlin" role that closed as "Germany")
             };
             const closedBody = h("div");
             const closedPager = h("div");
@@ -708,7 +724,8 @@
                             h("td", {}, ev.location || ""),
                             h("td", {}, chip2(`sev-${closedSevOf(ev)}`, closedSevOf(ev))),
                             h("td", { class: "dt" }, fmtPublished(ev.published_at)),
-                            h("td", { class: "num" }, daysListed(ev))))))));
+                            h("td", { class: "num" }, daysListed(ev)),
+                            h("td", { class: "ats-id", title: ev.job_id || "" }, ev.job_id || "")))))));
                 closedControls.replaceChildren(...(filtered.length > 10 ? [h("button", {
                     class: "mini-btn",
                     onclick: () => { closedSize = closedSize === 10 ? 25 : 10; closedPage = 0; refreshClosed(); },

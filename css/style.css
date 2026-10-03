@@ -367,6 +367,8 @@ section h2 {
    (full text on hover). Height (32px) clears the ~30px severity/type chips. */
 .log-table td.wrap { white-space: nowrap; min-width: 0; }
 .log-table tbody td { height: 32px; }
+/* ATS id column: stable posting id, de-emphasized, truncated with full id on hover */
+.log-table td.ats-id { white-space: nowrap; color: var(--faint); font-size: 10.5px; }
 
 /* per-listing history: a posting with more than one event expands an inline history row.
    The caret sits before the title; non-expandable rows get a same-width gap so titles align. */

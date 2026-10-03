@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-10-03T14:49:43+00:00",
- "job_count": 121,
+ "fetched_at": "2026-10-03T19:23:47+00:00",
+ "job_count": 119,
  "jobs": [
   {
    "job_id": "7374533",
@@ -333,21 +333,6 @@
    "is_remote": false,
    "published_at": "2026-06-25T17:37:17-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7907756",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7946662",
-   "lineage_key": "senior-product-marketing-manager-constellation-services@san-francisco-ca",
-   "title": "Senior Product Marketing Manager, Constellation Services",
-   "department": "Product Marketing",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-15T15:01:25-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7946662",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1263,21 +1248,6 @@
    "is_remote": false,
    "published_at": "2026-09-18T14:53:24-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8188420",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8188842",
-   "lineage_key": "senior-product-marketing-manager-constellation-services@arlington-va",
-   "title": "Senior Product Marketing Manager, Constellation Services",
-   "department": "Product Marketing",
-   "team": "",
-   "location": "Arlington, VA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-09T12:06:06-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8188842",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

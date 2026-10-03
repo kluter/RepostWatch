@@ -355,12 +355,22 @@
             logoBox.replaceChildren(h("b", { style: "font-size:20px;color:#fff" }, (cfg.name || slug).toUpperCase()));
         };
 
+        // last-check pill: HTTP status + timestamp of the most recent poll, together in one colored
+        // pill. A reachable feed stores no error and just bumps fetched_at, so no error == 200;
+        // an outage carries code + checked_at.
+        const err = state.feed_error;
+        const lastWhen = err ? err.checked_at : state.fetched_at;
+        const feedStatus = h("span", { class: "feed-pill " + (err ? "bad" : "ok"), title: err ? err.message : "OK" },
+            (err ? (err.code ? String(err.code) : err.message) : "200")
+            + (lastWhen ? ` · ${fmtStamp(lastWhen)}` : ""));
+
         const derived = [
             ["Departments", new Set(jobs.map(j => j.department).filter(Boolean)).size],
             ["Locations", new Set(jobs.map(j => j.location).filter(Boolean)).size],
             ["Remote roles", jobs.filter(j => j.is_remote).length],
             ["Tracking since", events.length ? fmtDate(events[0].date) : "n/a"],
             ["Feed", `${state.source[0].toUpperCase()}${state.source.slice(1)} (public)`],
+            ["Last check", feedStatus],
         ];
 
         document.getElementById("detail").replaceChildren(
@@ -687,15 +697,7 @@
                 closedPager);   // pager below the grid, so the legend stops at the last row
         }
 
-        const feedBanner = state.feed_error
-            ? h("div", { class: "feed-down-banner", role: "status" },
-                h("b", {}, `Feed unavailable — ${state.feed_error.message}. `),
-                state.fetched_at
-                    ? `The ${state.source || "ATS"} board isn't responding; showing the last snapshot from ${fmtDate(state.fetched_at)}.`
-                    : `The ${state.source || "ATS"} board isn't responding yet.`)
-            : null;
         app.replaceChildren(...[
-            feedBanner,                                                   // outage notice, when the feed is down
             hero,
             logSection,                                                   // event log up top
             repSection,                                                   // republished roles — flagship view, above the graphs

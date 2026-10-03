@@ -80,6 +80,7 @@
     let repQuery = "";
     let repPage = 0;
     let repSize = 10;
+    let repOpen = new Set();   // lineage_keys whose repost/id history is expanded inline
     // rows are a fixed height (see .log-table tbody td in the CSS) so every page is the same
     // height and the Prev/Next pager never moves — and no scrollbar. This reserves a full
     // page of height via min-height, so a short last page doesn't pull the pager up.
@@ -517,6 +518,18 @@
                         : "No headcount entries yet. Add one with add_headcount.py.")
                     : Charts.timeLine(p, [{ name: "headcount", color: C.violet, points: headcounts.map(e => ({ t: new Date(e.date), v: e.value })) }], { zeroBase: false })));
 
+        // full lineage history (every posting under a role, across reposts / new ids), newest first,
+        // so a republished row can expand to show the id history of that role's repeat postings.
+        const historyByLineage = new Map();
+        for (const e of events) {
+            if (!e.lineage_key || e.type === "headcount_manual") continue;
+            let list = historyByLineage.get(e.lineage_key);
+            if (!list) historyByLineage.set(e.lineage_key, list = []);
+            list.push(e);
+        }
+        for (const list of historyByLineage.values())
+            list.sort((a, b) => Date.parse(b.date) - Date.parse(a.date));
+
         // --- republished roles --- (the flagship view; only shown once there is data)
         const repeats = [...lineage.entries()].filter(([, r]) => r.republishes > 0)
             .sort((a, b) => b[1].republishes - a[1].republishes);
@@ -544,16 +557,36 @@
                     h("table", { class: "log-table" },
                         h("colgroup", {}, REP_COLS.map(c => h("col", c.w ? { style: `width:${c.w}px` } : {}))),
                         h("thead", {}, h("tr", {}, REP_COLS.map(c => h("th", {}, c.label)))),
-                        h("tbody", {}, shown.map(([key, r]) => h("tr", {},
-                            h("td", { class: "wrap", title: r.title || "" },
-                                h("span", { class: "chip republished" }, "republished"), " ", r.title),
-                            h("td", {}, r.location || ""),
-                            h("td", { class: "num" }, String(r.republishes + 1)),
-                            h("td", { class: "dt" }, fmtDate(r.first)),
-                            h("td", { class: "dt" }, fmtDate(r.last)),
-                            h("td", {}, h("span", { class: `chip ${openKeys.has(key) ? "opened" : "closed"}` },
-                                openKeys.has(key) ? "open" : "closed")),
-                            h("td", { class: "ats-id", title: r.job_id || "" }, r.job_id || "")))))));
+                        h("tbody", {}, shown.flatMap(([key, r]) => {
+                            const hist = historyByLineage.get(key) || [];
+                            const open = repOpen.has(key);
+                            const toggle = h("button", {
+                                class: "row-toggle" + (open ? " open" : ""),
+                                title: open ? "Hide history" : `Show posting history (${hist.length} events)`,
+                                "aria-label": "Toggle history",
+                                onclick: e => { e.stopPropagation(); repOpen.has(key) ? repOpen.delete(key) : repOpen.add(key); refreshRep(); },
+                            }, "▸");
+                            const rows = [h("tr", { class: "has-history" },
+                                h("td", { class: "wrap", title: r.title || "" },
+                                    toggle, h("span", { class: "chip republished" }, "republished"), " ", r.title),
+                                h("td", {}, r.location || ""),
+                                h("td", { class: "num" }, String(r.republishes + 1)),
+                                h("td", { class: "dt" }, fmtDate(r.first)),
+                                h("td", { class: "dt" }, fmtDate(r.last)),
+                                h("td", {}, h("span", { class: `chip ${openKeys.has(key) ? "opened" : "closed"}` },
+                                    openKeys.has(key) ? "open" : "closed")),
+                                h("td", { class: "ats-id", title: r.job_id || "" }, r.job_id || ""))];
+                            if (open) {
+                                rows.push(h("tr", { class: "log-detail-row" },
+                                    h("td", { colspan: REP_COLS.length },
+                                        h("ol", { class: "log-history" }, hist.map(hv =>
+                                            h("li", {},
+                                                h("span", { class: "dt log-history-date" }, fmtStamp(hv.date)),
+                                                chip(hv.type),
+                                                h("span", { class: "log-history-id", title: hv.job_id || "" }, hv.job_id || "")))))));
+                            }
+                            return rows;
+                        })))));
                 repControls.replaceChildren(...(filtered.length > 10 ? [h("button", {
                     class: "mini-btn",
                     onclick: () => { repSize = repSize === 10 ? 25 : 10; repPage = 0; refreshRep(); },
@@ -1089,7 +1122,7 @@
         addEventListener("hashchange", () => {
             logQuery = ""; logSev = new Set(); logPage = 0; logSize = 10; logOpen = new Set(); logSort = defaultSort();
             closedQuery = ""; closedPage = 0; closedSev = new Set(); closedSize = 10;
-            repQuery = ""; repPage = 0; repSize = 10;
+            repQuery = ""; repPage = 0; repSize = 10; repOpen = new Set();
             route();
         });
         let rt = null;

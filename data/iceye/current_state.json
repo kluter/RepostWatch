@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-02T16:20:48+00:00",
+ "fetched_at": "2026-10-04T19:47:52+00:00",
  "job_count": 183,
  "jobs": [
   {
@@ -826,7 +826,7 @@
    "lineage_key": "senior-geospatial-software-engineer@espoo",
    "title": "Senior Geospatial Software Engineer",
    "department": "Solutions",
-   "team": "Solutions",
+   "team": "Product Engineering",
    "location": "Espoo",
    "secondary_locations": [],
    "employment_type": "FullTime",

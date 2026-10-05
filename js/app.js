@@ -450,7 +450,7 @@
             meta.textContent = `Feed unavailable (${state.feed_error.message})` + (ranAt ? `, checked ${ranAt}` : "");
             meta.classList.add("feed-down");
         } else {
-            meta.textContent = ranAt ? `Bot ran ${ranAt}` : "";
+            meta.textContent = ranAt ? `Last bot run: ${ranAt}` : "";
             meta.classList.remove("feed-down");
         }
         renderSidebar(slug, state, events);
@@ -926,7 +926,7 @@
         // last-updated = the freshest snapshot timestamp across all companies
         const homeMeta = document.getElementById("poll-meta");
         homeMeta.classList.remove("feed-down");
-        homeMeta.textContent = polledAt ? `Bot ran ${fmtStamp(polledAt)} ${zoneLabel()}` : "";
+        homeMeta.textContent = polledAt ? `Last bot run: ${fmtStamp(polledAt)} ${zoneLabel()}` : "";
 
         const tot = { fresh: 0, aging: 0, stale: 0, flagged: 0 };
         let open = 0, changes = 0;

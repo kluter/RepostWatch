@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-10-05T19:22:17+00:00",
- "job_count": 116,
+ "fetched_at": "2026-10-05T22:54:22+00:00",
+ "job_count": 118,
  "jobs": [
   {
    "job_id": "7374533",
@@ -1326,6 +1326,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8201715",
+   "lineage_key": "revenue-accounting-transformation-manager@united-states-remote",
+   "title": "Revenue Accounting Transformation Manager",
+   "department": "Accounting",
+   "team": "",
+   "location": "United States, Remote",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-10-05T18:26:54-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8201715",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8202848",
    "lineage_key": "senior-solutions-architect-i-pre-sales-nato@netherlands",
    "title": "Senior Solutions Architect I, Pre-Sales - NATO",
@@ -1533,6 +1548,21 @@
    "is_remote": true,
    "published_at": "2026-09-24T09:47:45-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8223348",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8224148",
+   "lineage_key": "tech-lead-system-validation@san-francisco-ca",
+   "title": "Tech Lead, System Validation",
+   "department": "Space Operations",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-05T17:55:48-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8224148",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

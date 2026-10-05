@@ -2,7 +2,7 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-10-01T21:19:55+00:00",
+ "fetched_at": "2026-10-05T22:54:22+00:00",
  "job_count": 24,
  "jobs": [
   {
@@ -56,21 +56,6 @@
    "published_at": "2026-09-21T00:00:00+00:00",
    "url": "https://apply.workable.com/j/27EBA846B1",
    "description_sha256": "b932a99d8e95d458d9deb5f22b20bb6596564dc8f339555022f0d6e75357fb79"
-  },
-  {
-   "job_id": "33F903685D",
-   "lineage_key": "director-of-communications@arlington-united-states",
-   "title": "Director of Communications",
-   "department": "Shared Services",
-   "team": "",
-   "location": "Arlington, United States",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-25T00:00:00+00:00",
-   "url": "https://apply.workable.com/j/33F903685D",
-   "description_sha256": "226c3295c36dde0ec626148573c41931b941ebf09bae670ab2569ddf8e23d546"
   },
   {
    "job_id": "460E5DED83",
@@ -187,6 +172,21 @@
    "published_at": "2026-04-03T00:00:00+00:00",
    "url": "https://apply.workable.com/j/56DCFBD0A8",
    "description_sha256": "a3c3063060ec9129da86e35baad0727bacf1452c7190aac287ef8de5828d1ac1"
+  },
+  {
+   "job_id": "5D49E1A011",
+   "lineage_key": "spacecraft-aerospace-technician@santa-barbara-united-states",
+   "title": "Spacecraft Aerospace Technician",
+   "department": "Space Systems",
+   "team": "",
+   "location": "Santa Barbara, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-05T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/5D49E1A011",
+   "description_sha256": "78a83c73f394046c31fd9718b92bb4562e9d79b47b50c564e130c57ce389cfaa"
   },
   {
    "job_id": "5DEC056541",

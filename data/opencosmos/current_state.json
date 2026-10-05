@@ -2,7 +2,7 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-10-05T19:22:17+00:00",
+ "fetched_at": "2026-10-05T22:54:22+00:00",
  "job_count": 57,
  "jobs": [
   {
@@ -531,6 +531,21 @@
    "description_sha256": "3c970e920b826f1bd10993a91b5bce288263bedeb369b6cec52a023c5559762d"
   },
   {
+   "job_id": "9ae99afa-968c-4113-a528-51be5c0dd9df",
+   "lineage_key": "fpga-architect@harwell-uk",
+   "title": "FPGA Architect",
+   "department": "FLIGHT SOFTWARE",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-03-30T22:26:51+01:00",
+   "url": "https://careers.open-cosmos.com/jobs/7487105-fpga-architect",
+   "description_sha256": "45ce881026b32e3171816303a72d66ad7d25c083e2b798a971e55d82b684fc75"
+  },
+  {
    "job_id": "9f1ebe11-e11c-423c-8d63-3aa2e92f20a4",
    "lineage_key": "satcom-payload-architect@harwell-uk",
    "title": "Satcom Payload Architect",
@@ -784,21 +799,6 @@
    "published_at": "2026-01-30T08:49:33+00:00",
    "url": "https://careers.open-cosmos.com/jobs/7142875-quality-control-qc-engineer-shift-based",
    "description_sha256": "1616fc532a405cb12fcc6eb624e5c48f191bb38ae1f4f3fff944e7987dfc943b"
-  },
-  {
-   "job_id": "ede0b52e-5d2a-4793-ab37-ed736084c921",
-   "lineage_key": "data-processing-technical-project-manager@harwell-uk",
-   "title": "Data Processing Technical Project Manager",
-   "department": "DATA",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-02-06T02:42:40+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/7183438-data-processing-technical-project-manager",
-   "description_sha256": "99800bd9bbb0b2378a47202dbca28a5b4d3134dac42833ceb5fdc1e68d16611b"
   },
   {
    "job_id": "f5a3e42e-e17e-41e0-ae17-10b3d46dda8f",

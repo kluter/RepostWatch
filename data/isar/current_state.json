@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-10-01T17:07:15+00:00",
- "job_count": 104,
+ "fetched_at": "2026-10-05T19:22:17+00:00",
+ "job_count": 106,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -1386,6 +1386,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4982632101",
+   "lineage_key": "senior-mechanism-engineer-lv-structures@parsdorf-bavaria-germany",
+   "title": "Senior Mechanism Engineer, LV Structures",
+   "department": "Launch Vehicle Structures",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-05T09:08:44-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4982632101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4982831101",
    "lineage_key": "propulsion-design-engineer-propulsion-engine-integration-w-m-f@parsdorf-bavaria-germany",
    "title": "Propulsion Design Engineer, Propulsion - Engine Integration (w/m/f)",
@@ -1563,6 +1578,21 @@
    "is_remote": false,
    "published_at": "2026-09-30T12:02:02-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4994593101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4997576101",
+   "lineage_key": "senior-structures-analysis-engineer-launch-vehicle-structure-m-f-d@parsdorf-bavaria-germany",
+   "title": "Senior Structures Analysis Engineer, Launch Vehicle Structure (m/f/d)",
+   "department": "Launch Vehicle Structures",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-05T09:41:50-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4997576101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

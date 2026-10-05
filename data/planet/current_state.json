@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-10-04T15:28:32+00:00",
- "job_count": 115,
+ "fetched_at": "2026-10-05T19:22:17+00:00",
+ "job_count": 116,
  "jobs": [
   {
    "job_id": "7374533",
@@ -48,6 +48,21 @@
    "is_remote": true,
    "published_at": "2025-12-04T00:31:46-05:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7439062",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "7476623",
+   "lineage_key": "opto-mechanical-engineer@san-francisco-ca",
+   "title": "Opto-Mechanical Engineer",
+   "department": "Mechanical, Thermal & Qual",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2025-12-18T13:25:03-05:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7476623",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

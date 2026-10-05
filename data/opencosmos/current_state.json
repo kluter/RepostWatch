@@ -2,8 +2,8 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-10-05T09:20:13+00:00",
- "job_count": 56,
+ "fetched_at": "2026-10-05T19:22:17+00:00",
+ "job_count": 57,
  "jobs": [
   {
    "job_id": "063679a7-77f0-4e6d-8296-bcff69f4ec4f",
@@ -784,6 +784,21 @@
    "published_at": "2026-01-30T08:49:33+00:00",
    "url": "https://careers.open-cosmos.com/jobs/7142875-quality-control-qc-engineer-shift-based",
    "description_sha256": "1616fc532a405cb12fcc6eb624e5c48f191bb38ae1f4f3fff944e7987dfc943b"
+  },
+  {
+   "job_id": "ede0b52e-5d2a-4793-ab37-ed736084c921",
+   "lineage_key": "data-processing-technical-project-manager@harwell-uk",
+   "title": "Data Processing Technical Project Manager",
+   "department": "DATA",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-02-06T02:42:40+00:00",
+   "url": "https://careers.open-cosmos.com/jobs/7183438-data-processing-technical-project-manager",
+   "description_sha256": "99800bd9bbb0b2378a47202dbca28a5b4d3134dac42833ceb5fdc1e68d16611b"
   },
   {
    "job_id": "f5a3e42e-e17e-41e0-ae17-10b3d46dda8f",

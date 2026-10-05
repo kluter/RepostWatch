@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-05T09:20:13+00:00",
- "job_count": 183,
+ "fetched_at": "2026-10-05T19:22:17+00:00",
+ "job_count": 187,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -505,7 +505,7 @@
   {
    "job_id": "34f68a39-6743-4af1-ae67-bd0ef78c904e",
    "lineage_key": "obc-comms-ait-engineer@espoo",
-   "title": "OBC & Comms AIT engineer",
+   "title": "OBC & Comms AIT Engineer",
    "department": "Global Manufacturing Organization",
    "team": "FI AIT Engineering",
    "location": "Espoo",
@@ -515,7 +515,7 @@
    "is_remote": true,
    "published_at": "2026-05-25T19:10:18.945+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/34f68a39-6743-4af1-ae67-bd0ef78c904e",
-   "description_sha256": "9ba37bc106dda75861c0d2feaa987b4e7c76c9dcdee95f1ecec0ac0a241d023e"
+   "description_sha256": "38ee8a0e9d613a3e005f1004e0ee87954a767993a74aca145db44bbe21d523e5"
   },
   {
    "job_id": "35528f9f-8244-465e-bf4b-799b8fffed53",
@@ -1017,6 +1017,21 @@
    "description_sha256": "abb5533871bb7e3467edc685f4f5cc2141e9b2a93cbe198222555a6e20353bdb"
   },
   {
+   "job_id": "5e2a3b45-7342-4f01-ba0b-330abe99f89e",
+   "lineage_key": "staff-mechanical-design-engineer@espoo",
+   "title": "Staff Mechanical Design Engineer",
+   "department": "Engineering",
+   "team": "Spacecraft Hardware",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-05T10:38:53.035+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/5e2a3b45-7342-4f01-ba0b-330abe99f89e",
+   "description_sha256": "8c5c751f74cb4be631bc3af018feb51d1ea73c3166e978752a61853d23200e99"
+  },
+  {
    "job_id": "609632e0-17a2-4440-974f-9969551e80af",
    "lineage_key": "mission-sales-director-greece-balkans-and-eastern-mediterranean@athens",
    "title": "Mission Sales Director - Greece, Balkans and Eastern Mediterranean",
@@ -1107,6 +1122,21 @@
    "published_at": "2026-09-29T13:41:53.677+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/6b325c6e-480e-4237-91bf-6e1e0e90ca76",
    "description_sha256": "727bf610c24147f50c502d033b994c95ec4ff110d1f2d197bd3c19035cfdb310"
+  },
+  {
+   "job_id": "6e365057-467d-4043-b160-64b4df544eb3",
+   "lineage_key": "program-manager-greece@athens",
+   "title": "Program Manager - Greece",
+   "department": "Missions",
+   "team": "Missions",
+   "location": "Athens",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-10-05T13:46:39.080+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/6e365057-467d-4043-b160-64b4df544eb3",
+   "description_sha256": "41d7ae23f593e5fdfbf1457bc8081dfa3bd57922608b60ee2ed94b02171f975d"
   },
   {
    "job_id": "6e531bd0-02f1-4191-91dd-f16910246d23",
@@ -1275,6 +1305,21 @@
    "published_at": "2026-06-05T08:34:30.592+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/766bfeea-9868-4f0c-a629-5822dce0fa51",
    "description_sha256": "33dbec950c310aeb68185122c742a36ef98039660099202b32a234260eb5161e"
+  },
+  {
+   "job_id": "77810597-e144-4931-acb3-2a022f546098",
+   "lineage_key": "production-planner-satellite-manufacturing@valencia",
+   "title": "Production Planner, Satellite Manufacturing",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Strategy & Compliance",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-10-05T10:42:30.510+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/77810597-e144-4931-acb3-2a022f546098",
+   "description_sha256": "e33ec2cc04a9d1840e971d183407d74fd9455f983fa3f7c7c0c231b4b2d0882a"
   },
   {
    "job_id": "77ee1494-3ca4-4774-a0ad-9e731d63cec1",
@@ -2754,6 +2799,21 @@
    "published_at": "2026-08-14T06:28:35.941+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/fa7cbdf7-5c86-48b7-84f8-12c3476113e7",
    "description_sha256": "f577ca9d6522ab0a87ab547fd36d6e6af2bc296483d94682161a170059ca08db"
+  },
+  {
+   "job_id": "fe0001f5-f3c9-4df7-b968-23451c9b4b1d",
+   "lineage_key": "head-of-marketing-communications@new-delhi",
+   "title": "Head of Marketing & Communications",
+   "department": "Marketing",
+   "team": "Marketing",
+   "location": "New Delhi",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-05T11:19:13.830+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/fe0001f5-f3c9-4df7-b968-23451c9b4b1d",
+   "description_sha256": "2a63abe91645496b6e026ca3a507dfbe26df11729d6182d36d7dd419bb1491ea"
   },
   {
    "job_id": "fec79d94-ccd5-409a-81ae-182a9eafc208",

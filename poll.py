@@ -601,15 +601,15 @@ def geocode_new_locations(locations) -> None:
         GEOCACHE_PATH.write_text(json.dumps(cache, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
 
 
-def write_company_index(companies: list[dict]) -> None:
+def write_company_index(companies: list[dict], polled_at: str) -> None:
     # Company entries pass through as-is so the dashboard sees name/website/facts.
-    # No generated_at timestamp: it would change every run and force an empty commit.
-    # Only (re)write when the config actually differs from what's on disk.
+    # polled_at is the bot's run time; it changes every run, so this intentionally produces a small
+    # heartbeat commit each poll. That is what lets the dashboard show the scraper is alive (and that
+    # each ATS was reached) even on a run where no job data changed.
     DATA_DIR.mkdir(exist_ok=True)
     path = DATA_DIR / "index.json"
-    new = json.dumps({"companies": companies}, indent=1, ensure_ascii=False) + "\n"
-    if not path.exists() or path.read_text(encoding="utf-8") != new:
-        path.write_text(new, encoding="utf-8")
+    new = json.dumps({"polled_at": polled_at, "companies": companies}, indent=1, ensure_ascii=False) + "\n"
+    path.write_text(new, encoding="utf-8")
 
 
 def main() -> int:
@@ -632,7 +632,7 @@ def main() -> int:
             print(f"  {cfg.get('slug', '?')}: FAILED — {exc}", file=sys.stderr)
 
     geocode_new_locations(all_locations)   # one pass over the shared cache for the whole poll
-    write_company_index(companies)
+    write_company_index(companies, now.isoformat(timespec="seconds"))
 
     if outages:
         print(f"{len(outages)} feed(s) unavailable, flagged on dashboard: {', '.join(outages)}",

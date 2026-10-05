@@ -67,6 +67,7 @@
     let companies = [];
     let cache = {};        // slug -> {state, events}
     let geocache = { locations: {} };
+    let polledAt = null;   // bot's last run time (index.json polled_at) — proves the scraper is live
     let mapInstance = null;
     let logQuery = "";
     let logSev = new Set();   // active severity filters (empty = show all)
@@ -361,14 +362,13 @@
             logoBox.replaceChildren(h("b", { style: "font-size:20px;color:#fff" }, (cfg.name || slug).toUpperCase()));
         };
 
-        // last-check pill: HTTP status + timestamp of the most recent poll, together in one colored
-        // pill. A reachable feed stores no error and just bumps fetched_at, so no error == 200;
-        // an outage carries code + checked_at.
+        // "ATS response": the status code the feed returned on the last poll (no error == it answered
+        // 200; an outage carries the error code), stamped with the bot's run time. This proves the
+        // feed is reachable regardless of whether any job data changed.
         const err = state.feed_error;
-        const lastWhen = err ? err.checked_at : state.fetched_at;
         const feedStatus = h("span", { class: "feed-pill " + (err ? "bad" : "ok"), title: err ? err.message : "OK" },
             (err ? (err.code ? String(err.code) : err.message) : "200")
-            + (lastWhen ? ` · ${fmtStamp(lastWhen)}` : ""));
+            + (polledAt ? ` · ${fmtStamp(polledAt)}` : ""));
 
         const derived = [
             ["Departments", new Set(jobs.map(j => j.department).filter(Boolean)).size],
@@ -376,7 +376,8 @@
             ["Remote roles", jobs.filter(j => j.is_remote).length],
             ["Tracking since", events.length ? fmtDate(events[0].date) : "n/a"],
             ["Feed", `${state.source[0].toUpperCase()}${state.source.slice(1)} (public)`],
-            ["Last check", feedStatus],
+            ["ATS response", feedStatus],
+            ["Last change", state.fetched_at ? fmtStamp(state.fetched_at) : "n/a"],
         ];
 
         document.getElementById("detail").replaceChildren(
@@ -444,12 +445,12 @@
         const logLegend = severityLegend(sevCounts, logSev, () => { logPage = 0; refreshLog(); });
 
         const meta = document.getElementById("poll-meta");
+        const ranAt = polledAt ? `${fmtStamp(polledAt)} ${zoneLabel()}` : "";
         if (state.feed_error) {
-            meta.textContent = `Feed unavailable (${state.feed_error.message})`
-                + (state.fetched_at ? `, last update ${fmtStamp(state.fetched_at)} ${zoneLabel()}` : "");
+            meta.textContent = `Feed unavailable (${state.feed_error.message})` + (ranAt ? `, checked ${ranAt}` : "");
             meta.classList.add("feed-down");
         } else {
-            meta.textContent = `Updated ${fmtStamp(state.fetched_at)} ${zoneLabel()}`;
+            meta.textContent = ranAt ? `Bot ran ${ranAt}` : "";
             meta.classList.remove("feed-down");
         }
         renderSidebar(slug, state, events);
@@ -923,10 +924,9 @@
             .sort((a, b) => b.score - a.score || b.jobs - a.jobs);
 
         // last-updated = the freshest snapshot timestamp across all companies
-        const lastUpdate = loaded.map(d => d.state && d.state.fetched_at).filter(Boolean).sort().pop();
         const homeMeta = document.getElementById("poll-meta");
         homeMeta.classList.remove("feed-down");
-        homeMeta.textContent = lastUpdate ? `Updated ${fmtStamp(lastUpdate)} ${zoneLabel()}` : "";
+        homeMeta.textContent = polledAt ? `Bot ran ${fmtStamp(polledAt)} ${zoneLabel()}` : "";
 
         const tot = { fresh: 0, aging: 0, stale: 0, flagged: 0 };
         let open = 0, changes = 0;
@@ -1125,6 +1125,7 @@
             fetch("data/geocache.json").then(r => r.json()).catch(() => ({ locations: {} })),
         ]);
         companies = index.companies;
+        polledAt = index.polled_at || null;
         geocache = geo;
         buildRail();          // persistent left company rail, built once; route() toggles the active chip
         initTz();

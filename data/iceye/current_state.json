@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-04T19:47:52+00:00",
+ "fetched_at": "2026-10-05T09:20:13+00:00",
  "job_count": 183,
  "jobs": [
   {
@@ -19,21 +19,6 @@
    "published_at": "2026-08-20T14:39:03.955+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
    "description_sha256": "ff3b6dc9d3c0e93c3002bebf2329870b64fc72d2caa90f6326677a4ea7311208"
-  },
-  {
-   "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
-   "lineage_key": "satellite-launch-specialist@warsaw",
-   "title": "Satellite Launch Specialist",
-   "department": "Global Manufacturing Organization",
-   "team": "Launch Management",
-   "location": "Warsaw",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-09-17T08:34:13.256+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/055bf193-bb2c-4af9-8cd8-96e421ae2940",
-   "description_sha256": "d75b132194429bcc83b9ea6849dce1ad13b10d8e47c78daeed7ef26f39fbd058"
   },
   {
    "job_id": "06f113d6-1702-4346-9369-97d70d68738b",
@@ -76,7 +61,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-07-13T12:21:38.285+00:00",
+   "published_at": "2026-10-05T06:52:17.834+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/09d02ba3-5ba6-4a11-bb30-74e42c22c485",
    "description_sha256": "72fbb925eb083a36475e74e9ec74c4fe111504e81c7c2b1cf420a0c999133ecb"
   },
@@ -196,7 +181,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-09-08T09:42:10.280+00:00",
+   "published_at": "2026-10-05T06:52:33.261+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/18952119-94cf-46c8-a6b8-9c05df99dd34",
    "description_sha256": "2035002c658b29ee537d83fae3cfb8c35f03f3556757b51a5d9a650f0fb84141"
   },
@@ -468,7 +453,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-08-25T10:11:44.988+00:00",
+   "published_at": "2026-10-05T06:51:54.204+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/3177be0f-5997-45cf-bbdb-60b1c38543ea",
    "description_sha256": "2494591ca1ac14230b8913f4b738c7ba1fe75b863e934c4393b558eda8376ee0"
   },
@@ -665,7 +650,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-09-24T08:19:29.212+00:00",
+   "published_at": "2026-10-05T06:52:02.538+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/42d95b7e-c150-4ebd-8814-5993dbafb921",
    "description_sha256": "da9567fd356d416775fe2a40a913221bf2e29ac84f58df5997dd0c05bc49f6e0"
   },
@@ -715,36 +700,6 @@
    "published_at": "2026-06-25T12:27:28.896+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/4470b416-a308-41a3-a967-293389b62beb",
    "description_sha256": "d1aed79f34a0f70f470c9b1493c8eb31983a9b27dfb8c9d8eb2b38ec002e1079"
-  },
-  {
-   "job_id": "45422d7a-13ca-442e-97e8-ab5c056db6db",
-   "lineage_key": "launch-operational-coordinator@espoo",
-   "title": "Launch Operational Coordinator",
-   "department": "Global Manufacturing Organization",
-   "team": "Launch Management",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-13T08:51:34.638+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/45422d7a-13ca-442e-97e8-ab5c056db6db",
-   "description_sha256": "920ef9961f19a428aa858b07e4494f36472c19607fb993cafa995040c88e0d70"
-  },
-  {
-   "job_id": "4572f413-69db-4c73-a8a4-920a26107dbe",
-   "lineage_key": "satellite-launch-specialist@espoo",
-   "title": "Satellite Launch Specialist",
-   "department": "Global Manufacturing Organization",
-   "team": "Launch Management",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-09-17T08:34:24.973+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/4572f413-69db-4c73-a8a4-920a26107dbe",
-   "description_sha256": "249621adab5f29761ebb4117e783bd11143f8c2dc61455e6797cd07ec6fded39"
   },
   {
    "job_id": "4684576e-929f-4a2d-a39d-bbf90c9f399d",
@@ -1502,6 +1457,36 @@
    "description_sha256": "d63df699aa5127c99eff6eb7f7e9959337a759a9abdac8d5ed9f2f2ead33d9c1"
   },
   {
+   "job_id": "88554f1c-3889-44cd-9296-1d61d2330d6a",
+   "lineage_key": "indirect-sourcing-specialist-category-owner@espoo",
+   "title": "Indirect Sourcing Specialist, Category Owner",
+   "department": "Operations",
+   "team": "Indirect Sourcing",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-05T05:43:31.064+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/88554f1c-3889-44cd-9296-1d61d2330d6a",
+   "description_sha256": "81fbe5475269e6609bf214e259bf94a7ca618348c525611cbd7fbb232ba7d222"
+  },
+  {
+   "job_id": "89154c8e-6501-4012-b71b-8c6711588ffb",
+   "lineage_key": "senior-mlops-engineer-isr@berlin",
+   "title": "Senior MLOps Engineer, ISR",
+   "department": "Engineering",
+   "team": "ISR Engineering",
+   "location": "Berlin",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-05T07:28:44.750+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/89154c8e-6501-4012-b71b-8c6711588ffb",
+   "description_sha256": "06b626d6a05d347ee7c6915362d2fed1080e72fec1c23b69a059822e2c78d76c"
+  },
+  {
    "job_id": "8a1f917f-09fa-45b0-8e05-2f6eb2cdc793",
    "lineage_key": "forward-deployed-backend-devops-engineer-portugal@lisbon",
    "title": "Forward Deployed Backend/DevOps Engineer, Portugal",
@@ -1728,7 +1713,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-09-24T07:36:04.976+00:00",
+   "published_at": "2026-10-05T06:52:39.536+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9649c999-70dc-4620-9487-e664767fa88d",
    "description_sha256": "f10a43babeb675ca5134d021f75cf1d291ad519cdec3660d5601b4c7093327e7"
   },
@@ -1896,6 +1881,21 @@
    "published_at": "2026-08-06T11:21:50.920+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/aa323d27-cb46-49da-ad7b-2af2821fccfa",
    "description_sha256": "c5c16519785a70f1d7d58a6a600fa1842bbd5597a784d18e02e1ad69ad9346b9"
+  },
+  {
+   "job_id": "b08a9033-4c52-43a1-bd6c-a8b728711e90",
+   "lineage_key": "senior-devops-platform-engineer-isr@berlin",
+   "title": "Senior DevOps / Platform Engineer, ISR",
+   "department": "Engineering",
+   "team": "ISR Engineering",
+   "location": "Berlin",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-05T07:27:00.472+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/b08a9033-4c52-43a1-bd6c-a8b728711e90",
+   "description_sha256": "b754b709073389702077466283dddcc78f7a6437b3b80011f33cb984bd36dd5c"
   },
   {
    "job_id": "b12fce39-5cbb-44ed-8f02-ca1654d41659",
@@ -2613,7 +2613,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-09-11T14:08:25.335+00:00",
+   "published_at": "2026-10-05T06:52:24.940+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/ef4c789d-85da-466c-ac71-0c20cc5a8023",
    "description_sha256": "a1e38831b2965e588e2cb4b7678c0fa8bf66db55813651920d2a0edc81a0a88f"
   },

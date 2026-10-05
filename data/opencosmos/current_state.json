@@ -2,8 +2,8 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-10-04T15:28:32+00:00",
- "job_count": 57,
+ "fetched_at": "2026-10-05T09:20:13+00:00",
+ "job_count": 56,
  "jobs": [
   {
    "job_id": "063679a7-77f0-4e6d-8296-bcff69f4ec4f",
@@ -529,21 +529,6 @@
    "published_at": "2025-12-18T15:10:44+00:00",
    "url": "https://careers.open-cosmos.com/jobs/6957285-mechanical-engineer",
    "description_sha256": "3c970e920b826f1bd10993a91b5bce288263bedeb369b6cec52a023c5559762d"
-  },
-  {
-   "job_id": "9ae99afa-968c-4113-a528-51be5c0dd9df",
-   "lineage_key": "fpga-architect@harwell-uk",
-   "title": "FPGA Architect",
-   "department": "FLIGHT SOFTWARE",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-03-30T22:26:51+01:00",
-   "url": "https://careers.open-cosmos.com/jobs/7487105-fpga-architect",
-   "description_sha256": "45ce881026b32e3171816303a72d66ad7d25c083e2b798a971e55d82b684fc75"
   },
   {
    "job_id": "9f1ebe11-e11c-423c-8d63-3aa2e92f20a4",

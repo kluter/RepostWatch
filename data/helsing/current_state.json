@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-10-02T16:20:48+00:00",
- "job_count": 166,
+ "fetched_at": "2026-10-05T09:20:13+00:00",
+ "job_count": 168,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -2481,6 +2481,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4996521101",
+   "lineage_key": "legal-counsel-it-privacy@munich",
+   "title": "Legal Counsel IT & Privacy",
+   "department": "Core Operations",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-05T05:07:54-04:00",
+   "url": "https://helsing.ai/jobs/4996521101?gh_jid=4996521101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4996583101",
    "lineage_key": "logistics-manager@munich",
    "title": "Logistics Manager",
@@ -2493,6 +2508,21 @@
    "is_remote": false,
    "published_at": "2026-10-02T10:23:56-04:00",
    "url": "https://helsing.ai/jobs/4996583101?gh_jid=4996583101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4997172101",
+   "lineage_key": "procurement-project-manager-uk@london",
+   "title": "Procurement Project Manager – UK",
+   "department": "Market",
+   "team": "",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-05T05:16:28-04:00",
+   "url": "https://helsing.ai/jobs/4997172101?gh_jid=4997172101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

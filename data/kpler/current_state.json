@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-10-05T19:22:17+00:00",
- "job_count": 88,
+ "fetched_at": "2026-10-06T16:54:23+00:00",
+ "job_count": 89,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -66,6 +66,21 @@
    "published_at": "2026-09-10T16:40:15.051000+00:00",
    "url": "https://jobs.lever.co/kpler/0cc8cd10-def3-4955-8f81-7d3cdd0e33ab",
    "description_sha256": "2d1701eda667d04d469564fed0f125fac1a28a5b657dde8c41373532ba17643e"
+  },
+  {
+   "job_id": "0f7d6a42-bef1-4575-96b7-a176eb65b06d",
+   "lineage_key": "commercial-manager-commodities-financials@brazil",
+   "title": "Commercial Manager — Commodities & Financials",
+   "department": "Commercial",
+   "team": "Sales - Mid Market Americas",
+   "location": "Brazil",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-06T16:03:44.920000+00:00",
+   "url": "https://jobs.lever.co/kpler/0f7d6a42-bef1-4575-96b7-a176eb65b06d",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
    "job_id": "10105b9b-ed9c-4ebe-8f3b-76b18edeccb8",
@@ -291,21 +306,6 @@
    "published_at": "2026-09-10T16:29:10.493000+00:00",
    "url": "https://jobs.lever.co/kpler/3c8a1f49-1324-44b2-88d3-fbf247719650",
    "description_sha256": "3793b6e7ad9576ef47258212cd541829c55b65d450096999e3cea5b1b190e3f7"
-  },
-  {
-   "job_id": "3d3266a4-502f-4220-ad91-a92b739c69f5",
-   "lineage_key": "data-engineer@colombia",
-   "title": "Data Engineer",
-   "department": "Engineering",
-   "team": "Engineering Data Platform",
-   "location": "Colombia",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-09-15T11:02:59.798000+00:00",
-   "url": "https://jobs.lever.co/kpler/3d3266a4-502f-4220-ad91-a92b739c69f5",
-   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
    "job_id": "3ecd5553-5c3b-47d7-ae7d-87aba22499d2",
@@ -620,6 +620,21 @@
    "description_sha256": "d7d54bb2134d5810decb5ac891e560892c2923c276ad1dd43e32094db26ebede"
   },
   {
+   "job_id": "764db18a-b285-4be5-bf7e-c27c43214bb4",
+   "lineage_key": "sales-specialist-dry-bulk@london",
+   "title": "Sales Specialist – Dry Bulk",
+   "department": "Commercial",
+   "team": "Sales Specialist",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-06T11:02:30.270000+00:00",
+   "url": "https://jobs.lever.co/kpler/764db18a-b285-4be5-bf7e-c27c43214bb4",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+  },
+  {
    "job_id": "781e5529-48f6-4ece-ae44-b96ec3c5c9d4",
    "lineage_key": "junior-analyst-nat-gas-lng@houston",
    "title": "Junior Analyst - Nat Gas/LNG",
@@ -772,21 +787,6 @@
    "description_sha256": "892a8e68ec6f0490c4a0ec0c87dfdeec1cb5daccbaeb8e121088311ba64356e0"
   },
   {
-   "job_id": "8e09aae0-9da8-4766-8dc7-1ff56de56432",
-   "lineage_key": "data-engineer-natural-gas@colombia",
-   "title": "Data Engineer - Natural Gas",
-   "department": "Engineering",
-   "team": "Engineering Commodities",
-   "location": "Colombia",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-05-06T13:39:54.565000+00:00",
-   "url": "https://jobs.lever.co/kpler/8e09aae0-9da8-4766-8dc7-1ff56de56432",
-   "description_sha256": "3e1068a6636e2d8f111668131cd06aebac8c389288f6b0bfc38221134fa1d270"
-  },
-  {
    "job_id": "8e80a0b5-49f4-429a-9be2-d2eecd412f79",
    "lineage_key": "commercial-manager-energy-canada@calgary",
    "title": "Commercial Manager, Energy — Canada",
@@ -815,6 +815,21 @@
    "published_at": "2026-08-13T10:21:38.563000+00:00",
    "url": "https://jobs.lever.co/kpler/8ff15f9a-f8a7-415c-88c3-dbbc0583d934",
    "description_sha256": "abf899c9f75e01cde934e1d9400ef1b416b51ff6bb152aa8a4c028a1491ffd38"
+  },
+  {
+   "job_id": "926f6537-4e06-4999-9690-b340fef64b9c",
+   "lineage_key": "team-lead-sales-specialist-arbitrage-refineries@london",
+   "title": "Team Lead – Sales Specialist, Arbitrage & Refineries",
+   "department": "Commercial",
+   "team": "Sales Specialist",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-06T09:21:16.399000+00:00",
+   "url": "https://jobs.lever.co/kpler/926f6537-4e06-4999-9690-b340fef64b9c",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
    "job_id": "95d8b151-477c-4d2e-8070-6dc4e94ed1f6",

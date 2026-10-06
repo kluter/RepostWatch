@@ -2,7 +2,7 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-10-05T19:22:17+00:00",
+ "fetched_at": "2026-10-06T16:54:23+00:00",
  "job_count": 167,
  "jobs": [
   {
@@ -354,7 +354,7 @@
    "job_id": "4782354101",
    "lineage_key": "lead-systems-engineer-lo-emission-control-rf-interoperability@munich",
    "title": "Lead Systems Engineer - LO Emission Control & RF Interoperability",
-   "department": "Systems Architecture",
+   "department": "AI & Engineering",
    "team": "",
    "location": "Munich",
    "secondary_locations": [],
@@ -369,7 +369,7 @@
    "job_id": "4782364101",
    "lineage_key": "systems-architect-electronic-warfare@munich",
    "title": "Systems Architect - Electronic Warfare",
-   "department": "Systems Architecture",
+   "department": "AI & Engineering",
    "team": "",
    "location": "Munich",
    "secondary_locations": [],
@@ -384,7 +384,7 @@
    "job_id": "4782393101",
    "lineage_key": "lead-systems-engineer-eo-ir-sensing@munich",
    "title": "Lead Systems Engineer - EO/IR Sensing",
-   "department": "Systems Architecture",
+   "department": "AI & Engineering",
    "team": "",
    "location": "Munich",
    "secondary_locations": [],
@@ -621,6 +621,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4865559101",
+   "lineage_key": "systems-engineer-electromagnetic-interference-emi@munich",
+   "title": "Systems Engineer - Electromagnetic Interference (EMI)",
+   "department": "AI & Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-05-13T07:48:42-04:00",
+   "url": "https://helsing.ai/jobs/4865559101?gh_jid=4865559101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4865788101",
    "lineage_key": "helsing-formula-student-programme@munich",
    "title": "Helsing – Formula Student Programme",
@@ -654,7 +669,7 @@
    "job_id": "4870670101",
    "lineage_key": "senior-lead-engineer-electronic-warfare-and-survivability@munich",
    "title": "Senior Lead Engineer Electronic Warfare and Survivability",
-   "department": "Systems Architecture",
+   "department": "AI & Engineering",
    "team": "",
    "location": "Munich",
    "secondary_locations": [],
@@ -834,7 +849,7 @@
    "job_id": "4879138101",
    "lineage_key": "lead-systems-engineer-avionics-communication@munich",
    "title": "Lead Systems Engineer - Avionics Communication",
-   "department": "Systems Architecture",
+   "department": "AI & Engineering",
    "team": "",
    "location": "Munich",
    "secondary_locations": [],
@@ -1566,21 +1581,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4953877101",
-   "lineage_key": "facilities-security-officer@martinsburg-wv",
-   "title": "Facilities Security Officer",
-   "department": "Operations",
-   "team": "",
-   "location": "Martinsburg, WV",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-17T09:43:12-04:00",
-   "url": "https://helsing.ai/jobs/4953877101?gh_jid=4953877101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4954096101",
    "lineage_key": "senior-accountant@martinsburg-wv",
    "title": "Senior Accountant",
@@ -1698,21 +1698,6 @@
    "is_remote": false,
    "published_at": "2026-08-27T08:05:47-04:00",
    "url": "https://helsing.ai/jobs/4961559101?gh_jid=4961559101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4962178101",
-   "lineage_key": "talent-operations-coordinator@washington-dc",
-   "title": "Talent Operations Coordinator",
-   "department": "Talent Acquisition",
-   "team": "",
-   "location": "Washington, DC",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-27T09:53:32-04:00",
-   "url": "https://helsing.ai/jobs/4962178101?gh_jid=4962178101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -2508,6 +2493,21 @@
    "is_remote": false,
    "published_at": "2026-10-05T05:16:28-04:00",
    "url": "https://helsing.ai/jobs/4997172101?gh_jid=4997172101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4998730101",
+   "lineage_key": "front-office-coordinator-guest-service-agent-m-w-d@munich",
+   "title": "Front Office Coordinator / Guest Service Agent (m/w/d)",
+   "department": "Core Operations",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-06T08:57:07-04:00",
+   "url": "https://helsing.ai/jobs/4998730101?gh_jid=4998730101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

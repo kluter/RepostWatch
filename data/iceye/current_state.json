@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-05T19:22:17+00:00",
- "job_count": 187,
+ "fetched_at": "2026-10-06T16:54:23+00:00",
+ "job_count": 188,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -96,6 +96,21 @@
    "description_sha256": "791699e1609e66500dc5fd6218ac7da6c00f235d524bd228570134e74e2314b8"
   },
   {
+   "job_id": "0f659212-84d0-436e-b27c-99306b650318",
+   "lineage_key": "it-engineer@espoo",
+   "title": "IT Engineer",
+   "department": "Operations",
+   "team": "IT Service & Operations",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-06T12:03:34.378+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/0f659212-84d0-436e-b27c-99306b650318",
+   "description_sha256": "40f8545a2af9e07082d1c1e89e5e0b3660b36bbe75ea58b3d6f567b31de2de37"
+  },
+  {
    "job_id": "105d0392-a86e-49e2-ab75-d96ec84c2186",
    "lineage_key": "senior-people-generalist@lisbon",
    "title": "Senior People Generalist",
@@ -108,7 +123,7 @@
    "is_remote": true,
    "published_at": "2026-09-18T07:10:55.910+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/105d0392-a86e-49e2-ab75-d96ec84c2186",
-   "description_sha256": "0c7d3f33d7eaaa9387a32918d69898f25020821cceaa02ed615a318616f2c5f6"
+   "description_sha256": "72c4053fcd9b048387fddaee4a0f7e7a3823713f2036d0ca57fd44155885916b"
   },
   {
    "job_id": "1197834e-3203-4546-8f55-2bde6fe39546",
@@ -368,6 +383,21 @@
    "description_sha256": "9a67c4f963702931ff280b411fd29794859921184e9935c751b1ecc80c7d9cf9"
   },
   {
+   "job_id": "28d99ffd-28dc-48a1-adc8-dd6da0552f89",
+   "lineage_key": "buyer-mechanical-systems-and-ait-enablement@espoo",
+   "title": "Buyer (Mechanical Systems and AIT Enablement)",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Supply Chain",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-06T06:58:16.744+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/28d99ffd-28dc-48a1-adc8-dd6da0552f89",
+   "description_sha256": "809769869fa5600c108473a64d943fd9d9867e26a081715a3825c656d93b890f"
+  },
+  {
    "job_id": "29558448-5b4e-4aef-b395-642acc666efa",
    "lineage_key": "satellite-operations-specialist@remote-finland",
    "title": "Satellite Operations Specialist",
@@ -531,6 +561,21 @@
    "published_at": "2026-07-03T12:39:48.411+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/35528f9f-8244-465e-bf4b-799b8fffed53",
    "description_sha256": "cb22ce866a6e215f889695738bcff5999c86a12ab00f606cf26e2e198af760b2"
+  },
+  {
+   "job_id": "367ea774-2be1-436b-8e94-7c38e79d4c24",
+   "lineage_key": "senior-fullstack-engineer@espoo",
+   "title": "Senior Fullstack Engineer",
+   "department": "Engineering",
+   "team": "Business Automation",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-06T15:08:03.127+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/367ea774-2be1-436b-8e94-7c38e79d4c24",
+   "description_sha256": "fd6810f404a5bbfaf1fd2779f4ceeedb3f93224b0423f478f9ebf1f1d8c422bb"
   },
   {
    "job_id": "37b350c7-9a07-441b-b7a5-18b1aeff4d90",
@@ -697,7 +742,7 @@
    "employment_type": "FullTime",
    "workplace_type": "Hybrid",
    "is_remote": true,
-   "published_at": "2026-06-25T12:27:28.896+00:00",
+   "published_at": "2026-10-06T09:21:12.922+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/4470b416-a308-41a3-a967-293389b62beb",
    "description_sha256": "d1aed79f34a0f70f470c9b1493c8eb31983a9b27dfb8c9d8eb2b38ec002e1079"
   },
@@ -940,21 +985,6 @@
    "published_at": "2026-07-05T18:02:59.695+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/5666cc2e-53f7-4e19-b971-b183adb5555c",
    "description_sha256": "dd6994496e0f91d65b824324791b06f68e0440f86c0455cfb70631883e7e617c"
-  },
-  {
-   "job_id": "5782feaa-cbfc-465c-baf3-bed2bd3446c1",
-   "lineage_key": "business-development-manager-anz@australia",
-   "title": "Business Development Manager, ANZ",
-   "department": "Missions",
-   "team": "Missions Sales",
-   "location": "Australia",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Remote",
-   "is_remote": true,
-   "published_at": "2026-07-16T07:46:28.121+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/5782feaa-cbfc-465c-baf3-bed2bd3446c1",
-   "description_sha256": "88b4ab2e5b1931f1f6efaa2a910824f0f969c98aa3a9f89e22773a0c6445ce02"
   },
   {
    "job_id": "58c4f84f-f804-407f-b566-e3866be6e193",
@@ -1592,21 +1622,6 @@
    "published_at": "2026-08-05T09:00:04.125+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/8d27f213-6661-450f-a7be-7d5d461c7a59",
    "description_sha256": "68ae0397fc93d61a7fe4527ba40bde81ba9258c772bb3dd6f22aeb1da0bef78f"
-  },
-  {
-   "job_id": "8f1aaed7-9418-49f5-9dcf-c71359b0bc8e",
-   "lineage_key": "supply-chain-specialist-mechanics-structures@espoo",
-   "title": "Supply Chain Specialist (Mechanics & Structures)",
-   "department": "Global Manufacturing Organization",
-   "team": "Global Supply Chain",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-09-21T15:06:14.917+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/8f1aaed7-9418-49f5-9dcf-c71359b0bc8e",
-   "description_sha256": "f4bbe34aabb7ea140be7aa836a76ebb811adfeb907bb772a30d4915a69905981"
   },
   {
    "job_id": "8f6aae6f-73d9-4b7e-afb5-9e27089d13d7",
@@ -2585,7 +2600,7 @@
    "is_remote": false,
    "published_at": "2026-08-20T07:08:20.344+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e8bba89b-1a9f-4b40-b476-454b43bb0244",
-   "description_sha256": "a3295b59777b6638f69779f8e4378a674b4e7b20aa4583c22dfbc0f45e979030"
+   "description_sha256": "163059988c38cf32e0eb3a7c6b48773c048387e223c6004828fe8f277c5bb88b"
   },
   {
    "job_id": "ea6fcf8b-f800-4abb-a254-cb82596b5c98",

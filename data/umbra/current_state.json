@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-10-06T16:54:23+00:00",
- "job_count": 26,
+ "fetched_at": "2026-10-06T21:13:14+00:00",
+ "job_count": 27,
  "jobs": [
   {
    "job_id": "076F11402A",
@@ -21,6 +21,21 @@
    "published_at": "2026-03-23T00:00:00+00:00",
    "url": "https://apply.workable.com/j/076F11402A",
    "description_sha256": "df98748b9eb5dabde6585be361fe8d38e43f5ed766cdb7f32e990283226eef0b"
+  },
+  {
+   "job_id": "0CDD4FACF2",
+   "lineage_key": "spacecraft-mechanical-engineer@santa-barbara-united-states",
+   "title": "Spacecraft Mechanical Engineer",
+   "department": "Space Systems",
+   "team": "",
+   "location": "Santa Barbara, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-06T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/0CDD4FACF2",
+   "description_sha256": "c6d4ce21ea979215bc6741df7eeed187f7ba4f22cc38b293ecae352517b6ff4e"
   },
   {
    "job_id": "1956636B85",

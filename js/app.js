@@ -837,7 +837,7 @@
                 xUnit: "d", xName: "days alive", yName: "times posted", height: 230,
                 legendItems: [{ name: "open", color: C.blue }, { name: "closed", color: C.gray }],
                 zones: {
-                    x: 90, y: 1.5,   // dividers: 90 days alive, and posted-once vs reposted
+                    x: 100, y: 1.5,   // dividers: 100 days alive, and posted-once vs reposted
                     cells: [
                         { q: "bl", label: "fresh", tint: "--st-good" },         // green
                         { q: "br", label: "lingering", tint: "--st-serious" },  // orange

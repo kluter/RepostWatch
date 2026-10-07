@@ -351,7 +351,7 @@ const Charts = (() => {
                 y: q[0] === "t" ? padT : yM, h: q[0] === "t" ? yM - padT : yB - yM });
             for (const c of z.cells || []) if (c.tint) {
                 const b = bounds(c.q);
-                el("rect", { x: b.x, y: b.y, width: b.w, height: b.h, fill: tok(c.tint), "fill-opacity": 0.07 }, s);
+                el("rect", { x: b.x, y: b.y, width: b.w, height: b.h, fill: tok(c.tint), "fill-opacity": 0.04 }, s);
             }
             el("line", { x1: xM, x2: xM, y1: padT, y2: yB, stroke: tok("--border-2"), "stroke-width": 1, "stroke-dasharray": "3 3" }, s);
             el("line", { x1: padL, x2: xR, y1: yM, y2: yM, stroke: tok("--border-2"), "stroke-width": 1, "stroke-dasharray": "3 3" }, s);

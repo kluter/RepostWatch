@@ -512,12 +512,21 @@
             card("Events per week", "Stacked by type. Initial import excluded.",
                 p => Charts.columns(p, weeks, wkSeries,
                     { emptyMsg: "No post-import events yet. Fills in as the daily polls observe changes." })),
-            card("Headcount", "manual entries only (public annual sources, never automated)",
-                p => headcounts.length < 2
-                    ? Charts.emptyNote(p, headcounts.length
-                        ? `One entry: ${lastHc.value.toLocaleString("en-US")} (${lastHc.source}, ${fmtDate(lastHc.date)}). A trend needs a second one.`
-                        : "No headcount entries yet. Add one with add_headcount.py.")
-                    : Charts.timeLine(p, [{ name: "headcount", color: C.violet, points: headcounts.map(e => ({ t: new Date(e.date), v: e.value })) }], { zeroBase: false })));
+            card("Time to close", "how long roles stayed listed before they closed",
+                p => {
+                    const closes = events.filter(e => e.type === "closed" && e.published_at && e.date);
+                    if (closes.length < 3)
+                        return Charts.emptyNote(p, closes.length
+                            ? `Only ${closes.length} closed role${closes.length === 1 ? "" : "s"} so far; the spread fills in as more close.`
+                            : "No roles have closed since tracking began.");
+                    const bins = [["<1mo", 30], ["1-2mo", 60], ["2-3mo", 90], ["3-6mo", 180], ["6mo+", Infinity]];
+                    const counts = bins.map(() => 0);
+                    for (const e of closes) {
+                        const d = Math.max(0, Math.floor((Date.parse(e.date) - Date.parse(e.published_at)) / 86400e3));
+                        counts[bins.findIndex(([, max]) => d < max)]++;
+                    }
+                    return Charts.columns(p, bins.map(([lab]) => lab), [{ name: "roles", color: C.blue, values: counts }]);
+                }));
 
         // full lineage history (every posting under a role, across reposts / new ids), newest first,
         // so a republished row can expand to show the id history of that role's repeat postings.

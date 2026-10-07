@@ -2,8 +2,8 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-10-07T17:31:30+00:00",
- "job_count": 51,
+ "fetched_at": "2026-10-07T21:33:29+00:00",
+ "job_count": 57,
  "jobs": [
   {
    "job_id": "063679a7-77f0-4e6d-8296-bcff69f4ec4f",
@@ -216,6 +216,21 @@
    "description_sha256": "95e2af8be1e25252c90c8676e307c70700d7ece92151e27a7f9921ff3df728cb"
   },
   {
+   "job_id": "48034861-5785-4bc2-a36c-13f4dcddc1d0",
+   "lineage_key": "satcom-mission-analysis-engineer@harwell-uk",
+   "title": "Satcom Mission Analysis Engineer",
+   "department": "SATCOM (Broadband and Narrowband)",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-05-21T09:36:11+01:00",
+   "url": "https://careers.open-cosmos.com/jobs/7772415-satcom-mission-analysis-engineer",
+   "description_sha256": "09a1d9ba53ef9b7c71c6b4d0b4ace0a29d204d5bff06c07d01aec36d82a816bd"
+  },
+  {
    "job_id": "4a6848fd-9f8e-4fa7-920d-bc8e92cef003",
    "lineage_key": "ait-technician@athens-greece",
    "title": "AIT Technician",
@@ -274,6 +289,21 @@
    "published_at": "2026-04-15T09:30:10+01:00",
    "url": "https://careers.open-cosmos.com/jobs/7570517-customer-support-specialist-datacosmos",
    "description_sha256": "ad553f91836c22d36c7fdccfa15368d1bd88c147cca9b081b4d2756c85c6013e"
+  },
+  {
+   "job_id": "57c10dd8-a769-4567-865b-e13710343566",
+   "lineage_key": "bid-manager@harwell-uk",
+   "title": "Bid Manager",
+   "department": "GROWTH",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-06-29T17:10:34+01:00",
+   "url": "https://careers.open-cosmos.com/jobs/7988782-bid-manager",
+   "description_sha256": "08ca0f8811053019197a205bb48203185c4fba4f548d2ae3f4be22653392b8d0"
   },
   {
    "job_id": "5c046be8-6bdd-41aa-9d14-c1dfe5563ede",
@@ -396,6 +426,21 @@
    "description_sha256": "7e27a94961716bff5fb7dc483cc9e46b2f3cdf9e49419a92caf1ada0d1c2d37c"
   },
   {
+   "job_id": "860f2589-f7e6-473e-a595-c6f705d5fb50",
+   "lineage_key": "electronics-engineer-satellite-manufacturing-ait-production@harwell-uk",
+   "title": "Electronics Engineer – Satellite Manufacturing (AIT Production)",
+   "department": "ASSEMBLY, INTEGRATION & TEST",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2025-12-15T07:03:12+00:00",
+   "url": "https://careers.open-cosmos.com/jobs/6926973-electronics-engineer-satellite-manufacturing-ait-production",
+   "description_sha256": "659f5ec68fa17bc480fc6dbb19f0cac22c6d1eb51dd052af73c88c553581b923"
+  },
+  {
    "job_id": "88c9f24e-ce2a-408b-bb70-fd24b9a43b95",
    "lineage_key": "senior-mission-concept-engineer@barcelona-spain",
    "title": "Senior Mission Concept Engineer",
@@ -454,6 +499,21 @@
    "published_at": "2026-02-14T18:04:31+00:00",
    "url": "https://careers.open-cosmos.com/jobs/7231083-inventory-logistics-coordinator-harwell-oxfordshire",
    "description_sha256": "ac8d808cae80f77bd879742816195f80ea9c16dce5cdbb1ae762b5a0ca72bebe"
+  },
+  {
+   "job_id": "9666bee1-3d6c-495a-b592-9d50ecf7907a",
+   "lineage_key": "operations-engineer-ait-production@harwell-uk",
+   "title": "Operations Engineer (AIT Production)",
+   "department": "ASSEMBLY, INTEGRATION & TEST",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2025-12-16T07:00:40+00:00",
+   "url": "https://careers.open-cosmos.com/jobs/6934614-operations-engineer-ait-production",
+   "description_sha256": "10593ae5e7bce99f83cbcc4e0f6479cb85d4ee4355f59785b8ea157e99cd6244"
   },
   {
    "job_id": "99df5758-340b-490f-a370-a9de81a5858e",
@@ -666,6 +726,21 @@
    "description_sha256": "25915b90bcc247038911db9eb6943d4c7175d7826ff07de26ed6284b03fca56d"
   },
   {
+   "job_id": "dbc2dbfb-296b-41ce-bf7c-a582ad8d12ca",
+   "lineage_key": "image-production-engineer@harwell-uk",
+   "title": "Image Production Engineer",
+   "department": "DATA",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-04-15T09:40:49+01:00",
+   "url": "https://careers.open-cosmos.com/jobs/7570780-image-production-engineer",
+   "description_sha256": "02fdd837e75950142123fa651941218ce9f0824561de08c45c0e8b10aee65ce5"
+  },
+  {
    "job_id": "dc0a7204-f24f-4945-b3df-27cea32bdb0b",
    "lineage_key": "site-reliability-engineer-datacosmos@harwell-uk",
    "title": "Site Reliability Engineer (DataCosmos)",
@@ -709,6 +784,21 @@
    "published_at": "2026-01-30T08:49:33+00:00",
    "url": "https://careers.open-cosmos.com/jobs/7142875-quality-control-qc-engineer-shift-based",
    "description_sha256": "1616fc532a405cb12fcc6eb624e5c48f191bb38ae1f4f3fff944e7987dfc943b"
+  },
+  {
+   "job_id": "ede0b52e-5d2a-4793-ab37-ed736084c921",
+   "lineage_key": "data-processing-technical-project-manager@harwell-uk",
+   "title": "Data Processing Technical Project Manager",
+   "department": "DATA",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-02-06T02:42:40+00:00",
+   "url": "https://careers.open-cosmos.com/jobs/7183438-data-processing-technical-project-manager",
+   "description_sha256": "99800bd9bbb0b2378a47202dbca28a5b4d3134dac42833ceb5fdc1e68d16611b"
   },
   {
    "job_id": "f5a3e42e-e17e-41e0-ae17-10b3d46dda8f",

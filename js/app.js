@@ -798,16 +798,45 @@
                 closedPager);   // pager below the grid, so the legend stops at the last row
         }
 
+        // --- lingering vs reposting --- (each role: how long it has been alive vs times posted)
+        const nowMs = Date.now();
+        const scatterPts = [...lineage.entries()].map(([key, r]) => {
+            const open = openKeys.has(key);
+            const hist = historyByLineage.get(key) || [];
+            const start = Date.parse(r.first);
+            const end = open ? nowMs : (hist.length ? Date.parse(hist[0].date) : nowMs);
+            return { x: Math.round((end - start) / 86400e3), y: r.republishes + 1, label: r.title,
+                color: open ? C.blue : C.gray };
+        }).filter(p => Number.isFinite(p.x) && p.x >= 0);
+        // full-width, non-collapsible panel; rendered after attach (below) so it sizes to the real width
+        const scatterPlot = h("div", { class: "plot" });
+        const scatterSection = h("section", {},
+            h("h2", {}, "Lingering vs reposting"),
+            h("div", { class: "pcard" },
+                h("h3", {}, "Role lifespan vs times posted"),
+                h("p", { class: "caption" },
+                    "each dot is a role: days it has been alive against how many times it has been posted. Top-right means long-lived and heavily recycled."),
+                scatterPlot));
+
         app.replaceChildren(...[
             hero,
             logSection,                                                   // event log up top
             repSection,                                                   // republished roles — flagship view, above the graphs
             h("section", {}, h("h2", {}, "Current picture"), gridNow),    // stat graphs below
             h("section", {}, h("h2", {}, "Over time"), gridTime),
+            scatterSection,                                               // role lifespan vs repost count
             closedSection,                                                // closed-jobs log at the bottom
         ].filter(Boolean));
 
         setupMap(mapEl, jobs);   // must run after the element is attached to the DOM
+        // render the scatter now that its plot is attached, so it uses the real (full) width
+        if (scatterPts.length < 3)
+            Charts.emptyNote(scatterPlot, "Not enough roles tracked yet to show a pattern.");
+        else
+            Charts.scatter(scatterPlot, scatterPts, {
+                xUnit: "d", xName: "days alive", yName: "times posted", height: 230,
+                legendItems: [{ name: "open", color: C.blue }, { name: "closed", color: C.gray }],
+            });
     }
 
     // ---- routing ----

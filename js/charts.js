@@ -321,5 +321,48 @@ const Charts = (() => {
         legend(container, series, "line");
     }
 
-    return { barsH, columns, timeLine, emptyNote, showTooltip, hideTooltip };
+    // ================= scatter =================
+    // points: [{x, y, label, color}] — one dot per item. opts: {xUnit, xName, yName, legendItems, height, r}
+    function scatter(container, points, opts = {}) {
+        if (!points.length) return emptyNote(container, opts.emptyMsg || "No data yet.");
+        const width = Math.max(280, container.clientWidth || 320);
+        const height = opts.height || 200;
+        const padL = 30, padR = 10, padT = 10, padB = 22;
+        const plotW = width - padL - padR, plotH = height - padT - padB;
+        const s = svgRoot(container, width, height);
+
+        const xticks = niceTicks(Math.max(1, ...points.map(p => p.x)));
+        const yticks = niceTicks(Math.max(1, ...points.map(p => p.y)));
+        const xmax = xticks[xticks.length - 1], ymax = yticks[yticks.length - 1];
+        const X = v => padL + (v / xmax) * plotW;
+        const Y = v => padT + plotH - (v / ymax) * plotH;
+
+        for (const t of yticks) {
+            el("line", { x1: padL, x2: width - padR, y1: Y(t), y2: Y(t), stroke: tok("--grid"), "stroke-width": 1 }, s);
+            el("text", { x: padL - 5, y: Y(t) + 3, "text-anchor": "end", class: "axis-label" }, s).textContent = fmt(t);
+        }
+        el("line", { x1: padL, x2: width - padR, y1: Y(0), y2: Y(0), stroke: tok("--baseline"), "stroke-width": 1 }, s);
+        for (const t of xticks) {
+            el("text", { x: X(t), y: height - 6, "text-anchor": "middle", class: "axis-label" }, s)
+                .textContent = fmt(t) + (opts.xUnit || "");
+        }
+
+        const def = opts.color || tok("--accent");
+        for (const pt of points) {
+            const color = pt.color || def;
+            const c = el("circle", { cx: X(pt.x), cy: Y(pt.y), r: opts.r || 3.5,
+                fill: color, "fill-opacity": 0.5, stroke: color, "stroke-width": 0.5 }, s);
+            c.addEventListener("pointermove", e => {
+                c.setAttribute("fill-opacity", "0.95");
+                showTooltip(e.clientX, e.clientY, pt.label || "", [
+                    { value: `${fmt(pt.x)}${opts.xUnit || ""}`, name: opts.xName || "" },
+                    { value: fmt(pt.y), name: opts.yName || "" },
+                ]);
+            });
+            c.addEventListener("pointerleave", () => { c.setAttribute("fill-opacity", "0.5"); hideTooltip(); });
+        }
+        if (opts.legendItems) legend(container, opts.legendItems, "rect");
+    }
+
+    return { barsH, columns, timeLine, scatter, emptyNote, showTooltip, hideTooltip };
 })();

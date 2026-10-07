@@ -331,11 +331,31 @@ const Charts = (() => {
         const plotW = width - padL - padR, plotH = height - padT - padB;
         const s = svgRoot(container, width, height);
 
-        const xticks = niceTicks(Math.max(1, ...points.map(p => p.x)));
-        const yticks = niceTicks(Math.max(1, ...points.map(p => p.y)));
+        const z = opts.zones;
+        const xticks = niceTicks(Math.max(1, ...points.map(p => p.x), z ? z.x : 0));
+        let yticks = niceTicks(Math.max(z ? 2 : 1, ...points.map(p => p.y)));
+        if (z && !yticks.includes(1)) yticks = [...yticks, 1].sort((a, b) => a - b);   // reference line for the dense band
         const xmax = xticks[xticks.length - 1], ymax = yticks[yticks.length - 1];
         const X = v => padL + (v / xmax) * plotW;
-        const Y = v => padT + plotH - (v / ymax) * plotH;
+        // with zones, split the plot 50/50 at the y divider so the quadrants are balanced in height
+        const Y = z
+            ? v => (v <= z.y
+                ? padT + plotH - (v / z.y) * (plotH / 2)
+                : padT + plotH / 2 - ((v - z.y) / (ymax - z.y)) * (plotH / 2))
+            : v => padT + plotH - (v / ymax) * plotH;
+
+        // behavior zones: faint tint + dashed dividers split the plot into named quadrants (drawn behind)
+        if (z) {
+            const xM = X(z.x), yM = Y(z.y), xR = width - padR, yB = padT + plotH;
+            const bounds = q => ({ x: q[1] === "l" ? padL : xM, w: q[1] === "l" ? xM - padL : xR - xM,
+                y: q[0] === "t" ? padT : yM, h: q[0] === "t" ? yM - padT : yB - yM });
+            for (const c of z.cells || []) if (c.tint) {
+                const b = bounds(c.q);
+                el("rect", { x: b.x, y: b.y, width: b.w, height: b.h, fill: tok(c.tint), "fill-opacity": 0.07 }, s);
+            }
+            el("line", { x1: xM, x2: xM, y1: padT, y2: yB, stroke: tok("--border-2"), "stroke-width": 1, "stroke-dasharray": "3 3" }, s);
+            el("line", { x1: padL, x2: xR, y1: yM, y2: yM, stroke: tok("--border-2"), "stroke-width": 1, "stroke-dasharray": "3 3" }, s);
+        }
 
         for (const t of yticks) {
             el("line", { x1: padL, x2: width - padR, y1: Y(t), y2: Y(t), stroke: tok("--grid"), "stroke-width": 1 }, s);
@@ -345,6 +365,11 @@ const Charts = (() => {
         for (const t of xticks) {
             el("text", { x: X(t), y: height - 6, "text-anchor": "middle", class: "axis-label" }, s)
                 .textContent = fmt(t) + (opts.xUnit || "");
+        }
+        if (z) for (const c of z.cells || []) {
+            const left = c.q[1] === "l", top = c.q[0] === "t";
+            el("text", { x: left ? padL + 6 : width - padR - 6, y: top ? padT + 11 : padT + plotH - 6,
+                "text-anchor": left ? "start" : "end", class: "axis-label" }, s).textContent = c.label;
         }
 
         const def = opts.color || tok("--accent");

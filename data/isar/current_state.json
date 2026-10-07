@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-10-06T16:54:23+00:00",
- "job_count": 107,
+ "fetched_at": "2026-10-07T17:31:30+00:00",
+ "job_count": 108,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -678,21 +678,6 @@
    "is_remote": false,
    "published_at": "2026-06-25T04:22:51-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4907850101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4912131101",
-   "lineage_key": "electrical-harness-design-engineer-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Electrical Harness Design Engineer (m/f/d)",
-   "department": "AGNC",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-06T00:00:00-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4912131101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1537,8 +1522,8 @@
   },
   {
    "job_id": "4994584101",
-   "lineage_key": "executive-assistant-to-the-chief-of-staff-m-f-d@parsdorf-bavaria-germany",
-   "title": "Executive Assistant to the Chief of Staff (m/f/d)",
+   "lineage_key": "executive-assistant-m-f-d@parsdorf-bavaria-germany",
+   "title": "Executive Assistant (m/f/d)",
    "department": "CEO Office",
    "team": "",
    "location": "Parsdorf, Bavaria, Germany",
@@ -1608,6 +1593,36 @@
    "is_remote": false,
    "published_at": "2026-10-06T11:32:34-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4998952101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4999532101",
+   "lineage_key": "structural-design-engineer-spectrum-m-f-d@parsdorf-bavaria-germany",
+   "title": "Structural Design Engineer, Spectrum (m/f/d)",
+   "department": "Spectrum",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-07T06:18:45-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4999532101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4999579101",
+   "lineage_key": "senior-gnc-engineer-navigation-flight-software-m-f-d@parsdorf-bavaria-germany",
+   "title": "(Senior) GNC Engineer - Navigation, Flight Software (m/f/d)",
+   "department": "Flight Software",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-07T06:43:24-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4999579101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

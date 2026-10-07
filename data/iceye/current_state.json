@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-06T16:54:23+00:00",
+ "fetched_at": "2026-10-07T17:31:30+00:00",
  "job_count": 188,
  "jobs": [
   {
@@ -48,7 +48,7 @@
    "is_remote": true,
    "published_at": "2026-09-28T13:23:43.119+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/08012612-81fe-4563-998f-e336ca3c333c",
-   "description_sha256": "82e80fe47f2d9beb2b898b538bea8a01b4d9a4b3cd3542ab794fb4da91142006"
+   "description_sha256": "cb233ec3ddc824101b2ff565ae6fcc8daded364e9f7d9fe2f65765361a0bbbcb"
   },
   {
    "job_id": "09d02ba3-5ba6-4a11-bb30-74e42c22c485",
@@ -94,6 +94,21 @@
    "published_at": "2026-09-08T06:29:47.022+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/0e38b99f-7936-4b44-9bf5-5b77cc175af0",
    "description_sha256": "791699e1609e66500dc5fd6218ac7da6c00f235d524bd228570134e74e2314b8"
+  },
+  {
+   "job_id": "0ec684ef-3442-4bd5-bc10-3d7e415c8a85",
+   "lineage_key": "protective-services-lead@espoo",
+   "title": "Protective Services Lead",
+   "department": "IT & Security",
+   "team": "Security",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-07T12:23:00.019+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/0ec684ef-3442-4bd5-bc10-3d7e415c8a85",
+   "description_sha256": "a0fab2b678e8a99a5994cc34be355f4308d6b9e7d857134ea902d9d915be72a4"
   },
   {
    "job_id": "0f659212-84d0-436e-b27c-99306b650318",
@@ -2258,21 +2273,6 @@
    "published_at": "2026-08-11T13:51:36.313+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/cd035996-66ce-478b-beb9-d42a69293946",
    "description_sha256": "65ebcec7a89f853ca681f8be30c1518d2180a888c5db27cf8dd9f53f13c072a0"
-  },
-  {
-   "job_id": "ce2d7aa7-3596-4fae-a6c8-de530504519b",
-   "lineage_key": "senior-facility-security-specialist@espoo",
-   "title": "Senior Facility Security Specialist",
-   "department": "IT & Security",
-   "team": "Security",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-31T06:08:55.597+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/ce2d7aa7-3596-4fae-a6c8-de530504519b",
-   "description_sha256": "3377a109d8dde4ba7a545a7b152435191dd527f2c28199b48ce97661f6365cc7"
   },
   {
    "job_id": "ce6b9391-c11e-4831-a3f8-39ebd6c23f39",

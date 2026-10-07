@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-10-06T21:13:14+00:00",
- "job_count": 27,
+ "fetched_at": "2026-10-07T17:31:30+00:00",
+ "job_count": 26,
  "jobs": [
   {
    "job_id": "076F11402A",
@@ -370,21 +370,6 @@
    "published_at": "2026-09-25T00:00:00+00:00",
    "url": "https://apply.workable.com/j/CE5C24CBE2",
    "description_sha256": "d9572b4e862a72cf5f92a6d02cfe1d22b4d4fa2127db7c09b10e0a6e2abf20ba"
-  },
-  {
-   "job_id": "D8FC6D2A00",
-   "lineage_key": "environmental-health-safety-ehs-manager@santa-barbara-united-states",
-   "title": "Environmental, Health & Safety (EHS) Manager",
-   "department": "Shared Services",
-   "team": "",
-   "location": "Santa Barbara, United States",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-27T00:00:00+00:00",
-   "url": "https://apply.workable.com/j/D8FC6D2A00",
-   "description_sha256": "f0852e0efb030c9d4fe5c1898568103571f7e349a69f7e2b919199d1994b6cf8"
   },
   {
    "job_id": "E548043C79",

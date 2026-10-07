@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-10-06T16:54:23+00:00",
- "job_count": 89,
+ "fetched_at": "2026-10-07T17:31:30+00:00",
+ "job_count": 87,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -66,21 +66,6 @@
    "published_at": "2026-09-10T16:40:15.051000+00:00",
    "url": "https://jobs.lever.co/kpler/0cc8cd10-def3-4955-8f81-7d3cdd0e33ab",
    "description_sha256": "2d1701eda667d04d469564fed0f125fac1a28a5b657dde8c41373532ba17643e"
-  },
-  {
-   "job_id": "0f7d6a42-bef1-4575-96b7-a176eb65b06d",
-   "lineage_key": "commercial-manager-commodities-financials@brazil",
-   "title": "Commercial Manager — Commodities & Financials",
-   "department": "Commercial",
-   "team": "Sales - Mid Market Americas",
-   "location": "Brazil",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-10-06T16:03:44.920000+00:00",
-   "url": "https://jobs.lever.co/kpler/0f7d6a42-bef1-4575-96b7-a176eb65b06d",
-   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
    "job_id": "10105b9b-ed9c-4ebe-8f3b-76b18edeccb8",
@@ -264,8 +249,8 @@
   },
   {
    "job_id": "3a57da80-b4ed-434e-8048-ed2f1fd84408",
-   "lineage_key": "senior-account-manager-maritime-nordics@london",
-   "title": "Senior Account Manager - Maritime - Nordics",
+   "lineage_key": "senior-account-manager-maritime@london",
+   "title": "Senior Account Manager - Maritime",
    "department": "Commercial",
    "team": "Sales - Mid Market EMEA",
    "location": "London",
@@ -275,7 +260,7 @@
    "is_remote": false,
    "published_at": "2026-09-16T08:55:08.705000+00:00",
    "url": "https://jobs.lever.co/kpler/3a57da80-b4ed-434e-8048-ed2f1fd84408",
-   "description_sha256": "8e41d7d2e42b17c3cdea27604d326435b2c7a65717aba2b385eb2cc85eb74f80"
+   "description_sha256": "fac08fe3ea6b3bda5606c5260b294ae4029ce563dadbf166df0eee7e6f2d613e"
   },
   {
    "job_id": "3c351162-0b2f-4670-b03f-5954b50a02c1",
@@ -400,21 +385,6 @@
    "published_at": "2024-09-13T03:19:15.764000+00:00",
    "url": "https://jobs.lever.co/kpler/4aeb9439-99c7-4013-b6c6-493b36d50a78",
    "description_sha256": "964710c59c3cb8e1f6040b29625b2d0064fd729b18b5469db19e845f947f4ce4"
-  },
-  {
-   "job_id": "4c22ae3e-8706-4633-998c-67ad1d00cf2c",
-   "lineage_key": "senior-customer-success-manager-financials@new-york",
-   "title": "Senior Customer Success Manager (Financials)",
-   "department": "Commercial",
-   "team": "Customer Success",
-   "location": "New York",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-07-08T13:45:23.359000+00:00",
-   "url": "https://jobs.lever.co/kpler/4c22ae3e-8706-4633-998c-67ad1d00cf2c",
-   "description_sha256": "111075ebb894198c39248deda9d0a54aee29da185baf3db2267c6ff8577031c1"
   },
   {
    "job_id": "4dfaa116-95c7-4044-957a-23c881135be6",
@@ -635,21 +605,6 @@
    "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
-   "job_id": "781e5529-48f6-4ece-ae44-b96ec3c5c9d4",
-   "lineage_key": "junior-analyst-nat-gas-lng@houston",
-   "title": "Junior Analyst - Nat Gas/LNG",
-   "department": "Business Units",
-   "team": "LNG",
-   "location": "Houston",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-07-13T11:29:32.884000+00:00",
-   "url": "https://jobs.lever.co/kpler/781e5529-48f6-4ece-ae44-b96ec3c5c9d4",
-   "description_sha256": "ca6b708f626a6832598b6db02578998d74111d13dc3485e25d6fe78bd25ee5b5"
-  },
-  {
    "job_id": "7d2b0b9f-9dae-4eee-aff8-f7493fee8e26",
    "lineage_key": "senior-account-executive-tech-consulting-europe@london",
    "title": "Senior Account Executive - Tech/Consulting - Europe",
@@ -679,7 +634,7 @@
    "is_remote": false,
    "published_at": "2026-09-24T12:28:36.827000+00:00",
    "url": "https://jobs.lever.co/kpler/8406b890-cd64-4f78-bc58-f8f842e8db72",
-   "description_sha256": "18856ad022b27ce240c6ca9afde16c5afc31d1a2ae421c9f91e5d1c664bfda52"
+   "description_sha256": "8726b4999f528fc79136f659fc8c1efd9d2a11c9a8b5714dfeff7445d69c58d0"
   },
   {
    "job_id": "85248b31-c44c-4689-b004-ca4228adc2b9",
@@ -910,8 +865,8 @@
   },
   {
    "job_id": "a26f4209-45d6-45b0-b560-3e812e0ecb8a",
-   "lineage_key": "account-executive-maritime-shipping-logistics-new-business@new-york",
-   "title": "Account Executive - Maritime/ Shipping & Logistics (New Business)",
+   "lineage_key": "account-executive-maritime-shipping-logistics@new-york",
+   "title": "Account Executive - Maritime/ Shipping & Logistics",
    "department": "Commercial",
    "team": "Sales - Mid Market Americas",
    "location": "New York",
@@ -921,7 +876,7 @@
    "is_remote": true,
    "published_at": "2026-06-26T12:12:25.799000+00:00",
    "url": "https://jobs.lever.co/kpler/a26f4209-45d6-45b0-b560-3e812e0ecb8a",
-   "description_sha256": "e2d8e0519217e5c8191448d5e26238e1a92f8cd77d83fac44b10c63671e027c5"
+   "description_sha256": "2fdcfc04d0101560e0a7296cc7f55066a5f2ea6cc03b33926ae0ce42353fbfaf"
   },
   {
    "job_id": "a35396e8-6cec-4095-83ab-5384353728c2",
@@ -1183,6 +1138,21 @@
    "description_sha256": "3dcc3cb3b999e3a406674bea56569a601e347b3ec375a05894e08ed61409c53f"
   },
   {
+   "job_id": "e525e1d6-0192-450b-b011-d3a87334e23e",
+   "lineage_key": "account-manager-commodities-meia@dubai",
+   "title": "Account Manager - Commodities - MEIA",
+   "department": "Commercial",
+   "team": "Sales - Mid Market EMEA",
+   "location": "Dubai",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-07T10:55:46.261000+00:00",
+   "url": "https://jobs.lever.co/kpler/e525e1d6-0192-450b-b011-d3a87334e23e",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+  },
+  {
    "job_id": "e7c7c95b-6724-4ad2-9926-af69e3dbe258",
    "lineage_key": "senior-crude-oil-analyst@houston",
    "title": "Senior Crude Oil Analyst",
@@ -1280,8 +1250,8 @@
   },
   {
    "job_id": "ee3ad1a8-7c6c-4633-9d4f-4116621037d9",
-   "lineage_key": "commercial-manager-commodities-financials@brazil",
-   "title": "Commercial Manager — Commodities & Financials",
+   "lineage_key": "commercial-manager-commodities-financials-latam@brazil",
+   "title": "Commercial Manager — Commodities & Financials - LATAM",
    "department": "Commercial",
    "team": "Sales - Mid Market Americas",
    "location": "Brazil",
@@ -1291,7 +1261,7 @@
    "is_remote": false,
    "published_at": "2026-09-30T15:48:11.436000+00:00",
    "url": "https://jobs.lever.co/kpler/ee3ad1a8-7c6c-4633-9d4f-4116621037d9",
-   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+   "description_sha256": "a13dfda8d4949bfee210b430b874301a4b9ea05d43e4f11c9dfc8f4873e5bfcb"
   },
   {
    "job_id": "efa90634-2e62-4ae7-9142-e9a4ecd90076",
@@ -1321,7 +1291,7 @@
    "is_remote": false,
    "published_at": "2026-09-24T12:03:40.894000+00:00",
    "url": "https://jobs.lever.co/kpler/f00d81b8-332d-40fd-89bc-2e90ea26931f",
-   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+   "description_sha256": "2732114b5d9f14a98ad202299f856a7251a73ead677614105bd5fece637ea819"
   },
   {
    "job_id": "f96acb17-fbd1-4ed5-a4db-d7ac53466d66",

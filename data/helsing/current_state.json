@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-10-06T21:13:14+00:00",
- "job_count": 166,
+ "fetched_at": "2026-10-07T17:31:30+00:00",
+ "job_count": 164,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -48,21 +48,6 @@
    "is_remote": false,
    "published_at": "2024-05-08T09:22:11-04:00",
    "url": "https://helsing.ai/jobs/4334842101?gh_jid=4334842101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4334849101",
-   "lineage_key": "ai-research-engineer-ai-safety@berlin",
-   "title": "AI Research Engineer - AI Safety",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2024-05-08T09:24:13-04:00",
-   "url": "https://helsing.ai/jobs/4334849101?gh_jid=4334849101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -322,8 +307,8 @@
   },
   {
    "job_id": "4778869101",
-   "lineage_key": "ai-research-engineer-ml-engineering@berlin",
-   "title": "AI Research Engineer - ML Engineering",
+   "lineage_key": "staff-ai-research-engineer-ml-engineering@berlin",
+   "title": "Staff AI Research Engineer - ML Engineering",
    "department": "AI & Engineering",
    "team": "",
    "location": "Berlin",
@@ -696,21 +681,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4872445101",
-   "lineage_key": "quality-assurance-engineer-development@munich",
-   "title": "Quality Assurance Engineer - Development",
-   "department": "Certification & Assurance",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-29T11:14:54-04:00",
-   "url": "https://helsing.ai/jobs/4872445101?gh_jid=4872445101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4875025101",
    "lineage_key": "senior-programme-manager-maritime@munich",
    "title": "Senior Programme Manager - Maritime",
@@ -1057,8 +1027,8 @@
   },
   {
    "job_id": "4911999101",
-   "lineage_key": "ai-research-engineer-3d-computer-vision@berlin",
-   "title": "AI Research Engineer -  3D Computer Vision",
+   "lineage_key": "staff-ai-research-engineer-3d-computer-vision@berlin",
+   "title": "Staff AI Research Engineer -  3D Computer Vision",
    "department": "AI & Engineering",
    "team": "",
    "location": "Berlin",
@@ -1611,21 +1581,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4957296101",
-   "lineage_key": "talent-operations-coordinator-12-month-ftc@munich",
-   "title": "Talent Operations Coordinator - 12-month FTC",
-   "department": "Talent Acquisition",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-21T10:50:38-04:00",
-   "url": "https://helsing.ai/jobs/4957296101?gh_jid=4957296101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4960547101",
    "lineage_key": "senior-commercial-manager@london-england-united-kingdom",
    "title": "Senior Commercial Manager",
@@ -1788,21 +1743,6 @@
    "is_remote": false,
    "published_at": "2026-09-01T03:56:30-04:00",
    "url": "https://helsing.ai/jobs/4964970101?gh_jid=4964970101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4965312101",
-   "lineage_key": "warehouse-manager@munich",
-   "title": "Warehouse Manager",
-   "department": "Production Operations",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-01T09:50:11-04:00",
-   "url": "https://helsing.ai/jobs/4965312101?gh_jid=4965312101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -2478,6 +2418,36 @@
    "is_remote": false,
    "published_at": "2026-10-05T05:16:28-04:00",
    "url": "https://helsing.ai/jobs/4997172101?gh_jid=4997172101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4997901101",
+   "lineage_key": "lead-it-engineer@munich",
+   "title": "Lead IT Engineer",
+   "department": "IT",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-07T04:59:27-04:00",
+   "url": "https://helsing.ai/jobs/4997901101?gh_jid=4997901101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4998692101",
+   "lineage_key": "lead-systems-engineer-lo-calculations-supplier-parts@munich",
+   "title": "Lead Systems Engineer - LO Calculations & Supplier Parts",
+   "department": "AI & Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-07T08:17:26-04:00",
+   "url": "https://helsing.ai/jobs/4998692101?gh_jid=4998692101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

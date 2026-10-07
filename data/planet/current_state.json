@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-10-06T16:54:23+00:00",
- "job_count": 119,
+ "fetched_at": "2026-10-07T17:31:30+00:00",
+ "job_count": 118,
  "jobs": [
   {
    "job_id": "7374533",
@@ -408,36 +408,6 @@
    "is_remote": false,
    "published_at": "2026-07-07T09:42:05-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8042428",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8045328",
-   "lineage_key": "flight-dynamics-engineer-orbits-r-d@san-francisco-ca",
-   "title": "Flight Dynamics Engineer, Orbits R&D",
-   "department": "Orbits R&D",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-10T18:44:20-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8045328",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8046738",
-   "lineage_key": "senior-deployment-strategist@seoul-south-korea",
-   "title": "Senior Deployment Strategist",
-   "department": "Pre-Sales and Services",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-28T11:54:56-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8046738",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1788,6 +1758,21 @@
    "is_remote": true,
    "published_at": "2026-10-01T04:54:06-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8245407",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8255417",
+   "lineage_key": "senior-software-engineer@ljubljana-slovenia",
+   "title": "Senior Software Engineer",
+   "department": "Access",
+   "team": "",
+   "location": "Ljubljana, Slovenia",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-07T07:11:25-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8255417",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

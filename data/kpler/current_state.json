@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-10-08T17:33:43+00:00",
- "job_count": 87,
+ "fetched_at": "2026-10-08T21:29:28+00:00",
+ "job_count": 89,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -34,6 +34,21 @@
    "published_at": "2026-09-17T10:00:06.452000+00:00",
    "url": "https://jobs.lever.co/kpler/04358058-db0c-4e96-92bc-3a7aa3b6321d",
    "description_sha256": "2903100d97a435ed0c851126226901cc9731526725fcbc20123011e08bbc24df"
+  },
+  {
+   "job_id": "06747d49-ea1e-458c-93e6-1489a1a9c612",
+   "lineage_key": "backend-engineer-commodities@united-kingdom",
+   "title": "Backend Engineer - Commodities",
+   "department": "Engineering",
+   "team": "Engineering Commodities",
+   "location": "United Kingdom",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-08T17:52:31.369000+00:00",
+   "url": "https://jobs.lever.co/kpler/06747d49-ea1e-458c-93e6-1489a1a9c612",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
    "job_id": "0b2a75d9-931d-4424-8454-6128aa486401",
@@ -969,6 +984,21 @@
    "published_at": "2026-09-28T13:31:04.737000+00:00",
    "url": "https://jobs.lever.co/kpler/aed203cd-f69b-4be1-ae7d-1496445d4084",
    "description_sha256": "9ff8899e5b18c1ad8a0f46ec0cb240777086dfa73f4be46e3abf9062ecf366cf"
+  },
+  {
+   "job_id": "aee5db97-5ade-4893-9b09-4e630e0288cf",
+   "lineage_key": "backend-engineer-commodities@greece",
+   "title": "Backend Engineer - Commodities",
+   "department": "Engineering",
+   "team": "Engineering Commodities",
+   "location": "Greece",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-08T17:51:05.392000+00:00",
+   "url": "https://jobs.lever.co/kpler/aee5db97-5ade-4893-9b09-4e630e0288cf",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
    "job_id": "b93250d4-23b6-496e-8483-63fbeaf8c1fa",

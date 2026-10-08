@@ -815,7 +815,7 @@
             h("div", { class: "pcard" },
                 h("h3", {}, "Role lifespan vs times posted"),
                 h("p", { class: "caption" },
-                    "each dot is a role: days it has been alive against how many times it has been posted. Top-right means long-lived and heavily recycled."),
+                    "each dot is a role, placed by days alive (x, log scale) and how many times it has been posted (rows). The dashed line sits at 90 days alive, the severity model's stale cutoff, and is centred so the four zones stay balanced. Top rows are reposted roles; top-right is long-lived and recycled."),
                 scatterPlot));
 
         app.replaceChildren(...[
@@ -834,10 +834,16 @@
             Charts.emptyNote(scatterPlot, "Not enough roles tracked yet to show a pattern.");
         else
             Charts.scatter(scatterPlot, scatterPts, {
-                xUnit: "d", xName: "days alive", yName: "times posted", height: 230,
+                xUnit: "d", xName: "days alive", yName: "times posted", height: 240,
                 legendItems: [{ name: "open", color: C.blue }, { name: "closed", color: C.gray }],
+                // y collapses onto three rows (bottom-first); "posted once" gets the bottom half
+                bands: [
+                    { test: v => v === 1, label: "1", weight: 2 },
+                    { test: v => v === 2, label: "2", weight: 1 },
+                    { test: v => v >= 3, label: "3+", weight: 1 },
+                ],
                 zones: {
-                    x: 100, y: 1.5,   // dividers: 100 days alive, and posted-once vs reposted
+                    x: 90,   // 90 days alive = the "stale" age cutoff from the severity model
                     cells: [
                         { q: "bl", label: "fresh", tint: "--st-good" },         // green
                         { q: "br", label: "lingering", tint: "--st-serious" },  // orange

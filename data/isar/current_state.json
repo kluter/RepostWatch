@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-10-07T17:31:30+00:00",
- "job_count": 108,
+ "fetched_at": "2026-10-08T17:33:43+00:00",
+ "job_count": 111,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -1581,6 +1581,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4998743101",
+   "lineage_key": "director-marketing-branding-f-m-d@parsdorf-bavaria-germany",
+   "title": "Director Marketing & Branding (f/m/d)",
+   "department": "Commercial",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-08T09:04:37-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4998743101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4998952101",
    "lineage_key": "principal-system-architect-spectrum-m-f-d@parsdorf-bavaria-germany",
    "title": "Principal System Architect, Spectrum (m/f/d)",
@@ -1623,6 +1638,36 @@
    "is_remote": false,
    "published_at": "2026-10-07T06:43:24-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4999579101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4999746101",
+   "lineage_key": "pr-manager-f-m-d@parsdorf-bavaria-germany",
+   "title": "PR Manager (f/m/d)",
+   "department": "CEO Office",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-08T02:14:58-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4999746101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5000652101",
+   "lineage_key": "12-months-internship-propulsion-test-engineer-m-f-d@kiruna-norrbotten-sweden",
+   "title": "12 months internship - Propulsion Test Engineer (m/f/d)",
+   "department": "Spectrum AIT",
+   "team": "",
+   "location": "Kiruna, Norrbotten, Sweden",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-08T08:24:28-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5000652101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

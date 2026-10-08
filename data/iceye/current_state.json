@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-07T17:31:30+00:00",
- "job_count": 188,
+ "fetched_at": "2026-10-08T17:33:43+00:00",
+ "job_count": 189,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -108,7 +108,7 @@
    "is_remote": true,
    "published_at": "2026-10-07T12:23:00.019+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/0ec684ef-3442-4bd5-bc10-3d7e415c8a85",
-   "description_sha256": "a0fab2b678e8a99a5994cc34be355f4308d6b9e7d857134ea902d9d915be72a4"
+   "description_sha256": "9e4d614c196ff1cadc93e355d83ea703a6bc4b3b9ad125af4ccc6af184fda3d1"
   },
   {
    "job_id": "0f659212-84d0-436e-b27c-99306b650318",
@@ -501,21 +501,6 @@
    "published_at": "2026-10-05T06:51:54.204+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/3177be0f-5997-45cf-bbdb-60b1c38543ea",
    "description_sha256": "2494591ca1ac14230b8913f4b738c7ba1fe75b863e934c4393b558eda8376ee0"
-  },
-  {
-   "job_id": "32a84004-0c4b-44f6-baa7-a288696745f2",
-   "lineage_key": "team-manager-supply-chain-category-mechanical-systems-manufacturing-enablement@espoo",
-   "title": "Team Manager Supply Chain, Category Mechanical Systems & Manufacturing Enablement",
-   "department": "Global Manufacturing Organization",
-   "team": "Global Supply Chain",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-03T17:30:31.409+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/32a84004-0c4b-44f6-baa7-a288696745f2",
-   "description_sha256": "a4ca0e7f0d52c146b3f4f3464f36ef0b6e412d728082534fcee957e51bb19564"
   },
   {
    "job_id": "332b1d49-0d7e-43de-a460-41e36bd42519",
@@ -1275,6 +1260,21 @@
    "published_at": "2026-06-15T13:53:58.265+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/70cdbf0b-0e31-4c03-a74f-5cb2d72dd857",
    "description_sha256": "3696cd8eb9e3c68d6a5ca21956677637568bdfc5f34156126700f136ccfe4a90"
+  },
+  {
+   "job_id": "70f4bfc4-d4f9-46b0-a556-f82c710d6100",
+   "lineage_key": "devops-engineer@espoo",
+   "title": "DevOps Engineer",
+   "department": "Solutions",
+   "team": "Solutions Sales",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-08T16:38:40.363+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/70f4bfc4-d4f9-46b0-a556-f82c710d6100",
+   "description_sha256": "2d42095b860d9892520cbd82ac51daba9e8bc769fcdb57d839ddc501a7d93702"
   },
   {
    "job_id": "728ba3dc-5ab4-4f86-b7cc-5bd24c37f2d4",
@@ -2556,6 +2556,26 @@
    "description_sha256": "2a69bcdd713d237a94cdd569c1b6efe7740bc7fce920acc7ff9b68d15d0ab49c"
   },
   {
+   "job_id": "e5b1034c-eb84-427b-ba49-f19483e9700c",
+   "lineage_key": "mission-sales-director-mena@united-arab-emirates",
+   "title": "Mission Sales Director, MENA",
+   "department": "Missions",
+   "team": "Missions Sales",
+   "location": "United Arab Emirates",
+   "secondary_locations": [
+    "Stockholm",
+    "Espoo",
+    "Norway",
+    "Denmark"
+   ],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-08T05:53:50.443+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/e5b1034c-eb84-427b-ba49-f19483e9700c",
+   "description_sha256": "111d613058f3d9989711309ab50957389c22b85be51ac448af331954a82afd26"
+  },
+  {
    "job_id": "e7d59b96-29fb-4d6c-8e4b-4cdb4e38da1b",
    "lineage_key": "senior-accountant@warsaw",
    "title": "Senior Accountant",
@@ -2589,8 +2609,8 @@
   },
   {
    "job_id": "e8bba89b-1a9f-4b40-b476-454b43bb0244",
-   "lineage_key": "maite-planner@athens",
-   "title": "MAITE Planner",
+   "lineage_key": "planner-satellite-manufacturing-maite@athens",
+   "title": "Planner Satellite Manufacturing - MAITE",
    "department": "Global Manufacturing Organization",
    "team": "GR AIT Engineering",
    "location": "Athens",

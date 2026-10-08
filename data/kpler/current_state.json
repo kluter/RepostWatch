@@ -2,7 +2,7 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-10-07T17:31:30+00:00",
+ "fetched_at": "2026-10-08T17:33:43+00:00",
  "job_count": 87,
  "jobs": [
   {
@@ -111,21 +111,6 @@
    "published_at": "2026-02-24T21:59:01.795000+00:00",
    "url": "https://jobs.lever.co/kpler/1632bc19-f4dc-4103-bd5f-5a8eecab1480",
    "description_sha256": "0c635f6e5b1d0ec67f6d4c3f2513198fe63a50acce7ad9bcd166b394bb9dd5de"
-  },
-  {
-   "job_id": "1830300f-a7ce-4bd8-a79f-41df57387abc",
-   "lineage_key": "senior-account-executive-government-defense-intelligence-middle-east@riyadh",
-   "title": "Senior Account Executive (Government, Defense & Intelligence) - Middle East",
-   "department": "Commercial",
-   "team": "Sales - Government",
-   "location": "Riyadh",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-08-26T14:38:03.229000+00:00",
-   "url": "https://jobs.lever.co/kpler/1830300f-a7ce-4bd8-a79f-41df57387abc",
-   "description_sha256": "969395a0cbbd8f79eacb6c8c352b59927ecddc331dc324597df453bb1d7cf634"
   },
   {
    "job_id": "1c976953-88d4-4487-9c56-2b8ff2587857",
@@ -263,6 +248,21 @@
    "description_sha256": "fac08fe3ea6b3bda5606c5260b294ae4029ce563dadbf166df0eee7e6f2d613e"
   },
   {
+   "job_id": "3aba2e72-9f7a-4ff7-bc57-902da0779c6c",
+   "lineage_key": "account-manager-maritime-sea@singapore",
+   "title": "Account Manager, Maritime (SEA)",
+   "department": "Commercial",
+   "team": "Sales - Mid Market APAC",
+   "location": "Singapore",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-08T17:22:08.411000+00:00",
+   "url": "https://jobs.lever.co/kpler/3aba2e72-9f7a-4ff7-bc57-902da0779c6c",
+   "description_sha256": "4bcc8b46850a6d58b59d147eff933b9a08fda046cc662f113db09a4c79596e70"
+  },
+  {
    "job_id": "3c351162-0b2f-4670-b03f-5954b50a02c1",
    "lineage_key": "account-executive-maritime-greece@greece",
    "title": "Account Executive - Maritime - Greece",
@@ -355,6 +355,21 @@
    "published_at": "2026-09-23T19:04:57.441000+00:00",
    "url": "https://jobs.lever.co/kpler/46986845-66bf-4ff9-9c91-31065945ffea",
    "description_sha256": "a41b510a4bf5fe30f2575d34f3db14442c55ab3d757d6830fb473bfdedfbe6a7"
+  },
+  {
+   "job_id": "47fa1ed6-a4fd-41c6-9ae1-f1f3750f1fb7",
+   "lineage_key": "account-manager-maritime-sme-apac@singapore",
+   "title": "Account Manager, Maritime (SME, APAC)",
+   "department": "Commercial",
+   "team": "Sales - Mid Market APAC",
+   "location": "Singapore",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-08T17:17:07.157000+00:00",
+   "url": "https://jobs.lever.co/kpler/47fa1ed6-a4fd-41c6-9ae1-f1f3750f1fb7",
+   "description_sha256": "98a3016e45f9a4bd53c553158b15a7fcdfc9c8325bb9daf0826a892234c9d093"
   },
   {
    "job_id": "49c47c9b-87ca-45e8-bed4-e56f5e4766f8",
@@ -621,8 +636,8 @@
   },
   {
    "job_id": "8406b890-cd64-4f78-bc58-f8f842e8db72",
-   "lineage_key": "account-manager-supply-chain-and-logistics@new-york",
-   "title": "Account Manager - Supply Chain and Logistics",
+   "lineage_key": "enterprise-account-manager-supply-chain-and-logistics@new-york",
+   "title": "Enterprise Account Manager - Supply Chain and Logistics",
    "department": "Commercial",
    "team": "Sales - Mid Market Americas",
    "location": "New York",
@@ -710,6 +725,21 @@
    "published_at": "2026-09-11T11:11:14.516000+00:00",
    "url": "https://jobs.lever.co/kpler/8b3a689a-a3d9-4ebe-8c42-b2f5b9373c6a",
    "description_sha256": "b20e8688318cbb61887fd3861ba7db09d5510c5d3a384ccf1114070b3517b4e8"
+  },
+  {
+   "job_id": "8b58e2c6-9219-4976-ab8a-da39d23dbd6b",
+   "lineage_key": "sales-development-representative-energy-commodities-financials@singapore",
+   "title": "Sales Development Representative – Energy & Commodities (Financials)",
+   "department": "Commercial",
+   "team": "Sales - Mid Market APAC",
+   "location": "Singapore",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-08T15:44:04.935000+00:00",
+   "url": "https://jobs.lever.co/kpler/8b58e2c6-9219-4976-ab8a-da39d23dbd6b",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
    "job_id": "8c26d839-713f-4bfb-82cd-cc2a38938358",
@@ -849,24 +879,9 @@
    "description_sha256": "171ab6d4905d6cafdab57bac45b7435e1d425c18fc755de0640bef1af815fe33"
   },
   {
-   "job_id": "a23d69a5-5477-4cff-8ad9-4353d9593eb9",
-   "lineage_key": "senior-account-manager-maritime-northwest-europe@london",
-   "title": "Senior Account Manager - Maritime- Northwest Europe",
-   "department": "Commercial",
-   "team": "Sales - Mid Market EMEA",
-   "location": "London",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-09-10T09:15:32.679000+00:00",
-   "url": "https://jobs.lever.co/kpler/a23d69a5-5477-4cff-8ad9-4353d9593eb9",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "a26f4209-45d6-45b0-b560-3e812e0ecb8a",
-   "lineage_key": "account-executive-maritime-shipping-logistics@new-york",
-   "title": "Account Executive - Maritime/ Shipping & Logistics",
+   "lineage_key": "mid-market-account-manager-supply-chain-and-logistics@new-york",
+   "title": "Mid Market Account Manager - Supply Chain and Logistics",
    "department": "Commercial",
    "team": "Sales - Mid Market Americas",
    "location": "New York",
@@ -1307,21 +1322,6 @@
    "published_at": "2026-09-17T15:52:50.179000+00:00",
    "url": "https://jobs.lever.co/kpler/f96acb17-fbd1-4ed5-a4db-d7ac53466d66",
    "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
-  },
-  {
-   "job_id": "fa5cc811-71bc-4559-9778-b637a680fdbb",
-   "lineage_key": "senior-customer-success-manager-apac@singapore",
-   "title": "Senior Customer Success Manager - APAC",
-   "department": "Commercial",
-   "team": "Customer Success",
-   "location": "Singapore",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-09-11T14:26:20.086000+00:00",
-   "url": "https://jobs.lever.co/kpler/fa5cc811-71bc-4559-9778-b637a680fdbb",
-   "description_sha256": "a90507a8ed3bf864c777d760d9d59627f4a6e8216c8777f8865b802c4319739c"
   },
   {
    "job_id": "feaf8e1c-7e6b-494b-8686-9ea557529c76",

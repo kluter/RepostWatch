@@ -2,7 +2,7 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-10-07T17:31:30+00:00",
+ "fetched_at": "2026-10-08T17:33:43+00:00",
  "job_count": 164,
  "jobs": [
   {
@@ -663,21 +663,6 @@
    "is_remote": false,
    "published_at": "2026-05-20T06:09:42-04:00",
    "url": "https://helsing.ai/jobs/4871604101?gh_jid=4871604101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4871824101",
-   "lineage_key": "systems-engineer-requirements-manager-aviation@munich",
-   "title": "Systems Engineer (Requirements Manager), Aviation",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-22T04:37:11-04:00",
-   "url": "https://helsing.ai/jobs/4871824101?gh_jid=4871824101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1596,21 +1581,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4961544101",
-   "lineage_key": "robotics-senior-digital-designer@barcelona",
-   "title": "Robotics Senior Digital Designer",
-   "department": "Physical Products",
-   "team": "",
-   "location": "Barcelona",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-27T08:06:30-04:00",
-   "url": "https://helsing.ai/jobs/4961544101?gh_jid=4961544101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4961556101",
    "lineage_key": "robotics-senior-mechanical-engineer@barcelona",
    "title": "Robotics Senior Mechanical Engineer",
@@ -2463,6 +2433,36 @@
    "is_remote": false,
    "published_at": "2026-10-06T08:57:07-04:00",
    "url": "https://helsing.ai/jobs/4998730101?gh_jid=4998730101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4999686101",
+   "lineage_key": "product-manager-perception-sensor-fusion@munich",
+   "title": "Product Manager – Perception & Sensor Fusion",
+   "department": "Market",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-08T03:41:39-04:00",
+   "url": "https://helsing.ai/jobs/4999686101?gh_jid=4999686101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5000522101",
+   "lineage_key": "programme-manager-air-domain@london",
+   "title": "Programme Manager - Air Domain",
+   "department": "Market",
+   "team": "",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-08T06:02:25-04:00",
+   "url": "https://helsing.ai/jobs/5000522101?gh_jid=5000522101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-10-07T21:33:29+00:00",
- "job_count": 119,
+ "fetched_at": "2026-10-08T17:33:43+00:00",
+ "job_count": 120,
  "jobs": [
   {
    "job_id": "7374533",
@@ -1743,6 +1743,21 @@
    "is_remote": false,
    "published_at": "2026-09-25T10:58:34-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8233193",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8240591",
+   "lineage_key": "senior-solutions-architect-i-pre-sales-us-government-defense-intelligence@arlington-va",
+   "title": "Senior Solutions Architect I, Pre-Sales - US Government Defense & Intelligence",
+   "department": "Pre-Sales and Services",
+   "team": "",
+   "location": "Arlington, VA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-08T11:56:43-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8240591",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

@@ -367,6 +367,9 @@ const Charts = (() => {
             return { ...b, yTop, yBot, yc: (yBot + yTop) / 2, h: yBot - yTop };
         });
         const bandOf = v => bandInfo.find(b => b.test(v)) || bandInfo[bandInfo.length - 1];
+        // per-band value extent: a band spanning several counts (e.g. "3+") orders dots by count
+        for (const b of bandInfo) { b.vMin = Infinity; b.vMax = -Infinity; }
+        for (const pt of points) { const b = bandOf(pt.y); b.vMin = Math.min(b.vMin, pt.y); b.vMax = Math.max(b.vMax, pt.y); }
         // stable per-point jitter in [-1, 1] so dots don't jump on re-render
         const jitter = str => {
             let h = 0;
@@ -417,7 +420,12 @@ const Charts = (() => {
         for (const pt of points) {
             const b = bandOf(pt.y);
             const cx = X(pt.x);
-            const cy = b.yc + jitter((pt.label || "") + "|" + pt.x + "|" + pt.y) * (b.h * 0.32);
+            const key = (pt.label || "") + "|" + pt.x + "|" + pt.y;
+            // in a band covering several counts, place higher counts higher and keep jitter small
+            // for ties; a single-count band (1, 2) just spreads its cloud.
+            const cy = b.vMax > b.vMin
+                ? b.yc + (0.5 - (pt.y - b.vMin) / (b.vMax - b.vMin)) * (b.h * 0.6) + jitter(key) * (b.h * 0.12)
+                : b.yc + jitter(key) * (b.h * 0.32);
             const color = pt.color || def;
             const c = el("circle", { cx, cy, r: opts.r || 3.3,
                 fill: color, "fill-opacity": 0.5, stroke: color, "stroke-width": 0.5 }, s);

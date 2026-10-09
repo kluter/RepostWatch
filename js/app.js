@@ -1001,7 +1001,8 @@
 
         const MV_WINDOWS = { day: 86400e3, week: 7 * 86400e3 };
         const MV_ROW = 32;                     // must match .move-feed li height in the CSS
-        let mvWin = "week", mvPage = 0, mvSize = 10;
+        const mvCompanies = loaded.map(d => d.cfg.name || d.cfg.slug).sort((a, b) => a.localeCompare(b));
+        let mvWin = "week", mvPage = 0, mvSize = 10, mvCompany = "", mvQuery = "";
 
         const mvCaption = h("span", { class: "caption" });
         const mvStats = h("div", { class: "move-row" });
@@ -1012,12 +1013,17 @@
         // window switch never rebuild the map or charts below.
         function refreshMovement() {
             const since = Date.now() - MV_WINDOWS[mvWin];
-            const list = mvAll.filter(e => Date.parse(e.date) >= since);
+            const q = mvQuery.toLowerCase();
+            const list = mvAll.filter(e =>
+                Date.parse(e.date) >= since
+                && (!mvCompany || e.company === mvCompany)
+                && (!q || (e.title || "").toLowerCase().includes(q) || (e.location || "").toLowerCase().includes(q)));
             const total = list.length;
             const count = t => list.filter(e => e.type === t).length;
 
-            mvCaption.textContent =
-                `opens, closes and reposts across every company, ${mvWin === "day" ? "last 24 hours" : "last 7 days"}`;
+            const win = mvWin === "day" ? "last 24 hours" : "last 7 days";
+            mvCaption.textContent = `opens, closes and reposts ${mvCompany ? `at ${mvCompany}` : "across every company"}, ${win}`
+                + (mvQuery ? ` matching "${mvQuery}"` : "");
             mvStats.replaceChildren(
                 moveStat(count("opened"), "opened", sevColor("fresh")),
                 moveStat(count("republished"), "republished", sevColor("aging")),
@@ -1043,7 +1049,9 @@
             } else {
                 mvBody.style.minHeight = "";
                 mvBody.replaceChildren(h("p", { class: "caption" },
-                    mvWin === "day" ? "No changes in the last 24 hours." : "No changes logged in the last 7 days."));
+                    mvCompany || mvQuery
+                        ? `No matching changes in the ${mvWin === "day" ? "last 24 hours" : "last 7 days"}.`
+                        : mvWin === "day" ? "No changes in the last 24 hours." : "No changes logged in the last 7 days."));
             }
 
             mvFoot.replaceChildren(...[
@@ -1071,11 +1079,20 @@
             return b;
         }));
 
+        const mvCoSel = h("select", { class: "mv-co-sel", "aria-label": "Filter by company",
+            onchange: e => { mvCompany = e.target.value; mvPage = 0; refreshMovement(); } },
+            h("option", { value: "" }, "All companies"),
+            ...mvCompanies.map(n => h("option", { value: n }, n)));
+        const mvSearch = h("input", { class: "log-search", type: "search", placeholder: "Search roles…",
+            "aria-label": "Search recent movement",
+            oninput: e => { mvQuery = e.target.value.trim(); mvPage = 0; refreshMovement(); } });
+        const mvFilters = h("div", { class: "mv-filters" }, mvCoSel, mvSearch);
+
         refreshMovement();
         const movement = h("section", {},
             h("div", { class: "home-cards-head" },
                 h("h2", {}, "Recent movement"), mvCaption, mvSeg),
-            mvStats, mvBody, mvFoot);
+            mvFilters, mvStats, mvBody, mvFoot);
 
         // ---- trend charts ----
         const charts = h("section", {},

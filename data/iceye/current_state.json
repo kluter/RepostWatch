@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-08T17:33:43+00:00",
- "job_count": 189,
+ "fetched_at": "2026-10-09T17:09:27+00:00",
+ "job_count": 190,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -19,6 +19,21 @@
    "published_at": "2026-08-20T14:39:03.955+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
    "description_sha256": "ff3b6dc9d3c0e93c3002bebf2329870b64fc72d2caa90f6326677a4ea7311208"
+  },
+  {
+   "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
+   "lineage_key": "satellite-launch-specialist@warsaw",
+   "title": "Satellite Launch Specialist",
+   "department": "Global Manufacturing Organization",
+   "team": "Launch Management",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-09T07:11:40.816+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/055bf193-bb2c-4af9-8cd8-96e421ae2940",
+   "description_sha256": "d75b132194429bcc83b9ea6849dce1ad13b10d8e47c78daeed7ef26f39fbd058"
   },
   {
    "job_id": "06f113d6-1702-4346-9369-97d70d68738b",
@@ -1062,6 +1077,21 @@
    "description_sha256": "8c5c751f74cb4be631bc3af018feb51d1ea73c3166e978752a61853d23200e99"
   },
   {
+   "job_id": "5ff08d58-36d8-447a-9d52-2a29743e0fd7",
+   "lineage_key": "it-infrastructure-lead@espoo",
+   "title": "IT Infrastructure Lead",
+   "department": "IT & Security",
+   "team": "IT & Security",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-09T11:47:58.187+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/5ff08d58-36d8-447a-9d52-2a29743e0fd7",
+   "description_sha256": "df7f036859b26dc2250c5a6ca6c8a90f5b14c9843ec9d3a9f391e2c9e63eae08"
+  },
+  {
    "job_id": "609632e0-17a2-4440-974f-9969551e80af",
    "lineage_key": "mission-sales-director-greece-balkans-and-eastern-mediterranean@athens",
    "title": "Mission Sales Director - Greece, Balkans and Eastern Mediterranean",
@@ -1606,7 +1636,7 @@
    "is_remote": true,
    "published_at": "2026-10-01T12:27:29.075+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/8a6bfe22-bf26-49da-a1ce-b64b314897ee",
-   "description_sha256": "18a45e6c983d64c54f69fdda62fd372976d8f386201de3c3d47436bd8eb5187b"
+   "description_sha256": "43271fb0530c230cd144b237dda766afacb6d04f75d54df9a69e73dccf9c0738"
   },
   {
    "job_id": "8bbb61b2-e417-4d48-b6e2-45843174e21c",
@@ -1636,7 +1666,7 @@
    "is_remote": true,
    "published_at": "2026-08-05T09:00:04.125+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/8d27f213-6661-450f-a7be-7d5d461c7a59",
-   "description_sha256": "68ae0397fc93d61a7fe4527ba40bde81ba9258c772bb3dd6f22aeb1da0bef78f"
+   "description_sha256": "18921ca4604efe8f0349e01495fa13ae33f6d932c0a4cdf27ce4bc1eb5d5fc01"
   },
   {
    "job_id": "8f6aae6f-73d9-4b7e-afb5-9e27089d13d7",
@@ -2512,8 +2542,8 @@
   },
   {
    "job_id": "e358575f-01c4-40ce-aac5-68f7255fce67",
-   "lineage_key": "staff-grc-engineer@espoo",
-   "title": "Staff GRC Engineer",
+   "lineage_key": "senior-grc-engineer@espoo",
+   "title": "Senior GRC Engineer",
    "department": "IT & Security",
    "team": "IT & Security Staff",
    "location": "Espoo",
@@ -2523,7 +2553,7 @@
    "is_remote": true,
    "published_at": "2026-08-06T10:32:08.052+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e358575f-01c4-40ce-aac5-68f7255fce67",
-   "description_sha256": "7b04aa36e22e6516d1a63edabcd538c9d15b420c8543039d48a206033c27ea64"
+   "description_sha256": "344a6483731c9fe46096a9be324023596529a39bd52482fcde01daea336988e4"
   },
   {
    "job_id": "e4d89d32-5bee-4090-8bd0-5634803b6d3f",
@@ -2714,21 +2744,6 @@
    "published_at": "2026-08-21T08:52:23.628+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/f1923306-9ffa-4b2f-bee3-c7472c711167",
    "description_sha256": "2b2b8c0afcd75277f2d21eb7130940b4ff571a1d4469ef93e3c8557989caffea"
-  },
-  {
-   "job_id": "f3026b5d-c6c1-4ead-b6e8-46560ff51ce0",
-   "lineage_key": "head-of-strategic-operations@lisbon",
-   "title": "Head of Strategic Operations",
-   "department": "CEO Office",
-   "team": "CEO Office",
-   "location": "Lisbon",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-09-09T08:20:58.102+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/f3026b5d-c6c1-4ead-b6e8-46560ff51ce0",
-   "description_sha256": "8f4cc3369e63f14266863c886e68b08f0238190a81a091a3e7ae5f76345a30cd"
   },
   {
    "job_id": "f3a4e7d3-6099-470d-ac0c-e88a9dfc456f",

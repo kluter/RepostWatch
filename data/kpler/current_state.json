@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-10-08T21:29:28+00:00",
- "job_count": 89,
+ "fetched_at": "2026-10-09T17:09:27+00:00",
+ "job_count": 93,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -19,6 +19,21 @@
    "published_at": "2026-09-17T11:17:34.233000+00:00",
    "url": "https://jobs.lever.co/kpler/0354b55d-7141-4491-98bc-538daeed8593",
    "description_sha256": "9e545bf902643755c541065c5addd77e8066040fd80ce4af0f0aac028bd85318"
+  },
+  {
+   "job_id": "04129e3c-8390-4ce7-9e7f-30787378caf5",
+   "lineage_key": "account-executive-maritime-new-business@london",
+   "title": "Account Executive Maritime (New Business)",
+   "department": "Commercial",
+   "team": "Sales - Mid Market EMEA",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-09T14:35:46.255000+00:00",
+   "url": "https://jobs.lever.co/kpler/04129e3c-8390-4ce7-9e7f-30787378caf5",
+   "description_sha256": "3f620d82ea408c1c7335b3ebdec4d1207589928d1ef79e93747a8dadbcdfbeea"
   },
   {
    "job_id": "04358058-db0c-4e96-92bc-3a7aa3b6321d",
@@ -48,7 +63,7 @@
    "is_remote": false,
    "published_at": "2026-10-08T17:52:31.369000+00:00",
    "url": "https://jobs.lever.co/kpler/06747d49-ea1e-458c-93e6-1489a1a9c612",
-   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+   "description_sha256": "edb103436af06255f1c60231e30ea1ec2cc0ded1ba19277949d738346d15ab53"
   },
   {
    "job_id": "0b2a75d9-931d-4424-8454-6128aa486401",
@@ -417,21 +432,6 @@
    "description_sha256": "964710c59c3cb8e1f6040b29625b2d0064fd729b18b5469db19e845f947f4ce4"
   },
   {
-   "job_id": "4dfaa116-95c7-4044-957a-23c881135be6",
-   "lineage_key": "senior-commercial-manager-commodities-india@india",
-   "title": "Senior Commercial Manager – Commodities - India",
-   "department": "Commercial",
-   "team": "Sales - Mid Market EMEA",
-   "location": "India",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-08-10T19:43:11.820000+00:00",
-   "url": "https://jobs.lever.co/kpler/4dfaa116-95c7-4044-957a-23c881135be6",
-   "description_sha256": "9156b6f51c00938b0b5293bf41f529745fbac890ba5e2872bf4c3caf44cd05dd"
-  },
-  {
    "job_id": "5040a241-ce9f-48a4-ac8e-54161dcad948",
    "lineage_key": "account-executive-banking-hedge-funds@new-york",
    "title": "Account Executive - Banking/Hedge Funds",
@@ -445,6 +445,21 @@
    "published_at": "2026-09-23T16:06:37.896000+00:00",
    "url": "https://jobs.lever.co/kpler/5040a241-ce9f-48a4-ac8e-54161dcad948",
    "description_sha256": "c1d32153fabd146a3bd90a108c0abdf0be62f1acf2038857dffba384c90ffdba"
+  },
+  {
+   "job_id": "551dbb3c-1160-4c2b-9d2b-6987d49b4ae4",
+   "lineage_key": "commercial-manager-insurance@singapore",
+   "title": "Commercial Manager, Insurance",
+   "department": "Commercial",
+   "team": "Sales - Mid Market APAC",
+   "location": "Singapore",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-09T14:50:19.739000+00:00",
+   "url": "https://jobs.lever.co/kpler/551dbb3c-1160-4c2b-9d2b-6987d49b4ae4",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
    "job_id": "5bf37fa1-d830-40ea-8f7e-fa66f38198fa",
@@ -479,6 +494,21 @@
    "description_sha256": "5502793bd53aa95c1f4fedd043312566eefdec9d8cf388521e7df0c5b77a799e"
   },
   {
+   "job_id": "5d5c2a52-9a9b-4307-9221-ab40d294c889",
+   "lineage_key": "senior-account-executive-maritime-new-york-ny@new-york",
+   "title": "Senior Account Executive - Maritime | New York, NY",
+   "department": "Commercial",
+   "team": "Sales - Mid Market Americas",
+   "location": "New York",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-09T07:46:59.176000+00:00",
+   "url": "https://jobs.lever.co/kpler/5d5c2a52-9a9b-4307-9221-ab40d294c889",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+  },
+  {
    "job_id": "616907ff-3ac5-47ef-a8de-077579a691ad",
    "lineage_key": "senior-ai-engineer-ai-enablement@paris",
    "title": "Senior AI Engineer (AI Enablement)",
@@ -511,6 +541,21 @@
    "description_sha256": "5fc42b47b55a032dadc5afc37cdbbb0519af343e9bda81aaabe35a2c6c6c8e0e"
   },
   {
+   "job_id": "664755fb-0872-4d20-ba8f-7c0880415c56",
+   "lineage_key": "commercial-manager-china-maritime@china",
+   "title": "Commercial Manager, China Maritime",
+   "department": "Commercial",
+   "team": "Sales - Mid Market APAC",
+   "location": "China",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-09T15:08:26.242000+00:00",
+   "url": "https://jobs.lever.co/kpler/664755fb-0872-4d20-ba8f-7c0880415c56",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+  },
+  {
    "job_id": "6ac79b30-6b3b-4934-a603-7a5ed57fa379",
    "lineage_key": "full-stack-engineer@athens",
    "title": "Full Stack Engineer",
@@ -524,21 +569,6 @@
    "published_at": "2026-09-11T16:07:38.635000+00:00",
    "url": "https://jobs.lever.co/kpler/6ac79b30-6b3b-4934-a603-7a5ed57fa379",
    "description_sha256": "2c1c31f8e9162562cdffd7fc41c710f8734959155b6b502feeb05c3b6da38ca9"
-  },
-  {
-   "job_id": "6c0d8fa8-0156-4f43-ac47-85cc37b8ed1c",
-   "lineage_key": "senior-quantitative-freight-analyst-dry-bulk@london",
-   "title": "Senior Quantitative Freight Analyst - Dry Bulk",
-   "department": "Business Units",
-   "team": "Ags & Dry",
-   "location": "London",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-02-24T12:30:06.282000+00:00",
-   "url": "https://jobs.lever.co/kpler/6c0d8fa8-0156-4f43-ac47-85cc37b8ed1c",
-   "description_sha256": "b12d6dcc909bedeee6f9307044518b14719d42ebee89314166a4c67a49d240c3"
   },
   {
    "job_id": "6d6323a2-ae4e-4b80-896c-bb9ca9648343",
@@ -694,7 +724,7 @@
    "is_remote": false,
    "published_at": "2026-09-14T17:11:03.730000+00:00",
    "url": "https://jobs.lever.co/kpler/89347b75-036c-4ae6-8f55-ff7834462edc",
-   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+   "description_sha256": "2ffc9328848dcd05b8df003420e9b17ae55d75c5aa9cecbef5c2ee6ecfec2876"
   },
   {
    "job_id": "8a52af87-a0dd-46d6-bc25-9c40bab1f49c",
@@ -743,8 +773,8 @@
   },
   {
    "job_id": "8b58e2c6-9219-4976-ab8a-da39d23dbd6b",
-   "lineage_key": "sales-development-representative-energy-commodities-financials@singapore",
-   "title": "Sales Development Representative – Energy & Commodities (Financials)",
+   "lineage_key": "sales-development-representative-maritime@singapore",
+   "title": "Sales Development Representative – Maritime",
    "department": "Commercial",
    "team": "Sales - Mid Market APAC",
    "location": "Singapore",
@@ -754,7 +784,7 @@
    "is_remote": false,
    "published_at": "2026-10-08T15:44:04.935000+00:00",
    "url": "https://jobs.lever.co/kpler/8b58e2c6-9219-4976-ab8a-da39d23dbd6b",
-   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+   "description_sha256": "293d47bc2587503df8152f8f7588f5e574c7d8a05948de69c1eb4051b8a385f9"
   },
   {
    "job_id": "8c26d839-713f-4bfb-82cd-cc2a38938358",
@@ -829,6 +859,23 @@
    "is_remote": false,
    "published_at": "2026-10-06T09:21:16.399000+00:00",
    "url": "https://jobs.lever.co/kpler/926f6537-4e06-4999-9690-b340fef64b9c",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+  },
+  {
+   "job_id": "93bd2f6a-9e6c-440d-a053-74250b7d892c",
+   "lineage_key": "senior-backend-engineer-commodities@athens",
+   "title": "Senior Backend Engineer - Commodities",
+   "department": "Engineering",
+   "team": "Engineering Commodities",
+   "location": "Athens",
+   "secondary_locations": [
+    "Hungary"
+   ],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-09T12:31:14.114000+00:00",
+   "url": "https://jobs.lever.co/kpler/93bd2f6a-9e6c-440d-a053-74250b7d892c",
    "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
@@ -922,6 +969,21 @@
    "published_at": "2026-09-18T10:00:15.960000+00:00",
    "url": "https://jobs.lever.co/kpler/a35396e8-6cec-4095-83ab-5384353728c2",
    "description_sha256": "3e3b6f20c2b233c75668fca263919929804bdb51da389be2e829eec70f8c832e"
+  },
+  {
+   "job_id": "a68b2429-bd36-4c7b-a9fd-8c2138fc4daa",
+   "lineage_key": "commercial-manager-logistic-automotive@singapore",
+   "title": "Commercial Manager, Logistic & Automotive",
+   "department": "Commercial",
+   "team": "Sales - Mid Market APAC",
+   "location": "Singapore",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-09T14:54:50.334000+00:00",
+   "url": "https://jobs.lever.co/kpler/a68b2429-bd36-4c7b-a9fd-8c2138fc4daa",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
    "job_id": "a91625c6-0380-4c81-8374-df0acf483c90",
@@ -1198,21 +1260,6 @@
    "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
-   "job_id": "e7c7c95b-6724-4ad2-9926-af69e3dbe258",
-   "lineage_key": "senior-crude-oil-analyst@houston",
-   "title": "Senior Crude Oil Analyst",
-   "department": "Business Units",
-   "team": "Oil & Chemicals",
-   "location": "Houston",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-08-03T12:35:06.465000+00:00",
-   "url": "https://jobs.lever.co/kpler/e7c7c95b-6724-4ad2-9926-af69e3dbe258",
-   "description_sha256": "2bc4430e7e0285040a5c73aa31a517b3eb128670266aa2d1af93a468fda98bd4"
-  },
-  {
    "job_id": "e8c4b6f8-8233-409a-8c72-445a6821cdd8",
    "lineage_key": "senior-account-executive-maritime-german-speaking@london",
    "title": "Senior Account Executive - Maritime (German Speaking)",
@@ -1337,6 +1384,21 @@
    "published_at": "2026-09-24T12:03:40.894000+00:00",
    "url": "https://jobs.lever.co/kpler/f00d81b8-332d-40fd-89bc-2e90ea26931f",
    "description_sha256": "2732114b5d9f14a98ad202299f856a7251a73ead677614105bd5fece637ea819"
+  },
+  {
+   "job_id": "f36c44e8-c742-43c8-8e68-3dd27d934e07",
+   "lineage_key": "commercial-manager-sea-new-business@singapore",
+   "title": "Commercial Manager, SEA, New Business",
+   "department": "Commercial",
+   "team": "Sales - Mid Market APAC",
+   "location": "Singapore",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-09T14:44:28.116000+00:00",
+   "url": "https://jobs.lever.co/kpler/f36c44e8-c742-43c8-8e68-3dd27d934e07",
+   "description_sha256": "60bdc1eba02d68b97471c493fcc0f49760947a60c729a7fd619cdb073ce99c72"
   },
   {
    "job_id": "f96acb17-fbd1-4ed5-a4db-d7ac53466d66",

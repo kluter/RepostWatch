@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-10-09T17:09:27+00:00",
- "job_count": 158,
+ "fetched_at": "2026-10-10T15:56:20+00:00",
+ "job_count": 159,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -2373,6 +2373,21 @@
    "is_remote": false,
    "published_at": "2026-10-08T06:02:25-04:00",
    "url": "https://helsing.ai/jobs/5000522101?gh_jid=5000522101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5002061101",
+   "lineage_key": "communications-intern@paris",
+   "title": "Communications Intern",
+   "department": "Marketing & Communications",
+   "team": "",
+   "location": "Paris",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-10T09:59:23-04:00",
+   "url": "https://helsing.ai/jobs/5002061101?gh_jid=5002061101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

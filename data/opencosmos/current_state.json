@@ -2,8 +2,8 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-10-09T21:14:54+00:00",
- "job_count": 48,
+ "fetched_at": "2026-10-10T15:56:20+00:00",
+ "job_count": 51,
  "jobs": [
   {
    "job_id": "063679a7-77f0-4e6d-8296-bcff69f4ec4f",
@@ -154,6 +154,21 @@
    "published_at": "2026-09-17T09:23:08+01:00",
    "url": "https://careers.open-cosmos.com/jobs/8393517-systems-engineer",
    "description_sha256": "0666b969d39245a9ecefa9446c7a7ec50432110916d27e80150b9b696b067b66"
+  },
+  {
+   "job_id": "2b38fc1d-6f1c-43a2-a13b-b5f090eae183",
+   "lineage_key": "senior-digital-comms-payload-engineer@harwell-uk",
+   "title": "Senior Digital Comms Payload Engineer",
+   "department": "SATCOM (Broadband and Narrowband)",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-05-06T16:14:54+01:00",
+   "url": "https://careers.open-cosmos.com/jobs/7693542-senior-digital-comms-payload-engineer",
+   "description_sha256": "4f32cc8fd9e8fdaeaaea87ae575b9516544a22e7557d8c6ffcba41ae1ab50360"
   },
   {
    "job_id": "2d8acaa3-2545-4864-bb43-a66d46e6afce",
@@ -351,6 +366,21 @@
    "description_sha256": "f6b6bacb872eb548c718768ec0bbe24ad6f42ac331e44a72b5c81628233693cd"
   },
   {
+   "job_id": "6c38830e-304a-4fd1-9de2-bd2fcabc4beb",
+   "lineage_key": "production-manager@harwell-uk",
+   "title": "Production Manager",
+   "department": "ASSEMBLY, INTEGRATION & TEST",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-02-08T15:56:04+00:00",
+   "url": "https://careers.open-cosmos.com/jobs/7190994-production-manager",
+   "description_sha256": "5f2f6f20a6d4cbff76039fd9f17c2a4633a436322c8333aa0d7f6eef8325c0e8"
+  },
+  {
    "job_id": "7655f22b-c93a-4310-ba50-40d14cb728f3",
    "lineage_key": "2nd-line-it-support-engineer@harwell-uk",
    "title": "2nd Line IT Support Engineer",
@@ -514,6 +544,21 @@
    "published_at": "2026-05-06T16:21:41+01:00",
    "url": "https://careers.open-cosmos.com/jobs/7693587-air-interface-architect",
    "description_sha256": "358652a5a82144a54a9c6d3c8d28f8fcc32ae0817f55e1d5f4a4bb8f2c09184b"
+  },
+  {
+   "job_id": "c4b43ff8-d510-4903-b679-48792093591e",
+   "lineage_key": "applied-ai-engineer-space-eo-data@harwell-uk",
+   "title": "Applied AI Engineer: Space & EO (Data)",
+   "department": "DATA",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-05-12T08:13:55+01:00",
+   "url": "https://careers.open-cosmos.com/jobs/7721055-applied-ai-engineer-space-eo-data",
+   "description_sha256": "0afda3d61347c6fd2e97a31dbead4ddf1d9aa446af18ebdbbd2bb13d5d3012d9"
   },
   {
    "job_id": "c99139df-3d6a-4596-b489-a53bf96da21c",

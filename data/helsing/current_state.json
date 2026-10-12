@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-10-10T15:56:20+00:00",
- "job_count": 159,
+ "fetched_at": "2026-10-12T19:47:40+00:00",
+ "job_count": 154,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -708,36 +708,6 @@
    "is_remote": false,
    "published_at": "2026-05-29T05:37:20-04:00",
    "url": "https://helsing.ai/jobs/4878160101?gh_jid=4878160101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4878635101",
-   "lineage_key": "avionics-hardware-engineer@munich",
-   "title": "Avionics Hardware Engineer",
-   "department": "Hardware Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-29T10:20:21-04:00",
-   "url": "https://helsing.ai/jobs/4878635101?gh_jid=4878635101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4878760101",
-   "lineage_key": "senior-industrial-designer@munich",
-   "title": "Senior Industrial Designer",
-   "department": "Hardware Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-31T06:35:48-04:00",
-   "url": "https://helsing.ai/jobs/4878760101?gh_jid=4878760101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1746,21 +1716,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4972043101",
-   "lineage_key": "software-engineer-early-careers@berlin",
-   "title": "Software Engineer (Early Careers)",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-15T06:34:58-04:00",
-   "url": "https://helsing.ai/jobs/4972043101?gh_jid=4972043101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4972083101",
    "lineage_key": "guidance-navigation-control-engineer@munich",
    "title": "Guidance, Navigation, & Control Engineer",
@@ -1896,21 +1851,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4976480101",
-   "lineage_key": "junior-software-engineer@berlin",
-   "title": "Junior Software Engineer",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-15T06:36:55-04:00",
-   "url": "https://helsing.ai/jobs/4976480101?gh_jid=4976480101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4976906101",
    "lineage_key": "senior-accountant-accounts-payable@munich",
    "title": "Senior Accountant Accounts Payable",
@@ -1987,8 +1927,8 @@
   },
   {
    "job_id": "4979778101",
-   "lineage_key": "uas-flight-operations-germany@munich",
-   "title": "UAS Flight Operations - Germany",
+   "lineage_key": "uas-flight-operations-manager-germany@munich",
+   "title": "UAS Flight Operations Manager - Germany",
    "department": "Strategy & Operations",
    "team": "",
    "location": "Munich",
@@ -2028,21 +1968,6 @@
    "is_remote": false,
    "published_at": "2026-09-22T08:41:46-04:00",
    "url": "https://helsing.ai/jobs/4980899101?gh_jid=4980899101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4981556101",
-   "lineage_key": "simulation-engineer@munich",
-   "title": "Simulation Engineer",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-21T11:37:59-04:00",
-   "url": "https://helsing.ai/jobs/4981556101?gh_jid=4981556101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

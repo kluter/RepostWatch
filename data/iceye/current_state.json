@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-09T17:09:27+00:00",
- "job_count": 190,
+ "fetched_at": "2026-10-12T19:47:40+00:00",
+ "job_count": 189,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -184,6 +184,21 @@
    "published_at": "2026-09-18T11:25:33.954+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/12b245fc-8b29-454e-96e2-6b621288a781",
    "description_sha256": "18a847c3cf8fa7f3570a3072f2cfcb559fc28629c60193c83ae6efafa7accaf4"
+  },
+  {
+   "job_id": "15151504-9995-4025-9d94-a31ef624a838",
+   "lineage_key": "engineering-supply-chain-manager-electronics@espoo",
+   "title": "Engineering Supply Chain Manager (Electronics)",
+   "department": "Global Manufacturing Organization",
+   "team": "Supply Chain R&D",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-12T13:31:31.632+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/15151504-9995-4025-9d94-a31ef624a838",
+   "description_sha256": "4efa48031d4c9b96f4ace7f30c507cb9417fc41a8ca1a15def00bb542638a72e"
   },
   {
    "job_id": "15ec7f83-01ba-46fc-91c6-88cd28bb6338",
@@ -396,21 +411,6 @@
    "published_at": "2026-05-15T10:04:06.565+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/245a08c3-81a1-4cee-8867-72bbf034f15d",
    "description_sha256": "0046ca36ef3c6716bd6f58b13a156e52c77264221876011cf55b52f60cca76d2"
-  },
-  {
-   "job_id": "25d1fe95-5578-4cc8-8b5a-334e238e6f3d",
-   "lineage_key": "finance-manager@new-delhi",
-   "title": "Finance Manager",
-   "department": "Finance",
-   "team": "Finance",
-   "location": "New Delhi",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-28T15:51:00.133+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/25d1fe95-5578-4cc8-8b5a-334e238e6f3d",
-   "description_sha256": "9a67c4f963702931ff280b411fd29794859921184e9935c751b1ecc80c7d9cf9"
   },
   {
    "job_id": "28d99ffd-28dc-48a1-adc8-dd6da0552f89",
@@ -1397,21 +1397,6 @@
    "description_sha256": "e33ec2cc04a9d1840e971d183407d74fd9455f983fa3f7c7c0c231b4b2d0882a"
   },
   {
-   "job_id": "77ee1494-3ca4-4774-a0ad-9e731d63cec1",
-   "lineage_key": "senior-electronics-test-engineer@espoo",
-   "title": "Senior Electronics Test Engineer",
-   "department": "Engineering",
-   "team": "Testing Engineering",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-04-08T07:33:55.663+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/77ee1494-3ca4-4774-a0ad-9e731d63cec1",
-   "description_sha256": "b6f8d3a45535bd26821c780eff41bf9e5691e6b5f2f8e0d599cd726df555f44a"
-  },
-  {
    "job_id": "781f4574-906c-44ef-a7b4-8a5d8e59ad4f",
    "lineage_key": "senior-software-engineer-networking@espoo",
    "title": "Senior Software Engineer (Networking)",
@@ -1472,21 +1457,6 @@
    "description_sha256": "508fdae7498f00268437b2133842bcd5e0dd9e101ef601bac8d94268ef19f01d"
   },
   {
-   "job_id": "7e9af3f3-e41f-4897-ae9d-e0d536527128",
-   "lineage_key": "electronics-test-engineer@espoo",
-   "title": "Electronics Test Engineer",
-   "department": "Engineering",
-   "team": "Testing Engineering",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-14T10:49:35.881+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/7e9af3f3-e41f-4897-ae9d-e0d536527128",
-   "description_sha256": "276db2621bf408e41044ed4d19ae051aac7f36371b7cb6aabbd7f06d48d16e98"
-  },
-  {
    "job_id": "7efd1aea-7d35-4d3f-9ee1-01ca355f0f39",
    "lineage_key": "senior-ait-engineer-electronics@espoo",
    "title": "Senior AIT Engineer, Electronics",
@@ -1545,6 +1515,21 @@
    "published_at": "2026-08-17T15:29:01.948+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/81908ad3-84f4-4cc3-ac25-1440f38b52c2",
    "description_sha256": "c3f0f9e6f5934b801427d7a1528cd794592b144503dc0b7e0fa4e97ae8ab9122"
+  },
+  {
+   "job_id": "82011247-944a-40bc-883b-add08bd65954",
+   "lineage_key": "customer-excellence-specialist-uae@united-arab-emirates",
+   "title": "Customer Excellence Specialist - UAE",
+   "department": "Data",
+   "team": "Data",
+   "location": "United Arab Emirates",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-12T11:02:53.186+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/82011247-944a-40bc-883b-add08bd65954",
+   "description_sha256": "2f3a476c0843998ce954c2d2df8f033a93de45ed7677823cdc8c2fb071d1f53e"
   },
   {
    "job_id": "824f4858-2692-4b97-82bf-cbe2805dfbd6",
@@ -1699,21 +1684,6 @@
    "published_at": "2026-08-06T10:04:51.111+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9291f281-9da4-482b-a7ce-bb6775668b3b",
    "description_sha256": "74ab8c536e38b18812d3e29de2f9c8826e719995b82b72507780bb937471b236"
-  },
-  {
-   "job_id": "9345ad5b-0bc7-4fdc-9988-743857de3c94",
-   "lineage_key": "sar-spacecraft-harness-design-team-lead@espoo",
-   "title": "SAR Spacecraft Harness Design Team Lead",
-   "department": "Engineering",
-   "team": "Spacecraft Hardware",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-06T12:44:38.278+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/9345ad5b-0bc7-4fdc-9988-743857de3c94",
-   "description_sha256": "ee94cc78ea09a94dfaede64c47d1e762e99d98576d3dabbf19d57b5daa9b4665"
   },
   {
    "job_id": "9371410f-1664-48c7-8153-466766739c8d",
@@ -1928,21 +1898,6 @@
    "description_sha256": "1efd2367aaf92f42f43b46efa1363e2605f2bec54c597e378961e0effff5336e"
   },
   {
-   "job_id": "a8948f93-785d-41a6-909f-93d632b3f13c",
-   "lineage_key": "facility-security-specialist@espoo",
-   "title": "Facility Security Specialist",
-   "department": "IT & Security",
-   "team": "Security",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-09-15T10:26:39.710+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/a8948f93-785d-41a6-909f-93d632b3f13c",
-   "description_sha256": "41ea5814c6b03a2f90a94334df093b156b8ef6e7b258298571eb861ade1ff862"
-  },
-  {
    "job_id": "a905295f-6d4c-4def-bddd-42deb123bfe0",
    "lineage_key": "power-electronics-engineer@valencia",
    "title": "Power Electronics Engineer",
@@ -2106,6 +2061,21 @@
    "published_at": "2026-08-28T13:24:18.399+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/bbdfcc0b-0a2c-4ce4-9327-acf12fc3afe1",
    "description_sha256": "6e6645fe135549fa2838926e94fb59b7f78c66aa82196ddc50ef74ce98e356fc"
+  },
+  {
+   "job_id": "bd3c5426-8a06-409b-b7f6-975112bbd958",
+   "lineage_key": "engineering-supply-chain-manager-mechanical@espoo",
+   "title": "Engineering Supply Chain Manager (Mechanical)",
+   "department": "Global Manufacturing Organization",
+   "team": "Supply Chain R&D",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-12T13:49:02.079+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/bd3c5426-8a06-409b-b7f6-975112bbd958",
+   "description_sha256": "417e9cb8dcd75ae9f07bb46733cc17335cd9f9493bdf1c2bbf9ccc39d2a6ed36"
   },
   {
    "job_id": "be2a2c66-275f-41b9-acc1-9073b27bfce8",
@@ -2553,7 +2523,7 @@
    "is_remote": true,
    "published_at": "2026-08-06T10:32:08.052+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e358575f-01c4-40ce-aac5-68f7255fce67",
-   "description_sha256": "344a6483731c9fe46096a9be324023596529a39bd52482fcde01daea336988e4"
+   "description_sha256": "826ec77765b01a2dff27cae2aad2deb0b21df623aea3e2c0e874782203b09fea"
   },
   {
    "job_id": "e4d89d32-5bee-4090-8bd0-5634803b6d3f",
@@ -2774,6 +2744,21 @@
    "published_at": "2026-08-13T15:22:32.977+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/f457fd1a-738e-417c-aa94-d5d94f3ed0c5",
    "description_sha256": "6284c884dad424cea5dce22ecbe208d94c1623c89270290ec45decc6f5ae1b5c"
+  },
+  {
+   "job_id": "f6ccfc61-0952-48cf-9dc6-6c09c0bb87e9",
+   "lineage_key": "network-engineer@espoo",
+   "title": "Network Engineer",
+   "department": "Operations",
+   "team": "Operations",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-12T05:32:54.264+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/f6ccfc61-0952-48cf-9dc6-6c09c0bb87e9",
+   "description_sha256": "7c7d8a2199dbda8d69d03b0e6eb6522aba9f940bdfcb9849ecb9b078ed029477"
   },
   {
    "job_id": "f6d34236-1ec0-4567-8b6a-fb6d3eb6bb87",

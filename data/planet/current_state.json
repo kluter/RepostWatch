@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-10-11T16:24:11+00:00",
- "job_count": 118,
+ "fetched_at": "2026-10-12T19:47:40+00:00",
+ "job_count": 116,
  "jobs": [
   {
    "job_id": "7374533",
@@ -243,21 +243,6 @@
    "is_remote": false,
    "published_at": "2026-07-16T15:16:04-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7766342",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7772699",
-   "lineage_key": "customer-success-manager-d-i-south-korea@south-korea-remote",
-   "title": "Customer Success Manager  (D&I - South Korea)",
-   "department": "Customer Success Management",
-   "team": "",
-   "location": "South Korea, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-04-14T20:57:54-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7772699",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -723,21 +708,6 @@
    "is_remote": false,
    "published_at": "2026-08-28T11:41:32-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8143131",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8143135",
-   "lineage_key": "customer-success-manager-civil-government@united-arab-emirates-remote",
-   "title": "Customer Success Manager, Civil Government",
-   "department": "Customer Success Management",
-   "team": "",
-   "location": "United Arab Emirates, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-08-28T11:41:52-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8143135",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

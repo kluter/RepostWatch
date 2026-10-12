@@ -2,7 +2,7 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-10-09T17:09:27+00:00",
+ "fetched_at": "2026-10-12T19:47:40+00:00",
  "job_count": 93,
  "jobs": [
   {
@@ -33,7 +33,7 @@
    "is_remote": false,
    "published_at": "2026-10-09T14:35:46.255000+00:00",
    "url": "https://jobs.lever.co/kpler/04129e3c-8390-4ce7-9e7f-30787378caf5",
-   "description_sha256": "3f620d82ea408c1c7335b3ebdec4d1207589928d1ef79e93747a8dadbcdfbeea"
+   "description_sha256": "bae9243e7694ea388efa225d1e8eb78b1377d15bda7bf875962397059808073d"
   },
   {
    "job_id": "04358058-db0c-4e96-92bc-3a7aa3b6321d",
@@ -308,21 +308,6 @@
    "description_sha256": "3b7ba0e35c4ffbacfc4ead13bd4ad3b3a33cde03ebb2ad716e5012f6d09eabec"
   },
   {
-   "job_id": "3c8a1f49-1324-44b2-88d3-fbf247719650",
-   "lineage_key": "product-owner-automotive-intelligence@greece",
-   "title": "Product Owner - Automotive Intelligence",
-   "department": "Product",
-   "team": "Product Maritime & Logistics",
-   "location": "Greece",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "remote",
-   "is_remote": true,
-   "published_at": "2026-09-10T16:29:10.493000+00:00",
-   "url": "https://jobs.lever.co/kpler/3c8a1f49-1324-44b2-88d3-fbf247719650",
-   "description_sha256": "3793b6e7ad9576ef47258212cd541829c55b65d450096999e3cea5b1b190e3f7"
-  },
-  {
    "job_id": "3ecd5553-5c3b-47d7-ae7d-87aba22499d2",
    "lineage_key": "back-end-engineer@athens",
    "title": "Back-End Engineer",
@@ -400,6 +385,21 @@
    "published_at": "2026-10-08T17:17:07.157000+00:00",
    "url": "https://jobs.lever.co/kpler/47fa1ed6-a4fd-41c6-9ae1-f1f3750f1fb7",
    "description_sha256": "98a3016e45f9a4bd53c553158b15a7fcdfc9c8325bb9daf0826a892234c9d093"
+  },
+  {
+   "job_id": "496215e6-1dd9-46c2-b243-36211f5ca5eb",
+   "lineage_key": "account-manager-commodities-middle-east-africa@dubai",
+   "title": "Account Manager - Commodities - Middle East & Africa",
+   "department": "Commercial",
+   "team": "Sales - Mid Market EMEA",
+   "location": "Dubai",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-12T12:22:58.148000+00:00",
+   "url": "https://jobs.lever.co/kpler/496215e6-1dd9-46c2-b243-36211f5ca5eb",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
    "job_id": "49c47c9b-87ca-45e8-bed4-e56f5e4766f8",

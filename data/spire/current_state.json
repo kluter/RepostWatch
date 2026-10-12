@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-10-09T17:09:27+00:00",
- "job_count": 42,
+ "fetched_at": "2026-10-12T19:47:40+00:00",
+ "job_count": 39,
  "jobs": [
   {
    "job_id": "6729465",
@@ -336,21 +336,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8105638",
-   "lineage_key": "senior-global-recruiter@washington-district-of-columbia-united-states",
-   "title": "Senior Global Recruiter",
-   "department": "People",
-   "team": "",
-   "location": "Washington, District of Columbia, United States",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-06T12:28:30-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8105638&gh_jid=8105638",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8114332",
    "lineage_key": "software-and-satellite-operations-quality-assurance-engineer@glasgow-scotland-united-kingdom",
    "title": "Software and Satellite Operations Quality Assurance Engineer",
@@ -441,21 +426,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8173462",
-   "lineage_key": "quality-control-technician@glasgow-scotland-united-kingdom",
-   "title": "Quality Control Technician",
-   "department": "Engineering",
-   "team": "",
-   "location": "Glasgow, Scotland, United Kingdom",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-08T04:49:22-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8173462&gh_jid=8173462",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8173583",
    "lineage_key": "sales-manager-aviation-middle-east-asia-pacific@munich",
    "title": "Sales Manager – Aviation, Middle East & Asia-Pacific",
@@ -483,21 +453,6 @@
    "is_remote": false,
    "published_at": "2026-09-07T10:31:49-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8180412&gh_jid=8180412",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8180440",
-   "lineage_key": "senior-systems-engineer@munich-bavaria-germany",
-   "title": "Senior Systems Engineer",
-   "department": "Engineering",
-   "team": "",
-   "location": "Munich, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-07T10:38:54-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8180440&gh_jid=8180440",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

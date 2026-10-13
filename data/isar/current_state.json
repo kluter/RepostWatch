@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-10-12T19:47:40+00:00",
- "job_count": 113,
+ "fetched_at": "2026-10-13T17:45:58+00:00",
+ "job_count": 115,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -142,11 +142,11 @@
   },
   {
    "job_id": "4695891101",
-   "lineage_key": "avionics-technician-m-f-d@ottobrunn-bavaria-germany",
+   "lineage_key": "avionics-technician-m-f-d@parsdorf-bavaria-germany",
    "title": "Avionics Technician (m/f/d)",
    "department": "Spectrum AIT",
    "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
+   "location": "Parsdorf, Bavaria, Germany",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
@@ -1041,21 +1041,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4961224101",
-   "lineage_key": "cnc-tool-shop-operator-m-f-d@parsdorf-bavaria-germany",
-   "title": "CNC Tool Shop Operator (m/f/d)",
-   "department": "Production, Operations & Quality",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-26T09:53:32-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4961224101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4965225101",
    "lineage_key": "manager-of-indirect-procurement-m-f-d@parsdorf-bavaria-germany",
    "title": "Manager of Indirect Procurement (m/f/d)",
@@ -1462,8 +1447,8 @@
   },
   {
    "job_id": "4990879101",
-   "lineage_key": "quality-test-technician-m-f-d@parsdorf-bavaria-germany",
-   "title": "Quality & Test Technician (m/f/d)",
+   "lineage_key": "electronics-technician-quality-and-testing-m-f-d@parsdorf-bavaria-germany",
+   "title": "Electronics Technician – Quality and Testing (m/f/d)",
    "department": "Production, Operations & Quality",
    "team": "",
    "location": "Parsdorf, Bavaria, Germany",
@@ -1563,21 +1548,6 @@
    "is_remote": false,
    "published_at": "2026-10-06T09:16:04-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4998641101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4998743101",
-   "lineage_key": "director-marketing-branding-f-m-d@parsdorf-bavaria-germany",
-   "title": "Director Marketing & Branding (f/m/d)",
-   "department": "Commercial",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-08T09:04:37-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4998743101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1698,6 +1668,66 @@
    "is_remote": false,
    "published_at": "2026-10-11T03:59:28-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5002989101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5004820101",
+   "lineage_key": "director-launch-operations-canada-m-f-d@canso-nova-scotia-canada",
+   "title": "Director Launch Operations Canada (m/f/d)",
+   "department": "Mission & Launch Operations",
+   "team": "",
+   "location": "Canso, Nova Scotia, Canada",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-13T11:22:39-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5004820101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5004862101",
+   "lineage_key": "electrical-engineer-m-f-d@canso-nova-scotia-canada",
+   "title": "Electrical Engineer (m/f/d)",
+   "department": "Mission & Launch Operations",
+   "team": "",
+   "location": "Canso, Nova Scotia, Canada",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-13T11:32:48-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5004862101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5004882101",
+   "lineage_key": "supply-chain-logistics-specialist-m-f-d@canso-nova-scotia-canada",
+   "title": "Supply Chain & Logistics Specialist (m/f/d)",
+   "department": "Mission & Launch Operations",
+   "team": "",
+   "location": "Canso, Nova Scotia, Canada",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-13T11:38:43-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5004882101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5004895101",
+   "lineage_key": "senior-launch-pad-operations-engineer-m-f-d@canso-nova-scotia-canada",
+   "title": "Senior Launch Pad Operations Engineer (m/f/d)",
+   "department": "Mission & Launch Operations",
+   "team": "",
+   "location": "Canso, Nova Scotia, Canada",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-13T11:48:46-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5004895101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-10-12T19:47:40+00:00",
- "job_count": 39,
+ "fetched_at": "2026-10-13T17:45:58+00:00",
+ "job_count": 38,
  "jobs": [
   {
    "job_id": "6729465",
@@ -333,21 +333,6 @@
    "is_remote": false,
    "published_at": "2026-07-31T10:32:47-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8095214&gh_jid=8095214",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8114332",
-   "lineage_key": "software-and-satellite-operations-quality-assurance-engineer@glasgow-scotland-united-kingdom",
-   "title": "Software and Satellite Operations Quality Assurance Engineer",
-   "department": "Engineering",
-   "team": "",
-   "location": "Glasgow, Scotland, United Kingdom",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-13T11:26:04-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8114332&gh_jid=8114332",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

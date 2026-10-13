@@ -2,7 +2,7 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-10-13T17:45:58+00:00",
+ "fetched_at": "2026-10-13T21:32:08+00:00",
  "job_count": 96,
  "jobs": [
   {
@@ -403,8 +403,8 @@
   },
   {
    "job_id": "49c47c9b-87ca-45e8-bed4-e56f5e4766f8",
-   "lineage_key": "account-executive-insurance-vertical@new-york",
-   "title": "Account Executive, Insurance Vertical",
+   "lineage_key": "account-executive-insurance@new-york",
+   "title": "Account Executive Insurance",
    "department": "Commercial",
    "team": "Sales - Mid Market Americas",
    "location": "New York",

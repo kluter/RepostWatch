@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-10-13T17:45:58+00:00",
- "job_count": 119,
+ "fetched_at": "2026-10-14T15:24:11+00:00",
+ "job_count": 121,
  "jobs": [
   {
    "job_id": "7374533",
@@ -186,21 +186,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "7700887",
-   "lineage_key": "global-deal-desk-senior-manager@arlington-va",
-   "title": "Global Deal Desk Senior Manager",
-   "department": "Global Revenue Operations",
-   "team": "",
-   "location": "Arlington, VA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-04-06T16:35:10-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7700887",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "7711289",
    "lineage_key": "account-executive-defence-intelligence-sweden@sweden-remote",
    "title": "Account Executive, Defence & Intelligence, Sweden",
@@ -228,21 +213,6 @@
    "is_remote": false,
    "published_at": "2026-03-27T19:02:12-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7740653",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7766342",
-   "lineage_key": "global-deal-desk-senior-manager@san-francisco-ca",
-   "title": "Global Deal Desk Senior Manager",
-   "department": "Global Revenue Operations",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-16T15:16:04-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7766342",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1446,6 +1416,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8221849",
+   "lineage_key": "infrastructure-solutions-engineer@united-states-remote",
+   "title": "Infrastructure Solutions Engineer",
+   "department": "Infrastructure and Operations",
+   "team": "",
+   "location": "United States, Remote",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-10-13T19:47:07-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8221849",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8221853",
    "lineage_key": "harness-manufacturing-engineer@san-francisco-ca",
    "title": "Harness Manufacturing Engineer",
@@ -1746,6 +1731,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8249630",
+   "lineage_key": "director-of-software-engineering-analytics@arlington-va",
+   "title": "Director of Software Engineering, Analytics",
+   "department": "Global Monitoring Solutions (SWE)",
+   "team": "",
+   "location": "Arlington, VA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-13T19:27:15-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8249630",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8255417",
    "lineage_key": "senior-software-engineer@ljubljana-slovenia",
    "title": "Senior Software Engineer",
@@ -1788,6 +1788,36 @@
    "is_remote": false,
    "published_at": "2026-10-13T04:47:15-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8276009",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8276031",
+   "lineage_key": "senior-product-designer-platform-geospatial@berlin-germany",
+   "title": "Senior Product Designer, Platform (Geospatial)",
+   "department": "UX",
+   "team": "",
+   "location": "Berlin, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-14T05:36:03-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8276031",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8278543",
+   "lineage_key": "senior-product-designer-platform-geospatial@haarlem-netherlands",
+   "title": "Senior Product Designer, Platform (Geospatial)",
+   "department": "UX",
+   "team": "",
+   "location": "Haarlem, Netherlands",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-14T05:36:01-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8278543",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

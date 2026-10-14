@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-10-13T21:32:08+00:00",
- "job_count": 96,
+ "fetched_at": "2026-10-14T15:24:11+00:00",
+ "job_count": 94,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -653,21 +653,6 @@
    "description_sha256": "ee327e614b97d0b80240ae66c22bdaebe53ce385ead6965f969f1edff9efbbeb"
   },
   {
-   "job_id": "7612ece9-e50a-4ce6-aca2-9e650baec0e1",
-   "lineage_key": "customer-success-manager-houston-us@houston",
-   "title": "Customer Success Manager  Houston - US)",
-   "department": "Commercial",
-   "team": "Customer Success",
-   "location": "Houston",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-08-28T15:18:58.261000+00:00",
-   "url": "https://jobs.lever.co/kpler/7612ece9-e50a-4ce6-aca2-9e650baec0e1",
-   "description_sha256": "d7d54bb2134d5810decb5ac891e560892c2923c276ad1dd43e32094db26ebede"
-  },
-  {
    "job_id": "764db18a-b285-4be5-bf7e-c27c43214bb4",
    "lineage_key": "sales-specialist-dry-bulk@london",
    "title": "Sales Specialist – Dry Bulk",
@@ -1279,21 +1264,6 @@
    "published_at": "2026-09-22T09:14:16.308000+00:00",
    "url": "https://jobs.lever.co/kpler/dd8e0a88-62fe-4711-80b5-3380e492f41c",
    "description_sha256": "3dcc3cb3b999e3a406674bea56569a601e347b3ec375a05894e08ed61409c53f"
-  },
-  {
-   "job_id": "e525e1d6-0192-450b-b011-d3a87334e23e",
-   "lineage_key": "account-manager-commodities-meia@dubai",
-   "title": "Account Manager - Commodities - MEIA",
-   "department": "Commercial",
-   "team": "Sales - Mid Market EMEA",
-   "location": "Dubai",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-10-07T10:55:46.261000+00:00",
-   "url": "https://jobs.lever.co/kpler/e525e1d6-0192-450b-b011-d3a87334e23e",
-   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
    "job_id": "e8c4b6f8-8233-409a-8c72-445a6821cdd8",

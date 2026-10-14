@@ -2,9 +2,24 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-13T17:45:58+00:00",
- "job_count": 187,
+ "fetched_at": "2026-10-14T15:24:11+00:00",
+ "job_count": 192,
  "jobs": [
+  {
+   "job_id": "01edf520-e6e9-4b3e-bc57-5886e694b6b8",
+   "lineage_key": "test-engineer@valencia",
+   "title": "Test Engineer",
+   "department": "Engineering",
+   "team": "SIGINT",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-10-14T11:40:00.885+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/01edf520-e6e9-4b3e-bc57-5886e694b6b8",
+   "description_sha256": "c1509a91878668d9eb7680090ff785a05bc32534801d886bfca9bae02297cfd9"
+  },
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
    "lineage_key": "senior-fullstack-engineer-fleet-ui@espoo",
@@ -22,11 +37,11 @@
   },
   {
    "job_id": "055bf193-bb2c-4af9-8cd8-96e421ae2940",
-   "lineage_key": "satellite-launch-specialist@warsaw",
+   "lineage_key": "satellite-launch-specialist@espoo",
    "title": "Satellite Launch Specialist",
    "department": "Global Manufacturing Organization",
    "team": "Launch Management",
-   "location": "Warsaw",
+   "location": "Espoo",
    "secondary_locations": [],
    "employment_type": "FullTime",
    "workplace_type": "Hybrid",
@@ -839,6 +854,23 @@
    "description_sha256": "e1b7ddebb00d75c991ac3ab12d1f53018fa26b4e19a32e171215887bdba84192"
   },
   {
+   "job_id": "4c630f65-1093-4a4a-a106-41cb47de7fa2",
+   "lineage_key": "sales-engineer-missions-business@espoo",
+   "title": "Sales Engineer, Missions Business",
+   "department": "Missions",
+   "team": "Missions",
+   "location": "Espoo",
+   "secondary_locations": [
+    "Remote"
+   ],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-14T09:00:20.664+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/4c630f65-1093-4a4a-a106-41cb47de7fa2",
+   "description_sha256": "ca24f948c635173df5e3bd666c11749374a83a5dec07693269594bdcfc3c3d2d"
+  },
+  {
    "job_id": "4f00e104-a4a1-4fa3-ac73-3c8c3f64b123",
    "lineage_key": "engineering-lead-electronics@warsaw",
    "title": "Engineering Lead, Electronics",
@@ -882,6 +914,21 @@
    "published_at": "2026-07-10T08:44:13.214+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/50ea94b9-1799-49ed-98f2-fdf29bf4fef8",
    "description_sha256": "18a5c01e4bacdf1c25eb7d10db4b602aea127cfcfa83374c9a4caa1484db6312"
+  },
+  {
+   "job_id": "511f26c8-63cf-4689-9d8c-3abc7c0410e6",
+   "lineage_key": "director-learning-talent-development@espoo",
+   "title": "Director, Learning & Talent Development",
+   "department": "Operations",
+   "team": "Operations",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-14T11:43:56.711+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/511f26c8-63cf-4689-9d8c-3abc7c0410e6",
+   "description_sha256": "732e41980138b4a6b4015bad0ee6f40a781a219d19defbc61741726468f572a8"
   },
   {
    "job_id": "51a5d21b-80e2-420f-b7e2-ff031b42e836",
@@ -2244,6 +2291,38 @@
    "description_sha256": "65ebcec7a89f853ca681f8be30c1518d2180a888c5db27cf8dd9f53f13c072a0"
   },
   {
+   "job_id": "cd7e0449-3f24-45ed-8c09-6153c0d02980",
+   "lineage_key": "rf-test-engineer@valencia",
+   "title": "RF Test Engineer",
+   "department": "Engineering",
+   "team": "SIGINT",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-10-14T11:27:59.610+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/cd7e0449-3f24-45ed-8c09-6153c0d02980",
+   "description_sha256": "6ee57e8b1ccc568fa40e79a9aa553c150f9ce743422daaefe5db794ad855651d"
+  },
+  {
+   "job_id": "ce2358dd-63dd-401e-9bbf-61a4b94ad170",
+   "lineage_key": "senior-sales-engineer-missions-business@espoo",
+   "title": "Senior Sales Engineer, Missions Business",
+   "department": "Missions",
+   "team": "Missions",
+   "location": "Espoo",
+   "secondary_locations": [
+    "Remote"
+   ],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-14T08:03:41.247+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/ce2358dd-63dd-401e-9bbf-61a4b94ad170",
+   "description_sha256": "324be3496764a4037a94aa89bf5a2af462ed0e35be2f6b76c13cd61dcce26417"
+  },
+  {
    "job_id": "ce6b9391-c11e-4831-a3f8-39ebd6c23f39",
    "lineage_key": "rf-engineer-radar-payload-team@espoo",
    "title": "RF Engineer, Radar Payload Team",
@@ -2647,6 +2726,21 @@
    "description_sha256": "a1e38831b2965e588e2cb4b7678c0fa8bf66db55813651920d2a0edc81a0a88f"
   },
   {
+   "job_id": "ef9b96f4-b5b2-403c-9bb7-b07a339a5c82",
+   "lineage_key": "software-engineer-simulation-and-modeling@valencia",
+   "title": "Software Engineer, Simulation and Modeling",
+   "department": "Engineering",
+   "team": "SIGINT",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-10-14T11:29:21.135+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/ef9b96f4-b5b2-403c-9bb7-b07a339a5c82",
+   "description_sha256": "1da30e721ac487cd45f14b60908b482941db624dd48d6eb95c46d4a0ca854048"
+  },
+  {
    "job_id": "f1923306-9ffa-4b2f-bee3-c7472c711167",
    "lineage_key": "forward-deployed-ai-engineer-germany@munich",
    "title": "Forward Deployed AI Engineer, Germany",
@@ -2740,21 +2834,6 @@
    "description_sha256": "5c5fdc55f7ebb2a82b41622de5e405cbede09e7115cfbb6c6d40aa73dec38149"
   },
   {
-   "job_id": "f6f3578b-ded1-486f-853f-a8b4489acc39",
-   "lineage_key": "warehouse-logistics-operator@valencia",
-   "title": "Warehouse / Logistics Operator",
-   "department": "Global Manufacturing Organization",
-   "team": "ES Stock Management",
-   "location": "Valencia",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-10-02T15:29:18.556+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/f6f3578b-ded1-486f-853f-a8b4489acc39",
-   "description_sha256": "3ab7f241a5b0775a4344cb41737892d61a3d975e005cfbff46642682443f8769"
-  },
-  {
    "job_id": "f710849f-4a69-48b6-9f4d-0000c7c1265a",
    "lineage_key": "senior-talent-attraction-partner@espoo",
    "title": "Senior Talent Attraction Partner",
@@ -2767,7 +2846,7 @@
    "is_remote": true,
    "published_at": "2026-09-18T12:44:35.664+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/f710849f-4a69-48b6-9f4d-0000c7c1265a",
-   "description_sha256": "552265b233b388d796af2ca5ca11cfc049d7564599ff33ebadc73365fb754496"
+   "description_sha256": "817f6c4cc81b6a5f4ade919553031b1d883380d2b09adce5420c0a51a6ce4824"
   },
   {
    "job_id": "f806e6c7-0817-49fa-b8d5-55130ae45e3a",

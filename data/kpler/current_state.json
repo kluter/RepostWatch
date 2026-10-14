@@ -2,7 +2,7 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-10-14T15:24:11+00:00",
+ "fetched_at": "2026-10-14T20:19:11+00:00",
  "job_count": 94,
  "jobs": [
   {
@@ -791,8 +791,8 @@
   },
   {
    "job_id": "8c26d839-713f-4bfb-82cd-cc2a38938358",
-   "lineage_key": "market-data-analyst-metals-minerals@united-kingdom",
-   "title": "Market Data Analyst Metals & Minerals",
+   "lineage_key": "market-data-analyst-dry-bulk@united-kingdom",
+   "title": "Market Data Analyst - Dry Bulk",
    "department": "Business Units",
    "team": "Ags & Dry",
    "location": "United Kingdom",

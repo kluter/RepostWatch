@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-14T15:24:11+00:00",
- "job_count": 192,
+ "fetched_at": "2026-10-14T20:19:11+00:00",
+ "job_count": 191,
  "jobs": [
   {
    "job_id": "01edf520-e6e9-4b3e-bc57-5886e694b6b8",
@@ -1051,21 +1051,6 @@
    "description_sha256": "40584d5f1db44a3c9fc1b21a65ee802fab3639ca144f493de9e87e6cb4f57381"
   },
   {
-   "job_id": "5b5c9b26-194c-402d-a46f-9d651ca7237e",
-   "lineage_key": "program-manager@united-arab-emirates",
-   "title": "Program Manager",
-   "department": "Data",
-   "team": "Program Management",
-   "location": "United Arab Emirates",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-10-13T10:38:42.585+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/5b5c9b26-194c-402d-a46f-9d651ca7237e",
-   "description_sha256": "ac797eef113c6e288bb3643492c06980138599a984a06368808934ef9572436e"
-  },
-  {
    "job_id": "5bc4767f-7ae6-429a-a784-a9d260680462",
    "lineage_key": "smart-manufacturing-engineer-sw-electronics@espoo",
    "title": "Smart Manufacturing Engineer, SW & Electronics",
@@ -1673,8 +1658,8 @@
   },
   {
    "job_id": "9371410f-1664-48c7-8153-466766739c8d",
-   "lineage_key": "satellite-systems-software-rf-production-team-lead@valencia",
-   "title": "Satellite Systems, Software & RF Production Team Lead",
+   "lineage_key": "satellite-systems-software-verification-team-lead@valencia",
+   "title": "Satellite Systems, Software Verification Team Lead",
    "department": "Global Manufacturing Organization",
    "team": "ES Satellite Production",
    "location": "Valencia",
@@ -1682,9 +1667,9 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-09-29T13:37:10.253+00:00",
+   "published_at": "2026-10-14T17:34:27.555+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9371410f-1664-48c7-8153-466766739c8d",
-   "description_sha256": "df35e29e47786082adb59f1544dfceab4f0f81388804c9b02ff27594fd72e5b3"
+   "description_sha256": "e8997c60fa06182a9a3dd7b41d2cd7edf87639090e8de8ffe5d65b6a723ae30d"
   },
   {
    "job_id": "938ce5df-501a-4349-9586-2ce758dbfd0a",

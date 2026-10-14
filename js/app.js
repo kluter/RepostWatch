@@ -1002,7 +1002,7 @@
             for (const e of d.events)
                 if (["opened", "closed", "republished"].includes(e.type))
                     mvAll.push({ type: e.type, title: e.title, date: e.date, company: d.cfg.name || d.cfg.slug,
-                        url: e.url, location: e.location, times: (reps.get(e.lineage_key) || 0) + 1 });
+                        slug: d.cfg.slug, url: e.url, location: e.location, times: (reps.get(e.lineage_key) || 0) + 1 });
         }
         mvAll.sort((a, b) => (a.date < b.date ? 1 : -1));
 
@@ -1055,7 +1055,7 @@
                     h("span", { class: "mf-loc", title: f.location || "" }, f.location || ""),
                     h("span", { class: "mf-times", title: f.times > 1 ? `published ${f.times} times` : "" },
                         f.times > 1 ? `×${f.times}` : ""),
-                    h("span", { class: "mf-co" }, f.company),
+                    h("a", { class: "mf-co", href: `#${f.slug}`, title: `Open ${f.company}` }, f.company),
                     h("span", { class: "mf-when" }, relTime(f.date))))));
             } else {
                 mvBody.style.minHeight = "";

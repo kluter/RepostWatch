@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-15T15:17:55+00:00",
+ "fetched_at": "2026-10-15T20:01:22+00:00",
  "job_count": 191,
  "jobs": [
   {
@@ -1765,8 +1765,8 @@
   },
   {
    "job_id": "9649c999-70dc-4620-9487-e664767fa88d",
-   "lineage_key": "satellite-systems-senior-technician@valencia",
-   "title": "Satellite Systems Senior Technician",
+   "lineage_key": "systems-and-software-validation-engineer@valencia",
+   "title": "Systems and Software Validation Engineer",
    "department": "Global Manufacturing Organization",
    "team": "ES Satellite Production",
    "location": "Valencia",
@@ -1774,9 +1774,9 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-10-05T06:52:39.536+00:00",
+   "published_at": "2026-10-15T17:07:58.091+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9649c999-70dc-4620-9487-e664767fa88d",
-   "description_sha256": "f10a43babeb675ca5134d021f75cf1d291ad519cdec3660d5601b4c7093327e7"
+   "description_sha256": "a5ab720d92c85638352cc6e81f3e3307634aa077177c04093494f43ba7de8378"
   },
   {
    "job_id": "9b53025a-716d-4a33-868e-bacd4763bee5",
@@ -2474,7 +2474,7 @@
    "employment_type": "FullTime",
    "workplace_type": "Hybrid",
    "is_remote": true,
-   "published_at": "2026-06-10T13:56:16.419+00:00",
+   "published_at": "2026-10-15T16:34:25.085+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/d9af7181-4e5c-4ab4-9bca-db371c5c19d6",
    "description_sha256": "6bacc3b56521a12b437a6d83ba63286753dd4327d43101c5af038e7611295ed8"
   },
@@ -2575,12 +2575,7 @@
    "department": "Missions",
    "team": "Missions Sales",
    "location": "United Arab Emirates",
-   "secondary_locations": [
-    "Stockholm",
-    "Espoo",
-    "Norway",
-    "Denmark"
-   ],
+   "secondary_locations": [],
    "employment_type": "FullTime",
    "workplace_type": "Hybrid",
    "is_remote": true,

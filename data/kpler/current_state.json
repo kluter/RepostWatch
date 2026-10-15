@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-10-14T20:19:11+00:00",
- "job_count": 94,
+ "fetched_at": "2026-10-15T15:17:55+00:00",
+ "job_count": 98,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -22,8 +22,8 @@
   },
   {
    "job_id": "04129e3c-8390-4ce7-9e7f-30787378caf5",
-   "lineage_key": "account-executive-maritime-new-business@london",
-   "title": "Account Executive Maritime (New Business)",
+   "lineage_key": "account-executive-new-business@london",
+   "title": "Account Executive (New Business)",
    "department": "Commercial",
    "team": "Sales - Mid Market EMEA",
    "location": "London",
@@ -49,6 +49,21 @@
    "published_at": "2026-09-17T10:00:06.452000+00:00",
    "url": "https://jobs.lever.co/kpler/04358058-db0c-4e96-92bc-3a7aa3b6321d",
    "description_sha256": "2903100d97a435ed0c851126226901cc9731526725fcbc20123011e08bbc24df"
+  },
+  {
+   "job_id": "05f76103-21ef-40af-b6f8-05413b27af04",
+   "lineage_key": "senior-account-executive-energy-commodities@london",
+   "title": "Senior Account Executive - Energy/Commodities",
+   "department": "Commercial",
+   "team": "Sales - Mid Market EMEA",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-09-01T09:44:33.947000+00:00",
+   "url": "https://jobs.lever.co/kpler/05f76103-21ef-40af-b6f8-05413b27af04",
+   "description_sha256": "76d570231119b4fcdd00fb8dbee8def02f967b628bda6737d03430fd735359d5"
   },
   {
    "job_id": "06747d49-ea1e-458c-93e6-1489a1a9c612",
@@ -787,7 +802,7 @@
    "is_remote": false,
    "published_at": "2026-10-08T15:44:04.935000+00:00",
    "url": "https://jobs.lever.co/kpler/8b58e2c6-9219-4976-ab8a-da39d23dbd6b",
-   "description_sha256": "293d47bc2587503df8152f8f7588f5e574c7d8a05948de69c1eb4051b8a385f9"
+   "description_sha256": "950c4eea3e1f2a3bf92784b20ff42b10d7b995011a32829c9b0a21abe4937248"
   },
   {
    "job_id": "8c26d839-713f-4bfb-82cd-cc2a38938358",
@@ -895,6 +910,21 @@
    "published_at": "2026-09-17T11:22:02.636000+00:00",
    "url": "https://jobs.lever.co/kpler/95d8b151-477c-4d2e-8070-6dc4e94ed1f6",
    "description_sha256": "74c86ecb70086b843fe3e4faf285e15abdca30692fd16e9315187adca4e38759"
+  },
+  {
+   "job_id": "98a0722a-8224-48ea-830a-58a606806383",
+   "lineage_key": "sales-development-representative-financial@singapore",
+   "title": "Sales Development Representative – Financial",
+   "department": "Commercial",
+   "team": "Sales - Mid Market APAC",
+   "location": "Singapore",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-15T09:21:53.448000+00:00",
+   "url": "https://jobs.lever.co/kpler/98a0722a-8224-48ea-830a-58a606806383",
+   "description_sha256": "293d47bc2587503df8152f8f7588f5e574c7d8a05948de69c1eb4051b8a385f9"
   },
   {
    "job_id": "9e07834d-855a-4971-ab40-d8b34ddb3075",
@@ -1267,8 +1297,8 @@
   },
   {
    "job_id": "e8c4b6f8-8233-409a-8c72-445a6821cdd8",
-   "lineage_key": "senior-account-executive-maritime-german-speaking@london",
-   "title": "Senior Account Executive - Maritime (German Speaking)",
+   "lineage_key": "senior-account-executive-dach@london",
+   "title": "Senior Account Executive - DACH",
    "department": "Commercial",
    "team": "Sales - Mid Market EMEA",
    "location": "London",
@@ -1299,6 +1329,21 @@
    "description_sha256": "8d9fd0af0491471b343696f2b8cb96c10f2ca53de8fbc5f4881f08aa014d86df"
   },
   {
+   "job_id": "eaa3af74-23c5-4804-8889-9152f83e1236",
+   "lineage_key": "junior-market-analyst-lng-lng-bunkering@singapore",
+   "title": "Junior Market Analyst - LNG/LNG Bunkering",
+   "department": "Business Units",
+   "team": "LNG",
+   "location": "Singapore",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-15T10:49:29.360000+00:00",
+   "url": "https://jobs.lever.co/kpler/eaa3af74-23c5-4804-8889-9152f83e1236",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+  },
+  {
    "job_id": "ebc88846-7eb7-4ade-8770-fa6572bbdbc5",
    "lineage_key": "sales-development-representative-maritime-logistics@houston",
    "title": "Sales Development Representative - Maritime/Logistics",
@@ -1315,6 +1360,21 @@
    "published_at": "2026-06-25T14:12:12.300000+00:00",
    "url": "https://jobs.lever.co/kpler/ebc88846-7eb7-4ade-8770-fa6572bbdbc5",
    "description_sha256": "b5c52c094eb55285a08e81a9cae30375c0d734074f75f96ffe78c08a9bcbacad"
+  },
+  {
+   "job_id": "ec047856-55e1-4f01-b882-7f609c11fb3d",
+   "lineage_key": "account-manager-emea@london",
+   "title": "Account Manager - EMEA",
+   "department": "Commercial",
+   "team": "Sales - Mid Market EMEA",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-15T15:11:38.320000+00:00",
+   "url": "https://jobs.lever.co/kpler/ec047856-55e1-4f01-b882-7f609c11fb3d",
+   "description_sha256": "35be3a04b2c29ab429fc4d9f8779cb10ead07497d3799e1d28e3d02c40614497"
   },
   {
    "job_id": "ec1e9991-46d1-449a-94fb-a146388a9578",

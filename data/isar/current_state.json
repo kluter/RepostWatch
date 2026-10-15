@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-10-14T20:19:11+00:00",
- "job_count": 113,
+ "fetched_at": "2026-10-15T15:17:55+00:00",
+ "job_count": 115,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -1698,6 +1698,36 @@
    "is_remote": false,
    "published_at": "2026-10-13T11:48:46-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5004895101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5006654101",
+   "lineage_key": "manager-cnc-turning-m-f-d@parsdorf-bavaria-germany",
+   "title": "Manager CNC Turning (m/f/d)",
+   "department": "Production, Operations & Quality",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-15T02:38:28-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5006654101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5007501101",
+   "lineage_key": "working-student-piping-system-propulsion-m-f-d@parsdorf-bavaria-germany",
+   "title": "Working Student – Piping System, Propulsion (m/f/d)",
+   "department": "Propulsion",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-15T10:58:15-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5007501101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

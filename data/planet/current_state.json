@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-10-14T15:24:11+00:00",
- "job_count": 121,
+ "fetched_at": "2026-10-15T15:17:55+00:00",
+ "job_count": 120,
  "jobs": [
   {
    "job_id": "7374533",
@@ -156,6 +156,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "7564777",
+   "lineage_key": "account-executive-defence-intelligence@japan-remote",
+   "title": "Account Executive, Defence & Intelligence",
+   "department": "Account Executive",
+   "team": "",
+   "location": "Japan, Remote",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-02-17T11:14:02-05:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7564777",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "7593419",
    "lineage_key": "software-engineer-platform-operations@canada-remote",
    "title": "Software Engineer, Platform Operations",
@@ -183,6 +198,21 @@
    "is_remote": false,
    "published_at": "2026-03-16T17:23:11-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7644560",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "7704446",
+   "lineage_key": "us-army-account-executive@washington-d-c",
+   "title": "US Army Account Executive",
+   "department": "Account Executive",
+   "team": "",
+   "location": "Washington, D.C.",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-03-16T15:52:03-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7704446",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -321,21 +351,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8014499",
-   "lineage_key": "vice-president-chief-information-security-officer@san-francisco-ca",
-   "title": "Vice President & Chief Information Security Officer",
-   "department": "Security (Security)",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-18T15:40:00-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8014499",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8042428",
    "lineage_key": "technical-support-engineer-iii@berlin-germany",
    "title": "Technical Support Engineer III",
@@ -348,21 +363,6 @@
    "is_remote": false,
    "published_at": "2026-07-07T09:42:05-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8042428",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8052729",
-   "lineage_key": "customer-success-manager@apac-remote",
-   "title": "Customer Success Manager",
-   "department": "Techtouch Success",
-   "team": "",
-   "location": "APAC, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-07-22T13:37:37-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8052729",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -843,21 +843,6 @@
    "is_remote": false,
    "published_at": "2026-08-26T18:20:49-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8160748",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8160756",
-   "lineage_key": "vice-president-chief-information-security-officer@arlington-va",
-   "title": "Vice President & Chief Information Security Officer",
-   "department": "Security (Security)",
-   "team": "",
-   "location": "Arlington, VA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-26T18:22:19-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8160756",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

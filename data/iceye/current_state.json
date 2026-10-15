@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-14T20:19:11+00:00",
+ "fetched_at": "2026-10-15T15:17:55+00:00",
  "job_count": 191,
  "jobs": [
   {
@@ -139,21 +139,6 @@
    "published_at": "2026-10-07T12:23:00.019+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/0ec684ef-3442-4bd5-bc10-3d7e415c8a85",
    "description_sha256": "9e4d614c196ff1cadc93e355d83ea703a6bc4b3b9ad125af4ccc6af184fda3d1"
-  },
-  {
-   "job_id": "0f659212-84d0-436e-b27c-99306b650318",
-   "lineage_key": "it-engineer@espoo",
-   "title": "IT Engineer",
-   "department": "Operations",
-   "team": "IT Service & Operations",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-10-06T12:03:34.378+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/0f659212-84d0-436e-b27c-99306b650318",
-   "description_sha256": "40f8545a2af9e07082d1c1e89e5e0b3660b36bbe75ea58b3d6f567b31de2de37"
   },
   {
    "job_id": "105d0392-a86e-49e2-ab75-d96ec84c2186",
@@ -381,6 +366,21 @@
    "published_at": "2026-04-13T16:12:46.683+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/2048d1e8-7667-466a-a72a-d754cbcb42f2",
    "description_sha256": "7f99983f603ab05ffd206dd45834c7545a5e77f0a5f8020c9b73e25054df9fba"
+  },
+  {
+   "job_id": "20f2a26f-9f84-4ece-b366-a5221fb8fc0d",
+   "lineage_key": "mechanical-engineering-systems-cad-specialist@espoo",
+   "title": "Mechanical Engineering Systems & CAD Specialist",
+   "department": "Engineering",
+   "team": "Spacecraft Hardware",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-15T08:51:54.185+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/20f2a26f-9f84-4ece-b366-a5221fb8fc0d",
+   "description_sha256": "a129cf611917ea4ab0c4d76858684dfeb89c6df6d1337c568cc574df47fde167"
   },
   {
    "job_id": "21b391ff-d574-48ec-8ca6-2bc0b97e9dd8",
@@ -625,6 +625,21 @@
    "description_sha256": "f1dd64477e075928fd3e2b00392c652765e5cdd1b1f4f4d083fb0c694d02962d"
   },
   {
+   "job_id": "38f05b0a-5a3b-46b8-ba80-d85029734922",
+   "lineage_key": "mission-sales-director-india@new-delhi",
+   "title": "Mission Sales Director, India",
+   "department": "Missions",
+   "team": "Missions Sales",
+   "location": "New Delhi",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-15T14:04:21.449+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/38f05b0a-5a3b-46b8-ba80-d85029734922",
+   "description_sha256": "1d95d1e1ff442aeea24ce76db16ce0d1dfd7d901e528dfbedd75989e4b19f6cb"
+  },
+  {
    "job_id": "3c2152be-b654-498d-a932-e36c68fd79e8",
    "lineage_key": "hr-generalist@valencia",
    "title": "HR Generalist",
@@ -712,7 +727,7 @@
    "employment_type": "FullTime",
    "workplace_type": "Hybrid",
    "is_remote": true,
-   "published_at": "2026-09-08T22:27:16.166+00:00",
+   "published_at": "2026-10-15T10:48:35.753+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/42ec11f9-2c5a-417d-aca7-1ff6740dea7d",
    "description_sha256": "f9616a6fd544c259c727b1d0d94be6a073c316f723002e69c8413224f9499c5e"
   },
@@ -1034,21 +1049,6 @@
    "published_at": "2026-08-24T06:38:57.849+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/58c4f84f-f804-407f-b566-e3866be6e193",
    "description_sha256": "74ff7d9093006a2e04ab3fa9bcb537c863e217ecd51f8a4de560687a06ee34a9"
-  },
-  {
-   "job_id": "59b8fbfe-7a13-40c7-93e2-daef007de1b7",
-   "lineage_key": "senior-fp-a-manager@warsaw",
-   "title": "Senior FP&A Manager",
-   "department": "Finance",
-   "team": "FP&A",
-   "location": "Warsaw",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-09-22T07:19:12.639+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/59b8fbfe-7a13-40c7-93e2-daef007de1b7",
-   "description_sha256": "40584d5f1db44a3c9fc1b21a65ee802fab3639ca144f493de9e87e6cb4f57381"
   },
   {
    "job_id": "5bc4767f-7ae6-429a-a784-a9d260680462",
@@ -1595,6 +1595,21 @@
    "description_sha256": "43271fb0530c230cd144b237dda766afacb6d04f75d54df9a69e73dccf9c0738"
   },
   {
+   "job_id": "8bb9b7f6-bcc1-488f-8d3b-c03535d5888d",
+   "lineage_key": "senior-manager-total-rewards@espoo",
+   "title": "Senior Manager, Total Rewards",
+   "department": "Operations",
+   "team": "Operations",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-15T11:27:20.229+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/8bb9b7f6-bcc1-488f-8d3b-c03535d5888d",
+   "description_sha256": "297dcbc95721c09f6ec293a0adf787297bdb0a8c5b1611ff5f8ad0e511e237c2"
+  },
+  {
    "job_id": "8bbb61b2-e417-4d48-b6e2-45843174e21c",
    "lineage_key": "production-reliability-engineer@athens",
    "title": "Production Reliability Engineer",
@@ -1792,21 +1807,6 @@
    "published_at": "2026-09-14T06:08:12.215+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9e91192a-ae07-4ba6-b0d8-dd2d99064d9d",
    "description_sha256": "ae2f0aec4bb065e19191afc9a78fd7b4a16c5bb89f3880805231c22ed41387a7"
-  },
-  {
-   "job_id": "9e92da27-90b8-4822-a79d-4525f0b8b0e9",
-   "lineage_key": "senior-fp-a-manager@espoo",
-   "title": "Senior FP&A Manager",
-   "department": "Finance",
-   "team": "FP&A",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-09-22T07:17:57.066+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/9e92da27-90b8-4822-a79d-4525f0b8b0e9",
-   "description_sha256": "c1e13a3198cf970d981b36e16b69ad699ffd8f4a391965e6042da080c5ac4686"
   },
   {
    "job_id": "a11a91a1-e3d5-46d0-a055-41b13ad33967",

@@ -1009,7 +1009,7 @@
         const MV_WINDOWS = { day: 86400e3, week: 7 * 86400e3 };
         const MV_ROW = 32;                     // must match .move-feed li height in the CSS
         const mvCompanies = loaded.map(d => d.cfg.name || d.cfg.slug).sort((a, b) => a.localeCompare(b));
-        let mvWin = "week", mvPage = 0, mvSize = 10, mvCompany = "", mvQuery = "", mvType = "";
+        let mvWin = "day", mvPage = 0, mvSize = 10, mvCompany = "", mvQuery = "", mvType = "";
 
         const mvCaption = h("span", { class: "caption" });
         const mvStats = h("div", { class: "move-row" });

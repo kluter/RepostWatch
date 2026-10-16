@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-10-15T20:01:22+00:00",
- "job_count": 98,
+ "fetched_at": "2026-10-16T14:58:43+00:00",
+ "job_count": 97,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -524,6 +524,21 @@
    "description_sha256": "72c9385e0cbb1db189a43fae3ab697d334e5e18fe0865050258f24f37e175ad5"
   },
   {
+   "job_id": "613fa88b-86a2-4168-ba13-d56452ff4ce8",
+   "lineage_key": "account-executive-automotive-mobility-intelligence@detroit",
+   "title": "Account Executive - Automotive & Mobility Intelligence",
+   "department": "Commercial",
+   "team": "Sales - Mid Market Americas",
+   "location": "Detroit",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "remote",
+   "is_remote": true,
+   "published_at": "2026-10-15T20:20:36.016000+00:00",
+   "url": "https://jobs.lever.co/kpler/613fa88b-86a2-4168-ba13-d56452ff4ce8",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+  },
+  {
    "job_id": "616907ff-3ac5-47ef-a8de-077579a691ad",
    "lineage_key": "senior-ai-engineer-ai-enablement@paris",
    "title": "Senior AI Engineer (AI Enablement)",
@@ -942,21 +957,6 @@
    "description_sha256": "74c86ecb70086b843fe3e4faf285e15abdca30692fd16e9315187adca4e38759"
   },
   {
-   "job_id": "9e2bc6aa-ff54-4a65-9bbc-2fe18e239615",
-   "lineage_key": "commercial-manager-china@beijing",
-   "title": "Commercial Manager- China",
-   "department": "Commercial",
-   "team": "Sales - Mid Market APAC",
-   "location": "Beijing",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2025-09-03T03:04:03.102000+00:00",
-   "url": "https://jobs.lever.co/kpler/9e2bc6aa-ff54-4a65-9bbc-2fe18e239615",
-   "description_sha256": "b3e58686e01ca756c53fc1088ea65862569ad654bb6250841f2604bb702ec8df"
-  },
-  {
    "job_id": "9ede4329-689a-4096-9fea-6b7495edb813",
    "lineage_key": "tax-expert@hungary",
    "title": "Tax Expert",
@@ -1236,21 +1236,6 @@
    "description_sha256": "16e1750fd867ca527010dd76a113cd448ceeb604f0f8cd4a31639976bfaab348"
   },
   {
-   "job_id": "d3790ce1-a77f-4486-8a80-c910def65fbd",
-   "lineage_key": "account-manager-sme-emea@london",
-   "title": "Account Manager - SME - EMEA",
-   "department": "Commercial",
-   "team": "Sales - Mid Market EMEA",
-   "location": "London",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-09-14T17:06:10.664000+00:00",
-   "url": "https://jobs.lever.co/kpler/d3790ce1-a77f-4486-8a80-c910def65fbd",
-   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
-  },
-  {
    "job_id": "db2189b5-98b8-410e-9110-24d98201973d",
    "lineage_key": "senior-account-manager-banking-financial-institutions@new-york",
    "title": "Senior Account Manager - Banking & Financial Institutions",
@@ -1363,8 +1348,8 @@
   },
   {
    "job_id": "ec047856-55e1-4f01-b882-7f609c11fb3d",
-   "lineage_key": "account-manager-emea@london",
-   "title": "Account Manager - EMEA",
+   "lineage_key": "account-manager-financial-emea@london",
+   "title": "Account Manager (Financial) - EMEA",
    "department": "Commercial",
    "team": "Sales - Mid Market EMEA",
    "location": "London",

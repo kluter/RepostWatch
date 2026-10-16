@@ -654,6 +654,11 @@
    "lat": 51.1638175,
    "lon": 10.4478313,
    "label": "Deutschland"
+  },
+  "detroit": {
+   "lat": 42.3315509,
+   "lon": -83.0466403,
+   "label": "Detroit"
   }
  }
 }

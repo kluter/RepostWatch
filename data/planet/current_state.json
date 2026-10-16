@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-10-15T15:17:55+00:00",
- "job_count": 120,
+ "fetched_at": "2026-10-16T14:58:43+00:00",
+ "job_count": 122,
  "jobs": [
   {
    "job_id": "7374533",
@@ -682,8 +682,8 @@
   },
   {
    "job_id": "8148503",
-   "lineage_key": "senior-business-development-manager-us-department-of-war@arlington-va",
-   "title": "Senior Business Development Manager, US Department of War",
+   "lineage_key": "senior-business-development-manager-us-navy@arlington-va",
+   "title": "Senior Business Development Manager, US Navy",
    "department": "Business Development",
    "team": "",
    "location": "Arlington, VA",
@@ -936,21 +936,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8164967",
-   "lineage_key": "director-of-pre-sales-global-defence-intelligence@germany-remote",
-   "title": "Director of Pre-Sales, Global Defence & Intelligence",
-   "department": "Pre-Sales and Services",
-   "team": "",
-   "location": "Germany, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-09-07T05:16:23-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8164967",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8164995",
    "lineage_key": "presales-engineer-civil-government-and-commercial@germany-remote",
    "title": "PreSales Engineer, Civil Government and Commercial",
@@ -1008,21 +993,6 @@
    "is_remote": false,
    "published_at": "2026-08-31T14:38:57-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8167760",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8167892",
-   "lineage_key": "director-of-pre-sales-global-defence-intelligence@united-kingdom-remote",
-   "title": "Director of Pre-Sales, Global Defence & Intelligence",
-   "department": "Pre-Sales and Services",
-   "team": "",
-   "location": "United Kingdom, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-09-07T05:16:20-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8167892",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1803,6 +1773,66 @@
    "is_remote": false,
    "published_at": "2026-10-14T05:36:01-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8278543",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8280824",
+   "lineage_key": "social-media-specialist@san-francisco-ca",
+   "title": "Social Media Specialist",
+   "department": "Global Communications and Government Affairs (Global Communications and Government Affairs)",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-15T17:15:33-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8280824",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8284784",
+   "lineage_key": "senior-product-manager-sovereign-hybrid-deployments@berlin-germany",
+   "title": "Senior Product Manager, Sovereign & Hybrid Deployments",
+   "department": "Imagery & Data",
+   "team": "",
+   "location": "Berlin, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-16T06:21:31-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8284784",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8287081",
+   "lineage_key": "senior-product-manager-sovereign-hybrid-deployments@haarlem-netherlands",
+   "title": "Senior Product Manager, Sovereign & Hybrid Deployments",
+   "department": "Imagery & Data",
+   "team": "",
+   "location": "Haarlem, Netherlands",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-16T06:21:33-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8287081",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8288673",
+   "lineage_key": "senior-product-manager-sovereign-hybrid-deployments@ljubljana-slovenia",
+   "title": "Senior Product Manager, Sovereign & Hybrid Deployments",
+   "department": "Imagery & Data",
+   "team": "",
+   "location": "Ljubljana, Slovenia",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-16T08:07:25-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8288673",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-10-16T14:58:43+00:00",
- "job_count": 122,
+ "fetched_at": "2026-10-16T19:41:35+00:00",
+ "job_count": 126,
  "jobs": [
   {
    "job_id": "7374533",
@@ -1656,6 +1656,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8243168",
+   "lineage_key": "customer-success-manager-global-tech-touch@san-francisco-ca",
+   "title": "Customer Success Manager, Global Tech Touch",
+   "department": "Techtouch Success",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-16T11:04:16-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8243168",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8244395",
    "lineage_key": "analyst-sales-strategy-gtm-planning@arlington-va",
    "title": "Analyst, Sales Strategy & GTM Planning",
@@ -1716,6 +1731,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8263945",
+   "lineage_key": "senior-director-product-management-defense-and-intelligence@san-francisco-ca",
+   "title": "Senior Director, Product Management - Defense and Intelligence",
+   "department": "D&I Solutions Delivery",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-16T12:57:35-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8263945",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8276008",
    "lineage_key": "senior-site-reliability-engineer@haarlem-netherlands",
    "title": "Senior Site Reliability Engineer",
@@ -1758,6 +1788,21 @@
    "is_remote": false,
    "published_at": "2026-10-14T05:36:03-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8276031",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8276282",
+   "lineage_key": "customer-success-manager-global-tech-touch@arlington-va",
+   "title": "Customer Success Manager, Global Tech Touch",
+   "department": "Techtouch Success",
+   "team": "",
+   "location": "Arlington, VA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-16T11:04:14-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8276282",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1818,6 +1863,21 @@
    "is_remote": false,
    "published_at": "2026-10-16T06:21:33-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8287081",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8287786",
+   "lineage_key": "senior-director-product-management-defense-and-intelligence@arlington-va",
+   "title": "Senior Director, Product Management - Defense and Intelligence",
+   "department": "D&I Solutions Delivery",
+   "team": "",
+   "location": "Arlington, VA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-16T12:57:37-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8287786",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

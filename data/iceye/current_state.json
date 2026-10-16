@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-16T14:58:43+00:00",
- "job_count": 194,
+ "fetched_at": "2026-10-16T19:41:35+00:00",
+ "job_count": 193,
  "jobs": [
   {
    "job_id": "01edf520-e6e9-4b3e-bc57-5886e694b6b8",
@@ -946,21 +946,6 @@
    "description_sha256": "b03cdf9ab414a22c39652cbe9e2e4d5659d441a5e9ab07cb028655667169f316"
   },
   {
-   "job_id": "50ea94b9-1799-49ed-98f2-fdf29bf4fef8",
-   "lineage_key": "maite-facility-management-team-lead@espoo",
-   "title": "MAITE Facility Management Team Lead",
-   "department": "Global Manufacturing Organization",
-   "team": "Production Finland",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-10T08:44:13.214+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/50ea94b9-1799-49ed-98f2-fdf29bf4fef8",
-   "description_sha256": "18a5c01e4bacdf1c25eb7d10db4b602aea127cfcfa83374c9a4caa1484db6312"
-  },
-  {
    "job_id": "511f26c8-63cf-4689-9d8c-3abc7c0410e6",
    "lineage_key": "director-learning-talent-development@espoo",
    "title": "Director, Learning & Talent Development",
@@ -1533,6 +1518,21 @@
    "description_sha256": "b816c8f2a7d28a3eefaefcc3ee319d8c5e2290f9086312566829a5aa68ecaa03"
   },
   {
+   "job_id": "815956c4-b3c7-4b96-b361-584b53a2af86",
+   "lineage_key": "qms-specialist@valencia",
+   "title": "QMS Specialist",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-10-16T15:18:54.830+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/815956c4-b3c7-4b96-b361-584b53a2af86",
+   "description_sha256": "e71e3a0a11239783c8e35aae0d78b987dbcea101ad529b9465fc7bc57ea3ea05"
+  },
+  {
    "job_id": "824f4858-2692-4b97-82bf-cbe2805dfbd6",
    "lineage_key": "ait-engineer-electronics@athens",
    "title": "AIT Engineer - Electronics",
@@ -1897,21 +1897,6 @@
    "published_at": "2026-07-21T12:14:33.756+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/a6d0bba0-2219-4f01-8c79-f4d945de5af7",
    "description_sha256": "52e0aaf157d39471c937b696c810211ffdf8f2b4b09cf4e9b8cf3ffe906bce26"
-  },
-  {
-   "job_id": "a6db612f-b49f-4be4-a4d4-7639649a1cf7",
-   "lineage_key": "head-of-production-maite-finland@espoo",
-   "title": "Head of Production, MAITE Finland",
-   "department": "Global Manufacturing Organization",
-   "team": "Production Finland",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-06-12T15:44:42.371+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/a6db612f-b49f-4be4-a4d4-7639649a1cf7",
-   "description_sha256": "1efd2367aaf92f42f43b46efa1363e2605f2bec54c597e378961e0effff5336e"
   },
   {
    "job_id": "a905295f-6d4c-4def-bddd-42deb123bfe0",

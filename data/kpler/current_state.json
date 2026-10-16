@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-10-16T14:58:43+00:00",
- "job_count": 97,
+ "fetched_at": "2026-10-16T19:41:35+00:00",
+ "job_count": 99,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -1066,6 +1066,21 @@
    "description_sha256": "f73b725855bb217e6606c74b35b35839716c70e24ae65d110caf3aa47bd81749"
   },
   {
+   "job_id": "ad06b78b-ce98-42b9-8fc6-887aa07bae5d",
+   "lineage_key": "senior-data-analyst-companies-ownership@greece",
+   "title": "Senior Data Analyst (Companies/Ownership)",
+   "department": "Product",
+   "team": "Product Data Platform",
+   "location": "Greece",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-16T16:45:48.268000+00:00",
+   "url": "https://jobs.lever.co/kpler/ad06b78b-ce98-42b9-8fc6-887aa07bae5d",
+   "description_sha256": "dbf6c3aac2e0b67214eec3c426099ac84fda2c25dd8bd287f3b94b65baf10d1e"
+  },
+  {
    "job_id": "aed203cd-f69b-4be1-ae7d-1496445d4084",
    "lineage_key": "sales-channel-partnership-manager@singapore",
    "title": "Sales Channel Partnership Manager",
@@ -1172,6 +1187,21 @@
    "published_at": "2026-09-23T10:32:17.285000+00:00",
    "url": "https://jobs.lever.co/kpler/c1c461f8-b95a-49ab-ad43-f8b519e59778",
    "description_sha256": "16e1750fd867ca527010dd76a113cd448ceeb604f0f8cd4a31639976bfaab348"
+  },
+  {
+   "job_id": "c51380da-4888-4609-8fc1-c16cc8b7d25a",
+   "lineage_key": "data-analyst-vessel-particulars@greece",
+   "title": "Data Analyst (Vessel Particulars)",
+   "department": "Product",
+   "team": "Product Data Platform",
+   "location": "Greece",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-16T16:48:43.611000+00:00",
+   "url": "https://jobs.lever.co/kpler/c51380da-4888-4609-8fc1-c16cc8b7d25a",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
    "job_id": "c7409152-aa25-4564-8bde-76c3ecc70049",

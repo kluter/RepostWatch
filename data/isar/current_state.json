@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-10-16T14:58:43+00:00",
- "job_count": 114,
+ "fetched_at": "2026-10-16T19:41:35+00:00",
+ "job_count": 119,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -1671,6 +1671,66 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "5005403101",
+   "lineage_key": "transport-security-specialist-f-m-d@parsdorf-bavaria-germany",
+   "title": "Transport Security Specialist (f/m/d)",
+   "department": "Infrastructure, Safety & Service",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-16T11:37:32-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5005403101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5005435101",
+   "lineage_key": "security-systems-specialist-f-m-d@parsdorf-bavaria-germany",
+   "title": "Security Systems Specialist (f/m/d)",
+   "department": "Infrastructure, Safety & Service",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-16T11:41:51-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5005435101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5005466101",
+   "lineage_key": "facility-access-management-specialist-f-m-d@parsdorf-bavaria-germany",
+   "title": "Facility Access Management Specialist (f/m/d)",
+   "department": "Infrastructure, Safety & Service",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-16T11:34:54-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5005466101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5005490101",
+   "lineage_key": "travel-security-specialist-f-m-d@parsdorf-bavaria-germany",
+   "title": "Travel Security Specialist (f/m/d)",
+   "department": "Infrastructure, Safety & Service",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-16T11:39:31-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5005490101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "5006654101",
    "lineage_key": "manager-cnc-turning-m-f-d@parsdorf-bavaria-germany",
    "title": "Manager CNC Turning (m/f/d)",
@@ -1713,6 +1773,21 @@
    "is_remote": false,
    "published_at": "2026-10-16T10:26:07-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5008831101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5008931101",
+   "lineage_key": "crisis-business-continuity-management-specialist-f-m-d@parsdorf-bavaria-germany",
+   "title": "Crisis & Business Continuity Management Specialist (f/m/d)",
+   "department": "Infrastructure, Safety & Service",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-16T11:31:58-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5008931101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

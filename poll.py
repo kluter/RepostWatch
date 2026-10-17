@@ -15,6 +15,7 @@ import hashlib
 import json
 import re
 import sys
+import time
 import unicodedata
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -52,9 +53,13 @@ def parse_ts(s: str):
     return dt
 
 
-def lineage_key(job: dict) -> str:
+def make_lineage_key(title: str, location: str) -> str:
     """Stable identity for a role across republishes (job ids regenerate every time)."""
-    return f"{norm(job['title'])}@{norm(job['location'])}"
+    return f"{norm(title)}@{norm(location)}"
+
+
+def lineage_key(job: dict) -> str:
+    return make_lineage_key(job["title"], job["location"])
 
 
 def http_get_json(url: str) -> dict:
@@ -109,6 +114,12 @@ def _clean_office(office: str, prefix_n: int) -> str:
     return re.sub(r"\s{2,}", " ", s).strip(" ,.-")         # trim stray spaces/punctuation
 
 
+def _xml_text(parent, tag: str) -> str:
+    """Stripped text of parent's first <tag> child, or "" when the tag is missing or empty."""
+    el = parent.find(tag)
+    return (el.text or "").strip() if el is not None else ""
+
+
 def normalize_job(job_id, title, location, published_at, url,
                   department="", team="", is_remote=False, desc="") -> dict:
     """Common normalized shape every adapter emits (metadata only)."""
@@ -116,7 +127,7 @@ def normalize_job(job_id, title, location, published_at, url,
     location = (location or "").strip()
     return {
         "job_id": str(job_id or ""),
-        "lineage_key": f"{norm(title)}@{norm(location)}",
+        "lineage_key": make_lineage_key(title, location),
         "title": title,
         "department": (department or "").strip(),
         "team": (team or "").strip(),
@@ -141,23 +152,14 @@ def fetch_ashby(board: str) -> list[dict]:
     for j in raw.get("jobs", []):
         if not j.get("isListed", True):
             continue
-        desc = j.get("descriptionPlain") or ""
-        title, location = (j.get("title") or "").strip(), j.get("location") or ""
-        jobs.append({
-            "job_id": j.get("id") or "",
-            "lineage_key": f"{norm(title)}@{norm(location)}",
-            "title": title,
-            "department": j.get("department") or "",
-            "team": j.get("team") or "",
-            "location": location,
-            "secondary_locations": [s.get("location", "") for s in j.get("secondaryLocations") or []],
-            "employment_type": j.get("employmentType") or "",
-            "workplace_type": j.get("workplaceType") or "",
-            "is_remote": bool(j.get("isRemote")),
-            "published_at": j.get("publishedAt") or "",
-            "url": j.get("jobUrl") or "",
-            "description_sha256": hashlib.sha256(desc.encode("utf-8")).hexdigest(),
-        })
+        job = normalize_job(
+            j.get("id"), j.get("title"), j.get("location"), j.get("publishedAt"), j.get("jobUrl"),
+            department=j.get("department"), team=j.get("team"), is_remote=j.get("isRemote"),
+            desc=j.get("descriptionPlain"))
+        job["secondary_locations"] = [s.get("location", "") for s in j.get("secondaryLocations") or []]
+        job["employment_type"] = j.get("employmentType") or ""
+        job["workplace_type"] = j.get("workplaceType") or ""
+        jobs.append(job)
     jobs.sort(key=lambda j: j["job_id"])
     return jobs
 
@@ -170,8 +172,10 @@ def fetch_greenhouse(board: str) -> list[dict]:
         for d in http_get_json(f"{base}/departments").get("departments", []):
             for j in d.get("jobs", []):
                 dept_of[str(j.get("id"))] = d.get("name", "")
-    except Exception:
-        pass
+    except (OSError, json.JSONDecodeError) as exc:
+        # optional enrichment: the jobs still poll without it, but say so instead of going blank
+        print(f"  greenhouse/{board}: departments unavailable ({exc}); continuing without them",
+              file=sys.stderr)
     jobs = []
     for j in data.get("jobs", []):
         jid = str(j.get("id"))
@@ -208,21 +212,17 @@ def fetch_personio(board: str) -> list[dict]:
     root = ET.fromstring(http_get_bytes(f"https://{board}.jobs.personio.de/xml"))
     positions = root.findall(".//position")
 
-    def gp(p, tag):
-        el = p.find(tag)
-        return (el.text or "").strip() if el is not None and el.text else ""
-
     # offices are labels like "LiveEO GmbH Berlin (Onsite)"; strip the shared company
     # prefix + corporate tokens + mode so the location is a geocodable place.
-    prefix_n = _common_leading_words([re.sub(r"\s*\([^)]*\)\s*$", "", gp(p, "office")) for p in positions])
+    prefix_n = _common_leading_words([re.sub(r"\s*\([^)]*\)\s*$", "", _xml_text(p, "office")) for p in positions])
     jobs = []
     for p in positions:
-        jid, office = gp(p, "id"), gp(p, "office")
+        jid, office = _xml_text(p, "id"), _xml_text(p, "office")
         url = f"https://{board}.jobs.personio.de/job/{jid}" if jid else ""
         jobs.append(normalize_job(
-            jid, gp(p, "name"), _clean_office(office, prefix_n), gp(p, "createdAt"), url,
-            department=gp(p, "department"), is_remote="remote" in office.lower(),
-            desc=gp(p, "jobDescriptions")))
+            jid, _xml_text(p, "name"), _clean_office(office, prefix_n), _xml_text(p, "createdAt"), url,
+            department=_xml_text(p, "department"), is_remote="remote" in office.lower(),
+            desc=_xml_text(p, "jobDescriptions")))
     jobs.sort(key=lambda j: j["job_id"])
     return jobs
 
@@ -233,10 +233,7 @@ def fetch_teamtailor(board: str) -> list[dict]:
     root = ET.fromstring(http_get_bytes(f"https://{board}/jobs.rss"))
     jobs = []
     for it in root.findall(".//item"):
-        def g(tag):
-            el = it.find(tag)
-            return (el.text or "").strip() if el is not None and el.text else ""
-        pub = g("pubDate")
+        pub = _xml_text(it, "pubDate")
         if pub:
             try:
                 pub = email.utils.parsedate_to_datetime(pub).isoformat()
@@ -248,16 +245,16 @@ def fetch_teamtailor(board: str) -> list[dict]:
         if locs_el is not None:
             first = locs_el.find(TT + "location")
             if first is not None:
-                loc = (first.findtext(TT + "name") or "").strip()
+                loc = _xml_text(first, TT + "name")
                 if not loc:
-                    city = (first.findtext(TT + "city") or "").strip()
-                    country = (first.findtext(TT + "country") or "").strip()
+                    city = _xml_text(first, TT + "city")
+                    country = _xml_text(first, TT + "country")
                     loc = ", ".join(x for x in (city, country) if x)
-        remote = g("remoteStatus")
+        remote = _xml_text(it, "remoteStatus")
         jobs.append(normalize_job(
-            g("guid"), g("title"), primary_location(loc), pub, g("link"),
-            department=g(TT + "department"), is_remote=remote not in ("", "none"),
-            desc=g("description")))
+            _xml_text(it, "guid"), _xml_text(it, "title"), primary_location(loc), pub, _xml_text(it, "link"),
+            department=_xml_text(it, TT + "department"), is_remote=remote not in ("", "none"),
+            desc=_xml_text(it, "description")))
     jobs.sort(key=lambda j: j["job_id"])
     return jobs
 
@@ -406,11 +403,9 @@ def diff_events(company, source, prev_jobs, cur_jobs, closes_by_lineage, closes_
     for jid, job in prev_by_id.items():
         if jid not in cur_by_id:
             events.append(make_event("closed", company, source, job, now_iso))
-            lk = lineage_key(job)
-            if lk not in closes_by_lineage or now > closes_by_lineage[lk]:
-                closes_by_lineage[lk] = now
-            if jid not in closes_by_id or now > closes_by_id[jid]:
-                closes_by_id[jid] = now
+            # this poll is the newest close on record for both keys
+            closes_by_lineage[lineage_key(job)] = now
+            closes_by_id[jid] = now
 
     for jid, job in cur_by_id.items():
         if jid not in prev_by_id:
@@ -491,10 +486,15 @@ def run_company(cfg: dict, now: datetime) -> dict:
         # the two parse errors cover a 200 that returns unusable JSON or XML.
         return record_feed_outage(slug, ats, board, state_path, exc, now_iso)
 
+    prev_state = json.loads(state_path.read_text(encoding="utf-8")) if state_path.exists() else None
+    # A snapshot that was never fetched successfully (fetched_at is None) is only an outage
+    # placeholder written by record_feed_outage, so the first good fetch still seeds the log.
+    if prev_state is not None and prev_state.get("fetched_at") is None:
+        prev_state = None
+
     prev_jobs = None
     had_error = False                       # a prior outage we're now recovering from
-    if state_path.exists():
-        prev_state = json.loads(state_path.read_text(encoding="utf-8"))
+    if prev_state is not None:
         prev_jobs = prev_state["jobs"]
         had_error = "feed_error" in prev_state
         if not cur_jobs and prev_jobs and not had_error:
@@ -549,7 +549,6 @@ def geocode_new_locations(locations) -> None:
     The dashboard reads only this committed cache and never geocodes client-side.
     Usually a no-op: real requests happen only when a genuinely new location appears.
     """
-    import time
     cache = {"locations": {}}
     if GEOCACHE_PATH.exists():
         cache = json.loads(GEOCACHE_PATH.read_text(encoding="utf-8"))

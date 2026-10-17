@@ -10,7 +10,7 @@ on:
   push:
     branches: [main]
     paths:
-      - companies.yaml       # editing the company list rebuilds data/index.json right away
+      - companies.yaml       # editing the company list runs a full poll, so a new company and data/index.json land right away
 
 permissions:
   contents: write

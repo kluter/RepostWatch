@@ -24,3 +24,11 @@ Every change lands in the history as one of a handful of events:
 | `republished` | the same role went back up, often under a fresh ID |
 | `initialized` | the role was already listed when I started tracking |
 | `headcount_manual` | a headcount number I entered by hand |
+| `noted_manual` | a role I saw before tracking began, with the date I first saw it |
+
+The two manual events are written by small helper scripts, so the lines stay well-formed:
+
+```bash
+python add_headcount.py iceye 720 --source revelio
+python add_note.py iceye --title "Role title" --location Berlin --first-seen 2026-02-01 --source linkedin_observation
+```

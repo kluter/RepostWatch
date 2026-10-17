@@ -11,9 +11,8 @@ lines well-formed.
 import argparse
 import json
 from datetime import datetime, timezone
-from pathlib import Path
 
-DATA_DIR = Path(__file__).resolve().parent / "data"
+from poll import DATA_DIR, parse_ts
 
 
 def main() -> None:
@@ -24,14 +23,18 @@ def main() -> None:
     p.add_argument("--date", help="ISO date of the observation (default: now, UTC)")
     args = p.parse_args()
 
+    if args.value <= 0:
+        raise SystemExit(f"headcount must be a positive number, got {args.value}")
     if args.date:
         date = args.date if "T" in args.date else args.date + "T00:00:00+00:00"
+        if parse_ts(date) is None:
+            raise SystemExit(f"--date {args.date!r} is not an ISO date (e.g. 2026-07-01)")
     else:
         date = datetime.now(timezone.utc).isoformat(timespec="seconds")
 
     events_path = DATA_DIR / args.company / "events.jsonl"
     if not events_path.parent.is_dir():
-        raise SystemExit(f"unknown company {args.company!r} — no {events_path.parent} directory")
+        raise SystemExit(f"unknown company {args.company!r}: no {events_path.parent} directory")
 
     ev = {
         "date": date,
@@ -42,7 +45,7 @@ def main() -> None:
     }
     with events_path.open("a", encoding="utf-8") as f:
         f.write(json.dumps(ev, ensure_ascii=False) + "\n")
-    print(f"appended to {events_path}: {json.dumps(ev)}")
+    print(f"appended to {events_path}:\n{json.dumps(ev, ensure_ascii=False)}")
 
 
 if __name__ == "__main__":

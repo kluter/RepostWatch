@@ -10,8 +10,8 @@
     const CSS = getComputedStyle(document.documentElement);
     const tok = name => CSS.getPropertyValue(name).trim();
     const C = {
-        blue: tok("--s-blue"), aqua: tok("--s-aqua"), yellow: tok("--s-yellow"),
-        red: tok("--s-red"), violet: tok("--s-violet"), gray: tok("--s-gray"),
+        blue: tok("--s-blue"), blueRing: tok("--s-blue-ring"), aqua: tok("--s-aqua"), yellow: tok("--s-yellow"),
+        red: tok("--s-red"), gray: tok("--s-gray"),
     };
 
     // ---- tiny DOM helpers (textContent only — data is untrusted) ----
@@ -30,12 +30,16 @@
         return n;
     }
     const fmtDate = iso => iso ? iso.slice(0, 10) : "";
-    const fmtDT = iso => iso ? iso.slice(0, 16).replace("T", " ") : "";
 
     // Time zone. Our own timestamps (poll time, observed, closed, history) render in the viewer's
     // LOCAL zone by default, toggleable to UTC and remembered. Feed publish times are left in the
     // feed's own zone (fmtPublished) with the offset shown, so that one never silently shifts.
-    let tzMode = localStorage.getItem("rw-tz") === "utc" ? "utc" : "local";
+    // storage can throw (blocked site data, some private modes); the zone choice is a convenience only
+    const store = {
+        get: k => { try { return localStorage.getItem(k); } catch { return null; } },
+        set: (k, v) => { try { localStorage.setItem(k, v); } catch { /* not remembered, still works */ } },
+    };
+    let tzMode = store.get("rw-tz") === "utc" ? "utc" : "local";
     let _fmtCache = {};
     const _fmter = () => (_fmtCache[tzMode] ||= new Intl.DateTimeFormat("en-GB", {
         year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit",
@@ -89,13 +93,22 @@
     const bodyHeight = n => `${HEAD_H + n * ROW_H}px`;
     const defaultSort = () => ({ col: 5, dir: -1 });   // 5 = Published, newest first
     let logSort = defaultSort();
+    const resetLogState = () => {
+        logQuery = ""; logSev = new Set(); logPage = 0; logSize = 10; logOpen = new Set(); logSort = defaultSort();
+    };
     const cap = s => s ? s[0].toUpperCase() + s.slice(1) : s;
+
+    // fetch that rejects on a non-2xx status, so a missing file reads "HTTP 404" instead of a JSON parse error
+    const fetchOk = url => fetch(url).then(r => {
+        if (!r.ok) throw new Error(`HTTP ${r.status} for ${url}`);
+        return r;
+    });
 
     async function loadCompany(slug) {
         if (cache[slug]) return cache[slug];
         const [state, evText] = await Promise.all([
-            fetch(`data/${slug}/current_state.json`).then(r => r.json()),
-            fetch(`data/${slug}/events.jsonl`).then(r => r.text()),
+            fetchOk(`data/${slug}/current_state.json`).then(r => r.json()),
+            fetchOk(`data/${slug}/events.jsonl`).then(r => r.text()),
         ]);
         const events = evText.split("\n").filter(Boolean).map(l => JSON.parse(l));
         return (cache[slug] = { state, events });
@@ -103,7 +116,7 @@
 
     // ---- derived series ----
     function monthKey(iso) { return iso.slice(0, 7); }
-    function monthRange(events, jobs) {
+    function monthRange(jobs) {
         const keys = jobs.map(j => monthKey(j.published_at)).filter(Boolean).sort();
         if (!keys.length) return [];
         const out = [];
@@ -192,9 +205,11 @@
         return c;
     }
 
-    function chip(type) { return h("span", { class: `chip ${type}` }, type); }
-    function chip2(cls, label) { return h("span", { class: `chip ${cls}` }, label); }
+    // pill label: the event type by default (its class picks the color), or any class + label
+    function chip(cls, label = cls) { return h("span", { class: `chip ${cls}` }, label); }
 
+    const CHANGE_TYPES = ["opened", "closed", "republished"];   // observed changes (excludes the initial import)
+    const LIFECYCLE_TYPES = [...CHANGE_TYPES, "initialized"];   // events about a posting (not manual notes)
     const SEV = ["fresh", "aging", "stale", "flagged"];
     const SEV_RULES = {
         fresh: "under 45 days, no reposts",
@@ -207,6 +222,15 @@
         if (reposts >= 2 || days >= 90) return "stale";
         if (reposts >= 1 || days >= 45) return "aging";
         return "fresh";
+    };
+    const DAY_MS = 86400e3;
+    // whole days from an ISO timestamp to `until` (default now); 0 when the timestamp is missing
+    const ageDays = (iso, until = Date.now()) => iso ? Math.floor((until - Date.parse(iso)) / DAY_MS) : 0;
+    // { fresh: n, aging: n, stale: n, flagged: n } in one pass over the list
+    const tallySev = (list, sevOf) => {
+        const counts = Object.fromEntries(SEV.map(s => [s, 0]));
+        for (const x of list) counts[sevOf(x)]++;
+        return counts;
     };
     // severity legend column, also a filter: toggle a pill to constrain the adjacent
     // table to that severity (multiple active); onToggle re-renders that table.
@@ -224,7 +248,7 @@
                             onToggle();
                         },
                     }, h("b", {}, String(counts[s] || 0)),
-                        h("div", {}, chip2(`sev-${s}`, s), h("div", { class: "sev-rule" }, SEV_RULES[s])));
+                        h("div", {}, chip(`sev-${s}`, s), h("div", { class: "sev-rule" }, SEV_RULES[s])));
                     return pill;
                 })));
     }
@@ -255,21 +279,16 @@
     // paging live in refreshLog so a header click stays local (no full re-render). A posting
     // with more than one lifecycle event gets a caret that expands an inline history row.
     function logTable(rows, onSort, onToggle, heightPx) {
-        const head = h("tr", {}, LOG_COLS.map((c, i) => h("th", {
+        const head = LOG_COLS.map((c, i) => h("th", {
             class: "sortable",
             onclick: () => onSort(i),
-        }, c.label, logSort.col === i ? h("span", { class: "sort-arrow" }, logSort.dir === 1 ? "▲" : "▼") : null)));
+        }, c.label, logSort.col === i ? h("span", { class: "sort-arrow" }, logSort.dir === 1 ? "▲" : "▼") : null));
         const body = [];
         for (const { ev, sev, history } of rows) {
             const expandable = (history || []).length > 1;
             const open = expandable && logOpen.has(ev.job_id);
             const toggle = expandable
-                ? h("button", {
-                    class: "row-toggle" + (open ? " open" : ""),
-                    title: open ? "Hide history" : `Show history (${history.length} events)`,
-                    "aria-label": "Toggle history",
-                    onclick: e => { e.stopPropagation(); onToggle(ev.job_id); },
-                }, "▸")
+                ? rowToggle(open, `Show history (${history.length} events)`, () => onToggle(ev.job_id))
                 : h("span", { class: "row-toggle-gap" });
             body.push(h("tr", { class: expandable ? "has-history" : "" },
                 h("td", { class: "dt" }, fmtStamp(ev.date)),
@@ -280,23 +299,71 @@
                     : ev.type === "noted_manual" ? h("span", {}, jobLink(ev), `, first seen ${ev.first_seen} (${ev.source})`)
                     : jobLink(ev)),
                 h("td", {}, ev.location || ""),
-                h("td", {}, sev ? chip2(`sev-${sev}`, sev) : ""),
+                h("td", {}, sev ? chip(`sev-${sev}`, sev) : ""),
                 h("td", { class: "dt" }, fmtPublished(ev.published_at)),
-                h("td", { class: "ats-id", title: ev.job_id || "" }, ev.job_id || "")));
-            if (open) {
-                body.push(h("tr", { class: "log-detail-row" },
-                    h("td", { colspan: LOG_COLS.length },
-                        h("ol", { class: "log-history" }, history.map(hv =>
-                            h("li", {},
-                                h("span", { class: "dt log-history-date" }, fmtStamp(hv.date)),
-                                chip(hv.type)))))));
-            }
+                atsIdCell(ev.job_id)));
+            if (open) body.push(historyRow(LOG_COLS.length, history, false));   // one posting: its id is the row's
         }
-        const colgroup = h("colgroup", {}, LOG_COLS.map(c =>
-            h("col", c.w ? { style: `width:${c.w}px` } : {})));
-        return h("div", { class: "tablewrap", style: heightPx ? `min-height:${heightPx}` : "" },
-            h("table", { class: "log-table" }, colgroup, h("thead", {}, head), h("tbody", {}, body)));
+        return fixedTable(LOG_COLS, head, body, heightPx);
     }
+
+    // ---- shared table / paging pieces (event log, republished, closed, recent movement) ----
+    const atsIdCell = id => h("td", { class: "ats-id", title: id || "" }, id || "");
+
+    function rowToggle(open, showTitle, onToggle) {
+        return h("button", {
+            class: "row-toggle" + (open ? " open" : ""),
+            title: open ? "Hide history" : showTitle,
+            "aria-label": "Toggle history",
+            onclick: e => { e.stopPropagation(); onToggle(); },
+        }, "▸");
+    }
+
+    // inline expanded row under a table row: one line per event (date, type, optionally its ATS id)
+    function historyRow(colspan, hist, withId) {
+        return h("tr", { class: "log-detail-row" },
+            h("td", { colspan },
+                h("ol", { class: "log-history" }, hist.map(hv =>
+                    h("li", {},
+                        h("span", { class: "dt log-history-date" }, fmtStamp(hv.date)),
+                        chip(hv.type),
+                        withId ? h("span", { class: "log-history-id", title: hv.job_id || "" }, hv.job_id || "") : null)))));
+    }
+
+    // fixed-layout table; cols carry pixel widths (w: 0 = flexible). minHeight reserves a full
+    // page so a short last page doesn't pull the pager up.
+    function fixedTable(cols, headCells, bodyRows, minHeight) {
+        return h("div", { class: "tablewrap", style: minHeight ? `min-height:${minHeight}` : "" },
+            h("table", { class: "log-table" },
+                h("colgroup", {}, cols.map(c => h("col", c.w ? { style: `width:${c.w}px` } : {}))),
+                h("thead", {}, h("tr", {}, headCells)),
+                h("tbody", {}, bodyRows)));
+    }
+    const plainHead = cols => cols.map(c => h("th", {}, c.label));
+
+    // clamp a page index into range and slice that page out of the list
+    function pageOf(list, page, size) {
+        const pages = Math.max(1, Math.ceil(list.length / size));
+        page = Math.min(Math.max(page, 0), pages - 1);
+        return { page, pages, shown: list.slice(page * size, page * size + size) };
+    }
+
+    // Prev / "a–b of n" / Next, or null when everything fits on one page
+    function pager(page, pages, size, total, onPage) {
+        if (pages < 2) return null;
+        return h("div", { class: "log-pager" },
+            h("button", { class: "mini-btn", disabled: page === 0, onclick: () => onPage(page - 1) }, "‹ Prev"),
+            h("span", { class: "log-pageinfo" }, `${page * size + 1}–${Math.min(total, (page + 1) * size)} of ${total}`),
+            h("button", { class: "mini-btn", disabled: page >= pages - 1, onclick: () => onPage(page + 1) }, "Next ›"));
+    }
+
+    // "Show 25" / "Show 10", offered once the list outgrows a 10-row page
+    function sizeToggle(size, total, onSize) {
+        return total > 10
+            ? h("button", { class: "mini-btn", onclick: () => onSize(size === 10 ? 25 : 10) }, size === 10 ? "Show 25" : "Show 10")
+            : null;
+    }
+    const present = list => list.filter(Boolean);
 
     // Overview map: one marker per resolved location, sized by open-role count.
     // Coordinates come from the committed geocache (data/geocache.json); the
@@ -330,8 +397,8 @@
             // "somewhere in this region", distinct from the blue on-site markers.
             const m = L.circleMarker([p.lat, p.lon], {
                 radius: r, weight: 1.5,
-                color: p.remote ? C.red : "#8fbcf2",
-                fillColor: p.remote ? C.red : "#3987e5",
+                color: p.remote ? C.red : C.blueRing,
+                fillColor: p.remote ? C.red : C.blue,
                 fillOpacity: p.remote ? 0.3 : 0.55,
             });
             const kind = p.remote ? "remote" : "open";
@@ -375,7 +442,7 @@
             ["Locations", new Set(jobs.map(j => j.location).filter(Boolean)).size],
             ["Remote roles", jobs.filter(j => j.is_remote).length],
             ["Tracking since", events.length ? fmtDate(events[0].date) : "n/a"],
-            ["Feed", `${state.source[0].toUpperCase()}${state.source.slice(1)} (public)`],
+            ["Feed", `${cap(state.source)} (public)`],
             ["ATS response", feedStatus],
             ["Last change", state.fetched_at ? fmtStamp(state.fetched_at) : "n/a"],
         ];
@@ -383,7 +450,7 @@
         document.getElementById("detail").replaceChildren(
             logoBox,
             h("dl", { class: "side-facts" },
-                cfg.website ? factRow("Homepage", h("a", { href: cfg.website, target: "_blank", rel: "noopener" },
+                safeUrl(cfg.website) ? factRow("Homepage", h("a", { href: safeUrl(cfg.website), target: "_blank", rel: "noopener" },
                     cfg.website.replace(/^https?:\/\/(www\.)?/, "").replace(/\/$/, ""))) : null,
                 ...Object.entries(cfg.facts || {}).map(([k, v]) => factRow(k, v)),
                 cfg.partners && cfg.partners.length
@@ -435,12 +502,12 @@
         // the role (lineage) has actually been republished. So several distinct, concurrent
         // roles that merely share a title+location never drag each other's severity — a
         // brand-new posting reads fresh even if an older sibling has lingered for months.
-        const sevFor = (publishedAt, reposts) =>
-            sevByDays(publishedAt ? Math.floor((Date.now() - Date.parse(publishedAt)) / 86400e3) : 0, reposts);
+        const nowMs = Date.now();
+        const sevFor = (publishedAt, reposts) => sevByDays(ageDays(publishedAt, nowMs), reposts);
         const jobSev = j => sevFor(j.published_at, republishesOf(j.lineage_key));
-        const eventSev = ev => ["opened", "closed", "republished", "initialized"].includes(ev.type)
+        const eventSev = ev => LIFECYCLE_TYPES.includes(ev.type)
             ? sevFor(ev.published_at, republishesOf(ev.lineage_key)) : null;
-        const sevCounts = Object.fromEntries(SEV.map(s => [s, jobs.filter(j => jobSev(j) === s).length]));
+        const sevCounts = tallySev(jobs, jobSev);
         // click a pill to filter the event log to that severity (multiple active)
         const logLegend = severityLegend(sevCounts, logSev, () => { logPage = 0; refreshLog(); });
 
@@ -476,7 +543,7 @@
             tiles);
 
         // --- current picture ---
-        const months = monthRange(events, jobs);
+        const months = monthRange(jobs);
         const perMonth = months.map(m => jobs.filter(j => monthKey(j.published_at) === m).length);
         const gridNow = h("div", { class: "chart-grid" },
             card("Postings published per month", "Publish dates of currently listed roles. Republishing refreshes the date.",
@@ -496,13 +563,18 @@
             const last = oot[oot.length - 1];
             if (+today > +last.t) oot.push({ t: today, v: last.v });
         }
-        const weekEvents = events.filter(e => ["opened", "closed", "republished"].includes(e.type));
-        const weeks = [...new Set(weekEvents.map(e => weekStart(e.date)))].sort().slice(-16);
+        const weekCounts = new Map();            // "week|type" -> count, one pass over the log
+        for (const e of events) {
+            if (!CHANGE_TYPES.includes(e.type)) continue;
+            const k = `${weekStart(e.date)}|${e.type}`;
+            weekCounts.set(k, (weekCounts.get(k) || 0) + 1);
+        }
+        const weeks = [...new Set([...weekCounts.keys()].map(k => k.split("|")[0]))].sort().slice(-16);
         const wkSeries = [
             { name: "opened", color: C.aqua },
             { name: "republished", color: C.yellow },
             { name: "closed", color: C.red },
-        ].map(s => ({ ...s, values: weeks.map(w => weekEvents.filter(e => e.type === s.name && weekStart(e.date) === w).length) }));
+        ].map(s => ({ ...s, values: weeks.map(w => weekCounts.get(`${w}|${s.name}`) || 0) }));
 
         const gridTime = h("div", { class: "chart-grid" },
             card("Open roles over time", "replayed from the event log, carried forward to today",
@@ -522,7 +594,7 @@
                     const bins = [["<1mo", 30], ["1-2mo", 60], ["2-3mo", 90], ["3-6mo", 180], ["6mo+", Infinity]];
                     const counts = bins.map(() => 0);
                     for (const e of closes) {
-                        const d = Math.max(0, Math.floor((Date.parse(e.date) - Date.parse(e.published_at)) / 86400e3));
+                        const d = Math.max(0, ageDays(e.published_at, Date.parse(e.date)));
                         counts[bins.findIndex(([, max]) => d < max)]++;
                     }
                     return Charts.columns(p, bins.map(([lab]) => lab), [{ name: "roles", color: C.blue, values: counts }]);
@@ -560,52 +632,29 @@
             const repControls = h("span", { class: "log-controls" });
             const refreshRep = () => {
                 const filtered = repeats.filter(repMatch);
-                const pages = Math.max(1, Math.ceil(filtered.length / repSize));
-                repPage = Math.min(Math.max(repPage, 0), pages - 1);
-                const shown = filtered.slice(repPage * repSize, repPage * repSize + repSize);
-                repBody.replaceChildren(h("div", { class: "tablewrap", style: `min-height:${bodyHeight(Math.min(repSize, filtered.length))}` },
-                    h("table", { class: "log-table" },
-                        h("colgroup", {}, REP_COLS.map(c => h("col", c.w ? { style: `width:${c.w}px` } : {}))),
-                        h("thead", {}, h("tr", {}, REP_COLS.map(c => h("th", {}, c.label)))),
-                        h("tbody", {}, shown.flatMap(([key, r]) => {
-                            const hist = historyByLineage.get(key) || [];
-                            const open = repOpen.has(key);
-                            const toggle = h("button", {
-                                class: "row-toggle" + (open ? " open" : ""),
-                                title: open ? "Hide history" : `Show posting history (${hist.length} events)`,
-                                "aria-label": "Toggle history",
-                                onclick: e => { e.stopPropagation(); repOpen.has(key) ? repOpen.delete(key) : repOpen.add(key); refreshRep(); },
-                            }, "▸");
-                            const rows = [h("tr", { class: "has-history" },
-                                h("td", { class: "wrap", title: r.title || "" },
-                                    toggle, h("span", { class: "chip republished" }, "republished"), " ", r.title),
-                                h("td", {}, r.location || ""),
-                                h("td", { class: "num" }, String(r.republishes + 1)),
-                                h("td", { class: "dt" }, fmtDate(r.first)),
-                                h("td", { class: "dt" }, fmtDate(r.last)),
-                                h("td", {}, h("span", { class: `chip ${openKeys.has(key) ? "opened" : "closed"}` },
-                                    openKeys.has(key) ? "open" : "closed")),
-                                h("td", { class: "ats-id", title: r.job_id || "" }, r.job_id || ""))];
-                            if (open) {
-                                rows.push(h("tr", { class: "log-detail-row" },
-                                    h("td", { colspan: REP_COLS.length },
-                                        h("ol", { class: "log-history" }, hist.map(hv =>
-                                            h("li", {},
-                                                h("span", { class: "dt log-history-date" }, fmtStamp(hv.date)),
-                                                chip(hv.type),
-                                                h("span", { class: "log-history-id", title: hv.job_id || "" }, hv.job_id || "")))))));
-                            }
-                            return rows;
-                        })))));
-                repControls.replaceChildren(...(filtered.length > 10 ? [h("button", {
-                    class: "mini-btn",
-                    onclick: () => { repSize = repSize === 10 ? 25 : 10; repPage = 0; refreshRep(); },
-                }, repSize === 10 ? "Show 25" : "Show 10")] : []));
-                repPager.replaceChildren(...(pages > 1 ? [h("div", { class: "log-pager" },
-                    h("button", { class: "mini-btn", disabled: repPage === 0, onclick: () => { repPage--; refreshRep(); } }, "‹ Prev"),
-                    h("span", { class: "log-pageinfo" },
-                        `${repPage * repSize + 1}–${Math.min(filtered.length, (repPage + 1) * repSize)} of ${filtered.length}`),
-                    h("button", { class: "mini-btn", disabled: repPage >= pages - 1, onclick: () => { repPage++; refreshRep(); } }, "Next ›"))] : []));
+                const pg = pageOf(filtered, repPage, repSize);
+                repPage = pg.page;
+                repBody.replaceChildren(fixedTable(REP_COLS, plainHead(REP_COLS), pg.shown.flatMap(([key, r]) => {
+                    const hist = historyByLineage.get(key) || [];
+                    const open = repOpen.has(key);
+                    const toggle = rowToggle(open, `Show posting history (${hist.length} events)`,
+                        () => { repOpen.has(key) ? repOpen.delete(key) : repOpen.add(key); refreshRep(); });
+                    const isOpen = openKeys.has(key);
+                    const rows = [h("tr", { class: "has-history" },
+                        h("td", { class: "wrap", title: r.title || "" }, toggle, chip("republished"), " ", r.title),
+                        h("td", {}, r.location || ""),
+                        h("td", { class: "num" }, String(r.republishes + 1)),
+                        h("td", { class: "dt" }, fmtDate(r.first)),
+                        h("td", { class: "dt" }, fmtDate(r.last)),
+                        h("td", {}, chip(isOpen ? "opened" : "closed", isOpen ? "open" : "closed")),
+                        atsIdCell(r.job_id))];
+                    if (open) rows.push(historyRow(REP_COLS.length, hist, true));   // a role may span several ids
+                    return rows;
+                }), bodyHeight(Math.min(repSize, filtered.length))));
+                repControls.replaceChildren(...present([
+                    sizeToggle(repSize, filtered.length, n => { repSize = n; repPage = 0; refreshRep(); })]));
+                repPager.replaceChildren(...present([
+                    pager(repPage, pg.pages, repSize, filtered.length, p => { repPage = p; refreshRep(); })]));
             };
             const repSearch = h("input", {
                 class: "log-search", type: "search", placeholder: "Filter republished roles…",
@@ -673,8 +722,9 @@
         function refreshLog() {
             const col = LOG_COLS[logSort.col];
             const decorated = allLogEvents
-                .filter(ev => matchQuery(ev) && (logSev.size === 0 || logSev.has(eventSev(ev))))
-                .map(ev => ({ ev, sev: eventSev(ev), history: historyByJob.get(ev.job_id) || [] }));
+                .filter(matchQuery)
+                .map(ev => ({ ev, sev: eventSev(ev), history: historyByJob.get(ev.job_id) || [] }))
+                .filter(r => logSev.size === 0 || logSev.has(r.sev));
             decorated.sort((a, b) => {
                 const va = col.val(a), vb = col.val(b);
                 return (va < vb ? -1 : va > vb ? 1 : 0) * logSort.dir;
@@ -684,30 +734,19 @@
             const filtering = logQuery.trim() || logSev.size;
             const modified = filtering || logSort.col !== ds.col || logSort.dir !== ds.dir;
 
-            const pages = Math.max(1, Math.ceil(total / logSize));
-            logPage = Math.min(Math.max(logPage, 0), pages - 1);
-            const shown = decorated.slice(logPage * logSize, logPage * logSize + logSize);
-            logBody.replaceChildren(logTable(shown, onSort, toggleRow, bodyHeight(Math.min(logSize, total))));
+            const pg = pageOf(decorated, logPage, logSize);
+            logPage = pg.page;
+            logBody.replaceChildren(logTable(pg.shown, onSort, toggleRow, bodyHeight(Math.min(logSize, total))));
 
-            logControls.replaceChildren(...[
-                total > 10 ? h("button", {
-                    class: "mini-btn",
-                    onclick: () => { logSize = logSize === 10 ? 25 : 10; logPage = 0; refreshLog(); },
-                }, logSize === 10 ? "Show 25" : "Show 10") : null,
-                modified ? h("button", {
-                    class: "mini-btn",
-                    onclick: () => { logQuery = ""; logSev = new Set(); logPage = 0; logSize = 10; logOpen = new Set(); logSort = defaultSort(); route(); },
-                }, "Reset") : null,
-            ].filter(Boolean));
+            logControls.replaceChildren(...present([
+                sizeToggle(logSize, total, n => { logSize = n; logPage = 0; refreshLog(); }),
+                // full re-render: the severity legend holds the active filter set, so it is rebuilt too
+                modified ? h("button", { class: "mini-btn", onclick: () => { resetLogState(); route(); } }, "Reset") : null,
+            ]));
 
             // bottom: Prev/Next pager, matching Closed roles (shown when more than one page)
-            bottomWrap.replaceChildren(...(pages > 1 ? [h("div", { class: "log-pager" },
-                h("button", { class: "mini-btn", disabled: logPage === 0,
-                    onclick: () => { logPage--; refreshLog(); } }, "‹ Prev"),
-                h("span", { class: "log-pageinfo" },
-                    `${logPage * logSize + 1}–${Math.min(total, (logPage + 1) * logSize)} of ${total}`),
-                h("button", { class: "mini-btn", disabled: logPage >= pages - 1,
-                    onclick: () => { logPage++; refreshLog(); } }, "Next ›"))] : []));
+            bottomWrap.replaceChildren(...present([
+                pager(logPage, pg.pages, logSize, total, p => { logPage = p; refreshLog(); })]));
         }
         const searchInput = h("input", {
             class: "log-search", type: "search", placeholder: "Filter by title…",
@@ -731,10 +770,13 @@
             .sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0));
         // days a posting was listed = publish date -> the poll that saw it drop out
         const daysListedNum = ev => (ev.published_at && ev.date)
-            ? Math.max(0, Math.floor((Date.parse(ev.date) - Date.parse(ev.published_at)) / 86400e3)) : 0;
+            ? Math.max(0, ageDays(ev.published_at, Date.parse(ev.date))) : 0;
         const daysListed = ev => (ev.published_at && ev.date) ? String(daysListedNum(ev)) : "";
-        // severity a role had WHEN IT CLOSED (from how long it was listed, not "now")
-        const closedSevOf = ev => sevByDays(daysListedNum(ev), republishesOf(ev.lineage_key));
+        // severity a role had WHEN IT CLOSED (from how long it was listed, not "now"); fixed per
+        // event, so it is computed once here rather than on every filter / render pass
+        const closedSevMap = new Map(closedAll.map(ev =>
+            [ev, sevByDays(daysListedNum(ev), republishesOf(ev.lineage_key))]));
+        const closedSevOf = ev => closedSevMap.get(ev);
         const CLOSED_COLS = [
             { label: "Closed", w: 150 }, { label: "Title", w: 0 }, { label: "Location", w: 118 },
             { label: "Severity", w: 92 }, { label: "Published", w: 196 }, { label: "Days listed", w: 112 },
@@ -745,7 +787,7 @@
             closedSection = h("section", {}, h("h2", {}, "Closed roles"),
                 h("p", { class: "caption" }, "No roles have closed since tracking began."));
         } else {
-            const closedSevCounts = Object.fromEntries(SEV.map(s => [s, closedAll.filter(ev => closedSevOf(ev) === s).length]));
+            const closedSevCounts = tallySev(closedAll, closedSevOf);
             const closedMatch = ev => {
                 const q = closedQuery.trim().toLowerCase();
                 return !q || (ev.title || "").toLowerCase().includes(q) || (ev.location || "").toLowerCase().includes(q)
@@ -757,30 +799,20 @@
             const refreshClosed = () => {
                 const filtered = closedAll.filter(ev =>
                     closedMatch(ev) && (closedSev.size === 0 || closedSev.has(closedSevOf(ev))));
-                const pages = Math.max(1, Math.ceil(filtered.length / closedSize));
-                closedPage = Math.min(Math.max(closedPage, 0), pages - 1);
-                const shown = filtered.slice(closedPage * closedSize, closedPage * closedSize + closedSize);
-                closedBody.replaceChildren(h("div", { class: "tablewrap", style: `min-height:${bodyHeight(Math.min(closedSize, filtered.length))}` },
-                    h("table", { class: "log-table" },
-                        h("colgroup", {}, CLOSED_COLS.map(c => h("col", c.w ? { style: `width:${c.w}px` } : {}))),
-                        h("thead", {}, h("tr", {}, CLOSED_COLS.map(c => h("th", {}, c.label)))),
-                        h("tbody", {}, shown.map(ev => h("tr", {},
-                            h("td", { class: "dt" }, fmtStamp(ev.date)),
-                            h("td", { class: "wrap", title: ev.title || "" }, jobLink(ev)),
-                            h("td", {}, ev.location || ""),
-                            h("td", {}, chip2(`sev-${closedSevOf(ev)}`, closedSevOf(ev))),
-                            h("td", { class: "dt" }, fmtPublished(ev.published_at)),
-                            h("td", { class: "num" }, daysListed(ev)),
-                            h("td", { class: "ats-id", title: ev.job_id || "" }, ev.job_id || "")))))));
-                closedControls.replaceChildren(...(filtered.length > 10 ? [h("button", {
-                    class: "mini-btn",
-                    onclick: () => { closedSize = closedSize === 10 ? 25 : 10; closedPage = 0; refreshClosed(); },
-                }, closedSize === 10 ? "Show 25" : "Show 10")] : []));
-                closedPager.replaceChildren(...(pages > 1 ? [h("div", { class: "log-pager" },
-                    h("button", { class: "mini-btn", disabled: closedPage === 0, onclick: () => { closedPage--; refreshClosed(); } }, "‹ Prev"),
-                    h("span", { class: "log-pageinfo" },
-                        `${closedPage * closedSize + 1}–${Math.min(filtered.length, (closedPage + 1) * closedSize)} of ${filtered.length}`),
-                    h("button", { class: "mini-btn", disabled: closedPage >= pages - 1, onclick: () => { closedPage++; refreshClosed(); } }, "Next ›"))] : []));
+                const pg = pageOf(filtered, closedPage, closedSize);
+                closedPage = pg.page;
+                closedBody.replaceChildren(fixedTable(CLOSED_COLS, plainHead(CLOSED_COLS), pg.shown.map(ev => h("tr", {},
+                    h("td", { class: "dt" }, fmtStamp(ev.date)),
+                    h("td", { class: "wrap", title: ev.title || "" }, jobLink(ev)),
+                    h("td", {}, ev.location || ""),
+                    h("td", {}, chip(`sev-${closedSevOf(ev)}`, closedSevOf(ev))),
+                    h("td", { class: "dt" }, fmtPublished(ev.published_at)),
+                    h("td", { class: "num" }, daysListed(ev)),
+                    atsIdCell(ev.job_id))), bodyHeight(Math.min(closedSize, filtered.length))));
+                closedControls.replaceChildren(...present([
+                    sizeToggle(closedSize, filtered.length, n => { closedSize = n; closedPage = 0; refreshClosed(); })]));
+                closedPager.replaceChildren(...present([
+                    pager(closedPage, pg.pages, closedSize, filtered.length, p => { closedPage = p; refreshClosed(); })]));
             };
             const closedSearch = h("input", {
                 class: "log-search", type: "search", placeholder: "Filter closed roles…",
@@ -799,41 +831,24 @@
         }
 
         // --- lingering vs reposting --- (each role: how long it has been alive vs times posted)
-        const nowMs = Date.now();
         const scatterPts = [...lineage.entries()].map(([key, r]) => {
             const open = openKeys.has(key);
             const hist = historyByLineage.get(key) || [];
             const start = Date.parse(r.first);
             const end = open ? nowMs : (hist.length ? Date.parse(hist[0].date) : nowMs);
-            return { x: Math.round((end - start) / 86400e3), y: r.republishes + 1, label: r.title,
+            return { x: Math.round((end - start) / DAY_MS), y: r.republishes + 1, label: r.title,
                 color: open ? C.blue : C.gray };
         }).filter(p => Number.isFinite(p.x) && p.x >= 0);
         // full-width, non-collapsible panel; rendered after attach (below) so it sizes to the real width
         const scatterPlot = h("div", { class: "plot" });
-        const scatterSection = h("section", {},
-            h("h2", {}, "Lingering vs reposting"),
-            h("div", { class: "pcard" },
-                h("h3", {}, "Role lifespan vs times posted"),
-                h("p", { class: "caption" },
-                    "each dot is a role, placed by days alive (x, log scale) and how many times it has been posted (rows). The dashed line sits at 90 days alive, the severity model's stale cutoff, and is centred so the four zones stay balanced. Top rows are reposted roles; top-right is long-lived and recycled."),
-                scatterPlot));
-
-        app.replaceChildren(...[
-            hero,
-            logSection,                                                   // event log up top
-            repSection,                                                   // republished roles — flagship view, above the graphs
-            h("section", {}, h("h2", {}, "Current picture"), gridNow),    // stat graphs below
-            h("section", {}, h("h2", {}, "Over time"), gridTime),
-            scatterSection,                                               // role lifespan vs repost count
-            closedSection,                                                // closed-jobs log at the bottom
-        ].filter(Boolean));
-
-        setupMap(mapEl, jobs);   // must run after the element is attached to the DOM
-        // render the scatter now that its plot is attached, so it uses the real (full) width
-        if (scatterPts.length < 3)
-            Charts.emptyNote(scatterPlot, "Not enough roles tracked yet to show a pattern.");
-        else
-            Charts.scatter(scatterPlot, scatterPts, {
+        const scatterCard = h("div", { class: "pcard" },
+            h("h3", {}, "Role lifespan vs times posted"),
+            h("p", { class: "caption" },
+                "each dot is a role, placed by days alive (x, log scale) and how many times it has been posted (rows). The dashed line sits at 90 days alive, the severity model's stale cutoff, and is centred so the four zones stay balanced. Top rows are reposted roles; top-right is long-lived and recycled."),
+            scatterPlot);
+        scatterCard._render = () => scatterPts.length < 3
+            ? Charts.emptyNote(scatterPlot, "Not enough roles tracked yet to show a pattern.")
+            : Charts.scatter(scatterPlot, scatterPts, {
                 xUnit: "d", xName: "days alive", yName: "times posted", height: 240,
                 legendItems: [{ name: "open", color: C.blue }, { name: "closed", color: C.gray }],
                 // y collapses onto three rows (bottom-first); "posted once" gets the bottom half
@@ -852,6 +867,21 @@
                     ],
                 },
             });
+        const scatterSection = h("section", {}, h("h2", {}, "Lingering vs reposting"), scatterCard);
+
+        app.replaceChildren(...[
+            hero,
+            logSection,                                                   // event log up top
+            repSection,                                                   // republished roles — flagship view, above the graphs
+            h("section", {}, h("h2", {}, "Current picture"), gridNow),    // stat graphs below
+            h("section", {}, h("h2", {}, "Over time"), gridTime),
+            scatterSection,                                               // role lifespan vs repost count
+            closedSection,                                                // closed-jobs log at the bottom
+        ].filter(Boolean));
+
+        setupMap(mapEl, jobs);   // must run after the element is attached to the DOM
+        // render the scatter now that its plot is attached, so it uses the real (full) width
+        scatterCard._render();
     }
 
     // ---- routing ----
@@ -896,8 +926,9 @@
     function relTime(iso) {
         // compare calendar days, not elapsed hours: an event from 8pm yesterday should read
         // "yesterday" this morning, not "today" until a full 24h has passed.
-        const midnight = ms => { const x = new Date(ms); x.setHours(0, 0, 0, 0); return +x; };
-        const d = Math.round((midnight(Date.now()) - midnight(Date.parse(iso))) / 86400e3);
+        // Days are counted in the active zone (local or UTC), matching every other timestamp.
+        const dayStart = ms => Date.parse(fmtStamp(new Date(ms).toISOString()).slice(0, 10) + "T00:00:00Z");
+        const d = Math.round((dayStart(Date.now()) - dayStart(Date.parse(iso))) / DAY_MS);
         if (d <= 0) return "today";
         if (d === 1) return "yesterday";
         if (d < 30) return `${d}d ago`;
@@ -906,25 +937,17 @@
     }
 
     function summarize(cfg, state, events) {
-        const reps = new Map();
-        let last = null, lastHc = null, changes = 0;
+        const reps = new Map();   // lineage_key -> republish count
+        let lastHc = null;
         for (const ev of events) {
             if (ev.type === "republished") reps.set(ev.lineage_key, (reps.get(ev.lineage_key) || 0) + 1);
-            if (["opened", "closed", "republished"].includes(ev.type)) {
-                changes++;
-                if (!last || ev.date > last) last = ev.date;
-            }
             if (ev.type === "headcount_manual") lastHc = ev.value;
         }
         const now = Date.now();
-        const sev = { fresh: 0, aging: 0, stale: 0, flagged: 0 };
-        for (const j of state.jobs) {
-            const days = j.published_at ? Math.floor((now - Date.parse(j.published_at)) / 86400e3) : 0;
-            sev[sevByDays(days, reps.get(j.lineage_key) || 0)]++;
-        }
-        // "repost pressure": how stale/recycled the roster reads — used to rank the cards
+        const sev = tallySev(state.jobs, j => sevByDays(ageDays(j.published_at, now), reps.get(j.lineage_key) || 0));
+        // "repost pressure": how stale/recycled the roster reads, used to rank the companies
         const score = sev.flagged * 3 + sev.stale * 2 + sev.aging;
-        return { cfg, jobs: state.job_count, sev, score, last, headcount: lastHc, changes };
+        return { cfg, jobs: state.job_count, sev, score, headcount: lastHc, reps };
     }
 
     const sevColor = s => tok({ fresh: "--st-good", aging: "--st-warning", stale: "--st-serious", flagged: "--st-critical" }[s]);
@@ -932,7 +955,9 @@
     function plainCard(title, caption, render) {
         const plot = h("div", { class: "plot" });
         render(plot);
-        return h("div", { class: "pcard" }, h("h3", {}, title), h("p", { class: "caption" }, caption), plot);
+        const c = h("div", { class: "pcard" }, h("h3", {}, title), h("p", { class: "caption" }, caption), plot);
+        c._render = () => render(plot);
+        return c;
     }
 
     function moveStat(n, label, color, activeType, onToggle) {
@@ -980,33 +1005,29 @@
             try { const { state, events } = await loadCompany(c.slug); return { cfg: c, state, events }; }
             catch { return { cfg: c, state: { jobs: [], job_count: 0 }, events: [] }; }
         }));
-        const rows = loaded.map(d => summarize(d.cfg, d.state, d.events))
-            .sort((a, b) => b.score - a.score || b.jobs - a.jobs);
+        for (const d of loaded) d.summary = summarize(d.cfg, d.state, d.events);
+        const rows = loaded.map(d => d.summary).sort((a, b) => b.score - a.score || b.jobs - a.jobs);
 
-        // last-updated = the freshest snapshot timestamp across all companies
+        // the bot's last run time (index.json polled_at), same stamp as on the company pages
         const homeMeta = document.getElementById("poll-meta");
         homeMeta.classList.remove("feed-down");
         homeMeta.textContent = polledAt ? `Last bot run: ${fmtStamp(polledAt)} ${zoneLabel()}` : "";
 
-        const tot = { fresh: 0, aging: 0, stale: 0, flagged: 0 };
-        let open = 0, changes = 0;
-        for (const r of rows) { open += r.jobs; changes += r.changes || 0; for (const s of SEV) tot[s] += r.sev[s]; }
-        const concern = tot.stale + tot.flagged;
+        const tot = Object.fromEntries(SEV.map(s => [s, 0]));
+        for (const r of rows) for (const s of SEV) tot[s] += r.sev[s];
 
         // ---- recent movement (day / week window, paginated, expandable to 25) ----
         const mvAll = [];
         for (const d of loaded) {
-            const reps = new Map();   // lineage_key -> republish count, for "times published"
+            const reps = d.summary.reps;   // for "times published"
             for (const e of d.events)
-                if (e.type === "republished") reps.set(e.lineage_key, (reps.get(e.lineage_key) || 0) + 1);
-            for (const e of d.events)
-                if (["opened", "closed", "republished"].includes(e.type))
+                if (CHANGE_TYPES.includes(e.type))
                     mvAll.push({ type: e.type, title: e.title, date: e.date, company: d.cfg.name || d.cfg.slug,
                         slug: d.cfg.slug, url: e.url, location: e.location, times: (reps.get(e.lineage_key) || 0) + 1 });
         }
-        mvAll.sort((a, b) => (a.date < b.date ? 1 : -1));
+        mvAll.sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0));   // newest first
 
-        const MV_WINDOWS = { day: 86400e3, week: 7 * 86400e3 };
+        const MV_WINDOWS = { day: DAY_MS, week: 7 * DAY_MS };
         const MV_ROW = 32;                     // must match .move-feed li height in the CSS
         const mvCompanies = loaded.map(d => d.cfg.name || d.cfg.slug).sort((a, b) => a.localeCompare(b));
         let mvWin = "day", mvPage = 0, mvSize = 10, mvCompany = "", mvQuery = "", mvType = "";
@@ -1040,15 +1061,14 @@
                 moveStat(count("republished"), "republished", sevColor("aging"), mvType, toggleType),
                 moveStat(count("closed"), "closed", sevColor("flagged"), mvType, toggleType));
 
-            const pages = Math.max(1, Math.ceil(total / mvSize));
-            mvPage = Math.min(Math.max(mvPage, 0), pages - 1);
-            const shown = list.slice(mvPage * mvSize, mvPage * mvSize + mvSize);
+            const pg = pageOf(list, mvPage, mvSize);
+            mvPage = pg.page;
 
             if (total) {
                 // reserve a whole page of height so the footer never jumps on a short last page
                 mvBody.style.minHeight = `${Math.min(mvSize, total) * MV_ROW}px`;
-                mvBody.replaceChildren(h("ul", { class: "move-feed" }, shown.map(f => h("li", {},
-                    h("span", { class: `chip ${f.type}` }, f.type),
+                mvBody.replaceChildren(h("ul", { class: "move-feed" }, pg.shown.map(f => h("li", {},
+                    chip(f.type),
                     f.type !== "closed" && safeUrl(f.url)
                         ? h("a", { class: "mf-role", href: safeUrl(f.url), target: "_blank", rel: "noopener" }, f.title)
                         : h("span", { class: "mf-role", title: f.type === "closed" ? "this role has since closed" : "" }, f.title),
@@ -1061,22 +1081,14 @@
                 mvBody.style.minHeight = "";
                 mvBody.replaceChildren(h("p", { class: "caption" },
                     mvCompany || mvQuery || mvType
-                        ? `No matching changes in the ${mvWin === "day" ? "last 24 hours" : "last 7 days"}.`
-                        : mvWin === "day" ? "No changes in the last 24 hours." : "No changes logged in the last 7 days."));
+                        ? `No matching changes in the ${win}.`
+                        : `No changes in the ${win}.`));
             }
 
-            mvFoot.replaceChildren(...[
-                total > 10 ? h("button", { class: "mini-btn",
-                    onclick: () => { mvSize = mvSize === 10 ? 25 : 10; mvPage = 0; refreshMovement(); },
-                }, mvSize === 10 ? "Show 25" : "Show 10") : null,
-                pages > 1 ? h("div", { class: "log-pager" },
-                    h("button", { class: "mini-btn", disabled: mvPage === 0,
-                        onclick: () => { mvPage--; refreshMovement(); } }, "‹ Prev"),
-                    h("span", { class: "log-pageinfo" },
-                        `${mvPage * mvSize + 1}–${Math.min(total, (mvPage + 1) * mvSize)} of ${total}`),
-                    h("button", { class: "mini-btn", disabled: mvPage >= pages - 1,
-                        onclick: () => { mvPage++; refreshMovement(); } }, "Next ›")) : null,
-            ].filter(Boolean));
+            mvFoot.replaceChildren(...present([
+                sizeToggle(mvSize, total, n => { mvSize = n; mvPage = 0; refreshMovement(); }),
+                pager(mvPage, pg.pages, mvSize, total, p => { mvPage = p; refreshMovement(); }),
+            ]));
         }
 
         const mvSeg = h("div", { class: "seg-toggle" }, ["day", "week"].map(w => {
@@ -1149,7 +1161,7 @@
         paint();
         btn.addEventListener("click", () => {
             tzMode = tzMode === "utc" ? "local" : "utc";
-            localStorage.setItem("rw-tz", tzMode);
+            store.set("rw-tz", tzMode);
             _fmtCache = {};              // active zone changed; drop the cached formatter
             paint();
             route();                     // re-render current view with the new zone
@@ -1162,48 +1174,56 @@
         if (!cv) return;
         const ctx = cv.getContext("2d");
         const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
-        const N = 130, R = 145;
-        let w, h, pts;
+        const N = 130, R = 145, R2 = R * R;
+        // links fade with distance; bucketing the fade into a few alpha steps lets each step be
+        // stroked as one path, instead of one beginPath/stroke per link (thousands per frame)
+        const BUCKETS = 6;
+        const bucketStyle = Array.from({ length: BUCKETS }, (_, k) =>
+            `rgba(0,170,255,${(0.15 * (1 - (k + 0.5) / BUCKETS)).toFixed(3)})`);
+        let cw, ch, pts;
         const seed = () => {
-            w = cv.width = innerWidth; h = cv.height = innerHeight;
+            cw = cv.width = innerWidth; ch = cv.height = innerHeight;
             pts = Array.from({ length: N }, () => ({
-                x: Math.random() * w, y: Math.random() * h,
+                x: Math.random() * cw, y: Math.random() * ch,
                 vx: (Math.random() - 0.5) * 0.14, vy: (Math.random() - 0.5) * 0.14,
             }));
         };
-        seed();
-        let rt = null;
-        addEventListener("resize", () => { clearTimeout(rt); rt = setTimeout(seed, 200); });
         const draw = () => {
-            ctx.clearRect(0, 0, w, h);
+            ctx.clearRect(0, 0, cw, ch);
             for (const p of pts) {
                 if (!reduce) { p.x += p.vx; p.y += p.vy; }
-                if (p.x < 0 || p.x > w) p.vx *= -1;
-                if (p.y < 0 || p.y > h) p.vy *= -1;
+                if (p.x < 0 || p.x > cw) p.vx *= -1;
+                if (p.y < 0 || p.y > ch) p.vy *= -1;
             }
+            const paths = Array.from({ length: BUCKETS }, () => new Path2D());
+            ctx.fillStyle = "rgba(120,180,255,0.55)";
             for (let i = 0; i < N; i++) {
                 const a = pts[i];
-                ctx.fillStyle = "rgba(120,180,255,0.55)";
                 ctx.fillRect(a.x, a.y, 1.4, 1.4);
                 for (let j = i + 1; j < N; j++) {
-                    const b = pts[j], d = Math.hypot(a.x - b.x, a.y - b.y);
-                    if (d < R) {
-                        ctx.strokeStyle = `rgba(0,170,255,${0.15 * (1 - d / R)})`;
-                        ctx.lineWidth = 1;
-                        ctx.beginPath(); ctx.moveTo(a.x, a.y); ctx.lineTo(b.x, b.y); ctx.stroke();
+                    const b = pts[j], dx = a.x - b.x, dy = a.y - b.y, d2 = dx * dx + dy * dy;
+                    if (d2 < R2) {
+                        const path = paths[Math.min(BUCKETS - 1, Math.floor(Math.sqrt(d2) / R * BUCKETS))];
+                        path.moveTo(a.x, a.y); path.lineTo(b.x, b.y);
                     }
                 }
             }
+            ctx.lineWidth = 1;
+            paths.forEach((path, k) => { ctx.strokeStyle = bucketStyle[k]; ctx.stroke(path); });
             if (!reduce) requestAnimationFrame(draw);
         };
+        seed();
         draw();
+        let rt = null;
+        // resizing the canvas clears it; the animated loop repaints on its own, a static one must redraw
+        addEventListener("resize", () => { clearTimeout(rt); rt = setTimeout(() => { seed(); if (reduce) draw(); }, 200); });
     }
 
     async function init() {
         initBackground();
         const [index, geo] = await Promise.all([
-            fetch("data/index.json").then(r => r.json()),
-            fetch("data/geocache.json").then(r => r.json()).catch(() => ({ locations: {} })),
+            fetchOk("data/index.json").then(r => r.json()),
+            fetchOk("data/geocache.json").then(r => r.json()).catch(() => ({ locations: {} })),
         ]);
         companies = index.companies;
         polledAt = index.polled_at || null;
@@ -1211,13 +1231,23 @@
         buildRail();          // persistent left company rail, built once; route() toggles the active chip
         initTz();
         addEventListener("hashchange", () => {
-            logQuery = ""; logSev = new Set(); logPage = 0; logSize = 10; logOpen = new Set(); logSort = defaultSort();
+            resetLogState();
             closedQuery = ""; closedPage = 0; closedSev = new Set(); closedSize = 10;
             repQuery = ""; repPage = 0; repSize = 10; repOpen = new Set();
             route();
         });
-        let rt = null;
-        addEventListener("resize", () => { clearTimeout(rt); rt = setTimeout(route, 200); });
+        // charts size to their container, so a width change redraws them in place. No full
+        // route(): that would rebuild the map and reset filters, paging and search focus.
+        // Height-only resizes (a mobile keyboard opening) leave the charts alone.
+        let rt = null, lastW = innerWidth;
+        addEventListener("resize", () => {
+            clearTimeout(rt);
+            rt = setTimeout(() => {
+                if (innerWidth === lastW) return;
+                lastW = innerWidth;
+                for (const n of document.querySelectorAll("#app .card, #app .pcard")) n._render && n._render();
+            }, 200);
+        });
         await route();
     }
 

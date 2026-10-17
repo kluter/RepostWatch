@@ -12,12 +12,9 @@ flagged honestly, with the claim recorded as its own event.
 
 import argparse
 import json
-from datetime import datetime, timezone
-from pathlib import Path
+from datetime import date, datetime, timezone
 
-from poll import norm
-
-DATA_DIR = Path(__file__).resolve().parent / "data"
+from poll import DATA_DIR, make_lineage_key
 
 
 def main() -> None:
@@ -30,9 +27,14 @@ def main() -> None:
     p.add_argument("--note", default="", help="optional free-text remark")
     args = p.parse_args()
 
+    try:
+        date.fromisoformat(args.first_seen)
+    except ValueError:
+        raise SystemExit(f"--first-seen {args.first_seen!r} is not an ISO date (e.g. 2026-02-01)")
+
     events_path = DATA_DIR / args.company / "events.jsonl"
     if not events_path.parent.is_dir():
-        raise SystemExit(f"unknown company {args.company!r} — no {events_path.parent} directory")
+        raise SystemExit(f"unknown company {args.company!r}: no {events_path.parent} directory")
 
     ev = {
         "date": datetime.now(timezone.utc).isoformat(timespec="seconds"),
@@ -40,7 +42,7 @@ def main() -> None:
         "company": args.company,
         "title": args.title,
         "location": args.location,
-        "lineage_key": f"{norm(args.title)}@{norm(args.location)}",
+        "lineage_key": make_lineage_key(args.title, args.location),
         "first_seen": args.first_seen,
         "source": args.source,
     }

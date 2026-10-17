@@ -24,6 +24,7 @@
 
     /* series / event-type colors (validated dark categorical steps) */
     --s-blue:   #3987e5;   /* primary magnitude hue */
+    --s-blue-ring: #8fbcf2; /* light outline around blue map markers */
     --s-aqua:   #199e70;   /* opened */
     --s-yellow: #c98500;   /* republished */
     --s-red:    #e66767;   /* closed */
@@ -57,8 +58,9 @@ body {
     position: sticky; top: 0; z-index: 50;
 }
 .brand {
-    width: 260px; flex-shrink: 0; box-sizing: border-box; padding-left: 16px;
+    width: 260px; flex-shrink: 0; padding-left: 16px;
     display: flex; align-items: center; gap: 10px;
+    text-decoration: none; color: inherit;
 }
 .brand img { height: 22px; width: auto; display: block; }
 .brand h1 { margin: 0; font-size: 17px; font-weight: 700; color: #fff; letter-spacing: 0.3px; }
@@ -93,7 +95,7 @@ body {
     position: relative; min-height: 380px;
     background: var(--panel-2); border: 1px solid var(--border);
     border-radius: 6px; overflow: hidden;
-    isolation: isolate;   /* contain Leaflet's z-index (panes/controls up to 1000) so the navbar dropdown stays on top */
+    isolation: isolate;   /* contain Leaflet's z-index (panes/controls up to 1000) below the sticky navbar */
 }
 #map { position: absolute; inset: 0; background: #0c0f13; }
 .map-badge {
@@ -222,8 +224,7 @@ section h2 {
     margin: 0 0 10px 2px;
 }
 
-/* ---- STAT TILES ---- */
-#tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; }
+/* ---- STAT TILES ---- (laid out by .hero #tiles above) */
 .tile {
     background: var(--panel); border: 1px solid var(--border); border-radius: 6px;
     padding: 12px 14px;
@@ -248,13 +249,14 @@ section h2 {
 .card:not(.expanded):hover { transform: translateY(-3px); border-color: var(--accent); }
 .card.expanded { flex-grow: 2.4; cursor: default; border-color: var(--border-2); }
 .card .card-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 8px; }
-.card h3 { margin: 0 0 2px; font-size: 13px; font-weight: 600; color: var(--text); }
-.card .caption { font-size: 11.5px; color: var(--muted); margin: 2px 0 12px; line-height: 1.55; }
+/* shared by the collapsible .card and the plain .pcard */
+.card h3, .pcard h3 { margin: 0 0 2px; font-size: 13px; font-weight: 600; color: var(--text); }
+.card .caption, .pcard .caption { font-size: 11.5px; color: var(--muted); margin: 2px 0 12px; line-height: 1.55; }
+.card .plot, .pcard .plot { position: relative; }
+.card svg, .pcard svg { display: block; width: 100%; }
 .card .expand-hint { width: 13px; height: 13px; color: var(--faint); flex-shrink: 0; pointer-events: none; }
 .card:hover .expand-hint { color: var(--text-2); }
 .card.expanded .expand-hint { color: var(--accent); }
-.card .plot { position: relative; }
-.card svg { display: block; width: 100%; }
 .empty-note {
     display: flex; align-items: center; justify-content: center;
     min-height: 120px; color: var(--faint); font-size: 11.5px;
@@ -398,7 +400,7 @@ th.sortable .sort-arrow { color: var(--accent); margin-left: 4px; font-size: 9px
 /* ---- TABLES ---- */
 .tablewrap { overflow-x: auto; border: 1px solid var(--border); border-radius: 6px; background: var(--panel); }
 table { border-collapse: collapse; width: 100%; font-size: 12px; }
-th, td { text-align: left; padding: 6px 12px; border-top: 1px solid var(--border-2); border-top-color: var(--border); white-space: nowrap; }
+th, td { text-align: left; padding: 6px 12px; border-top: 1px solid var(--border); white-space: nowrap; }
 thead th {
     border-top: none; background: var(--panel-2);
     font-size: 10px; text-transform: uppercase; letter-spacing: 0.06em;
@@ -411,25 +413,12 @@ td a { color: var(--text); text-decoration: none; }
 td a:hover { color: var(--accent); }
 .dt { font-variant-numeric: tabular-nums; color: var(--text-2); }
 
-/* log controls */
-#log-toggle {
-    margin-top: 8px;
-    background: var(--raise); color: #ccc; border: 1px solid var(--border-2);
-    padding: 5px 12px; border-radius: 4px; cursor: pointer; font-size: 11px;
-    transition: background 0.15s, color 0.15s;
-}
-#log-toggle:hover { background: #2a2a2a; color: #fff; }
-
-
 @media (max-width: 640px) {
     #poll-meta { display: none; }
     .brand h1 { font-size: 15px; }
 }
 
 /* ---- OVERVIEW HOME ---- */
-a.brand { text-decoration: none; color: inherit; }
-
-
 .home-cards-head { display: flex; align-items: baseline; flex-wrap: wrap; gap: 4px 10px; margin: 0 2px 9px; }
 .home-cards-head h2 { margin: 0; }
 .home-cards-head .caption { font-size: 11.5px; color: var(--muted); }
@@ -499,10 +488,6 @@ a.mf-co:hover { color: var(--accent); text-decoration: underline; }
 
 .home-charts { display: flex; flex-direction: column; gap: 12px; margin-bottom: 6px; }
 .pcard { background: var(--panel); border: 1px solid var(--border); border-radius: 6px; padding: 12px 14px; min-width: 0; }
-.pcard h3 { margin: 0 0 2px; font-size: 13px; font-weight: 600; color: var(--text); }
-.pcard .caption { font-size: 11.5px; color: var(--muted); margin: 2px 0 12px; line-height: 1.5; }
-.pcard .plot { position: relative; }
-.pcard svg { display: block; width: 100%; }
 .pcard .sevbar-track { height: 16px; margin-top: 2px; }
 .pcard .sevbar-legend { margin-top: 12px; }
 

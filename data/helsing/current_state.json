@@ -2,7 +2,7 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-10-19T17:07:48+00:00",
+ "fetched_at": "2026-10-19T21:14:12+00:00",
  "job_count": 155,
  "jobs": [
   {
@@ -37,8 +37,8 @@
   },
   {
    "job_id": "4334842101",
-   "lineage_key": "ai-research-engineer-computer-vision@berlin",
-   "title": "AI Research Engineer -  Computer Vision",
+   "lineage_key": "staff-ai-research-engineer-computer-vision@berlin",
+   "title": "Staff AI Research Engineer -  Computer Vision",
    "department": "AI & Engineering",
    "team": "",
    "location": "Berlin",

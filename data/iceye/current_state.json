@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-19T17:07:48+00:00",
- "job_count": 193,
+ "fetched_at": "2026-10-19T21:14:12+00:00",
+ "job_count": 194,
  "jobs": [
   {
    "job_id": "01edf520-e6e9-4b3e-bc57-5886e694b6b8",
@@ -426,6 +426,21 @@
    "published_at": "2026-08-21T12:08:47.716+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/21b391ff-d574-48ec-8ca6-2bc0b97e9dd8",
    "description_sha256": "9efadeb4704765e03ff78324047ad3cd31e8e25ddb46a8edee6d379b1ec49fe6"
+  },
+  {
+   "job_id": "28910d93-1651-4b52-b724-02bd48024027",
+   "lineage_key": "open-application-global-manufacturing-operations-gmo@espoo",
+   "title": "Open Application: Global Manufacturing Operations (GMO)",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-19T18:16:53.357+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/28910d93-1651-4b52-b724-02bd48024027",
+   "description_sha256": "80998635e99b69c0457c0d468fe71777fa308fab68669754deb0fdbc3799d7b3"
   },
   {
    "job_id": "28d99ffd-28dc-48a1-adc8-dd6da0552f89",

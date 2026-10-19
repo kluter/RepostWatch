@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-10-19T17:07:48+00:00",
- "job_count": 123,
+ "fetched_at": "2026-10-19T21:14:12+00:00",
+ "job_count": 125,
  "jobs": [
   {
    "job_id": "7374533",
@@ -1683,6 +1683,36 @@
    "is_remote": false,
    "published_at": "2026-10-07T07:11:25-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8255417",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8258316",
+   "lineage_key": "eu-regulatory-licensing-spectrum-manager@berlin-germany",
+   "title": "EU Regulatory Licensing & Spectrum Manager",
+   "department": "Regulatory & Compliance",
+   "team": "",
+   "location": "Berlin, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-19T15:14:52-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8258316",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8258424",
+   "lineage_key": "eu-regulatory-licensing-spectrum-manager@haarlem-netherlands",
+   "title": "EU Regulatory Licensing & Spectrum Manager",
+   "department": "Regulatory & Compliance",
+   "team": "",
+   "location": "Haarlem, Netherlands",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-19T15:14:50-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8258424",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

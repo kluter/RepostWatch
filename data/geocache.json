@@ -659,6 +659,11 @@
    "lat": 42.3315509,
    "lon": -83.0466403,
    "label": "Detroit"
+  },
+  "sao paulo": {
+   "lat": -23.5506507,
+   "lon": -46.6333824,
+   "label": "São Paulo"
   }
  }
 }

@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-10-16T14:58:43+00:00",
- "job_count": 156,
+ "fetched_at": "2026-10-19T17:07:48+00:00",
+ "job_count": 155,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -1011,21 +1011,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4923741101",
-   "lineage_key": "staff-software-engineer@berlin",
-   "title": "Staff Software Engineer",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-09T08:55:59-04:00",
-   "url": "https://helsing.ai/jobs/4923741101?gh_jid=4923741101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4923775101",
    "lineage_key": "prototyping-engineer@london",
    "title": "Prototyping Engineer",
@@ -1143,21 +1128,6 @@
    "is_remote": false,
    "published_at": "2026-07-16T10:13:01-04:00",
    "url": "https://helsing.ai/jobs/4929769101?gh_jid=4929769101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4934651101",
-   "lineage_key": "lead-legal-counsel-corporate-office@munich",
-   "title": "Lead Legal Counsel Corporate Office",
-   "department": "Legal",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-04T05:15:04-04:00",
-   "url": "https://helsing.ai/jobs/4934651101?gh_jid=4934651101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -2343,6 +2313,21 @@
    "is_remote": false,
    "published_at": "2026-10-13T10:15:05-04:00",
    "url": "https://helsing.ai/jobs/5004102101?gh_jid=5004102101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5010206101",
+   "lineage_key": "configuration-bom-engineer@washington-dc",
+   "title": "Configuration & BOM Engineer",
+   "department": "Hardware Engineering",
+   "team": "",
+   "location": "Washington, DC",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-19T11:34:03-04:00",
+   "url": "https://helsing.ai/jobs/5010206101?gh_jid=5010206101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

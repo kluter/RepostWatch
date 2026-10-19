@@ -2,7 +2,7 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-10-16T19:41:35+00:00",
+ "fetched_at": "2026-10-19T17:07:48+00:00",
  "job_count": 99,
  "jobs": [
   {
@@ -129,8 +129,8 @@
   },
   {
    "job_id": "15474088-c317-42ba-bb01-502a4b1617d3",
-   "lineage_key": "senior-data-visualisation-engineer@london",
-   "title": "Senior Data Visualisation Engineer",
+   "lineage_key": "senior-creative-technologist@london",
+   "title": "Senior Creative Technologist",
    "department": "Product",
    "team": "Product Data Platform",
    "location": "London",
@@ -156,6 +156,21 @@
    "published_at": "2026-02-24T21:59:01.795000+00:00",
    "url": "https://jobs.lever.co/kpler/1632bc19-f4dc-4103-bd5f-5a8eecab1480",
    "description_sha256": "0c635f6e5b1d0ec67f6d4c3f2513198fe63a50acce7ad9bcd166b394bb9dd5de"
+  },
+  {
+   "job_id": "187966a4-ec74-4e60-94ee-016ffdb95d11",
+   "lineage_key": "backend-engineer@united-kingdom",
+   "title": "Backend Engineer",
+   "department": "Engineering",
+   "team": "Engineering Maritime & Logistic",
+   "location": "United Kingdom",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-08T17:28:41.185000+00:00",
+   "url": "https://jobs.lever.co/kpler/187966a4-ec74-4e60-94ee-016ffdb95d11",
+   "description_sha256": "ba6aecdc741f5ee31404ff3e387e1de0cf90439a94514d162866e880450aa612"
   },
   {
    "job_id": "1c976953-88d4-4487-9c56-2b8ff2587857",
@@ -321,21 +336,6 @@
    "published_at": "2026-09-18T09:44:31.522000+00:00",
    "url": "https://jobs.lever.co/kpler/3c351162-0b2f-4670-b03f-5954b50a02c1",
    "description_sha256": "3b7ba0e35c4ffbacfc4ead13bd4ad3b3a33cde03ebb2ad716e5012f6d09eabec"
-  },
-  {
-   "job_id": "3ecd5553-5c3b-47d7-ae7d-87aba22499d2",
-   "lineage_key": "back-end-engineer@athens",
-   "title": "Back-End Engineer",
-   "department": "Engineering",
-   "team": "Engineering Maritime & Logistic",
-   "location": "Athens",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-08-18T16:07:26.440000+00:00",
-   "url": "https://jobs.lever.co/kpler/3ecd5553-5c3b-47d7-ae7d-87aba22499d2",
-   "description_sha256": "839e7b337ead0e36592253a1aa0406617c241a0d7604b57e5b885c4016eb66a6"
   },
   {
    "job_id": "401edb1b-674a-4278-9fee-3f35fa6384d4",
@@ -617,23 +617,6 @@
    "published_at": "2026-09-11T16:07:38.635000+00:00",
    "url": "https://jobs.lever.co/kpler/6ac79b30-6b3b-4934-a603-7a5ed57fa379",
    "description_sha256": "2c1c31f8e9162562cdffd7fc41c710f8734959155b6b502feeb05c3b6da38ca9"
-  },
-  {
-   "job_id": "6d6323a2-ae4e-4b80-896c-bb9ca9648343",
-   "lineage_key": "ais-tech-support-agent@vietnam",
-   "title": "AIS Tech Support Agent",
-   "department": "Product",
-   "team": "AIS",
-   "location": "Vietnam",
-   "secondary_locations": [
-    "Manila"
-   ],
-   "employment_type": "",
-   "workplace_type": "remote",
-   "is_remote": true,
-   "published_at": "2026-09-04T11:53:19.050000+00:00",
-   "url": "https://jobs.lever.co/kpler/6d6323a2-ae4e-4b80-896c-bb9ca9648343",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
    "job_id": "6ed49864-cc93-4a22-8dad-d6ba55883e4d",
@@ -1174,6 +1157,21 @@
    "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
+   "job_id": "bc4338ab-5392-4b2b-bdc7-13ad466ad911",
+   "lineage_key": "fullstack-engineer@united-kingdom",
+   "title": "Fullstack Engineer",
+   "department": "Engineering",
+   "team": "Engineering Maritime & Logistic",
+   "location": "United Kingdom",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-19T08:15:05.284000+00:00",
+   "url": "https://jobs.lever.co/kpler/bc4338ab-5392-4b2b-bdc7-13ad466ad911",
+   "description_sha256": "245f9e3bfc1716266b8cd52bb00e68e65d7065bd32ff78955a4ffeeecc0d9d5a"
+  },
+  {
    "job_id": "c1c461f8-b95a-49ab-ad43-f8b519e59778",
    "lineage_key": "product-designer-mobile@athens",
    "title": "Product Designer - Mobile",
@@ -1234,21 +1232,6 @@
    "published_at": "2026-04-21T09:56:12.230000+00:00",
    "url": "https://jobs.lever.co/kpler/c84729bc-bd8b-404c-9d04-c0a9f49c5513",
    "description_sha256": "0fda6ebd03b77f10041f23e164011488225b26a00f011ccd89b2c94c35e651d2"
-  },
-  {
-   "job_id": "cb46dda8-a36f-4d77-b9f3-90ec61f0d1d4",
-   "lineage_key": "junior-market-data-analyst-chartering@united-kingdom",
-   "title": "Junior Market Data Analyst – Chartering",
-   "department": "Business Units",
-   "team": "Chartering & Inbox",
-   "location": "United Kingdom",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-08-24T15:22:10.222000+00:00",
-   "url": "https://jobs.lever.co/kpler/cb46dda8-a36f-4d77-b9f3-90ec61f0d1d4",
-   "description_sha256": "9156b6f51c00938b0b5293bf41f529745fbac890ba5e2872bf4c3caf44cd05dd"
   },
   {
    "job_id": "d2ae744f-9539-4e0d-9d42-6014001833fc",
@@ -1423,11 +1406,11 @@
   },
   {
    "job_id": "ee3ad1a8-7c6c-4633-9d4f-4116621037d9",
-   "lineage_key": "commercial-manager-commodities-financials-latam@brazil",
+   "lineage_key": "commercial-manager-commodities-financials-latam@sao-paulo",
    "title": "Commercial Manager — Commodities & Financials - LATAM",
    "department": "Commercial",
    "team": "Sales - Mid Market Americas",
-   "location": "Brazil",
+   "location": "Sao Paulo",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "hybrid",
@@ -1465,6 +1448,21 @@
    "published_at": "2026-09-24T12:03:40.894000+00:00",
    "url": "https://jobs.lever.co/kpler/f00d81b8-332d-40fd-89bc-2e90ea26931f",
    "description_sha256": "2732114b5d9f14a98ad202299f856a7251a73ead677614105bd5fece637ea819"
+  },
+  {
+   "job_id": "f317019a-942b-4280-8699-e1f19084effe",
+   "lineage_key": "fullstack-engineer@greece",
+   "title": "Fullstack Engineer",
+   "department": "Engineering",
+   "team": "Engineering Maritime & Logistic",
+   "location": "Greece",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-19T08:16:30.599000+00:00",
+   "url": "https://jobs.lever.co/kpler/f317019a-942b-4280-8699-e1f19084effe",
+   "description_sha256": "245f9e3bfc1716266b8cd52bb00e68e65d7065bd32ff78955a4ffeeecc0d9d5a"
   },
   {
    "job_id": "f36c44e8-c742-43c8-8e68-3dd27d934e07",

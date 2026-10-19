@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-10-16T19:41:35+00:00",
- "job_count": 119,
+ "fetched_at": "2026-10-19T17:07:48+00:00",
+ "job_count": 122,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -1491,6 +1491,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4998743101",
+   "lineage_key": "director-marketing-branding-f-m-d@parsdorf-bavaria-germany",
+   "title": "Director Marketing & Branding (f/m/d)",
+   "department": "Commercial",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-08T09:04:37-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4998743101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4998952101",
    "lineage_key": "principal-system-architect-spectrum-m-f-d@parsdorf-bavaria-germany",
    "title": "Principal System Architect, Spectrum (m/f/d)",
@@ -1533,21 +1548,6 @@
    "is_remote": false,
    "published_at": "2026-10-07T06:43:24-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4999579101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4999746101",
-   "lineage_key": "pr-manager-f-m-d@parsdorf-bavaria-germany",
-   "title": "PR Manager (f/m/d)",
-   "department": "CEO Office",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-08T02:14:58-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4999746101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1788,6 +1788,51 @@
    "is_remote": false,
    "published_at": "2026-10-16T11:31:58-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5008931101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5009959101",
+   "lineage_key": "lca-environmental-data-specialist-f-m-d@parsdorf-bavaria-germany",
+   "title": "LCA & Environmental Data Specialist (f/m/d)",
+   "department": "Infrastructure, Safety & Service",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-19T09:16:05-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5009959101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5009977101",
+   "lineage_key": "environmental-management-specialist-f-m-d@parsdorf-bavaria-germany",
+   "title": "Environmental Management Specialist (f/m/d)",
+   "department": "Infrastructure, Safety & Service",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-19T09:25:43-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5009977101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5009998101",
+   "lineage_key": "regional-security-manager-germany-f-m-d@parsdorf-bavaria-germany",
+   "title": "Regional Security Manager Germany (f/m/d)",
+   "department": "Infrastructure, Safety & Service",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-19T09:48:51-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5009998101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

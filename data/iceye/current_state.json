@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-19T21:14:12+00:00",
- "job_count": 194,
+ "fetched_at": "2026-10-20T15:20:11+00:00",
+ "job_count": 195,
  "jobs": [
   {
    "job_id": "01edf520-e6e9-4b3e-bc57-5886e694b6b8",
@@ -293,21 +293,6 @@
    "description_sha256": "fd881e8bcff8c72fc6944f26eec09283277ce00027cc8589585f3945b3e28a58"
   },
   {
-   "job_id": "1d549489-1557-489d-8cb4-1d6ec124f624",
-   "lineage_key": "operations-systems-engineer-spectrum@warsaw",
-   "title": "Operations Systems Engineer (Spectrum)",
-   "department": "Engineering",
-   "team": "CONNECT and Ground Stations",
-   "location": "Warsaw",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-27T07:35:20.742+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/1d549489-1557-489d-8cb4-1d6ec124f624",
-   "description_sha256": "2f259aeb293feec6df2f2229245f56464c7e386033ea56a19842f673491b0c45"
-  },
-  {
    "job_id": "1d854eb3-6624-4ca8-8e3b-9c787f381b7a",
    "lineage_key": "program-director-uae@united-arab-emirates",
    "title": "Program Director - UAE",
@@ -365,7 +350,7 @@
    "is_remote": true,
    "published_at": "2026-10-16T09:48:52.741+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/1ea5f8ce-fa19-4829-849e-c6457fc666be",
-   "description_sha256": "18944a0b77c9fe36c9b38a2aebb3fc653b68e539e688d3679ee7a08f96132fdb"
+   "description_sha256": "0622666ce63771049783ffc37c50456ba158a8cd5bd66715928a2b2aa06b3970"
   },
   {
    "job_id": "1ffce4d4-4088-4336-9007-622dc10399fb",
@@ -578,6 +563,21 @@
    "description_sha256": "9bdc54f8cbb529f10e16006abaf9143a48005167ba4e5a6292a73e36648f42a4"
   },
   {
+   "job_id": "33dd68d3-cd02-47ee-b3ec-24f39d51308d",
+   "lineage_key": "engineering-template-remember-to-edit-this@valencia",
+   "title": "Engineering Template - remember to edit this",
+   "department": "Engineering",
+   "team": "SIGINT",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-10-20T14:51:46.057+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/33dd68d3-cd02-47ee-b3ec-24f39d51308d",
+   "description_sha256": "99d0ae4eaae8d35a4e33f6898844d49921fee9104277bda0fdab9075f902b138"
+  },
+  {
    "job_id": "34f68a39-6743-4af1-ae67-bd0ef78c904e",
    "lineage_key": "obc-comms-ait-engineer@espoo",
    "title": "OBC & Comms AIT Engineer",
@@ -606,21 +606,6 @@
    "published_at": "2026-07-03T12:39:48.411+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/35528f9f-8244-465e-bf4b-799b8fffed53",
    "description_sha256": "cb22ce866a6e215f889695738bcff5999c86a12ab00f606cf26e2e198af760b2"
-  },
-  {
-   "job_id": "367ea774-2be1-436b-8e94-7c38e79d4c24",
-   "lineage_key": "senior-fullstack-engineer@espoo",
-   "title": "Senior Fullstack Engineer",
-   "department": "Engineering",
-   "team": "Business Automation",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-10-06T15:08:03.127+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/367ea774-2be1-436b-8e94-7c38e79d4c24",
-   "description_sha256": "fd6810f404a5bbfaf1fd2779f4ceeedb3f93224b0423f478f9ebf1f1d8c422bb"
   },
   {
    "job_id": "37b350c7-9a07-441b-b7a5-18b1aeff4d90",
@@ -1959,6 +1944,21 @@
    "description_sha256": "c5c16519785a70f1d7d58a6a600fa1842bbd5597a784d18e02e1ad69ad9346b9"
   },
   {
+   "job_id": "ab3e7d37-bb82-4565-b408-87cce3c4c27f",
+   "lineage_key": "workplace-manager@berlin",
+   "title": "Workplace Manager",
+   "department": "Operations",
+   "team": "Operations",
+   "location": "Berlin",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-20T07:36:45.580+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/ab3e7d37-bb82-4565-b408-87cce3c4c27f",
+   "description_sha256": "1eda61f4ccf50c5fa08b5e889c95b91d67d84dcdf0b1673b2478b1f17b02cbe7"
+  },
+  {
    "job_id": "b08a9033-4c52-43a1-bd6c-a8b728711e90",
    "lineage_key": "senior-devops-platform-engineer-isr@berlin",
    "title": "Senior DevOps / Platform Engineer, ISR",
@@ -2152,6 +2152,21 @@
    "published_at": "2026-09-08T06:40:31.953+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/c27729e6-99f6-4e62-bc39-1a7b5cc6ee8c",
    "description_sha256": "16c6427cbf27bff9dbe92630eb72fc674aef8558473f6eaf8cf5a2343299087f"
+  },
+  {
+   "job_id": "c40aa252-a920-4809-8a35-3e7baf59fb11",
+   "lineage_key": "customer-excellence-specialist@colombia",
+   "title": "Customer Excellence Specialist",
+   "department": "Data",
+   "team": "Customer Excellence",
+   "location": "Colombia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Remote",
+   "is_remote": true,
+   "published_at": "2026-10-20T13:32:36.237+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/c40aa252-a920-4809-8a35-3e7baf59fb11",
+   "description_sha256": "dac61c3b6289b9e1802c79d20e3d1129d6bd729d915e6daa23a59ae8bf777102"
   },
   {
    "job_id": "c4e73cc7-2fb0-4cc9-a335-f41a3eb70073",

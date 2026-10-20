@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-10-19T17:07:48+00:00",
- "job_count": 99,
+ "fetched_at": "2026-10-20T15:20:11+00:00",
+ "job_count": 101,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -231,6 +231,23 @@
    "published_at": "2026-09-11T16:04:10.821000+00:00",
    "url": "https://jobs.lever.co/kpler/2601aa33-d727-4ca1-bfbb-92bfb4e9776b",
    "description_sha256": "2c1c31f8e9162562cdffd7fc41c710f8734959155b6b502feeb05c3b6da38ca9"
+  },
+  {
+   "job_id": "277d7691-3890-4953-9fac-8503c1f36061",
+   "lineage_key": "senior-product-manager-cruise-liners-port-operations@london",
+   "title": "Senior Product Manager, Cruise Liners & Port Operations",
+   "department": "Product",
+   "team": "Product Maritime & Logistics",
+   "location": "London",
+   "secondary_locations": [
+    "Singapore"
+   ],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-20T13:56:17.672000+00:00",
+   "url": "https://jobs.lever.co/kpler/277d7691-3890-4953-9fac-8503c1f36061",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
    "job_id": "28234859-8c3e-4782-94f8-4b8c0458584a",
@@ -477,19 +494,19 @@
    "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
-   "job_id": "5bf37fa1-d830-40ea-8f7e-fa66f38198fa",
-   "lineage_key": "team-lead-new-business-maritime-south-emea@dubai",
-   "title": "Team Lead - New Business Maritime - South EMEA",
+   "job_id": "561f6f49-df5f-4171-a31f-803a9ee974ed",
+   "lineage_key": "commercial-manager-maritime-japan@tokyo",
+   "title": "Commercial Manager - Maritime, Japan",
    "department": "Commercial",
-   "team": "Sales - Mid Market EMEA",
-   "location": "Dubai",
+   "team": "Sales - Mid Market APAC",
+   "location": "Tokyo",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "hybrid",
    "is_remote": false,
-   "published_at": "2026-09-18T09:31:46.667000+00:00",
-   "url": "https://jobs.lever.co/kpler/5bf37fa1-d830-40ea-8f7e-fa66f38198fa",
-   "description_sha256": "a53cb07d9af3ec14b30b21c186f7a4ee36054372793be426d89b7f7f2dc6ed29"
+   "published_at": "2026-10-20T10:40:05.097000+00:00",
+   "url": "https://jobs.lever.co/kpler/561f6f49-df5f-4171-a31f-803a9ee974ed",
+   "description_sha256": "5fee7a0284dbd7146f0dd2154471cd87f7c15a088c9c400aa20729e217196032"
   },
   {
    "job_id": "5c6e077d-3c12-4ea3-a053-b02d42880134",
@@ -940,6 +957,23 @@
    "description_sha256": "74c86ecb70086b843fe3e4faf285e15abdca30692fd16e9315187adca4e38759"
   },
   {
+   "job_id": "9e6b85f4-65a0-45a6-8e47-0c41174da616",
+   "lineage_key": "senior-product-manager-containers-automotive-intelligence@london",
+   "title": "Senior Product Manager - Containers & Automotive Intelligence",
+   "department": "Product",
+   "team": "Product Maritime & Logistics",
+   "location": "London",
+   "secondary_locations": [
+    "Singapore"
+   ],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-20T13:52:58.113000+00:00",
+   "url": "https://jobs.lever.co/kpler/9e6b85f4-65a0-45a6-8e47-0c41174da616",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+  },
+  {
    "job_id": "9ede4329-689a-4096-9fea-6b7495edb813",
    "lineage_key": "tax-expert@hungary",
    "title": "Tax Expert",
@@ -1064,21 +1098,6 @@
    "description_sha256": "dbf6c3aac2e0b67214eec3c426099ac84fda2c25dd8bd287f3b94b65baf10d1e"
   },
   {
-   "job_id": "aed203cd-f69b-4be1-ae7d-1496445d4084",
-   "lineage_key": "sales-channel-partnership-manager@singapore",
-   "title": "Sales Channel Partnership Manager",
-   "department": "Commercial",
-   "team": "Sales - Mid Market APAC",
-   "location": "Singapore",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-09-28T13:31:04.737000+00:00",
-   "url": "https://jobs.lever.co/kpler/aed203cd-f69b-4be1-ae7d-1496445d4084",
-   "description_sha256": "9ff8899e5b18c1ad8a0f46ec0cb240777086dfa73f4be46e3abf9062ecf366cf"
-  },
-  {
    "job_id": "aee5db97-5ade-4893-9b09-4e630e0288cf",
    "lineage_key": "backend-engineer-commodities@greece",
    "title": "Backend Engineer - Commodities",
@@ -1110,6 +1129,21 @@
    "published_at": "2026-10-13T11:47:20.395000+00:00",
    "url": "https://jobs.lever.co/kpler/b4c1a77c-585e-402b-af76-c18a5c10c6d1",
    "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+  },
+  {
+   "job_id": "b7007015-01fa-483a-ab3b-5d2a6c910274",
+   "lineage_key": "account-manager@beijing",
+   "title": "Account Manager",
+   "department": "Commercial",
+   "team": "Sales - Mid Market APAC",
+   "location": "Beijing",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-20T10:44:36.434000+00:00",
+   "url": "https://jobs.lever.co/kpler/b7007015-01fa-483a-ab3b-5d2a6c910274",
+   "description_sha256": "3dcc3cb3b999e3a406674bea56569a601e347b3ec375a05894e08ed61409c53f"
   },
   {
    "job_id": "b93250d4-23b6-496e-8483-63fbeaf8c1fa",
@@ -1507,7 +1541,7 @@
    "is_remote": false,
    "published_at": "2026-10-13T13:35:02.071000+00:00",
    "url": "https://jobs.lever.co/kpler/fd027bed-7a3f-4e51-ab7b-6da91fcf26bb",
-   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+   "description_sha256": "f5b4e3fab3512dc174dffb104d7c1889f8676ac59c02cb02161241e915054684"
   },
   {
    "job_id": "feaf8e1c-7e6b-494b-8686-9ea557529c76",

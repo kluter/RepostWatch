@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-10-19T21:14:12+00:00",
- "job_count": 155,
+ "fetched_at": "2026-10-20T15:20:11+00:00",
+ "job_count": 157,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -1986,21 +1986,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4988772101",
-   "lineage_key": "learning-and-enablement-manager@munich",
-   "title": "Learning and Enablement Manager",
-   "department": "People",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-28T12:20:46-04:00",
-   "url": "https://helsing.ai/jobs/4988772101?gh_jid=4988772101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4988981101",
    "lineage_key": "senior-quality-engineer@martinsburg-wv",
    "title": "Senior Quality Engineer",
@@ -2256,6 +2241,36 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "5001597101",
+   "lineage_key": "senior-programme-manager-international-business-development-air@munich",
+   "title": "Senior Programme Manager - International Business Development Air",
+   "department": "Market",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-20T03:00:47-04:00",
+   "url": "https://helsing.ai/jobs/5001597101?gh_jid=5001597101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5001623101",
+   "lineage_key": "head-of-flight-test-management-senior-flight-test-manager@munich",
+   "title": "Head of Flight Test Management / Senior Flight Test M​anager",
+   "department": "Market",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-20T08:15:04-04:00",
+   "url": "https://helsing.ai/jobs/5001623101?gh_jid=5001623101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "5002061101",
    "lineage_key": "communications-intern@paris",
    "title": "Communications Intern",
@@ -2328,6 +2343,21 @@
    "is_remote": false,
    "published_at": "2026-10-19T11:34:03-04:00",
    "url": "https://helsing.ai/jobs/5010206101?gh_jid=5010206101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5010746101",
+   "lineage_key": "lagermitarbeiter-m-w-d@munich",
+   "title": "Lagermitarbeiter (m/w/d)",
+   "department": "Production Operations",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-20T04:28:11-04:00",
+   "url": "https://helsing.ai/jobs/5010746101?gh_jid=5010746101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

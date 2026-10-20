@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-10-19T21:14:12+00:00",
- "job_count": 125,
+ "fetched_at": "2026-10-20T15:20:11+00:00",
+ "job_count": 122,
  "jobs": [
   {
    "job_id": "7374533",
@@ -666,21 +666,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8143131",
-   "lineage_key": "customer-success-manager-civil-government@berlin-germany",
-   "title": "Customer Success Manager, Civil Government",
-   "department": "Customer Success Management",
-   "team": "",
-   "location": "Berlin, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-28T11:41:32-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8143131",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8148503",
    "lineage_key": "senior-business-development-manager-us-navy@arlington-va",
    "title": "Senior Business Development Manager, US Navy",
@@ -861,36 +846,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8161244",
-   "lineage_key": "customer-success-manager-civil-government@haarlem-netherlands",
-   "title": "Customer Success Manager, Civil Government",
-   "department": "Customer Success Management",
-   "team": "",
-   "location": "Haarlem, Netherlands",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-28T11:41:34-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8161244",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8161246",
-   "lineage_key": "customer-success-manager-civil-government@london-united-kingdom",
-   "title": "Customer Success Manager, Civil Government",
-   "department": "Customer Success Management",
-   "team": "",
-   "location": "London, United Kingdom",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-28T11:41:37-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8161246",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8161967",
    "lineage_key": "solutions-architect-i-professional-services@berlin-germany",
    "title": "Solutions Architect I, Professional Services",
@@ -993,21 +948,6 @@
    "is_remote": false,
    "published_at": "2026-08-31T14:38:57-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8167760",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8178701",
-   "lineage_key": "director-of-sales-middle-east@uae-remote",
-   "title": "Director of Sales, Middle East",
-   "department": "Sales Manager",
-   "team": "",
-   "location": "UAE, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-09-16T11:18:54-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8178701",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1713,6 +1653,21 @@
    "is_remote": false,
    "published_at": "2026-10-19T15:14:50-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8258424",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8263932",
+   "lineage_key": "supply-chain-analyst-data-and-controls@san-francisco-ca",
+   "title": "Supply Chain Analyst - Data and Controls",
+   "department": "Supply Chain",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-19T18:14:28-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8263932",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

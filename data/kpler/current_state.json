@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-10-20T15:20:11+00:00",
- "job_count": 101,
+ "fetched_at": "2026-10-21T15:32:21+00:00",
+ "job_count": 102,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -527,8 +527,8 @@
   },
   {
    "job_id": "5d5c2a52-9a9b-4307-9221-ab40d294c889",
-   "lineage_key": "senior-account-executive-maritime-new-york-ny@new-york",
-   "title": "Senior Account Executive - Maritime | New York, NY",
+   "lineage_key": "senior-account-executive-maritime-new-york@new-york",
+   "title": "Senior Account Executive - (Maritime) New York",
    "department": "Commercial",
    "team": "Sales - Mid Market Americas",
    "location": "New York",
@@ -1326,6 +1326,21 @@
    "published_at": "2026-09-22T09:14:16.308000+00:00",
    "url": "https://jobs.lever.co/kpler/dd8e0a88-62fe-4711-80b5-3380e492f41c",
    "description_sha256": "3dcc3cb3b999e3a406674bea56569a601e347b3ec375a05894e08ed61409c53f"
+  },
+  {
+   "job_id": "ddd03a08-f4ad-43b1-9813-93c38ad30392",
+   "lineage_key": "insight-sales-specialist-mea@dubai",
+   "title": "Insight Sales Specialist (MEA)",
+   "department": "Commercial",
+   "team": "Sales Specialist",
+   "location": "Dubai",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-21T12:14:36.095000+00:00",
+   "url": "https://jobs.lever.co/kpler/ddd03a08-f4ad-43b1-9813-93c38ad30392",
+   "description_sha256": "161a2919156463733aceee2eb0810daf1b8a6ae3f4678d6a87f2ea4f90220788"
   },
   {
    "job_id": "e8c4b6f8-8233-409a-8c72-445a6821cdd8",

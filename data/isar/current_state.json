@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-10-20T15:20:11+00:00",
- "job_count": 123,
+ "fetched_at": "2026-10-21T15:32:21+00:00",
+ "job_count": 125,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -892,11 +892,11 @@
   },
   {
    "job_id": "4950964101",
-   "lineage_key": "mechanical-ground-systems-engineer-f-m-d@ottobrunn-bavaria-germany",
+   "lineage_key": "mechanical-ground-systems-engineer-f-m-d@parsdorf-bavaria-germany",
    "title": "Mechanical Ground Systems Engineer (f/m/d)",
    "department": "Ground Systems",
    "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
+   "location": "Parsdorf, Bavaria, Germany",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
@@ -1491,21 +1491,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4998743101",
-   "lineage_key": "director-marketing-branding-f-m-d@parsdorf-bavaria-germany",
-   "title": "Director Marketing & Branding (f/m/d)",
-   "department": "Commercial",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-08T09:04:37-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4998743101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4998952101",
    "lineage_key": "principal-system-architect-spectrum-m-f-d@parsdorf-bavaria-germany",
    "title": "Principal System Architect, Spectrum (m/f/d)",
@@ -1848,6 +1833,51 @@
    "is_remote": false,
    "published_at": "2026-10-20T11:18:18-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5011474101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5012411101",
+   "lineage_key": "qa-inspector-m-f-d@parsdorf-bavaria-germany",
+   "title": "QA Inspector (m/f/d)",
+   "department": "Production, Operations & Quality",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-21T09:29:06-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5012411101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5012604101",
+   "lineage_key": "fluid-systems-engineer-propulsion-m-f-d@parsdorf-bavaria-germany",
+   "title": "Fluid Systems Engineer, Propulsion (m/f/d)",
+   "department": "Propulsion",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-21T10:48:39-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5012604101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5012653101",
+   "lineage_key": "senior-propulsion-engineer-combustion-devices-m-f-d@parsdorf-bavaria-germany",
+   "title": "Senior Propulsion Engineer - Combustion Devices (m/f/d)",
+   "department": "Propulsion",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-21T11:06:06-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5012653101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

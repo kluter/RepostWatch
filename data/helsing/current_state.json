@@ -2,7 +2,7 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-10-20T15:20:11+00:00",
+ "fetched_at": "2026-10-21T15:32:21+00:00",
  "job_count": 157,
  "jobs": [
   {
@@ -588,6 +588,21 @@
    "is_remote": false,
    "published_at": "2026-05-13T07:48:42-04:00",
    "url": "https://helsing.ai/jobs/4865559101?gh_jid=4865559101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4865734101",
+   "lineage_key": "radio-engineer@munich",
+   "title": "Radio Engineer",
+   "department": "AI & Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-05-13T08:04:39-04:00",
+   "url": "https://helsing.ai/jobs/4865734101?gh_jid=4865734101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -2223,21 +2238,6 @@
    "is_remote": false,
    "published_at": "2026-10-08T03:41:39-04:00",
    "url": "https://helsing.ai/jobs/4999686101?gh_jid=4999686101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "5000522101",
-   "lineage_key": "programme-manager-air-domain@london",
-   "title": "Programme Manager - Air Domain",
-   "department": "Market",
-   "team": "",
-   "location": "London",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-08T06:02:25-04:00",
-   "url": "https://helsing.ai/jobs/5000522101?gh_jid=5000522101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

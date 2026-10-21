@@ -664,6 +664,11 @@
    "lat": -23.5506507,
    "lon": -46.6333824,
    "label": "São Paulo"
+  },
+  "amsterdam": {
+   "lat": 52.3730796,
+   "lon": 4.8924534,
+   "label": "Amsterdam"
   }
  }
 }

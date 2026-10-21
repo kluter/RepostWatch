@@ -2,7 +2,7 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-10-20T15:20:11+00:00",
+ "fetched_at": "2026-10-21T15:32:21+00:00",
  "job_count": 122,
  "jobs": [
   {
@@ -489,7 +489,7 @@
    "job_id": "8128721",
    "lineage_key": "data-analyst@san-francisco-ca",
    "title": "Data Analyst",
-   "department": "(OLD) Data Science",
+   "department": "Data Science & Insights",
    "team": "",
    "location": "San Francisco, CA",
    "secondary_locations": [],
@@ -774,7 +774,7 @@
    "job_id": "8160736",
    "lineage_key": "data-analyst@arlington-va",
    "title": "Data Analyst",
-   "department": "(OLD) Data Science",
+   "department": "Data Science & Insights",
    "team": "",
    "location": "Arlington, VA",
    "secondary_locations": [],

@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-20T20:07:27+00:00",
- "job_count": 194,
+ "fetched_at": "2026-10-21T15:32:21+00:00",
+ "job_count": 196,
  "jobs": [
   {
    "job_id": "01edf520-e6e9-4b3e-bc57-5886e694b6b8",
@@ -308,6 +308,21 @@
    "description_sha256": "899371c78fbda509b93ea246584f0ce2bdf32e5af5ae7de2d376544d5d2dc0ae"
   },
   {
+   "job_id": "1dd48b2e-7a42-42bb-8731-f9fc8b32c528",
+   "lineage_key": "engineering-supply-chain-manager-electronics@warsaw",
+   "title": "Engineering Supply Chain Manager (Electronics)",
+   "department": "Global Manufacturing Organization",
+   "team": "Supply Chain R&D",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-21T13:52:00.117+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/1dd48b2e-7a42-42bb-8731-f9fc8b32c528",
+   "description_sha256": "3675d3815cf456ca5d0da80ae2ef4f9a7a8f02823dde007ef997af5dc7af6b35"
+  },
+  {
    "job_id": "1e29609f-111a-453f-a557-bac520a88783",
    "lineage_key": "business-development-manager-missions-portugal@lisbon",
    "title": "Business Development Manager, Missions - Portugal",
@@ -549,8 +564,8 @@
   },
   {
    "job_id": "33dd68d3-cd02-47ee-b3ec-24f39d51308d",
-   "lineage_key": "engineering-template-remember-to-edit-this@valencia",
-   "title": "Engineering Template - remember to edit this",
+   "lineage_key": "radio-frequency-engineer@valencia",
+   "title": "Radio Frequency Engineer",
    "department": "Engineering",
    "team": "SIGINT",
    "location": "Valencia",
@@ -653,21 +668,6 @@
    "published_at": "2026-10-15T14:04:21.449+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/38f05b0a-5a3b-46b8-ba80-d85029734922",
    "description_sha256": "1d95d1e1ff442aeea24ce76db16ce0d1dfd7d901e528dfbedd75989e4b19f6cb"
-  },
-  {
-   "job_id": "3c2152be-b654-498d-a932-e36c68fd79e8",
-   "lineage_key": "hr-generalist@valencia",
-   "title": "HR Generalist",
-   "department": "Operations",
-   "team": "HR Operations",
-   "location": "Valencia",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-09-22T15:24:02.282+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/3c2152be-b654-498d-a932-e36c68fd79e8",
-   "description_sha256": "d043b4f9b8db51fffa8ef8f070d075bc51e8d3e9addb74834b0e7a276b5abcb9"
   },
   {
    "job_id": "3d7f14e7-e116-4885-9d3d-a66080532999",
@@ -837,6 +837,21 @@
    "published_at": "2026-10-13T06:59:05.821+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/474d44ee-8f40-40c2-90e6-8720499b965e",
    "description_sha256": "deecc40f83ce63d05010a1689e57b51b5349a94ae9c27eddc5440ab03e07615f"
+  },
+  {
+   "job_id": "481cf92c-4c4b-45ec-b677-80230dff8e71",
+   "lineage_key": "treasury-specialist@espoo",
+   "title": "Treasury Specialist",
+   "department": "Finance",
+   "team": "Finance",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-21T08:29:38.949+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/481cf92c-4c4b-45ec-b677-80230dff8e71",
+   "description_sha256": "3b15701d91590cd34900bb1ddcaee279ec98235f968b11fc026855036a563861"
   },
   {
    "job_id": "482053f5-a2b0-4be8-b513-ec9524346fd6",
@@ -1413,6 +1428,21 @@
    "description_sha256": "33dbec950c310aeb68185122c742a36ef98039660099202b32a234260eb5161e"
   },
   {
+   "job_id": "7b6576da-319d-4819-8aff-945974181b3b",
+   "lineage_key": "harness-manufacturing-team-lead@espoo",
+   "title": "Harness Manufacturing Team Lead",
+   "department": "Global Manufacturing Organization",
+   "team": "Production Finland",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-21T12:59:08.907+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/7b6576da-319d-4819-8aff-945974181b3b",
+   "description_sha256": "3e00f00f8bd6729fe1727be306c76294c7b36052962f37148fbfa02640db7682"
+  },
+  {
    "job_id": "7ce28487-16fa-4054-a225-d91c4f996350",
    "lineage_key": "quality-control-technician-electronics@valencia",
    "title": "Quality Control Technician - Electronics",
@@ -1699,7 +1729,7 @@
    "is_remote": false,
    "published_at": "2026-10-14T17:34:27.555+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9371410f-1664-48c7-8153-466766739c8d",
-   "description_sha256": "e8997c60fa06182a9a3dd7b41d2cd7edf87639090e8de8ffe5d65b6a723ae30d"
+   "description_sha256": "6dae1efce1023234e9f3714914072936f171751c347df4b65af04012af575ff9"
   },
   {
    "job_id": "938ce5df-501a-4349-9586-2ce758dbfd0a",
@@ -1795,14 +1825,14 @@
   },
   {
    "job_id": "9b53025a-716d-4a33-868e-bacd4763bee5",
-   "lineage_key": "senior-r-d-supply-chain-specialist@munich",
+   "lineage_key": "senior-r-d-supply-chain-specialist@amsterdam",
    "title": "Senior R&D Supply Chain Specialist",
    "department": "Global Manufacturing Organization",
    "team": "Supply Chain R&D",
-   "location": "Munich",
+   "location": "Amsterdam",
    "secondary_locations": [],
    "employment_type": "FullTime",
-   "workplace_type": "Remote",
+   "workplace_type": "Hybrid",
    "is_remote": true,
    "published_at": "2026-10-13T11:25:24.989+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9b53025a-716d-4a33-868e-bacd4763bee5",
@@ -2291,6 +2321,21 @@
    "description_sha256": "b6ca14137d285e82640066bc2b7b1332414cfd50577324600d3e9e856e316f06"
   },
   {
+   "job_id": "cbc99246-f456-4764-a9a8-bcd3aabe71ba",
+   "lineage_key": "external-communications-specialist@espoo",
+   "title": "External Communications Specialist",
+   "department": "Marketing",
+   "team": "Communications",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-21T10:57:57.503+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/cbc99246-f456-4764-a9a8-bcd3aabe71ba",
+   "description_sha256": "f2886ae916aa2369499b1b23e27919300d25c6a785039e918e44029aa07ad2b5"
+  },
+  {
    "job_id": "cc0b017f-f910-4e64-9dd6-4b4da5538089",
    "lineage_key": "senior-radio-frequency-engineer@valencia-spain",
    "title": "Senior Radio Frequency Engineer",
@@ -2446,8 +2491,8 @@
   },
   {
    "job_id": "d3295e83-b609-43dd-888e-b1efcdfae51b",
-   "lineage_key": "business-development-manager-anz@australia",
-   "title": "Business Development Manager, ANZ",
+   "lineage_key": "business-development-manager@australia",
+   "title": "Business Development Manager",
    "department": "Data",
    "team": "Data Sales",
    "location": "Australia",
@@ -2457,7 +2502,7 @@
    "is_remote": true,
    "published_at": "2026-10-16T12:10:46.027+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/d3295e83-b609-43dd-888e-b1efcdfae51b",
-   "description_sha256": "3fce26d8bea90239d7956b3b1d231c3471fa529e2462492b7c0357ba8d9d1f17"
+   "description_sha256": "6b57fdfce265ba19c6ebec9d3183d75396ed4f8cb651790fd37e5ece5e145b35"
   },
   {
    "job_id": "d54bd3a6-eaca-4969-a6fc-7da77ce27fc6",
@@ -2473,21 +2518,6 @@
    "published_at": "2026-08-13T13:47:41.225+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/d54bd3a6-eaca-4969-a6fc-7da77ce27fc6",
    "description_sha256": "06662ba8a9fb956ea3df108242d4502a1a7ddf8839a83b52d2d18ebac80ab8ab"
-  },
-  {
-   "job_id": "d887f683-c0f5-4b46-9a15-930c760413ad",
-   "lineage_key": "buyer-supply-chain-category-flight-control-power-structure@espoo",
-   "title": "Buyer Supply Chain (Category Flight Control, Power & Structure)",
-   "department": "Global Manufacturing Organization",
-   "team": "Supply Chain Subsystems and Structure",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-09-04T11:52:18.086+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/d887f683-c0f5-4b46-9a15-930c760413ad",
-   "description_sha256": "3ff944359dbff5562d2fa3bd3a2a9b71a0c48db8ad3b3d6203e95c743a41a8c4"
   },
   {
    "job_id": "d930bdab-a9ee-49e3-ac73-46b42b69eb63",
@@ -2573,7 +2603,7 @@
    "lineage_key": "senior-hr-generalist-japan@tokyo",
    "title": "Senior HR Generalist, Japan",
    "department": "Operations",
-   "team": "Human Resources",
+   "team": "People",
    "location": "Tokyo",
    "secondary_locations": [],
    "employment_type": "FullTime",
@@ -2863,7 +2893,7 @@
    "lineage_key": "senior-talent-attraction-partner@espoo",
    "title": "Senior Talent Attraction Partner",
    "department": "Operations",
-   "team": "HR Operations",
+   "team": "People Operations",
    "location": "Espoo",
    "secondary_locations": [],
    "employment_type": "FullTime",

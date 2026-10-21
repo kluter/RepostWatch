@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-10-12T23:12:47+00:00",
- "job_count": 25,
+ "fetched_at": "2026-10-21T20:20:56+00:00",
+ "job_count": 24,
  "jobs": [
   {
    "job_id": "076F11402A",
@@ -321,23 +321,6 @@
    "published_at": "2026-08-03T00:00:00+00:00",
    "url": "https://apply.workable.com/j/A9AE7BC7D6",
    "description_sha256": "06d238cf9923957ec0072cdd77b0ffa34d78b52b509a590cf5ae8f6ea511c213"
-  },
-  {
-   "job_id": "C2A49317A8",
-   "lineage_key": "proposal-manager@arlington-united-states",
-   "title": "Proposal Manager",
-   "department": "Shared Services",
-   "team": "",
-   "location": "Arlington, United States",
-   "secondary_locations": [
-    "Reston, United States"
-   ],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-25T00:00:00+00:00",
-   "url": "https://apply.workable.com/j/C2A49317A8",
-   "description_sha256": "81bb87e3c9d9b363886d6583b1e1141fbe3e855df0e4483bfb58377c534780ad"
   },
   {
    "job_id": "CE5C24CBE2",

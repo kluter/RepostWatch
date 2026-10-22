@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-10-21T15:32:21+00:00",
- "job_count": 125,
+ "fetched_at": "2026-10-22T15:32:54+00:00",
+ "job_count": 121,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -78,21 +78,6 @@
    "is_remote": false,
    "published_at": "2025-05-09T10:46:55-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4587242101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4636046101",
-   "lineage_key": "zerspanungsmechaniker-cnc-fraser-m-w-d@parsdorf-bavaria-germany",
-   "title": "Zerspanungsmechaniker / CNC-Fräser (m/w/d)",
-   "department": "Production, Operations & Quality",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2025-07-11T04:47:26-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4636046101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -322,11 +307,11 @@
   },
   {
    "job_id": "4756747101",
-   "lineage_key": "senior-project-manager-ground-systems-infrastructure-m-f-d@ottobrunn-bavaria-germany",
+   "lineage_key": "senior-project-manager-ground-systems-infrastructure-m-f-d@parsdorf-bavaria-germany",
    "title": "Senior Project Manager - Ground Systems Infrastructure (m/f/d)",
    "department": "Ground Systems",
    "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
+   "location": "Parsdorf, Bavaria, Germany",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
@@ -621,21 +606,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4896442101",
-   "lineage_key": "zerspanungsmechaniker-cnc-fraser-cnc-dreher-m-w-d@parsdorf-bavaria-germany",
-   "title": "Zerspanungsmechaniker / CNC-Fräser / CNC-Dreher (m/w/d)",
-   "department": "Production, Operations & Quality",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-12T08:07:23-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4896442101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4897729101",
    "lineage_key": "senior-security-engineer-m-f-d@parsdorf-bavaria-germany",
    "title": "Senior Security Engineer (m/f/d)",
@@ -678,21 +648,6 @@
    "is_remote": false,
    "published_at": "2026-07-10T06:03:46-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4920269101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4922381101",
-   "lineage_key": "bid-manager-m-f-d@parsdorf-bavaria-germany",
-   "title": "Bid Manager (m/f/d)",
-   "department": "Commercial",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-14T18:00:00-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4922381101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -843,21 +798,6 @@
    "is_remote": false,
    "published_at": "2026-08-07T13:58:29-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4948968101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4949469101",
-   "lineage_key": "project-manager-commercial-m-f-d@parsdorf-bavaria-germany",
-   "title": "Project Manager Commercial (m/f/d)",
-   "department": "Commercial",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-10T07:05:29-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4949469101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1203,21 +1143,6 @@
    "is_remote": false,
    "published_at": "2026-09-15T09:08:16-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4976775101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4976916101",
-   "lineage_key": "launch-vehicle-intern-f-m-d@ottobrunn-bavaria-germany",
-   "title": "Launch Vehicle Intern (f/m/d)",
-   "department": "Spectrum AIT",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-15T10:41:05-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4976916101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1837,8 +1762,8 @@
   },
   {
    "job_id": "5012411101",
-   "lineage_key": "qa-inspector-m-f-d@parsdorf-bavaria-germany",
-   "title": "QA Inspector (m/f/d)",
+   "lineage_key": "qc-inspector-m-f-d@parsdorf-bavaria-germany",
+   "title": "QC Inspector (m/f/d)",
    "department": "Production, Operations & Quality",
    "team": "",
    "location": "Parsdorf, Bavaria, Germany",
@@ -1878,6 +1803,21 @@
    "is_remote": false,
    "published_at": "2026-10-21T11:06:06-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5012653101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5013742101",
+   "lineage_key": "working-student-launch-vehicle-design-m-f-d@parsdorf-bavaria-germany",
+   "title": "Working Student - Launch Vehicle Design (m/f/d)",
+   "department": "Spectrum",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-22T10:15:22-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5013742101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

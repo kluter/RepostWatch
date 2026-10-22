@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-10-21T20:20:56+00:00",
- "job_count": 122,
+ "fetched_at": "2026-10-22T15:32:54+00:00",
+ "job_count": 123,
  "jobs": [
   {
    "job_id": "7374533",
@@ -363,6 +363,21 @@
    "is_remote": false,
    "published_at": "2026-07-07T09:42:05-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8042428",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8046738",
+   "lineage_key": "senior-deployment-strategist@seoul-south-korea",
+   "title": "Senior Deployment Strategist",
+   "department": "Pre-Sales and Services",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-28T11:54:56-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8046738",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

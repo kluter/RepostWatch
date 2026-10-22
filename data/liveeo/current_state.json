@@ -2,8 +2,8 @@
  "company": "liveeo",
  "source": "personio",
  "board": "liveeo-gmbh",
- "fetched_at": "2026-10-19T17:07:48+00:00",
- "job_count": 20,
+ "fetched_at": "2026-10-22T15:32:54+00:00",
+ "job_count": 22,
  "jobs": [
   {
    "job_id": "2006503",
@@ -186,6 +186,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "2814883",
+   "lineage_key": "senior-full-stack-engineer-f-m-x@berlin",
+   "title": "Senior Full Stack Engineer (f/m/x)",
+   "department": "SurfaceScout",
+   "team": "",
+   "location": "Berlin",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-25T12:26:26+00:00",
+   "url": "https://liveeo-gmbh.jobs.personio.de/job/2814883",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "2823014",
    "lineage_key": "chief-revenue-officer-f-m-x@global",
    "title": "Chief Revenue Officer (f/m/x)",
@@ -303,6 +318,21 @@
    "is_remote": false,
    "published_at": "2026-10-19T14:44:00+00:00",
    "url": "https://liveeo-gmbh.jobs.personio.de/job/2849381",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "2855693",
+   "lineage_key": "senior-backend-engineer-f-m-x@berlin",
+   "title": "Senior Backend Engineer (f/m/x)",
+   "department": "Treeline",
+   "team": "",
+   "location": "Berlin",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-22T14:54:46+00:00",
+   "url": "https://liveeo-gmbh.jobs.personio.de/job/2855693",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

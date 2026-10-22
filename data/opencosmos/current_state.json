@@ -2,7 +2,7 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-10-21T20:20:56+00:00",
+ "fetched_at": "2026-10-22T15:32:54+00:00",
  "job_count": 47,
  "jobs": [
   {
@@ -441,6 +441,21 @@
    "description_sha256": "cc9d138b1089cd3cec9ac8d362a29b99c05880039193ac9f58e9f412b9c6fc70"
   },
   {
+   "job_id": "a82675ca-f8f5-4ed1-876f-7ce3d96837f0",
+   "lineage_key": "senior-flight-software-engineer@harwell-uk",
+   "title": "Senior Flight Software Engineer",
+   "department": "FLIGHT SOFTWARE",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2025-12-16T07:23:43+00:00",
+   "url": "https://careers.open-cosmos.com/jobs/6934774-senior-flight-software-engineer",
+   "description_sha256": "c51b612ac06f5b33aaddac784c996228ed1d6c7aa693194efabc8b85e3c040ba"
+  },
+  {
    "job_id": "b00ff0b2-2321-4d39-99b4-1d8f18732401",
    "lineage_key": "ait-technician@coimbra-portugal",
    "title": "AIT Technician",
@@ -694,21 +709,6 @@
    "published_at": "2026-05-22T11:20:28+01:00",
    "url": "https://careers.open-cosmos.com/jobs/7781282-ait-engineer",
    "description_sha256": "5d300c21e2d321d46afdf56c6cb53c57a827ff3738709b5117006b27e7b9124a"
-  },
-  {
-   "job_id": "fc97f46d-e50f-44b0-8e8c-d29d55add468",
-   "lineage_key": "head-of-spectrum-regulatory-affairs@harwell-uk",
-   "title": "Head of Spectrum & Regulatory Affairs",
-   "department": "SATCOM (Broadband and Narrowband)",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-03-02T10:44:12+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/7311970-head-of-spectrum-regulatory-affairs",
-   "description_sha256": "fd4866e48c2407d287f2ec72ec95addf290006992d000026d6151a91774f3b68"
   }
  ]
 }

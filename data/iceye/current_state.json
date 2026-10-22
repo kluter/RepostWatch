@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-21T20:20:56+00:00",
- "job_count": 194,
+ "fetched_at": "2026-10-22T15:32:54+00:00",
+ "job_count": 197,
  "jobs": [
   {
    "job_id": "01edf520-e6e9-4b3e-bc57-5886e694b6b8",
@@ -96,6 +96,21 @@
    "description_sha256": "de5b0638f458b486c02a64ffb0555fc6edefe18d2cad73f2fcdfafa301d265e3"
   },
   {
+   "job_id": "0bcc9e17-7eec-4648-bb5a-298f3f84794d",
+   "lineage_key": "engineering-supply-chain-manager-electronics@amsterdam",
+   "title": "Engineering Supply Chain Manager (Electronics)",
+   "department": "Global Manufacturing Organization",
+   "team": "Supply Chain R&D",
+   "location": "Amsterdam",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-22T12:51:19.729+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/0bcc9e17-7eec-4648-bb5a-298f3f84794d",
+   "description_sha256": "a972588ecdde86c00c883ebd999d5e36377c673bea359f43477f4e3e5d03099a"
+  },
+  {
    "job_id": "0e38b99f-7936-4b44-9bf5-5b77cc175af0",
    "lineage_key": "engineering-opportunities-space-systems@valencia",
    "title": "Engineering Opportunities - Space Systems",
@@ -154,21 +169,6 @@
    "published_at": "2026-09-18T07:10:55.910+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/105d0392-a86e-49e2-ab75-d96ec84c2186",
    "description_sha256": "72c4053fcd9b048387fddaee4a0f7e7a3823713f2036d0ca57fd44155885916b"
-  },
-  {
-   "job_id": "12b245fc-8b29-454e-96e2-6b621288a781",
-   "lineage_key": "driver@espoo",
-   "title": "Driver",
-   "department": "Global Manufacturing Organization",
-   "team": "FI Stock Management",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-09-18T11:25:33.954+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/12b245fc-8b29-454e-96e2-6b621288a781",
-   "description_sha256": "18a847c3cf8fa7f3570a3072f2cfcb559fc28629c60193c83ae6efafa7accaf4"
   },
   {
    "job_id": "15151504-9995-4025-9d94-a31ef624a838",
@@ -368,6 +368,21 @@
    "description_sha256": "2be8740c61899be97b4abf1bbdae517f86c0a0b43dec3da580523c0a82c9b732"
   },
   {
+   "job_id": "1fffccad-6e68-48ae-a23e-483af70d5fb5",
+   "lineage_key": "senior-mechanical-thermal-production-technician@espoo",
+   "title": "Senior Mechanical & Thermal Production Technician",
+   "department": "Global Manufacturing Organization",
+   "team": "Production Finland",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-10-22T09:24:11.105+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/1fffccad-6e68-48ae-a23e-483af70d5fb5",
+   "description_sha256": "3dce909b13da66cba397e002ded521358b077cbe750065f9edb41e31b08665ff"
+  },
+  {
    "job_id": "2048d1e8-7667-466a-a72a-d754cbcb42f2",
    "lineage_key": "senior-c-engineer-satellite-real-time-control-systems@warsaw",
    "title": "Senior C++ Engineer - Satellite Real-Time Control Systems",
@@ -398,6 +413,21 @@
    "description_sha256": "a129cf611917ea4ab0c4d76858684dfeb89c6df6d1337c568cc574df47fde167"
   },
   {
+   "job_id": "212bc5da-f585-414e-9d71-fc944fce1d8d",
+   "lineage_key": "engineering-supply-chain-manager-mechanical@munich",
+   "title": "Engineering Supply Chain Manager (Mechanical)",
+   "department": "Global Manufacturing Organization",
+   "team": "Supply Chain R&D",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Remote",
+   "is_remote": true,
+   "published_at": "2026-10-22T12:55:10.278+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/212bc5da-f585-414e-9d71-fc944fce1d8d",
+   "description_sha256": "1f07a8a2ccae243e9eb8fd28e169624148c77e112eaebc82189af768ade43330"
+  },
+  {
    "job_id": "21b391ff-d574-48ec-8ca6-2bc0b97e9dd8",
    "lineage_key": "talent-attraction-partner@espoo",
    "title": "Talent Attraction Partner",
@@ -411,6 +441,21 @@
    "published_at": "2026-08-21T12:08:47.716+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/21b391ff-d574-48ec-8ca6-2bc0b97e9dd8",
    "description_sha256": "9efadeb4704765e03ff78324047ad3cd31e8e25ddb46a8edee6d379b1ec49fe6"
+  },
+  {
+   "job_id": "272627a3-ec22-4205-be51-32a5b540b314",
+   "lineage_key": "senior-people-generalist@athens",
+   "title": "Senior People Generalist",
+   "department": "Operations",
+   "team": "Operations",
+   "location": "Athens",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-10-22T08:42:40.724+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/272627a3-ec22-4205-be51-32a5b540b314",
+   "description_sha256": "ec34aa340a63fe7d3e73795e1100a1c7e57332d3cac8678bb8d431b206036315"
   },
   {
    "job_id": "28910d93-1651-4b52-b724-02bd48024027",
@@ -670,6 +715,21 @@
    "description_sha256": "1d95d1e1ff442aeea24ce76db16ce0d1dfd7d901e528dfbedd75989e4b19f6cb"
   },
   {
+   "job_id": "3a9ddd2c-2c2e-43c2-9e16-45f319ac8f7b",
+   "lineage_key": "logistics-specialist@espoo",
+   "title": "Logistics Specialist",
+   "department": "Global Manufacturing Organization",
+   "team": "Production Finland",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-22T12:44:46.970+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/3a9ddd2c-2c2e-43c2-9e16-45f319ac8f7b",
+   "description_sha256": "42ebf3804cb449cef59ed6fa3ca0be4078db81123a91c9dcef78551d1cc9f0b5"
+  },
+  {
    "job_id": "3d7f14e7-e116-4885-9d3d-a66080532999",
    "lineage_key": "electronics-verification-technician@espoo",
    "title": "Electronics Verification Technician",
@@ -851,7 +911,7 @@
    "is_remote": true,
    "published_at": "2026-10-21T08:29:38.949+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/481cf92c-4c4b-45ec-b677-80230dff8e71",
-   "description_sha256": "3b15701d91590cd34900bb1ddcaee279ec98235f968b11fc026855036a563861"
+   "description_sha256": "5e8b2876bec2783eb6e078a6e694f77baa9456ba521a46293e7399925a5dc12d"
   },
   {
    "job_id": "482053f5-a2b0-4be8-b513-ec9524346fd6",
@@ -991,21 +1051,6 @@
    "description_sha256": "10b3c735e49594186ecdf01ec2b52b9ae050719d3ef39b16c04947760ea5083e"
   },
   {
-   "job_id": "51bb267b-c556-49f1-9f23-4802f76bd9ad",
-   "lineage_key": "workplace-experience-specialist@espoo",
-   "title": "Workplace Experience Specialist",
-   "department": "Operations",
-   "team": "Operations",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-09-14T07:16:50.381+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/51bb267b-c556-49f1-9f23-4802f76bd9ad",
-   "description_sha256": "9774cf5f1dff1dbf01d3b5f8ddc4a2cee5ecd3e3cd15617f42c8b7f3a244012e"
-  },
-  {
    "job_id": "532afee6-79d9-4693-9c4a-9726b5fb20e5",
    "lineage_key": "program-manager-esa@warsaw",
    "title": "Program Manager ESA",
@@ -1085,7 +1130,7 @@
    "lineage_key": "smart-manufacturing-engineer-sw-electronics@espoo",
    "title": "Smart Manufacturing Engineer, SW & Electronics",
    "department": "Global Manufacturing Organization",
-   "team": "Digital Transformation & Smart Manufacturing",
+   "team": "Smart Manufacturing Engineering",
    "location": "Espoo",
    "secondary_locations": [],
    "employment_type": "FullTime",
@@ -1124,21 +1169,6 @@
    "published_at": "2026-10-05T10:38:53.035+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/5e2a3b45-7342-4f01-ba0b-330abe99f89e",
    "description_sha256": "8c5c751f74cb4be631bc3af018feb51d1ea73c3166e978752a61853d23200e99"
-  },
-  {
-   "job_id": "5ff08d58-36d8-447a-9d52-2a29743e0fd7",
-   "lineage_key": "it-infrastructure-lead@espoo",
-   "title": "IT Infrastructure Lead",
-   "department": "Operations",
-   "team": "IT Service & Operations",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-10-09T11:47:58.187+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/5ff08d58-36d8-447a-9d52-2a29743e0fd7",
-   "description_sha256": "df7f036859b26dc2250c5a6ca6c8a90f5b14c9843ec9d3a9f391e2c9e63eae08"
   },
   {
    "job_id": "609632e0-17a2-4440-974f-9969551e80af",
@@ -1231,6 +1261,21 @@
    "published_at": "2026-08-24T04:42:52.985+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/67b84d2a-1f66-473a-b24c-b7ba35f02fe5",
    "description_sha256": "81743579a0c4de526e90f69b9ff9b51cfbff7a3f3614f651d1a2468cab389897"
+  },
+  {
+   "job_id": "6aa73d7d-a8b0-40ee-8a02-03c909160d96",
+   "lineage_key": "legal-counsel@berlin",
+   "title": "Legal Counsel",
+   "department": "Legal",
+   "team": "Legal",
+   "location": "Berlin",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-22T15:20:09.128+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/6aa73d7d-a8b0-40ee-8a02-03c909160d96",
+   "description_sha256": "bc8941db3d8268a8d1619184bec14d12a88b2bc495f3f5bc4ba4b5ba796f9ee3"
   },
   {
    "job_id": "6b325c6e-480e-4237-91bf-6e1e0e90ca76",
@@ -1426,21 +1471,6 @@
    "published_at": "2026-06-05T08:34:30.592+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/766bfeea-9868-4f0c-a629-5822dce0fa51",
    "description_sha256": "33dbec950c310aeb68185122c742a36ef98039660099202b32a234260eb5161e"
-  },
-  {
-   "job_id": "7b6576da-319d-4819-8aff-945974181b3b",
-   "lineage_key": "harness-manufacturing-team-lead@espoo",
-   "title": "Harness Manufacturing Team Lead",
-   "department": "Global Manufacturing Organization",
-   "team": "Production Finland",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-10-21T12:59:08.907+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/7b6576da-319d-4819-8aff-945974181b3b",
-   "description_sha256": "3e00f00f8bd6729fe1727be306c76294c7b36052962f37148fbfa02640db7682"
   },
   {
    "job_id": "7ce28487-16fa-4054-a225-d91c4f996350",
@@ -1659,7 +1689,7 @@
    "lineage_key": "production-reliability-engineer@athens",
    "title": "Production Reliability Engineer",
    "department": "Global Manufacturing Organization",
-   "team": "Production Greece",
+   "team": "Manufacturing Assurance",
    "location": "Athens",
    "secondary_locations": [],
    "employment_type": "FullTime",
@@ -1685,19 +1715,19 @@
    "description_sha256": "18921ca4604efe8f0349e01495fa13ae33f6d932c0a4cdf27ce4bc1eb5d5fc01"
   },
   {
-   "job_id": "8f6aae6f-73d9-4b7e-afb5-9e27089d13d7",
-   "lineage_key": "operations-program-manager-maite-finland@espoo",
-   "title": "Operations Program Manager, MAITE Finland",
+   "job_id": "9109656d-4637-4fac-9192-8b61b4b9b568",
+   "lineage_key": "engineering-supply-chain-manager-electronics@munich",
+   "title": "Engineering Supply Chain Manager (Electronics)",
    "department": "Global Manufacturing Organization",
-   "team": "Production Finland",
-   "location": "Espoo",
+   "team": "Supply Chain R&D",
+   "location": "Munich",
    "secondary_locations": [],
    "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
+   "workplace_type": "Remote",
    "is_remote": true,
-   "published_at": "2026-06-04T15:44:58.947+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/8f6aae6f-73d9-4b7e-afb5-9e27089d13d7",
-   "description_sha256": "b7501b21e9662e4762abf6efd76f19b00bb2fac93a3383ef1832c30660d0b253"
+   "published_at": "2026-10-22T12:52:39.711+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/9109656d-4637-4fac-9192-8b61b4b9b568",
+   "description_sha256": "89c7a836845b7b2648e1094a8a1a8e412ff7d430f07f1e7167b113d90f220f6e"
   },
   {
    "job_id": "9291f281-9da4-482b-a7ce-bb6775668b3b",
@@ -1852,21 +1882,6 @@
    "published_at": "2026-09-14T06:08:12.215+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9e91192a-ae07-4ba6-b0d8-dd2d99064d9d",
    "description_sha256": "ae2f0aec4bb065e19191afc9a78fd7b4a16c5bb89f3880805231c22ed41387a7"
-  },
-  {
-   "job_id": "a11a91a1-e3d5-46d0-a055-41b13ad33967",
-   "lineage_key": "senior-software-engineer-product-engineering@espoo",
-   "title": "Senior Software Engineer, Product Engineering",
-   "department": "Solutions",
-   "team": "Product Engineering",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-05T09:00:20.909+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/a11a91a1-e3d5-46d0-a055-41b13ad33967",
-   "description_sha256": "b7cad1476e7ef48c3e9e3aa14948a8f2217d16c00357b5343dcad155e05abb9a"
   },
   {
    "job_id": "a27d71ea-c377-4f26-ba6d-8c725356f21c",
@@ -2062,6 +2077,21 @@
    "published_at": "2026-10-16T10:59:07.286+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/b4a193de-415e-4320-a95c-17e925ca56f7",
    "description_sha256": "25440cc408ba4db9ec55fab946b9d78e37a3b40ad155e00c263154ca2e897bc4"
+  },
+  {
+   "job_id": "b6b2f254-e8af-466c-b08f-75664d5e440d",
+   "lineage_key": "quality-management-system-specialist@valencia",
+   "title": "Quality Management System Specialist",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-10-22T11:36:21.691+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/b6b2f254-e8af-466c-b08f-75664d5e440d",
+   "description_sha256": "fbccd84cd5c134149158bef076cd558447dc7117a3ed9c7547de52cb5bb8ca45"
   },
   {
    "job_id": "b84b17ba-5619-4909-9f4e-bb1d79e027b5",
@@ -2569,6 +2599,21 @@
    "description_sha256": "1035293111a0a9b1e58284a289466e1346a2b2291bdbad0e2db8901e4c34a469"
   },
   {
+   "job_id": "dcd95d7f-3607-4afa-b806-0b2a342faa97",
+   "lineage_key": "engineering-supply-chain-manager-mechanical@amsterdam",
+   "title": "Engineering Supply Chain Manager (Mechanical)",
+   "department": "Global Manufacturing Organization",
+   "team": "Supply Chain R&D",
+   "location": "Amsterdam",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-22T12:56:13.103+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/dcd95d7f-3607-4afa-b806-0b2a342faa97",
+   "description_sha256": "c86798162be9cd2ae59f663cbfdc40d7befec8d391fe55e4a0355840687c15b1"
+  },
+  {
    "job_id": "e276cf77-21f8-4509-b926-d9d24fda8d48",
    "lineage_key": "subsystem-assembly-technician@greece",
    "title": "Subsystem Assembly Technician",
@@ -2618,7 +2663,7 @@
    "lineage_key": "smart-manufacturing-engineer-software@espoo",
    "title": "Smart Manufacturing Engineer, Software",
    "department": "Global Manufacturing Organization",
-   "team": "Digital Transformation & Smart Manufacturing",
+   "team": "Smart Manufacturing Engineering",
    "location": "Espoo",
    "secondary_locations": [],
    "employment_type": "FullTime",

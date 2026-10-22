@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-22T15:32:54+00:00",
+ "fetched_at": "2026-10-22T20:17:16+00:00",
  "job_count": 197,
  "jobs": [
   {
@@ -1723,8 +1723,8 @@
    "location": "Munich",
    "secondary_locations": [],
    "employment_type": "FullTime",
-   "workplace_type": "Remote",
-   "is_remote": true,
+   "workplace_type": "OnSite",
+   "is_remote": false,
    "published_at": "2026-10-22T12:52:39.711+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9109656d-4637-4fac-9192-8b61b4b9b568",
    "description_sha256": "89c7a836845b7b2648e1094a8a1a8e412ff7d430f07f1e7167b113d90f220f6e"

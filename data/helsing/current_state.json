@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-10-22T15:32:54+00:00",
- "job_count": 156,
+ "fetched_at": "2026-10-22T20:17:16+00:00",
+ "job_count": 157,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -2343,6 +2343,21 @@
    "is_remote": false,
    "published_at": "2026-10-20T04:28:11-04:00",
    "url": "https://helsing.ai/jobs/5010746101?gh_jid=5010746101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5012217101",
+   "lineage_key": "environmental-engineer@london",
+   "title": "Environmental Engineer",
+   "department": "Hardware Engineering",
+   "team": "",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-22T11:50:16-04:00",
+   "url": "https://helsing.ai/jobs/5012217101?gh_jid=5012217101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

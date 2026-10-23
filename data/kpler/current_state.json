@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-10-22T20:17:16+00:00",
- "job_count": 101,
+ "fetched_at": "2026-10-23T15:24:40+00:00",
+ "job_count": 102,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -1111,6 +1111,21 @@
    "published_at": "2026-10-08T17:51:05.392000+00:00",
    "url": "https://jobs.lever.co/kpler/aee5db97-5ade-4893-9b09-4e630e0288cf",
    "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+  },
+  {
+   "job_id": "b3ffa04d-60b6-4761-9a41-5e40944b043e",
+   "lineage_key": "talent-acquisition-partner@new-york",
+   "title": "Talent Acquisition Partner",
+   "department": "People",
+   "team": "People",
+   "location": "New York",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-23T10:27:38.378000+00:00",
+   "url": "https://jobs.lever.co/kpler/b3ffa04d-60b6-4761-9a41-5e40944b043e",
+   "description_sha256": "0f2a6d87c039e9fa334f670a74c42875fc800f8589ac8fe1b186f90645df2746"
   },
   {
    "job_id": "b4c1a77c-585e-402b-af76-c18a5c10c6d1",

@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-10-22T15:32:54+00:00",
- "job_count": 123,
+ "fetched_at": "2026-10-23T15:24:40+00:00",
+ "job_count": 121,
  "jobs": [
   {
    "job_id": "7374533",
@@ -378,36 +378,6 @@
    "is_remote": false,
    "published_at": "2026-08-28T11:54:56-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8046738",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8067731",
-   "lineage_key": "technical-program-manager-solutions@arlington-va",
-   "title": "Technical Program Manager, Solutions",
-   "department": "Program Management",
-   "team": "",
-   "location": "Arlington, VA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-13T17:54:07-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8067731",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8069677",
-   "lineage_key": "senior-analyst-international-trade-compliance@san-francisco-ca",
-   "title": "Senior Analyst, International Trade Compliance",
-   "department": "Regulatory & Compliance",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-28T12:10:59-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8069677",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -828,21 +798,6 @@
    "is_remote": false,
    "published_at": "2026-08-26T18:20:49-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8160748",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8160762",
-   "lineage_key": "technical-program-manager-solutions@denver-co",
-   "title": "Technical Program Manager, Solutions",
-   "department": "Program Management",
-   "team": "",
-   "location": "Denver, CO",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-26T18:26:56-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8160762",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1623,6 +1578,21 @@
    "is_remote": false,
    "published_at": "2026-10-13T19:27:15-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8249630",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8250328",
+   "lineage_key": "senior-manager-people-operations@berlin-germany",
+   "title": "Senior Manager, People Operations",
+   "department": "People Operations",
+   "team": "",
+   "location": "Berlin, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-23T03:09:24-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8250328",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

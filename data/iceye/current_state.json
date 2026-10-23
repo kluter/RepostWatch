@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-22T20:17:16+00:00",
- "job_count": 197,
+ "fetched_at": "2026-10-23T15:24:40+00:00",
+ "job_count": 201,
  "jobs": [
   {
    "job_id": "01edf520-e6e9-4b3e-bc57-5886e694b6b8",
@@ -473,21 +473,6 @@
    "description_sha256": "80998635e99b69c0457c0d468fe71777fa308fab68669754deb0fdbc3799d7b3"
   },
   {
-   "job_id": "28d99ffd-28dc-48a1-adc8-dd6da0552f89",
-   "lineage_key": "buyer-mechanical-systems-and-ait-enablement@espoo",
-   "title": "Buyer (Mechanical Systems and AIT Enablement)",
-   "department": "Global Manufacturing Organization",
-   "team": "Global Supply Chain",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-10-06T06:58:16.744+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/28d99ffd-28dc-48a1-adc8-dd6da0552f89",
-   "description_sha256": "809769869fa5600c108473a64d943fd9d9867e26a081715a3825c656d93b890f"
-  },
-  {
    "job_id": "29558448-5b4e-4aef-b395-642acc666efa",
    "lineage_key": "satellite-operations-specialist@remote-finland",
    "title": "Satellite Operations Specialist",
@@ -743,6 +728,21 @@
    "published_at": "2026-08-14T11:51:08.317+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/3d7f14e7-e116-4885-9d3d-a66080532999",
    "description_sha256": "812b1544d6b78e4f94ac18659245c940981a62bf2cb842119b3ebf87f7e9dbd5"
+  },
+  {
+   "job_id": "3d996476-2c6c-4170-894b-f48ee218c9e4",
+   "lineage_key": "customer-excellence-specialist@south-korea",
+   "title": "Customer Excellence Specialist",
+   "department": "Data",
+   "team": "Customer Excellence",
+   "location": "South Korea",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Remote",
+   "is_remote": true,
+   "published_at": "2026-10-23T07:14:17.278+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/3d996476-2c6c-4170-894b-f48ee218c9e4",
+   "description_sha256": "4068b16c45af48a36de7c6a20914aa654888d1ff81d9103aa15d6a8cb115e77f"
   },
   {
    "job_id": "3eb0f7b1-ab19-4d41-b633-dfeea0990086",
@@ -1085,7 +1085,7 @@
    "lineage_key": "ait-engineering-team-lead@warsaw",
    "title": "AIT Engineering Team Lead",
    "department": "Global Manufacturing Organization",
-   "team": "Production Poland",
+   "team": "PL Satellite Production",
    "location": "Warsaw",
    "secondary_locations": [],
    "employment_type": "FullTime",
@@ -1126,6 +1126,21 @@
    "description_sha256": "74ff7d9093006a2e04ab3fa9bcb537c863e217ecd51f8a4de560687a06ee34a9"
   },
   {
+   "job_id": "5b61f138-6bc9-4d81-b820-d1bf7b30a224",
+   "lineage_key": "customer-excellence-specialist@singapore",
+   "title": "Customer Excellence Specialist",
+   "department": "Data",
+   "team": "Customer Excellence",
+   "location": "Singapore",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-23T07:14:24.390+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/5b61f138-6bc9-4d81-b820-d1bf7b30a224",
+   "description_sha256": "d3e550eced536fad6ef5153eb976cb90a0a9482ed6262a03b227b44b57543d40"
+  },
+  {
    "job_id": "5bc4767f-7ae6-429a-a784-a9d260680462",
    "lineage_key": "smart-manufacturing-engineer-sw-electronics@espoo",
    "title": "Smart Manufacturing Engineer, SW & Electronics",
@@ -1139,6 +1154,21 @@
    "published_at": "2026-04-28T13:13:51.694+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/5bc4767f-7ae6-429a-a784-a9d260680462",
    "description_sha256": "79a7864f6be4e0f7bbdf1267c18215530c805ffe88998bcd478bc91fb7524c95"
+  },
+  {
+   "job_id": "5c68a956-9359-4045-9664-c42f79b163fa",
+   "lineage_key": "customer-excellence-specialist@new-delhi",
+   "title": "Customer Excellence Specialist",
+   "department": "Data",
+   "team": "Customer Excellence",
+   "location": "New Delhi",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-23T07:14:21.001+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/5c68a956-9359-4045-9664-c42f79b163fa",
+   "description_sha256": "d3e550eced536fad6ef5153eb976cb90a0a9482ed6262a03b227b44b57543d40"
   },
   {
    "job_id": "5d1c9124-8b45-4b12-b3b4-8e91168afbbc",
@@ -1321,6 +1351,30 @@
    "published_at": "2026-04-08T07:31:37.367+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/6e531bd0-02f1-4191-91dd-f16910246d23",
    "description_sha256": "c83c32e24165aaf9150a34be29d4b1003e385890c73b5e71e99ffd7012b2804a"
+  },
+  {
+   "job_id": "6f4c8c5f-a335-4828-8826-e93e02700b34",
+   "lineage_key": "sar-training-specialist@espoo",
+   "title": "SAR Training Specialist",
+   "department": "Data",
+   "team": "Data Sales Engineering",
+   "location": "Espoo",
+   "secondary_locations": [
+    "Amsterdam",
+    "Lisbon",
+    "Valencia",
+    "UK",
+    "Berlin",
+    "Remote",
+    "Athens",
+    "Warsaw"
+   ],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-23T09:51:55.809+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/6f4c8c5f-a335-4828-8826-e93e02700b34",
+   "description_sha256": "044ad7920eb2fe4a218a06bb43397c8485d6ace40aecc88ecebb58b502716d0a"
   },
   {
    "job_id": "6f4faf66-f7c0-4e89-a10f-6e9589646e0c",
@@ -1578,6 +1632,21 @@
    "description_sha256": "e71e3a0a11239783c8e35aae0d78b987dbcea101ad529b9465fc7bc57ea3ea05"
   },
   {
+   "job_id": "82011247-944a-40bc-883b-add08bd65954",
+   "lineage_key": "customer-excellence-specialist@united-arab-emirates",
+   "title": "Customer Excellence Specialist",
+   "department": "Data",
+   "team": "Data",
+   "location": "United Arab Emirates",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-23T12:52:58.338+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/82011247-944a-40bc-883b-add08bd65954",
+   "description_sha256": "84956b6593255694e25a4917d9512449ef4e06fd79784cf1e29cc46ccfe8ce3a"
+  },
+  {
    "job_id": "824f4858-2692-4b97-82bf-cbe2805dfbd6",
    "lineage_key": "ait-engineer-electronics@athens",
    "title": "AIT Engineer - Electronics",
@@ -1635,7 +1704,7 @@
    "is_remote": false,
    "published_at": "2026-10-05T07:28:44.750+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/89154c8e-6501-4012-b71b-8c6711588ffb",
-   "description_sha256": "06b626d6a05d347ee7c6915362d2fed1080e72fec1c23b69a059822e2c78d76c"
+   "description_sha256": "afe20f6220d1d2aa64298e83a364b24cbfff8ebe0e3feb2058d76cc081daefe9"
   },
   {
    "job_id": "8a1f917f-09fa-45b0-8e05-2f6eb2cdc793",
@@ -2046,7 +2115,7 @@
    "is_remote": true,
    "published_at": "2026-09-29T15:25:31.420+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/b4432ff0-6b94-4630-a7f6-833415ae7d63",
-   "description_sha256": "dfb35a5e797185d02cd3c27f8016fe1f1d01c4d126b0f8251aca00fc82db3416"
+   "description_sha256": "3da70c30e08660f7c9a2000da2f15bc4b65d776c75f01d2d133164162fa695ca"
   },
   {
    "job_id": "b477b608-8346-4824-afb3-bb8845b5c865",
@@ -2152,21 +2221,6 @@
    "published_at": "2026-06-12T15:39:07.358+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/be2a2c66-275f-41b9-acc1-9073b27bfce8",
    "description_sha256": "cddc810be19771034b63a437536803b6ce58852230b2e1247c4184b6a807d17a"
-  },
-  {
-   "job_id": "bfef9f94-e3c6-4f09-9d69-157601968c2c",
-   "lineage_key": "warehouse-logistics-operator@warsaw",
-   "title": "Warehouse / Logistics Operator",
-   "department": "Global Manufacturing Organization",
-   "team": "PL Facility Management",
-   "location": "Warsaw",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-09-29T10:41:36.398+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/bfef9f94-e3c6-4f09-9d69-157601968c2c",
-   "description_sha256": "160de3f82fc0b94ba51c655c55ec59cdaebef43f0a54971bab1a0e37b482751b"
   },
   {
    "job_id": "c27729e6-99f6-4e62-bc39-1a7b5cc6ee8c",
@@ -2364,6 +2418,21 @@
    "published_at": "2026-07-20T06:01:05.344+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/cc0b017f-f910-4e64-9dd6-4b4da5538089",
    "description_sha256": "3623aaa42d3cf15507286af01b306e292156a18622b8ce45eb6f0e1321425afc"
+  },
+  {
+   "job_id": "cc3bb0b2-e389-4059-8984-41c09a6aed4a",
+   "lineage_key": "staff-engineer-satellite-communications@espoo",
+   "title": "Staff Engineer (Satellite Communications)",
+   "department": "Engineering",
+   "team": "Fleet Control and Communications",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-23T13:16:53.059+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/cc3bb0b2-e389-4059-8984-41c09a6aed4a",
+   "description_sha256": "283685085745ada5941b73b17f1b84892a3e9d6843761cef971c909caa85c3d4"
   },
   {
    "job_id": "cd035996-66ce-478b-beb9-d42a69293946",
@@ -2645,8 +2714,8 @@
   },
   {
    "job_id": "e358575f-01c4-40ce-aac5-68f7255fce67",
-   "lineage_key": "senior-grc-engineer@espoo",
-   "title": "Senior GRC Engineer",
+   "lineage_key": "senior-grc-engineer-security@espoo",
+   "title": "Senior GRC Engineer (Security)",
    "department": "Security",
    "team": "Security",
    "location": "Espoo",
@@ -2656,7 +2725,7 @@
    "is_remote": true,
    "published_at": "2026-08-06T10:32:08.052+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e358575f-01c4-40ce-aac5-68f7255fce67",
-   "description_sha256": "d0fbf5868bd38a9718f225ddd9005502262735446099142f94291cef612bedd7"
+   "description_sha256": "d18d653c804b6e807130061adfd4b52176ff5d1e7cec585acac03ae0881742ad"
   },
   {
    "job_id": "e4d89d32-5bee-4090-8bd0-5634803b6d3f",
@@ -2976,7 +3045,7 @@
    "is_remote": false,
    "published_at": "2026-10-05T11:19:13.830+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/fe0001f5-f3c9-4df7-b968-23451c9b4b1d",
-   "description_sha256": "2a63abe91645496b6e026ca3a507dfbe26df11729d6182d36d7dd419bb1491ea"
+   "description_sha256": "bb65d21b82c4c70b0ac8ff224b59e4b8419b1781d2e0ef896636c4ab8ca97762"
   },
   {
    "job_id": "fec79d94-ccd5-409a-81ae-182a9eafc208",

@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-10-22T15:32:54+00:00",
- "job_count": 121,
+ "fetched_at": "2026-10-23T15:24:40+00:00",
+ "job_count": 125,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -1012,17 +1012,32 @@
   },
   {
    "job_id": "4974349101",
-   "lineage_key": "senior-devx-engineer-f-m-d@ottobrunn-bavaria-germany",
+   "lineage_key": "senior-devx-engineer-f-m-d@parsdorf-bavaria-germany",
    "title": "Senior DevX Engineer (f/m/d)",
    "department": "Ground Systems",
    "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
+   "location": "Parsdorf, Bavaria, Germany",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
    "is_remote": false,
    "published_at": "2026-09-11T07:55:29-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4974349101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4974351101",
+   "lineage_key": "senior-devops-engineer-f-m-d@parsdorf-bavaria-germany",
+   "title": "Senior DevOps Engineer (f/m/d)",
+   "department": "Ground Systems",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-23T07:08:24-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4974351101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1461,6 +1476,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4999746101",
+   "lineage_key": "senior-communications-specialist-f-m-d@parsdorf-bavaria-germany",
+   "title": "Senior Communications Specialist (f/m/d)",
+   "department": "Communication",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-08T02:14:58-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4999746101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "5000652101",
    "lineage_key": "12-months-internship-propulsion-test-engineer-m-f-d@kiruna-norrbotten-sweden",
    "title": "12 months internship - Propulsion Test Engineer (m/f/d)",
@@ -1578,6 +1608,21 @@
    "is_remote": false,
    "published_at": "2026-10-13T11:48:46-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5004895101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5005332101",
+   "lineage_key": "manager-health-safety-environment-w-m-d@parsdorf-bavaria-germany",
+   "title": "Manager Health, Safety & Environment (w/m/d)",
+   "department": "Infrastructure, Safety & Service",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-23T05:50:35-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5005332101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1803,6 +1848,21 @@
    "is_remote": false,
    "published_at": "2026-10-21T11:06:06-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5012653101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5012704101",
+   "lineage_key": "account-manager-defense-f-m-d@parsdorf-bavaria-germany",
+   "title": "Account Manager Defense (f/m/d)",
+   "department": "Commercial",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-23T10:18:26-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5012704101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

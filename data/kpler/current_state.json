@@ -2,7 +2,7 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-10-23T15:24:40+00:00",
+ "fetched_at": "2026-10-23T20:04:29+00:00",
  "job_count": 102,
  "jobs": [
   {
@@ -974,23 +974,6 @@
    "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
-   "job_id": "9ede4329-689a-4096-9fea-6b7495edb813",
-   "lineage_key": "tax-expert@hungary",
-   "title": "Tax Expert",
-   "department": "Finance",
-   "team": "Finance",
-   "location": "Hungary",
-   "secondary_locations": [
-    "Poland"
-   ],
-   "employment_type": "",
-   "workplace_type": "remote",
-   "is_remote": true,
-   "published_at": "2026-09-14T14:42:56.138000+00:00",
-   "url": "https://jobs.lever.co/kpler/9ede4329-689a-4096-9fea-6b7495edb813",
-   "description_sha256": "171ab6d4905d6cafdab57bac45b7435e1d425c18fc755de0640bef1af815fe33"
-  },
-  {
    "job_id": "a26f4209-45d6-45b0-b560-3e812e0ecb8a",
    "lineage_key": "mid-market-account-manager-supply-chain-and-logistics@new-york",
    "title": "Mid Market Account Manager - Supply Chain and Logistics",
@@ -1219,6 +1202,21 @@
    "published_at": "2026-10-19T08:15:05.284000+00:00",
    "url": "https://jobs.lever.co/kpler/bc4338ab-5392-4b2b-bdc7-13ad466ad911",
    "description_sha256": "245f9e3bfc1716266b8cd52bb00e68e65d7065bd32ff78955a4ffeeecc0d9d5a"
+  },
+  {
+   "job_id": "bd68099b-f15b-43fb-ad5d-def3e96bc265",
+   "lineage_key": "principal-product-manager@united-states",
+   "title": "Principal Product Manager",
+   "department": "Product",
+   "team": "Product Commodities",
+   "location": "United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "remote",
+   "is_remote": true,
+   "published_at": "2026-10-23T16:38:12.522000+00:00",
+   "url": "https://jobs.lever.co/kpler/bd68099b-f15b-43fb-ad5d-def3e96bc265",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
    "job_id": "c1c461f8-b95a-49ab-ad43-f8b519e59778",

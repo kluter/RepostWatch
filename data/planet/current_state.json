@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-10-23T15:24:40+00:00",
- "job_count": 121,
+ "fetched_at": "2026-10-23T20:04:29+00:00",
+ "job_count": 125,
  "jobs": [
   {
    "job_id": "7374533",
@@ -378,6 +378,21 @@
    "is_remote": false,
    "published_at": "2026-08-28T11:54:56-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8046738",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8067731",
+   "lineage_key": "technical-program-manager-solutions@arlington-va",
+   "title": "Technical Program Manager, Solutions",
+   "department": "Program Management",
+   "team": "",
+   "location": "Arlington, VA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-13T17:54:07-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8067731",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -801,6 +816,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8160762",
+   "lineage_key": "technical-program-manager-solutions@denver-co",
+   "title": "Technical Program Manager, Solutions",
+   "department": "Program Management",
+   "team": "",
+   "location": "Denver, CO",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-26T18:26:56-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8160762",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8161967",
    "lineage_key": "solutions-architect-i-professional-services@berlin-germany",
    "title": "Solutions Architect I, Professional Services",
@@ -969,7 +999,7 @@
    "job_id": "8190771",
    "lineage_key": "senior-software-engineer@berlin-germany",
    "title": "Senior Software Engineer",
-   "department": "Platform",
+   "department": "Data Availability",
    "team": "",
    "location": "Berlin, Germany",
    "secondary_locations": [],
@@ -1449,7 +1479,7 @@
    "job_id": "8233190",
    "lineage_key": "senior-software-engineer@haarlem-netherlands",
    "title": "Senior Software Engineer",
-   "department": "Platform",
+   "department": "Data Availability",
    "team": "",
    "location": "Haarlem, Netherlands",
    "secondary_locations": [],
@@ -1464,7 +1494,7 @@
    "job_id": "8233191",
    "lineage_key": "senior-software-engineer@ljubljana-slovenia",
    "title": "Senior Software Engineer",
-   "department": "Platform",
+   "department": "Data Availability",
    "team": "",
    "location": "Ljubljana, Slovenia",
    "secondary_locations": [],
@@ -1503,6 +1533,21 @@
    "is_remote": false,
    "published_at": "2026-09-25T10:58:34-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8233193",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8233660",
+   "lineage_key": "associate-space-operations@san-francisco-ca",
+   "title": "Associate, Space Operations",
+   "department": "Space Operations",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-23T14:47:18-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8233660",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1818,6 +1863,21 @@
    "is_remote": false,
    "published_at": "2026-10-16T08:07:25-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8288673",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8300950",
+   "lineage_key": "senior-product-manager-solutions-enablement@san-francisco-ca",
+   "title": "Senior Product Manager, Solutions Enablement",
+   "department": "Emerging Solutions (CG&C)",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-23T15:06:52-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8300950",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

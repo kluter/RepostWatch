@@ -2,9 +2,26 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-10-21T20:20:56+00:00",
- "job_count": 24,
+ "fetched_at": "2026-10-23T20:04:29+00:00",
+ "job_count": 25,
  "jobs": [
+  {
+   "job_id": "0652C1D7B7",
+   "lineage_key": "program-manager@arlington-united-states",
+   "title": "Program Manager",
+   "department": "Mission Solutions",
+   "team": "",
+   "location": "Arlington, United States",
+   "secondary_locations": [
+    "Reston, United States"
+   ],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-23T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/0652C1D7B7",
+   "description_sha256": "4b7eb1cbc55905cedbc6f450254bcfb13c88df2139a5d6b93ae2a496a948ffaf"
+  },
   {
    "job_id": "076F11402A",
    "lineage_key": "staff-space-mission-systems-engineer@arlington-united-states",

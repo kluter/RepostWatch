@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-10-26T16:55:48+00:00",
- "job_count": 130,
+ "fetched_at": "2026-10-26T21:11:04+00:00",
+ "job_count": 131,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -577,11 +577,11 @@
   },
   {
    "job_id": "4869206101",
-   "lineage_key": "senior-safety-compliance-specialist-f-m-d@ottobrunn-bavaria-germany",
+   "lineage_key": "senior-safety-compliance-specialist-f-m-d@parsdorf-bavaria-germany",
    "title": "Senior Safety & Compliance Specialist (f/m/d)",
    "department": "Ground Systems",
    "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
+   "location": "Parsdorf, Bavaria, Germany",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
@@ -1953,6 +1953,21 @@
    "is_remote": false,
    "published_at": "2026-10-26T11:54:12-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5016367101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5016487101",
+   "lineage_key": "ground-safety-compliance-engineer-m-f-d@canso-nova-scotia-canada",
+   "title": "Ground Safety & Compliance Engineer (m/f/d)",
+   "department": "Mission & Launch Operations",
+   "team": "",
+   "location": "Canso, Nova Scotia, Canada",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-26T13:15:09-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5016487101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

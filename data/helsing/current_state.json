@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-10-24T14:05:46+00:00",
- "job_count": 160,
+ "fetched_at": "2026-10-26T16:55:48+00:00",
+ "job_count": 158,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -138,21 +138,6 @@
    "is_remote": false,
    "published_at": "2025-01-13T12:15:06-05:00",
    "url": "https://helsing.ai/jobs/4516967101?gh_jid=4516967101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4538119101",
-   "lineage_key": "forward-strategist@munich",
-   "title": "Forward Strategist",
-   "department": "Deployed Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-20T08:58:17-04:00",
-   "url": "https://helsing.ai/jobs/4538119101?gh_jid=4538119101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -621,21 +606,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4865734101",
-   "lineage_key": "radio-engineer@munich",
-   "title": "Radio Engineer",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-13T08:04:39-04:00",
-   "url": "https://helsing.ai/jobs/4865734101?gh_jid=4865734101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4865788101",
    "lineage_key": "helsing-formula-student-programme@munich",
    "title": "Helsing – Formula Student Programme",
@@ -993,21 +963,6 @@
    "is_remote": false,
    "published_at": "2026-06-29T02:45:00-04:00",
    "url": "https://helsing.ai/jobs/4908213101?gh_jid=4908213101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4911660101",
-   "lineage_key": "electrical-harness-engineer@munich",
-   "title": "Electrical Harness Engineer",
-   "department": "Hardware Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-30T05:09:08-04:00",
-   "url": "https://helsing.ai/jobs/4911660101?gh_jid=4911660101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1566,21 +1521,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4963307101",
-   "lineage_key": "head-of-fp-a@munich",
-   "title": "Head of FP&A",
-   "department": "Finance",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-31T03:13:26-04:00",
-   "url": "https://helsing.ai/jobs/4963307101?gh_jid=4963307101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4963868101",
    "lineage_key": "senior-commercial-finance-business-partner@munich",
    "title": "Senior Commercial Finance Business Partner",
@@ -2121,6 +2061,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4995452101",
+   "lineage_key": "flight-dynamics-modelling-engineer@munich",
+   "title": "Flight Dynamics Modelling Engineer",
+   "department": "Systems Architecture",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-01T10:59:48-04:00",
+   "url": "https://helsing.ai/jobs/4995452101?gh_jid=4995452101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4996521101",
    "lineage_key": "legal-counsel-it-privacy@munich",
    "title": "Legal Counsel IT & Privacy",
@@ -2403,6 +2358,21 @@
    "is_remote": false,
    "published_at": "2026-10-23T12:23:47-04:00",
    "url": "https://helsing.ai/jobs/5015016101?gh_jid=5015016101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5015993101",
+   "lineage_key": "specialist-export-control@munich",
+   "title": "Specialist Export Control",
+   "department": "Operations",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-26T07:07:08-04:00",
+   "url": "https://helsing.ai/jobs/5015993101?gh_jid=5015993101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

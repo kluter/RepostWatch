@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-10-26T16:55:48+00:00",
- "job_count": 158,
+ "fetched_at": "2026-10-27T15:58:55+00:00",
+ "job_count": 160,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -982,8 +982,8 @@
   },
   {
    "job_id": "4913364101",
-   "lineage_key": "senior-programme-manager-militarisation@munich",
-   "title": "Senior Programme Manager - Militarisation",
+   "lineage_key": "senior-programme-manager-militarisation-air@munich",
+   "title": "Senior Programme Manager - Militarisation - Air",
    "department": "Campaigns & Programmes",
    "team": "",
    "location": "Munich",
@@ -1102,8 +1102,8 @@
   },
   {
    "job_id": "4929769101",
-   "lineage_key": "programme-manager@paris",
-   "title": "Programme Manager",
+   "lineage_key": "programme-manager-air@paris",
+   "title": "Programme Manager - Air",
    "department": "Campaigns & Programmes",
    "team": "",
    "location": "Paris",
@@ -1806,21 +1806,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4978367101",
-   "lineage_key": "strategy-operations-aus@canberra",
-   "title": "Strategy & Operations (AUS)",
-   "department": "Market",
-   "team": "",
-   "location": "Canberra",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-18T09:25:07-04:00",
-   "url": "https://helsing.ai/jobs/4978367101?gh_jid=4978367101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4979778101",
    "lineage_key": "uas-flight-operations-manager-germany@munich",
    "title": "UAS Flight Operations Manager - Germany",
@@ -2167,8 +2152,8 @@
   },
   {
    "job_id": "4999686101",
-   "lineage_key": "product-manager-perception-sensor-fusion@munich",
-   "title": "Product Manager – Perception & Sensor Fusion",
+   "lineage_key": "product-manager-perception-sensor-fusion-air@munich",
+   "title": "Product Manager – Perception & Sensor Fusion - Air",
    "department": "Market",
    "team": "",
    "location": "Munich",
@@ -2197,8 +2182,8 @@
   },
   {
    "job_id": "5001623101",
-   "lineage_key": "head-of-flight-test-management-senior-flight-test-manager@munich",
-   "title": "Head of Flight Test Management / Senior Flight Test M​anager",
+   "lineage_key": "head-of-flight-test-management-senior-flight-test-manager-air@munich",
+   "title": "Head of Flight Test Management / Senior Flight Test M​anager - Air",
    "department": "Market",
    "team": "",
    "location": "Munich",
@@ -2373,6 +2358,51 @@
    "is_remote": false,
    "published_at": "2026-10-26T07:07:08-04:00",
    "url": "https://helsing.ai/jobs/5015993101?gh_jid=5015993101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5017322101",
+   "lineage_key": "senior-power-electronics-engineer@washington-dc",
+   "title": "Senior Power Electronics Engineer",
+   "department": "Hardware Engineering",
+   "team": "",
+   "location": "Washington, DC",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-27T06:38:36-04:00",
+   "url": "https://helsing.ai/jobs/5017322101?gh_jid=5017322101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5017328101",
+   "lineage_key": "senior-electronics-engineer@washington-dc",
+   "title": "Senior Electronics Engineer",
+   "department": "Hardware Engineering",
+   "team": "",
+   "location": "Washington, DC",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-27T06:42:13-04:00",
+   "url": "https://helsing.ai/jobs/5017328101?gh_jid=5017328101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5017382101",
+   "lineage_key": "facilities-manager@martinsburg-wv",
+   "title": "Facilities Manager",
+   "department": "Operations",
+   "team": "",
+   "location": "Martinsburg, WV",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-27T07:25:27-04:00",
+   "url": "https://helsing.ai/jobs/5017382101?gh_jid=5017382101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-10-26T21:11:04+00:00",
- "job_count": 131,
+ "fetched_at": "2026-10-27T15:58:55+00:00",
+ "job_count": 136,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -1176,21 +1176,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4978831101",
-   "lineage_key": "working-student-environmental-data-analyst-lca-support-m-f-d@parsdorf-bavaria-germany",
-   "title": "Working Student Environmental Data Analyst & LCA Support (m/f/d)",
-   "department": "Infrastructure, Safety & Service",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-16T11:59:14-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4978831101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4980390101",
    "lineage_key": "structures-analysis-engineer-launch-vehicle-structure-m-f-d@parsdorf-bavaria-germany",
    "title": "Structures Analysis Engineer, Launch Vehicle Structure (m/f/d)",
@@ -1383,6 +1368,21 @@
    "is_remote": false,
    "published_at": "2026-09-30T11:47:56-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4994584101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4997386101",
+   "lineage_key": "manager-structures-design-lv-structures-m-f-d@parsdorf-bavaria-germany",
+   "title": "Manager Structures Design, LV Structures (m/f/d)",
+   "department": "Launch Vehicle Structures",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-27T07:31:03-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4997386101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1851,6 +1851,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "5013229101",
+   "lineage_key": "intern-learning-and-development-m-f-d@parsdorf-bavaria-germany",
+   "title": "Intern Learning and Development (m/f/d)",
+   "department": "Talent",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-27T08:07:08-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5013229101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "5013742101",
    "lineage_key": "working-student-launch-vehicle-design-m-f-d@parsdorf-bavaria-germany",
    "title": "Working Student - Launch Vehicle Design (m/f/d)",
@@ -1941,6 +1956,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "5016259101",
+   "lineage_key": "chief-of-staff-m-f-d@parsdorf-bavaria-germany",
+   "title": "Chief of Staff (m/f/d)",
+   "department": "Spectrum",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-27T06:12:47-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5016259101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "5016367101",
    "lineage_key": "propulsion-test-operations-engineer-m-f-d@kiruna-norrbotten-sweden",
    "title": "Propulsion Test Operations Engineer (m/f/d)",
@@ -1968,6 +1998,51 @@
    "is_remote": false,
    "published_at": "2026-10-26T13:15:09-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5016487101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5017330101",
+   "lineage_key": "ait-technician@kiruna-norrbotten-sweden",
+   "title": "AIT Technician",
+   "department": "Spectrum AIT",
+   "team": "",
+   "location": "Kiruna, Norrbotten, Sweden",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-27T06:51:17-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5017330101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5017343101",
+   "lineage_key": "maintenance-technician-m-f-d@kiruna-norrbotten-sweden",
+   "title": "Maintenance Technician (m/f/d)",
+   "department": "Spectrum AIT",
+   "team": "",
+   "location": "Kiruna, Norrbotten, Sweden",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-27T06:58:01-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5017343101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5017349101",
+   "lineage_key": "propulsion-test-design-engineer-m-f-d@kiruna-norrbotten-sweden",
+   "title": "Propulsion Test Design Engineer (m/f/d)",
+   "department": "Spectrum AIT",
+   "team": "",
+   "location": "Kiruna, Norrbotten, Sweden",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-27T07:00:33-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5017349101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

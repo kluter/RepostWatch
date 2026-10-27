@@ -674,6 +674,12 @@
    "lat": 39.7837304,
    "lon": -100.445882,
    "label": "United States"
+  },
+  "usa (remote)": {
+   "lat": 39.7837304,
+   "lon": -100.445882,
+   "label": "USA",
+   "remote": true
   }
  }
 }

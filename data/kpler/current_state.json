@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-10-23T20:04:29+00:00",
- "job_count": 102,
+ "fetched_at": "2026-10-27T15:58:55+00:00",
+ "job_count": 101,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -34,21 +34,6 @@
    "published_at": "2026-10-09T14:35:46.255000+00:00",
    "url": "https://jobs.lever.co/kpler/04129e3c-8390-4ce7-9e7f-30787378caf5",
    "description_sha256": "bae9243e7694ea388efa225d1e8eb78b1377d15bda7bf875962397059808073d"
-  },
-  {
-   "job_id": "04358058-db0c-4e96-92bc-3a7aa3b6321d",
-   "lineage_key": "senior-research-analyst-fuel-oil@london",
-   "title": "Senior Research Analyst, Fuel oil",
-   "department": "Business Units",
-   "team": "Oil & Chemicals",
-   "location": "London",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-09-17T10:00:06.452000+00:00",
-   "url": "https://jobs.lever.co/kpler/04358058-db0c-4e96-92bc-3a7aa3b6321d",
-   "description_sha256": "2903100d97a435ed0c851126226901cc9731526725fcbc20123011e08bbc24df"
   },
   {
    "job_id": "05f76103-21ef-40af-b6f8-05413b27af04",
@@ -171,6 +156,21 @@
    "published_at": "2026-10-08T17:28:41.185000+00:00",
    "url": "https://jobs.lever.co/kpler/187966a4-ec74-4e60-94ee-016ffdb95d11",
    "description_sha256": "ba6aecdc741f5ee31404ff3e387e1de0cf90439a94514d162866e880450aa612"
+  },
+  {
+   "job_id": "19dc1d40-6a2f-47a2-bca6-64c845938625",
+   "lineage_key": "sales-specialist-financial-flows-americas@london",
+   "title": "Sales Specialist – Financial Flows (Americas)",
+   "department": "Commercial",
+   "team": "Sales Specialist",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-27T11:42:43.060000+00:00",
+   "url": "https://jobs.lever.co/kpler/19dc1d40-6a2f-47a2-bca6-64c845938625",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
    "job_id": "1c976953-88d4-4487-9c56-2b8ff2587857",
@@ -730,36 +730,6 @@
    "description_sha256": "8726b4999f528fc79136f659fc8c1efd9d2a11c9a8b5714dfeff7445d69c58d0"
   },
   {
-   "job_id": "85248b31-c44c-4689-b004-ca4228adc2b9",
-   "lineage_key": "data-engineer-natural-gas@mexico",
-   "title": "Data Engineer - Natural Gas",
-   "department": "Engineering",
-   "team": "Engineering Commodities",
-   "location": "Mexico",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-05-06T13:40:51.869000+00:00",
-   "url": "https://jobs.lever.co/kpler/85248b31-c44c-4689-b004-ca4228adc2b9",
-   "description_sha256": "3e1068a6636e2d8f111668131cd06aebac8c389288f6b0bfc38221134fa1d270"
-  },
-  {
-   "job_id": "89347b75-036c-4ae6-8f55-ff7834462edc",
-   "lineage_key": "senior-biofuels-research-analyst@houston",
-   "title": "Senior Biofuels Research Analyst",
-   "department": "Business Units",
-   "team": "Ags & Dry",
-   "location": "Houston",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-09-14T17:11:03.730000+00:00",
-   "url": "https://jobs.lever.co/kpler/89347b75-036c-4ae6-8f55-ff7834462edc",
-   "description_sha256": "2ffc9328848dcd05b8df003420e9b17ae55d75c5aa9cecbef5c2ee6ecfec2876"
-  },
-  {
    "job_id": "8a52af87-a0dd-46d6-bc25-9c40bab1f49c",
    "lineage_key": "senior-data-engineer@united-kingdom",
    "title": "Senior Data Engineer",
@@ -863,6 +833,21 @@
    "published_at": "2026-09-21T19:56:27.932000+00:00",
    "url": "https://jobs.lever.co/kpler/8e80a0b5-49f4-429a-9be2-d2eecd412f79",
    "description_sha256": "ed656feb5f3829d39b81afa73c0afe3639530affc2468109b2ad482e427e7565"
+  },
+  {
+   "job_id": "8ef8d27a-3f7f-442f-ba0e-9da0e8af10c0",
+   "lineage_key": "sales-specialist-financial-flows-emea@london",
+   "title": "Sales Specialist – Financial Flows (EMEA)",
+   "department": "Commercial",
+   "team": "Sales Specialist",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-27T11:32:58.749000+00:00",
+   "url": "https://jobs.lever.co/kpler/8ef8d27a-3f7f-442f-ba0e-9da0e8af10c0",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
    "job_id": "8ff15f9a-f8a7-415c-88c3-dbbc0583d934",
@@ -1234,6 +1219,21 @@
    "description_sha256": "16e1750fd867ca527010dd76a113cd448ceeb604f0f8cd4a31639976bfaab348"
   },
   {
+   "job_id": "c49c1eb2-36f8-488d-ac27-cc920e6435a9",
+   "lineage_key": "senior-crude-oil-analyst@dubai",
+   "title": "Senior Crude Oil Analyst",
+   "department": "Business Units",
+   "team": "Oil & Chemicals",
+   "location": "Dubai",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-22T09:11:56.331000+00:00",
+   "url": "https://jobs.lever.co/kpler/c49c1eb2-36f8-488d-ac27-cc920e6435a9",
+   "description_sha256": "7bf0ace2538597122146f8c94d35af6aa165c66b5aa9d6d33b50d4bef99823d1"
+  },
+  {
    "job_id": "c51380da-4888-4609-8fc1-c16cc8b7d25a",
    "lineage_key": "data-analyst-vessel-particulars@greece",
    "title": "Data Analyst (Vessel Particulars)",
@@ -1279,6 +1279,21 @@
    "published_at": "2026-04-21T09:56:12.230000+00:00",
    "url": "https://jobs.lever.co/kpler/c84729bc-bd8b-404c-9d04-c0a9f49c5513",
    "description_sha256": "0fda6ebd03b77f10041f23e164011488225b26a00f011ccd89b2c94c35e651d2"
+  },
+  {
+   "job_id": "caa9dbc6-f48f-437b-994f-64d233010da7",
+   "lineage_key": "junior-data-quality-analyst@london",
+   "title": "Junior Data Quality Analyst",
+   "department": "Business Units",
+   "team": "Oil & Chemicals",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-27T12:33:31.360000+00:00",
+   "url": "https://jobs.lever.co/kpler/caa9dbc6-f48f-437b-994f-64d233010da7",
+   "description_sha256": "365dc4f2801ef644c44bf868bae5564c608af02ce284ea654735e2048db1450a"
   },
   {
    "job_id": "d2ae744f-9539-4e0d-9d42-6014001833fc",
@@ -1437,21 +1452,6 @@
    "description_sha256": "35be3a04b2c29ab429fc4d9f8779cb10ead07497d3799e1d28e3d02c40614497"
   },
   {
-   "job_id": "ec1e9991-46d1-449a-94fb-a146388a9578",
-   "lineage_key": "sensor-network-field-agent@oklahoma",
-   "title": "Sensor Network Field Agent",
-   "department": "Business Units",
-   "team": "Oil & Chemicals",
-   "location": "Oklahoma",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "onsite",
-   "is_remote": false,
-   "published_at": "2026-09-18T11:03:15.494000+00:00",
-   "url": "https://jobs.lever.co/kpler/ec1e9991-46d1-449a-94fb-a146388a9578",
-   "description_sha256": "7838b414913db740636d3ccabb8fd13fb2efc37d6541b5cbf616fca21de07d1b"
-  },
-  {
    "job_id": "ee05fe01-7e4d-4292-897d-e9114f7f3509",
    "lineage_key": "account-manager-metals-agriculture@new-york",
    "title": "Account Manager - Metals & Agriculture",
@@ -1480,21 +1480,6 @@
    "published_at": "2026-09-30T15:48:11.436000+00:00",
    "url": "https://jobs.lever.co/kpler/ee3ad1a8-7c6c-4633-9d4f-4116621037d9",
    "description_sha256": "a13dfda8d4949bfee210b430b874301a4b9ea05d43e4f11c9dfc8f4873e5bfcb"
-  },
-  {
-   "job_id": "efa90634-2e62-4ae7-9142-e9a4ecd90076",
-   "lineage_key": "ml-engineer-power@japan",
-   "title": "ML Engineer - Power",
-   "department": "Engineering",
-   "team": "Engineering Commodities",
-   "location": "Japan",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-05-21T16:50:56.663000+00:00",
-   "url": "https://jobs.lever.co/kpler/efa90634-2e62-4ae7-9142-e9a4ecd90076",
-   "description_sha256": "f96b537558dc7a3bb8617cccbf92935c59a75b5f64b6f7a8ee2fef22bb213b24"
   },
   {
    "job_id": "f00d81b8-332d-40fd-89bc-2e90ea26931f",

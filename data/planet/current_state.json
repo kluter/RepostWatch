@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-10-26T21:11:04+00:00",
- "job_count": 124,
+ "fetched_at": "2026-10-27T15:58:55+00:00",
+ "job_count": 131,
  "jobs": [
   {
    "job_id": "7374533",
@@ -186,6 +186,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "7644560",
+   "lineage_key": "senior-camera-systems-engineer@san-francisco-ca",
+   "title": "Senior Camera Systems Engineer",
+   "department": "Spacecraft Systems Engineering",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-03-16T17:23:11-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7644560",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "7704446",
    "lineage_key": "us-army-account-executive@washington-d-c",
    "title": "US Army Account Executive",
@@ -306,21 +321,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8013156",
-   "lineage_key": "senior-solutions-architect-i-pre-sales-south-korea-defense-intelligence@apac-remote",
-   "title": "Senior Solutions Architect I, Pre-Sales - South Korea Defense & Intelligence",
-   "department": "Pre-Sales and Services",
-   "team": "",
-   "location": "APAC, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-07-01T18:11:40-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8013156",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8014103",
    "lineage_key": "technical-program-manager-trade-compliance@washington-dc",
    "title": "Technical Program Manager, Trade Compliance",
@@ -366,6 +366,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8052729",
+   "lineage_key": "customer-success-manager@apac-remote",
+   "title": "Customer Success Manager",
+   "department": "Techtouch Success",
+   "team": "",
+   "location": "APAC, Remote",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-07-22T13:37:37-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8052729",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8067731",
    "lineage_key": "technical-program-manager-solutions@arlington-va",
    "title": "Technical Program Manager, Solutions",
@@ -378,6 +393,21 @@
    "is_remote": false,
    "published_at": "2026-08-13T17:54:07-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8067731",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8069677",
+   "lineage_key": "senior-analyst-international-trade-compliance@san-francisco-ca",
+   "title": "Senior Analyst, International Trade Compliance",
+   "department": "Regulatory & Compliance",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-28T12:10:59-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8069677",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1506,21 +1536,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8233660",
-   "lineage_key": "associate-space-operations@san-francisco-ca",
-   "title": "Associate, Space Operations",
-   "department": "Space Operations",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-23T14:47:18-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8233660",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8239815",
    "lineage_key": "solutions-architect-i-professional-services@arlington-va",
    "title": "Solutions Architect I, Professional Services",
@@ -1746,6 +1761,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8276027",
+   "lineage_key": "space-systems-engineer-space-operations@san-francisco-ca",
+   "title": "Space Systems Engineer, Space Operations",
+   "department": "Space Operations",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-27T11:24:26-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8276027",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8276031",
    "lineage_key": "senior-product-designer-platform-geospatial@berlin-germany",
    "title": "Senior Product Designer, Platform (Geospatial)",
@@ -1863,6 +1893,81 @@
    "is_remote": false,
    "published_at": "2026-10-16T08:07:25-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8288673",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8289157",
+   "lineage_key": "supply-chain-manager-procurement-logistics-operations@berlin-germany",
+   "title": "Supply Chain Manager, Procurement & Logistics Operations",
+   "department": "Supply Chain",
+   "team": "",
+   "location": "Berlin, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-27T09:20:12-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8289157",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8306456",
+   "lineage_key": "senior-technical-program-manager-solutions@berlin-germany",
+   "title": "Senior Technical Program Manager, Solutions",
+   "department": "Program Management",
+   "team": "",
+   "location": "Berlin, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-27T06:30:21-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8306456",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8318600",
+   "lineage_key": "senior-director-of-engineering-civil-government-and-commercial@berlin-germany",
+   "title": "Senior Director of Engineering - Civil Government and Commercial",
+   "department": "Solutions (SWE)",
+   "team": "",
+   "location": "Berlin, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-27T11:04:06-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8318600",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8324235",
+   "lineage_key": "senior-director-of-engineering-civil-government-and-commercial@haarlem-netherlands",
+   "title": "Senior Director of Engineering - Civil Government and Commercial",
+   "department": "Solutions (SWE)",
+   "team": "",
+   "location": "Haarlem, Netherlands",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-27T11:04:08-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8324235",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8324236",
+   "lineage_key": "senior-director-of-engineering-civil-government-and-commercial@ljubljana-slovenia",
+   "title": "Senior Director of Engineering - Civil Government and Commercial",
+   "department": "Solutions (SWE)",
+   "team": "",
+   "location": "Ljubljana, Slovenia",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-27T11:04:11-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8324236",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-26T16:55:48+00:00",
- "job_count": 200,
+ "fetched_at": "2026-10-27T15:58:55+00:00",
+ "job_count": 201,
  "jobs": [
   {
    "job_id": "01edf520-e6e9-4b3e-bc57-5886e694b6b8",
@@ -49,21 +49,6 @@
    "published_at": "2026-06-25T09:37:15.157+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/06f113d6-1702-4346-9369-97d70d68738b",
    "description_sha256": "bf2d0e55135e31b6e441c20007edc959412e0a1c1dedfc38ad81570138f853d1"
-  },
-  {
-   "job_id": "08012612-81fe-4563-998f-e336ca3c333c",
-   "lineage_key": "business-applications-specialist@espoo",
-   "title": "Business Applications Specialist",
-   "department": "Operations",
-   "team": "Operations",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-09-28T13:23:43.119+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/08012612-81fe-4563-998f-e336ca3c333c",
-   "description_sha256": "cb233ec3ddc824101b2ff565ae6fcc8daded364e9f7d9fe2f65765361a0bbbcb"
   },
   {
    "job_id": "09d02ba3-5ba6-4a11-bb30-74e42c22c485",
@@ -169,6 +154,30 @@
    "published_at": "2026-09-18T07:10:55.910+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/105d0392-a86e-49e2-ab75-d96ec84c2186",
    "description_sha256": "72c4053fcd9b048387fddaee4a0f7e7a3823713f2036d0ca57fd44155885916b"
+  },
+  {
+   "job_id": "1102b455-bc29-4db3-947e-81056a37b99c",
+   "lineage_key": "sales-engineer@espoo",
+   "title": "Sales Engineer",
+   "department": "Data",
+   "team": "Data Sales Engineering",
+   "location": "Espoo",
+   "secondary_locations": [
+    "Amsterdam",
+    "Lisbon",
+    "Valencia",
+    "Berlin",
+    "Remote",
+    "Athens",
+    "Munich",
+    "Warsaw"
+   ],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-27T14:29:01.217+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/1102b455-bc29-4db3-947e-81056a37b99c",
+   "description_sha256": "b2b651bdbdfbb7716c89be9d109e7a651935fed8095bcac4b776ee85495a8220"
   },
   {
    "job_id": "15151504-9995-4025-9d94-a31ef624a838",
@@ -758,23 +767,6 @@
    "published_at": "2026-06-24T16:16:41.423+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/3eb0f7b1-ab19-4d41-b633-dfeea0990086",
    "description_sha256": "eb26642810f668ad0e5779dc9d63b5c81dcbdeb41b186dc3533712a63dd8e00e"
-  },
-  {
-   "job_id": "421500ca-7543-4dfe-807c-72ea368be2b2",
-   "lineage_key": "senior-network-engineer@espoo",
-   "title": "Senior Network Engineer",
-   "department": "Engineering",
-   "team": "Product Networking",
-   "location": "Espoo",
-   "secondary_locations": [
-    "Berlin"
-   ],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-10-01T14:31:11.102+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/421500ca-7543-4dfe-807c-72ea368be2b2",
-   "description_sha256": "064b2dda69df4a17ed2b9505257638ba4e9cc7aad01e537a336e5798a581ca9e"
   },
   {
    "job_id": "42d95b7e-c150-4ebd-8814-5993dbafb921",
@@ -1497,21 +1489,6 @@
    "description_sha256": "e483a81732c0ab3e6aa098ab0dc803facd85e6a03daa4ea334cfd0a44420624d"
   },
   {
-   "job_id": "766bfeea-9868-4f0c-a629-5822dce0fa51",
-   "lineage_key": "technical-sales-lead@berlin",
-   "title": "Technical Sales Lead",
-   "department": "Missions",
-   "team": "Local Subsidiary, Germany",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-06-05T08:34:30.592+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/766bfeea-9868-4f0c-a629-5822dce0fa51",
-   "description_sha256": "33dbec950c310aeb68185122c742a36ef98039660099202b32a234260eb5161e"
-  },
-  {
    "job_id": "7ce28487-16fa-4054-a225-d91c4f996350",
    "lineage_key": "quality-control-technician-electronics@valencia",
    "title": "Quality Control Technician - Electronics",
@@ -1614,7 +1591,7 @@
    "is_remote": true,
    "published_at": "2026-10-23T12:52:58.338+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/82011247-944a-40bc-883b-add08bd65954",
-   "description_sha256": "84956b6593255694e25a4917d9512449ef4e06fd79784cf1e29cc46ccfe8ce3a"
+   "description_sha256": "cf128770d57baadd197aab64591d0e17692f315b651b41eea05860e4d818a73e"
   },
   {
    "job_id": "824f4858-2692-4b97-82bf-cbe2805dfbd6",
@@ -2186,6 +2163,21 @@
    "description_sha256": "6c07a7e2676dccc4e68f6aea01e09fcb401287745cbf1764704884546a78b008"
   },
   {
+   "job_id": "bcde4efc-5cf7-4bd4-abea-95e3c061f4ff",
+   "lineage_key": "harness-engineer@warsaw",
+   "title": "Harness Engineer",
+   "department": "Engineering",
+   "team": "Optical System",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-10-21T16:02:39.828+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/bcde4efc-5cf7-4bd4-abea-95e3c061f4ff",
+   "description_sha256": "907aadf53bcab9928e12f455ec5a0d4e1da82edae31142f292c49c11ed853565"
+  },
+  {
    "job_id": "bd3c5426-8a06-409b-b7f6-975112bbd958",
    "lineage_key": "engineering-supply-chain-manager-mechanical@espoo",
    "title": "Engineering Supply Chain Manager (Mechanical)",
@@ -2214,6 +2206,21 @@
    "published_at": "2026-06-12T15:39:07.358+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/be2a2c66-275f-41b9-acc1-9073b27bfce8",
    "description_sha256": "cddc810be19771034b63a437536803b6ce58852230b2e1247c4184b6a807d17a"
+  },
+  {
+   "job_id": "c1468ba6-40e3-4247-803f-8e5b951f208e",
+   "lineage_key": "electrical-ait-engineer@tokyo",
+   "title": "Electrical AIT Engineer",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Tokyo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-27T05:00:24.104+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/c1468ba6-40e3-4247-803f-8e5b951f208e",
+   "description_sha256": "c3894f8c7ea613ae7e88b31a968b9f9515955d0912231aa0acc3e861f7a4895b"
   },
   {
    "job_id": "c27729e6-99f6-4e62-bc39-1a7b5cc6ee8c",
@@ -2395,7 +2402,7 @@
    "is_remote": true,
    "published_at": "2026-10-21T10:57:57.503+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/cbc99246-f456-4764-a9a8-bcd3aabe71ba",
-   "description_sha256": "f2886ae916aa2369499b1b23e27919300d25c6a785039e918e44029aa07ad2b5"
+   "description_sha256": "a203b0c7022a703eff702e685a03058297e2d94ec7500d6c6edd7f090a373836"
   },
   {
    "job_id": "cc0b017f-f910-4e64-9dd6-4b4da5538089",
@@ -2722,6 +2729,21 @@
    "published_at": "2026-09-27T12:02:05.220+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e28c6e08-79ca-442b-aae8-adb02ee56076",
    "description_sha256": "9f145a627449a1343f3e61c4c60199e2b67de14571f4914f68dd2bcea5680eb1"
+  },
+  {
+   "job_id": "e34f1c0c-8a9e-4c3c-a5ac-5631fedfc36f",
+   "lineage_key": "state-and-local-strategic-account-manager@usa-remote",
+   "title": "State and Local Strategic Account Manager",
+   "department": "Solutions",
+   "team": "Solutions Sales",
+   "location": "USA (Remote)",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Remote",
+   "is_remote": true,
+   "published_at": "2026-10-27T12:55:23.213+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/e34f1c0c-8a9e-4c3c-a5ac-5631fedfc36f",
+   "description_sha256": "e4424046c43f75e708b235f6d14700702968574e58b1b59dc0bf920d804feb21"
   },
   {
    "job_id": "e358575f-01c4-40ce-aac5-68f7255fce67",

@@ -2,7 +2,7 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-10-27T15:58:55+00:00",
+ "fetched_at": "2026-10-27T20:57:50+00:00",
  "job_count": 101,
  "jobs": [
   {
@@ -1004,23 +1004,6 @@
    "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
-   "job_id": "a91625c6-0380-4c81-8374-df0acf483c90",
-   "lineage_key": "senior-accounting-manager-head-of-gl-accounting@athens",
-   "title": "Senior Accounting Manager (Head of GL Accounting)",
-   "department": "Finance",
-   "team": "Finance",
-   "location": "Athens",
-   "secondary_locations": [
-    "Budapest"
-   ],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-02-18T15:44:13.976000+00:00",
-   "url": "https://jobs.lever.co/kpler/a91625c6-0380-4c81-8374-df0acf483c90",
-   "description_sha256": "be6f1772a7f4fdec6728e844df9db3eca521497e8acbef38e47f3449c70974e4"
-  },
-  {
    "job_id": "ab8a61f8-fce0-4c12-b576-c7d277c07cda",
    "lineage_key": "senior-full-stack-engineer-identity-authentication@budapest",
    "title": "Senior Full-Stack Engineer – Identity & Authentication",
@@ -1540,6 +1523,21 @@
    "published_at": "2026-10-13T13:35:02.071000+00:00",
    "url": "https://jobs.lever.co/kpler/fd027bed-7a3f-4e51-ab7b-6da91fcf26bb",
    "description_sha256": "f5b4e3fab3512dc174dffb104d7c1889f8676ac59c02cb02161241e915054684"
+  },
+  {
+   "job_id": "fd1fc67c-b448-413e-bdba-66811dee0b99",
+   "lineage_key": "talent-acquisition-partner@houston",
+   "title": "Talent Acquisition Partner",
+   "department": "People",
+   "team": "People",
+   "location": "Houston",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-27T16:25:12.341000+00:00",
+   "url": "https://jobs.lever.co/kpler/fd1fc67c-b448-413e-bdba-66811dee0b99",
+   "description_sha256": "0f2a6d87c039e9fa334f670a74c42875fc800f8589ac8fe1b186f90645df2746"
   },
   {
    "job_id": "feaf8e1c-7e6b-494b-8686-9ea557529c76",

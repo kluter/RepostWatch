@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-27T15:58:55+00:00",
+ "fetched_at": "2026-10-27T20:57:50+00:00",
  "job_count": 201,
  "jobs": [
   {
@@ -1489,21 +1489,6 @@
    "description_sha256": "e483a81732c0ab3e6aa098ab0dc803facd85e6a03daa4ea334cfd0a44420624d"
   },
   {
-   "job_id": "7ce28487-16fa-4054-a225-d91c4f996350",
-   "lineage_key": "quality-control-technician-electronics@valencia",
-   "title": "Quality Control Technician - Electronics",
-   "department": "Global Manufacturing Organization",
-   "team": "ES Stock Management",
-   "location": "Valencia",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-09-18T13:19:33.096+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/7ce28487-16fa-4054-a225-d91c4f996350",
-   "description_sha256": "958f1892be54a8ed735aae60dc713367007e812c5c0fce5d04afbc2d54d5d8c5"
-  },
-  {
    "job_id": "7e1be691-32b2-4a35-9338-8fec83b67c55",
    "lineage_key": "electronics-rf-test-team-lead@espoo",
    "title": "Electronics & RF Test Team Lead",
@@ -2191,6 +2176,21 @@
    "published_at": "2026-10-12T13:49:02.079+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/bd3c5426-8a06-409b-b7f6-975112bbd958",
    "description_sha256": "417e9cb8dcd75ae9f07bb46733cc17335cd9f9493bdf1c2bbf9ccc39d2a6ed36"
+  },
+  {
+   "job_id": "bd583979-0670-41d9-b149-c5156c5d6d11",
+   "lineage_key": "marketing-communications-manager-france-eu@france",
+   "title": "Marketing & Communications Manager, France & EU",
+   "department": "Marketing",
+   "team": "Data & Missions Marketing",
+   "location": "France",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-27T16:07:53.701+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/bd583979-0670-41d9-b149-c5156c5d6d11",
+   "description_sha256": "82ba91397819181d3577a22ba87be4597421add5e36ed2d6445d78cdd4cd2640"
   },
   {
    "job_id": "be2a2c66-275f-41b9-acc1-9073b27bfce8",

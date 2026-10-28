@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-27T20:57:50+00:00",
- "job_count": 201,
+ "fetched_at": "2026-10-28T16:47:37+00:00",
+ "job_count": 202,
  "jobs": [
   {
    "job_id": "01edf520-e6e9-4b3e-bc57-5886e694b6b8",
@@ -61,9 +61,9 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-10-05T06:52:17.834+00:00",
+   "published_at": "2026-10-28T07:50:56.195+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/09d02ba3-5ba6-4a11-bb30-74e42c22c485",
-   "description_sha256": "72fbb925eb083a36475e74e9ec74c4fe111504e81c7c2b1cf420a0c999133ecb"
+   "description_sha256": "e5c6d7a2b636df46b36054fb528562017f7654a3b5f652df38be3dc64282ed89"
   },
   {
    "job_id": "0b21baf2-aca9-49d5-8a8e-d49803845f14",
@@ -167,7 +167,6 @@
     "Lisbon",
     "Valencia",
     "Berlin",
-    "Remote",
     "Athens",
     "Munich",
     "Warsaw"
@@ -378,8 +377,8 @@
   },
   {
    "job_id": "1fffccad-6e68-48ae-a23e-483af70d5fb5",
-   "lineage_key": "senior-mechanical-thermal-production-technician@espoo",
-   "title": "Senior Mechanical & Thermal Production Technician",
+   "lineage_key": "senior-production-technician-mechanical-thermal@espoo",
+   "title": "Senior Production Technician (Mechanical & Thermal)",
    "department": "Global Manufacturing Organization",
    "team": "Production Finland",
    "location": "Espoo",
@@ -389,7 +388,7 @@
    "is_remote": false,
    "published_at": "2026-10-22T09:24:11.105+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/1fffccad-6e68-48ae-a23e-483af70d5fb5",
-   "description_sha256": "3dce909b13da66cba397e002ded521358b077cbe750065f9edb41e31b08665ff"
+   "description_sha256": "0a119b530b3ab501f5ff38aca2b3aced86a90c658ecd9ef28af4da6bc0f268ed"
   },
   {
    "job_id": "2048d1e8-7667-466a-a72a-d754cbcb42f2",
@@ -721,7 +720,7 @@
    "is_remote": true,
    "published_at": "2026-10-22T12:44:46.970+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/3a9ddd2c-2c2e-43c2-9e16-45f319ac8f7b",
-   "description_sha256": "42ebf3804cb449cef59ed6fa3ca0be4078db81123a91c9dcef78551d1cc9f0b5"
+   "description_sha256": "9f04235f5cd03fc16ab71060b7207e517ac8477eaf6edd478b368fbc7af5ca46"
   },
   {
    "job_id": "3d7f14e7-e116-4885-9d3d-a66080532999",
@@ -1028,21 +1027,6 @@
    "description_sha256": "10b3c735e49594186ecdf01ec2b52b9ae050719d3ef39b16c04947760ea5083e"
   },
   {
-   "job_id": "532afee6-79d9-4693-9c4a-9726b5fb20e5",
-   "lineage_key": "program-manager-esa@warsaw",
-   "title": "Program Manager ESA",
-   "department": "Missions",
-   "team": "Missions Programs",
-   "location": "Warsaw",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-24T14:27:01.495+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/532afee6-79d9-4693-9c4a-9726b5fb20e5",
-   "description_sha256": "75244a66ff326ef11090857947a510176c1b5d7d36cf794a23f1997c3aa032ce"
-  },
-  {
    "job_id": "54476294-191e-4e00-96a2-922d3ac4ca16",
    "lineage_key": "quality-control-technician-mechanical@athens",
    "title": "Quality Control Technician - Mechanical",
@@ -1342,7 +1326,6 @@
     "Valencia",
     "UK",
     "Berlin",
-    "Remote",
     "Athens",
     "Warsaw"
    ],
@@ -1427,6 +1410,21 @@
    "published_at": "2026-10-08T16:38:40.363+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/70f4bfc4-d4f9-46b0-a556-f82c710d6100",
    "description_sha256": "2d42095b860d9892520cbd82ac51daba9e8bc769fcdb57d839ddc501a7d93702"
+  },
+  {
+   "job_id": "71e209c3-f5ee-4267-8351-a68adac0b564",
+   "lineage_key": "production-team-lead-satellite-electronics-subsystems@espoo",
+   "title": "Production Team Lead, Satellite Electronics Subsystems",
+   "department": "Global Manufacturing Organization",
+   "team": "Production Finland",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-28T11:51:22.313+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/71e209c3-f5ee-4267-8351-a68adac0b564",
+   "description_sha256": "c7bb1cbff0fe83def5117c351c5e8f33e60ac9ff068ce69213b39be8694d0a35"
   },
   {
    "job_id": "728ba3dc-5ab4-4f86-b7cc-5bd24c37f2d4",
@@ -1605,7 +1603,6 @@
     "Lisbon",
     "Valencia",
     "Berlin",
-    "Remote",
     "Athens",
     "Warsaw"
    ],
@@ -1906,6 +1903,21 @@
    "published_at": "2026-10-26T13:57:46.752+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9c37d56f-492b-4167-809a-ebb61ef7d793",
    "description_sha256": "646b89dc6fd384cc067fb913b901468b0574962565b33cf5130179b452956404"
+  },
+  {
+   "job_id": "9dc49b37-2a22-4e94-9af3-d4312f366cd8",
+   "lineage_key": "ai-solutions-engineer@espoo",
+   "title": "AI Solutions Engineer",
+   "department": "Operations",
+   "team": "IT & Applications",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-28T08:21:12.849+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/9dc49b37-2a22-4e94-9af3-d4312f366cd8",
+   "description_sha256": "570d428859fd7c2fc6c072e3a885a518c0a1c33b516650f6bb49f632de8387fb"
   },
   {
    "job_id": "9e91192a-ae07-4ba6-b0d8-dd2d99064d9d",
@@ -2743,7 +2755,7 @@
    "is_remote": true,
    "published_at": "2026-10-27T12:55:23.213+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e34f1c0c-8a9e-4c3c-a5ac-5631fedfc36f",
-   "description_sha256": "e4424046c43f75e708b235f6d14700702968574e58b1b59dc0bf920d804feb21"
+   "description_sha256": "3376f0657a8ddb2cd868b524601ccb780ab034401210ac9cd283666136def8b6"
   },
   {
    "job_id": "e358575f-01c4-40ce-aac5-68f7255fce67",
@@ -3061,9 +3073,9 @@
    "employment_type": "FullTime",
    "workplace_type": "",
    "is_remote": false,
-   "published_at": "2026-10-05T11:19:13.830+00:00",
+   "published_at": "2026-10-28T11:49:30.334+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/fe0001f5-f3c9-4df7-b968-23451c9b4b1d",
-   "description_sha256": "bb65d21b82c4c70b0ac8ff224b59e4b8419b1781d2e0ef896636c4ab8ca97762"
+   "description_sha256": "69f87e0a78a6209df9245bd9cd579a9776d3e75748ba120c9c8d56a2b29d8f74"
   },
   {
    "job_id": "fec79d94-ccd5-409a-81ae-182a9eafc208",

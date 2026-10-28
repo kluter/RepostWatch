@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-10-27T15:58:55+00:00",
- "job_count": 37,
+ "fetched_at": "2026-10-28T16:47:37+00:00",
+ "job_count": 39,
  "jobs": [
   {
    "job_id": "6729465",
@@ -366,6 +366,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8173462",
+   "lineage_key": "quality-control-technician@glasgow-scotland-united-kingdom",
+   "title": "Quality Control Technician",
+   "department": "Engineering",
+   "team": "",
+   "location": "Glasgow, Scotland, United Kingdom",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-08T04:49:22-04:00",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8173462&gh_jid=8173462",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8173569",
    "lineage_key": "sales-manager-aviation-north-america@washington-dc",
    "title": "Sales Manager, Aviation – North America",
@@ -438,21 +453,6 @@
    "is_remote": false,
    "published_at": "2026-09-14T07:09:24-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8200811&gh_jid=8200811",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8203849",
-   "lineage_key": "mathematical-software-engineer@glasgow-scotland-united-kingdom",
-   "title": "Mathematical Software Engineer",
-   "department": "Engineering",
-   "team": "",
-   "location": "Glasgow, Scotland, United Kingdom",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-18T09:50:48-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8203849&gh_jid=8203849",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -558,6 +558,36 @@
    "is_remote": false,
    "published_at": "2026-10-21T08:21:30-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8305665&gh_jid=8305665",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8331049",
+   "lineage_key": "senior-it-network-engineer@washington-dc",
+   "title": "Senior IT Network Engineer",
+   "department": "Business Operations",
+   "team": "",
+   "location": "Washington DC",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-28T11:18:14-04:00",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8331049&gh_jid=8331049",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8331105",
+   "lineage_key": "senior-it-network-engineer@boulder",
+   "title": "Senior IT Network Engineer",
+   "department": "Business Operations",
+   "team": "",
+   "location": "Boulder",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-28T11:19:19-04:00",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8331105&gh_jid=8331105",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-10-27T20:57:50+00:00",
- "job_count": 131,
+ "fetched_at": "2026-10-28T16:47:37+00:00",
+ "job_count": 132,
  "jobs": [
   {
    "job_id": "7374533",
@@ -1087,15 +1087,15 @@
   },
   {
    "job_id": "8204162",
-   "lineage_key": "account-executive-defence-intelligence-france@france-remote",
+   "lineage_key": "account-executive-defence-intelligence-france@france",
    "title": "Account Executive, Defence & Intelligence, France",
    "department": "Account Executive",
    "team": "",
-   "location": "France, Remote",
+   "location": "France",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
-   "is_remote": true,
+   "is_remote": false,
    "published_at": "2026-09-15T10:30:50-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8204162",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
@@ -1164,7 +1164,7 @@
    "job_id": "8211706",
    "lineage_key": "senior-space-systems-engineer-mission-optimization@berlin-germany",
    "title": "Senior Space Systems Engineer, Mission Optimization",
-   "department": "Orbits R&D",
+   "department": "Mission Systems",
    "team": "",
    "location": "Berlin, Germany",
    "secondary_locations": [],
@@ -1863,6 +1863,21 @@
    "is_remote": false,
    "published_at": "2026-10-16T06:21:33-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8287081",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8287776",
+   "lineage_key": "working-student-spaceops@berlin-germany",
+   "title": "Working Student, SpaceOps",
+   "department": "Space Operations",
+   "team": "",
+   "location": "Berlin, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-28T11:49:44-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8287776",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

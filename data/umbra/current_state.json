@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-10-27T20:57:50+00:00",
- "job_count": 24,
+ "fetched_at": "2026-10-28T16:47:37+00:00",
+ "job_count": 25,
  "jobs": [
   {
    "job_id": "0652C1D7B7",
@@ -338,6 +338,24 @@
    "published_at": "2026-08-03T00:00:00+00:00",
    "url": "https://apply.workable.com/j/A9AE7BC7D6",
    "description_sha256": "06d238cf9923957ec0072cdd77b0ffa34d78b52b509a590cf5ae8f6ea511c213"
+  },
+  {
+   "job_id": "C5AC9FC05B",
+   "lineage_key": "ground-software-systems-architect@arlington-united-states",
+   "title": "Ground Software Systems Architect",
+   "department": "Remote Sensing",
+   "team": "",
+   "location": "Arlington, United States",
+   "secondary_locations": [
+    "Reston, United States",
+    "Santa Barbara, United States"
+   ],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/C5AC9FC05B",
+   "description_sha256": "81744c918b9c48cd983f99151d03624c6a2ef11da02d78883bd700337581e1a5"
   },
   {
    "job_id": "CE5C24CBE2",

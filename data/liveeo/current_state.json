@@ -2,7 +2,7 @@
  "company": "liveeo",
  "source": "personio",
  "board": "liveeo-gmbh",
- "fetched_at": "2026-10-22T15:32:54+00:00",
+ "fetched_at": "2026-10-28T16:47:37+00:00",
  "job_count": 22,
  "jobs": [
   {
@@ -93,21 +93,6 @@
    "is_remote": false,
    "published_at": "2026-07-16T16:16:22+00:00",
    "url": "https://liveeo-gmbh.jobs.personio.de/job/2715963",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "2743082",
-   "lineage_key": "team-lead-business-development-americas-f-m-x@usa",
-   "title": "Team Lead Business Development, Americas (f/m/x)",
-   "department": "Sales",
-   "team": "",
-   "location": "USA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-08-05T16:11:43+00:00",
-   "url": "https://liveeo-gmbh.jobs.personio.de/job/2743082",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -333,6 +318,21 @@
    "is_remote": false,
    "published_at": "2026-10-22T14:54:46+00:00",
    "url": "https://liveeo-gmbh.jobs.personio.de/job/2855693",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "2864893",
+   "lineage_key": "geospatial-software-engineer-f-m-x@berlin",
+   "title": "Geospatial Software Engineer (f/m/x)",
+   "department": "Supplier Management",
+   "team": "",
+   "location": "Berlin",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-28T11:38:01+00:00",
+   "url": "https://liveeo-gmbh.jobs.personio.de/job/2864893",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

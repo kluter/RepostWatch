@@ -2,7 +2,7 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-10-27T15:58:55+00:00",
+ "fetched_at": "2026-10-28T16:47:37+00:00",
  "job_count": 160,
  "jobs": [
   {
@@ -1446,21 +1446,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4960547101",
-   "lineage_key": "senior-commercial-manager@london-england-united-kingdom",
-   "title": "Senior Commercial Manager",
-   "department": "Campaigns & Programmes",
-   "team": "",
-   "location": "London, England, United Kingdom",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-26T08:44:37-04:00",
-   "url": "https://helsing.ai/jobs/4960547101?gh_jid=4960547101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4961556101",
    "lineage_key": "robotics-senior-mechanical-engineer@barcelona",
    "title": "Robotics Senior Mechanical Engineer",
@@ -2403,6 +2388,21 @@
    "is_remote": false,
    "published_at": "2026-10-27T07:25:27-04:00",
    "url": "https://helsing.ai/jobs/5017382101?gh_jid=5017382101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5018705101",
+   "lineage_key": "senior-operational-architect-analyst-ucav@munich",
+   "title": "Senior Operational Architect/Analyst (UCAV)",
+   "department": "Market",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-28T04:29:25-04:00",
+   "url": "https://helsing.ai/jobs/5018705101?gh_jid=5018705101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

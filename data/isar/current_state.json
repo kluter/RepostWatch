@@ -2,7 +2,7 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-10-27T15:58:55+00:00",
+ "fetched_at": "2026-10-28T16:47:37+00:00",
  "job_count": 136,
  "jobs": [
   {
@@ -471,21 +471,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4843468101",
-   "lineage_key": "ait-operations-engineer-launch-vehicle-m-f-d@ottobrunn-bavaria-germany",
-   "title": "AIT Operations Engineer - Launch Vehicle (m/f/d)",
-   "department": "Spectrum AIT",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-04-23T04:00:00-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4843468101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4844862101",
    "lineage_key": "struktur-fertigungstechniker-m-w-d@ottobrunn-bavaria-germany",
    "title": "Struktur Fertigungstechniker (m/w/d)",
@@ -637,11 +622,11 @@
   },
   {
    "job_id": "4933869101",
-   "lineage_key": "electrician-ground-systems-m-w-d@ottobrunn-bavaria-germany",
+   "lineage_key": "electrician-ground-systems-m-w-d@parsdorf-bavaria-germany",
    "title": "Electrician Ground Systems (m/w/d)",
    "department": "Ground Systems",
    "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
+   "location": "Parsdorf, Bavaria, Germany",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
@@ -1533,6 +1518,21 @@
    "is_remote": false,
    "published_at": "2026-10-11T03:59:28-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5002989101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5004398101",
+   "lineage_key": "multimedia-systems-visual-content-specialist-f-m-d@parsdorf-bavaria-germany",
+   "title": "Multimedia Systems & Visual Content Specialist (f/m/d)",
+   "department": "Commercial",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-28T11:55:18-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5004398101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

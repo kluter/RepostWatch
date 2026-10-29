@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-28T21:18:33+00:00",
- "job_count": 202,
+ "fetched_at": "2026-10-29T17:02:47+00:00",
+ "job_count": 199,
  "jobs": [
   {
    "job_id": "01edf520-e6e9-4b3e-bc57-5886e694b6b8",
@@ -494,21 +494,6 @@
    "published_at": "2026-09-04T16:03:25.572+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/29558448-5b4e-4aef-b395-642acc666efa",
    "description_sha256": "836002115f483f599c6d45902b2469c424eabb53364310af31c8605cb3cd30d3"
-  },
-  {
-   "job_id": "2a0250ec-cd39-4589-9ee9-f1bffd4a4975",
-   "lineage_key": "senior-mechanical-test-engineer@espoo",
-   "title": "Senior Mechanical Test Engineer",
-   "department": "Engineering",
-   "team": "Mechanical Engineering",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-09-25T07:51:30.576+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/2a0250ec-cd39-4589-9ee9-f1bffd4a4975",
-   "description_sha256": "96a5581e5d1c1bee26ae95dcc4295ab2f199349076a8d27b782f0441170e328e"
   },
   {
    "job_id": "2a7fa616-d6b3-469d-a724-73150c417fac",
@@ -1254,21 +1239,6 @@
    "description_sha256": "81743579a0c4de526e90f69b9ff9b51cfbff7a3f3614f651d1a2468cab389897"
   },
   {
-   "job_id": "6aa73d7d-a8b0-40ee-8a02-03c909160d96",
-   "lineage_key": "legal-counsel@berlin",
-   "title": "Legal Counsel",
-   "department": "Legal",
-   "team": "Legal",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-22T15:20:09.128+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/6aa73d7d-a8b0-40ee-8a02-03c909160d96",
-   "description_sha256": "bc8941db3d8268a8d1619184bec14d12a88b2bc495f3f5bc4ba4b5ba796f9ee3"
-  },
-  {
    "job_id": "6b325c6e-480e-4237-91bf-6e1e0e90ca76",
    "lineage_key": "engineering-satellite-build-lead@valencia",
    "title": "Engineering Satellite Build Lead",
@@ -1527,7 +1497,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-09-10T16:02:00.769+00:00",
+   "published_at": "2026-10-29T10:07:31.160+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/7fc58c08-96fa-4470-b04c-6e65c5964c04",
    "description_sha256": "f2be592575d7b967d58683114f320939da8857c894c9ee1cb31eec748c67c87b"
   },
@@ -1627,21 +1597,6 @@
    "published_at": "2026-06-26T12:18:45.905+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/879b620d-c9c0-4d71-b642-814fc3996688",
    "description_sha256": "d63df699aa5127c99eff6eb7f7e9959337a759a9abdac8d5ed9f2f2ead33d9c1"
-  },
-  {
-   "job_id": "88554f1c-3889-44cd-9296-1d61d2330d6a",
-   "lineage_key": "indirect-sourcing-specialist-category-owner@espoo",
-   "title": "Indirect Sourcing Specialist, Category Owner",
-   "department": "Operations",
-   "team": "Indirect Sourcing",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-10-05T05:43:31.064+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/88554f1c-3889-44cd-9296-1d61d2330d6a",
-   "description_sha256": "81fbe5475269e6609bf214e259bf94a7ca618348c525611cbd7fbb232ba7d222"
   },
   {
    "job_id": "89154c8e-6501-4012-b71b-8c6711588ffb",
@@ -2354,7 +2309,7 @@
    "is_remote": true,
    "published_at": "2026-04-14T08:27:19.833+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/c7cf51bc-0164-45cd-a5d9-53f1e4f77845",
-   "description_sha256": "7a781974d884a2185e07b7f47e4b8cfe3d1f337dfdbc3189d9c70d2538d86bac"
+   "description_sha256": "0b40630f03cf777e1433c08bb1077806fa511e44c43609835226817ac2d53264"
   },
   {
    "job_id": "c80943db-8b71-4c64-97ba-e28f6e7b174e",

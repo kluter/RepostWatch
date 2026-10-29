@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-10-28T21:18:33+00:00",
- "job_count": 103,
+ "fetched_at": "2026-10-29T17:02:47+00:00",
+ "job_count": 107,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -67,8 +67,8 @@
   },
   {
    "job_id": "0b2a75d9-931d-4424-8454-6128aa486401",
-   "lineage_key": "sales-specialist-maritime-risk-compliance@new-york",
-   "title": "Sales Specialist - Maritime + Risk & Compliance",
+   "lineage_key": "sales-specialist-maritime@new-york",
+   "title": "Sales Specialist - Maritime",
    "department": "Commercial",
    "team": "Sales Specialist",
    "location": "New York",
@@ -186,6 +186,21 @@
    "published_at": "2026-04-21T15:48:06.599000+00:00",
    "url": "https://jobs.lever.co/kpler/1c976953-88d4-4487-9c56-2b8ff2587857",
    "description_sha256": "abf899c9f75e01cde934e1d9400ef1b416b51ff6bb152aa8a4c028a1491ffd38"
+  },
+  {
+   "job_id": "1e3dc8d0-c551-4c25-aa69-63ab3f1d8578",
+   "lineage_key": "senior-account-executive-government-defense-intelligence@london",
+   "title": "Senior Account Executive (Government, Defense & Intelligence)",
+   "department": "Commercial",
+   "team": "Sales - Government",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-29T14:43:39.191000+00:00",
+   "url": "https://jobs.lever.co/kpler/1e3dc8d0-c551-4c25-aa69-63ab3f1d8578",
+   "description_sha256": "639b47c82d46a76fd0a14de6fe1f6e53e908c0c40d862ba96a56ed01d25b939d"
   },
   {
    "job_id": "23e9e7db-ca92-4663-8b60-eed96c3859f1",
@@ -479,6 +494,21 @@
    "description_sha256": "964710c59c3cb8e1f6040b29625b2d0064fd729b18b5469db19e845f947f4ce4"
   },
   {
+   "job_id": "4b587864-111c-44fc-b7c6-643eaac66abe",
+   "lineage_key": "outbound-sales-development-representative-maritime@dubai",
+   "title": "Outbound Sales Development Representative (Maritime)",
+   "department": "Commercial",
+   "team": "Business Development",
+   "location": "Dubai",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-29T15:45:59.006000+00:00",
+   "url": "https://jobs.lever.co/kpler/4b587864-111c-44fc-b7c6-643eaac66abe",
+   "description_sha256": "a47424b7e3a331b76c4b222680c38c31ec73eec6f39e2695b8c712657fc03e99"
+  },
+  {
    "job_id": "5040a241-ce9f-48a4-ac8e-54161dcad948",
    "lineage_key": "account-executive-banking-hedge-funds@new-york",
    "title": "Account Executive - Banking/Hedge Funds",
@@ -604,6 +634,21 @@
    "published_at": "2026-10-13T12:19:42.557000+00:00",
    "url": "https://jobs.lever.co/kpler/62852003-0da0-47bd-b1d7-5a9404f55f47",
    "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+  },
+  {
+   "job_id": "645258a8-e421-4ef9-b466-2d4a4fa303bd",
+   "lineage_key": "senior-data-engineer-financial-flows@united-kingdom",
+   "title": "Senior Data Engineer - Financial Flows",
+   "department": "Engineering",
+   "team": "Engineering Market Pricing & Transactions",
+   "location": "United Kingdom",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-29T16:21:38.485000+00:00",
+   "url": "https://jobs.lever.co/kpler/645258a8-e421-4ef9-b466-2d4a4fa303bd",
+   "description_sha256": "34bfb63087666810e5b498999dbae0572c01b1ac05428112d19534bc67003647"
   },
   {
    "job_id": "65674b91-1b8e-402b-b1aa-875a13ec0949",
@@ -1214,6 +1259,21 @@
    "is_remote": true,
    "published_at": "2026-10-23T16:38:12.522000+00:00",
    "url": "https://jobs.lever.co/kpler/bd68099b-f15b-43fb-ad5d-def3e96bc265",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+  },
+  {
+   "job_id": "be4d309c-8f01-48cc-98d4-f02cfc7b469f",
+   "lineage_key": "account-development-representative@london",
+   "title": "Account Development Representative",
+   "department": "Commercial",
+   "team": "Business Development",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-29T15:55:12.795000+00:00",
+   "url": "https://jobs.lever.co/kpler/be4d309c-8f01-48cc-98d4-f02cfc7b469f",
    "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {

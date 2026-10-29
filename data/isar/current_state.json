@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-10-28T16:47:37+00:00",
- "job_count": 136,
+ "fetched_at": "2026-10-29T17:02:47+00:00",
+ "job_count": 135,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -33,21 +33,6 @@
    "is_remote": false,
    "published_at": "2023-08-14T04:23:14-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4206511101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4354664101",
-   "lineage_key": "propulsion-test-engineer-m-f-d@kiruna-norrbotten-sweden",
-   "title": "Propulsion Test Engineer (m/f/d)",
-   "department": "Spectrum AIT",
-   "team": "",
-   "location": "Kiruna, Norrbotten, Sweden",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2024-06-19T12:33:23-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4354664101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -228,21 +213,6 @@
    "is_remote": false,
    "published_at": "2025-11-20T08:58:16-05:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4715159101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4720039101",
-   "lineage_key": "avionics-engineer-thrust-vector-control-actuator-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Avionics Engineer - Thrust Vector Control Actuator (m/f/d)",
-   "department": "Avionics",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2025-12-04T01:00:00-05:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4720039101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -846,21 +816,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4952519101",
-   "lineage_key": "junior-calibration-technician-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Junior Calibration Technician (m/f/d)",
-   "department": "Infrastructure, Safety & Service",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-20T07:46:11-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4952519101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4952790101",
    "lineage_key": "operations-planner-m-f-d@parsdorf-bavaria-germany",
    "title": "Operations Planner (m/f/d)",
@@ -891,21 +846,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4961155101",
-   "lineage_key": "propulsion-valves-engineer-m-f-d@parsdorf-bavaria-germany",
-   "title": "Propulsion Valves Engineer (m/f/d)",
-   "department": "Propulsion",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-26T08:49:34-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4961155101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4965225101",
    "lineage_key": "manager-of-indirect-procurement-m-f-d@parsdorf-bavaria-germany",
    "title": "Manager of Indirect Procurement (m/f/d)",
@@ -933,21 +873,6 @@
    "is_remote": false,
    "published_at": "2026-09-07T10:57:37-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4970051101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4970085101",
-   "lineage_key": "working-student-talent-acquisition-m-f-d@parsdorf-bavaria-germany",
-   "title": "Working Student Talent Acquisition (m/f/d)",
-   "department": "Talent",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-07T11:53:56-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4970085101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1626,6 +1551,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "5005412101",
+   "lineage_key": "close-protection-officer-f-m-d@parsdorf-bavaria-germany",
+   "title": "Close Protection Officer (f/m/d)",
+   "department": "Infrastructure, Safety & Service",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-29T12:46:34-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5005412101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "5005435101",
    "lineage_key": "security-systems-specialist-f-m-d@parsdorf-bavaria-germany",
    "title": "Security Systems Specialist (f/m/d)",
@@ -2043,6 +1983,51 @@
    "is_remote": false,
    "published_at": "2026-10-27T07:00:33-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5017349101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5020405101",
+   "lineage_key": "propulsion-test-stand-operator-m-f-d@kiruna-norrbotten-sweden",
+   "title": "Propulsion Test Stand Operator (m/f/d)",
+   "department": "Spectrum AIT",
+   "team": "",
+   "location": "Kiruna, Norrbotten, Sweden",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-29T07:04:23-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5020405101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5020763101",
+   "lineage_key": "working-student-launch-vehicle-structures-m-f-d@parsdorf-bavaria-germany",
+   "title": "Working Student, Launch Vehicle Structures (m/f/d)",
+   "department": "Template",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-29T10:12:54-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5020763101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5020780101",
+   "lineage_key": "pa-engineer-additive-manufacturing-m-f-d@parsdorf-bavaria-germany",
+   "title": "PA Engineer - Additive Manufacturing (m/f/d)",
+   "department": "Production, Operations & Quality",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-29T10:27:37-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5020780101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

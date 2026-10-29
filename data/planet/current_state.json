@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-10-28T21:18:33+00:00",
- "job_count": 131,
+ "fetched_at": "2026-10-29T17:02:47+00:00",
+ "job_count": 130,
  "jobs": [
   {
    "job_id": "7374533",
@@ -408,21 +408,6 @@
    "is_remote": false,
    "published_at": "2026-07-29T11:57:00-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8081498",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8094173",
-   "lineage_key": "sales-development-representative-north-america-civil-government@san-francisco-ca",
-   "title": "Sales Development Representative, North America Civil Government",
-   "department": "Sales Development and Inside Sales",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-31T18:13:01-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8094173",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1014,7 +999,7 @@
    "job_id": "8197622",
    "lineage_key": "senior-software-engineer-mission-optimization@san-francisco-ca",
    "title": "Senior Software Engineer, Mission Optimization",
-   "department": "Orbits R&D",
+   "department": "Mission Systems",
    "team": "",
    "location": "San Francisco, CA",
    "secondary_locations": [],

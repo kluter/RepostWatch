@@ -2,7 +2,7 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-10-29T17:02:47+00:00",
+ "fetched_at": "2026-10-29T21:25:06+00:00",
  "job_count": 130,
  "jobs": [
   {
@@ -24,7 +24,7 @@
    "job_id": "7377994",
    "lineage_key": "solutions-architect-deployment-strategist@abu-dhabi-uae",
    "title": "Solutions Architect Deployment Strategist",
-   "department": "Pre-Sales and Services (ProServ)",
+   "department": "Pre-Sales and Services",
    "team": "",
    "location": "Abu Dhabi, UAE",
    "secondary_locations": [],
@@ -442,15 +442,15 @@
   },
   {
    "job_id": "8128479",
-   "lineage_key": "werkscontroller-m-w-d-controller-manufacturing@germany-remote",
-   "title": "Werkscontroller (m/w/d) / Controller Manufacturing",
+   "lineage_key": "senior-general-ledger-accountant-bilanzbuchhalter-m-w-f@berlin-germany",
+   "title": "Senior General Ledger Accountant / Bilanzbuchhalter (m/w/f)",
    "department": "Accounting",
    "team": "",
-   "location": "Germany, Remote",
+   "location": "Berlin, Germany",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
-   "is_remote": true,
+   "is_remote": false,
    "published_at": "2026-08-20T06:51:54-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8128479",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

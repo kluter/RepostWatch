@@ -2,24 +2,9 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-10-29T17:02:47+00:00",
+ "fetched_at": "2026-10-29T21:25:06+00:00",
  "job_count": 46,
  "jobs": [
-  {
-   "job_id": "063679a7-77f0-4e6d-8296-bcff69f4ec4f",
-   "lineage_key": "junior-legal-counsel@harwell-uk",
-   "title": "Junior Legal Counsel",
-   "department": "EXEC",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-03-09T17:41:48+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/7356498-junior-legal-counsel",
-   "description_sha256": "9dba01ab090b6c616e3b3ffd4c05d6c89c68236601e4f93c0c891e348708fb83"
-  },
   {
    "job_id": "0726769f-2ee3-46d2-9243-7bed980f2375",
    "lineage_key": "senior-network-engineer@harwell-uk",
@@ -79,21 +64,6 @@
    "published_at": "2026-09-30T11:09:08+01:00",
    "url": "https://careers.open-cosmos.com/jobs/8478374-edge-computing-software-engineer-earth-observation",
    "description_sha256": "f4bf08badd517dcd27a190725f6ddae9968f80f4bc1af8009cf5396e1cc5cdbe"
-  },
-  {
-   "job_id": "144c4c5d-e0bf-4af2-a9b6-df7f9807ebb2",
-   "lineage_key": "satellite-payload-processing-engineer@harwell-uk",
-   "title": "Satellite Payload Processing Engineer",
-   "department": "DATA",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-07-24T09:39:40+01:00",
-   "url": "https://careers.open-cosmos.com/jobs/8123131-satellite-payload-processing-engineer",
-   "description_sha256": "c31209ece250ee8c5c0cf0b27f28073d60aae60439e010c514869f6c7d2c247c"
   },
   {
    "job_id": "23ac1ee6-5945-43e7-b61c-afc6deea516c",
@@ -336,6 +306,21 @@
    "description_sha256": "363b49dba656a72c6cbd78d0abe9e4b3d54cc2e1a8af037644e13dab6b3de135"
   },
   {
+   "job_id": "7507bf63-9d84-4368-945f-8a780da99d12",
+   "lineage_key": "1st-line-it-support-engineer@barcelona-spain",
+   "title": "1st Line IT Support Engineer",
+   "department": "IT",
+   "team": "",
+   "location": "Barcelona, Spain",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-10-28T16:32:12+00:00",
+   "url": "https://careers.open-cosmos.com/jobs/8632549-1st-line-it-support-engineer",
+   "description_sha256": "d3cd238d415238ce5cba9d7e538f976e5b130528379961f25a88327174720ed5"
+  },
+  {
    "job_id": "7655f22b-c93a-4310-ba50-40d14cb728f3",
    "lineage_key": "2nd-line-it-support-engineer@harwell-uk",
    "title": "2nd Line IT Support Engineer",
@@ -426,6 +411,21 @@
    "description_sha256": "cc9d138b1089cd3cec9ac8d362a29b99c05880039193ac9f58e9f412b9c6fc70"
   },
   {
+   "job_id": "a4f8d097-8c53-43e0-8f91-d2355742a43e",
+   "lineage_key": "procurement-specialist-entry-level@harwell-uk",
+   "title": "Procurement Specialist (Entry level)",
+   "department": "PROCUREMENT & SUPPLY CHAIN",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-10-28T16:55:00+00:00",
+   "url": "https://careers.open-cosmos.com/jobs/8632648-procurement-specialist-entry-level",
+   "description_sha256": "c4487b0cabe9963c46b9d1edfdade9a0aca7d426ebe3e84caadb06ac9f328889"
+  },
+  {
    "job_id": "a82675ca-f8f5-4ed1-876f-7ce3d96837f0",
    "lineage_key": "senior-flight-software-engineer@harwell-uk",
    "title": "Senior Flight Software Engineer",
@@ -438,7 +438,7 @@
    "is_remote": true,
    "published_at": "2025-12-16T07:23:43+00:00",
    "url": "https://careers.open-cosmos.com/jobs/6934774-senior-flight-software-engineer",
-   "description_sha256": "c51b612ac06f5b33aaddac784c996228ed1d6c7aa693194efabc8b85e3c040ba"
+   "description_sha256": "5ec5f6e167479181f27a188895bb6c38dbb8d8878b0237b08c53b88ae8e62d93"
   },
   {
    "job_id": "b00ff0b2-2321-4d39-99b4-1d8f18732401",

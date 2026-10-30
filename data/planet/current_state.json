@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-10-29T21:25:06+00:00",
- "job_count": 130,
+ "fetched_at": "2026-10-30T16:47:49+00:00",
+ "job_count": 125,
  "jobs": [
   {
    "job_id": "7374533",
@@ -288,21 +288,6 @@
    "is_remote": false,
    "published_at": "2026-06-25T17:37:17-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7907756",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7963971",
-   "lineage_key": "senior-spacecraft-qualification-engineer@berlin-germany",
-   "title": "Senior Spacecraft Qualification Engineer",
-   "department": "Production",
-   "team": "",
-   "location": "Berlin, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-11T07:57:15-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7963971",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -618,21 +603,6 @@
    "is_remote": false,
    "published_at": "2026-08-31T12:58:06-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8148503",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8148595",
-   "lineage_key": "ground-station-engineer@berlin-germany",
-   "title": "Ground Station Engineer",
-   "department": "Ground Operations",
-   "team": "",
-   "location": "Berlin, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-26T09:05:26-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8148595",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1083,21 +1053,6 @@
    "is_remote": false,
    "published_at": "2026-09-17T06:35:06-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8204493",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8205646",
-   "lineage_key": "contracts-manager@ljubljana-slovenia",
-   "title": "Contracts Manager",
-   "department": "Legal",
-   "team": "",
-   "location": "Ljubljana, Slovenia",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-17T05:42:17-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8205646",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1731,21 +1686,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8276031",
-   "lineage_key": "senior-product-designer-platform-geospatial@berlin-germany",
-   "title": "Senior Product Designer, Platform (Geospatial)",
-   "department": "UX",
-   "team": "",
-   "location": "Berlin, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-14T05:36:03-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8276031",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8276282",
    "lineage_key": "customer-success-manager-global-tech-touch@arlington-va",
    "title": "Customer Success Manager, Global Tech Touch",
@@ -1758,21 +1698,6 @@
    "is_remote": false,
    "published_at": "2026-10-16T11:04:14-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8276282",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8278543",
-   "lineage_key": "senior-product-designer-platform-geospatial@haarlem-netherlands",
-   "title": "Senior Product Designer, Platform (Geospatial)",
-   "department": "UX",
-   "team": "",
-   "location": "Haarlem, Netherlands",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-14T05:36:01-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8278543",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

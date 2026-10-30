@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-10-29T17:02:47+00:00",
- "job_count": 107,
+ "fetched_at": "2026-10-30T16:47:49+00:00",
+ "job_count": 103,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -34,6 +34,21 @@
    "published_at": "2026-10-09T14:35:46.255000+00:00",
    "url": "https://jobs.lever.co/kpler/04129e3c-8390-4ce7-9e7f-30787378caf5",
    "description_sha256": "bae9243e7694ea388efa225d1e8eb78b1377d15bda7bf875962397059808073d"
+  },
+  {
+   "job_id": "05358726-3031-4db6-b78a-a584d4c23830",
+   "lineage_key": "sales-specialist-ai-products@london",
+   "title": "Sales Specialist – AI Products",
+   "department": "Commercial",
+   "team": "Sales Specialist",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-30T12:07:30.708000+00:00",
+   "url": "https://jobs.lever.co/kpler/05358726-3031-4db6-b78a-a584d4c23830",
+   "description_sha256": "be33e3ef506d8313b17e10bd11f86f32aeec7c542e297a7604c06c8f58a1b8ed"
   },
   {
    "job_id": "05f76103-21ef-40af-b6f8-05413b27af04",
@@ -173,21 +188,6 @@
    "description_sha256": "768315627911efc8a938cb2d427fea099579226a009d23ebb5452d9b4402c42b"
   },
   {
-   "job_id": "1c976953-88d4-4487-9c56-2b8ff2587857",
-   "lineage_key": "senior-full-stack-engineer-identity-authentication@athens",
-   "title": "Senior Full-Stack Engineer – Identity & Authentication",
-   "department": "Engineering",
-   "team": "Engineering Application Platform",
-   "location": "Athens",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-04-21T15:48:06.599000+00:00",
-   "url": "https://jobs.lever.co/kpler/1c976953-88d4-4487-9c56-2b8ff2587857",
-   "description_sha256": "abf899c9f75e01cde934e1d9400ef1b416b51ff6bb152aa8a4c028a1491ffd38"
-  },
-  {
    "job_id": "1e3dc8d0-c551-4c25-aa69-63ab3f1d8578",
    "lineage_key": "senior-account-executive-government-defense-intelligence@london",
    "title": "Senior Account Executive (Government, Defense & Intelligence)",
@@ -278,36 +278,6 @@
    "published_at": "2026-08-25T12:30:04.705000+00:00",
    "url": "https://jobs.lever.co/kpler/28234859-8c3e-4782-94f8-4b8c0458584a",
    "description_sha256": "969395a0cbbd8f79eacb6c8c352b59927ecddc331dc324597df453bb1d7cf634"
-  },
-  {
-   "job_id": "294664b3-aec1-4721-8d98-b58f8255a352",
-   "lineage_key": "commercial-manager-new-business-metal-and-ags@singapore",
-   "title": "Commercial Manager – New Business, Metal and Ags",
-   "department": "Commercial",
-   "team": "Sales - Mid Market APAC",
-   "location": "Singapore",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-09-16T11:54:40.377000+00:00",
-   "url": "https://jobs.lever.co/kpler/294664b3-aec1-4721-8d98-b58f8255a352",
-   "description_sha256": "bede4b9c537ce93b3511ab8fae56ae68f3b30a82e7b20da334b3622d54946d2c"
-  },
-  {
-   "job_id": "2ab253d2-3388-4713-9c0c-24da8a04fcbc",
-   "lineage_key": "senior-lng-natural-gas-analyst-europe-focus@london",
-   "title": "Senior LNG & Natural Gas Analyst (Europe focus)",
-   "department": "Business Units",
-   "team": "LNG",
-   "location": "London",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-09-15T09:29:01.074000+00:00",
-   "url": "https://jobs.lever.co/kpler/2ab253d2-3388-4713-9c0c-24da8a04fcbc",
-   "description_sha256": "37b45d5ae020fe15b72c5adf47da0b87cd0f476c15594b665ba4c47ff3c9d8b1"
   },
   {
    "job_id": "35db18e4-9d96-4378-901b-f712325f1dd2",
@@ -696,6 +666,21 @@
    "description_sha256": "2c1c31f8e9162562cdffd7fc41c710f8734959155b6b502feeb05c3b6da38ca9"
   },
   {
+   "job_id": "6b0c6411-18e9-452e-8ff3-078ba84fdc79",
+   "lineage_key": "senior-tanker-research-analyst@singapore",
+   "title": "Senior Tanker Research Analyst",
+   "department": "Business Units",
+   "team": "Oil & Chemicals",
+   "location": "Singapore",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-10-30T12:19:36.894000+00:00",
+   "url": "https://jobs.lever.co/kpler/6b0c6411-18e9-452e-8ff3-078ba84fdc79",
+   "description_sha256": "fb770bebb9c83bdda0e7fc4663886d7d2f245c92bda6f204f8624a3edeea7f9f"
+  },
+  {
    "job_id": "6ed49864-cc93-4a22-8dad-d6ba55883e4d",
    "lineage_key": "spontaneous-application@",
    "title": "Spontaneous Application",
@@ -925,21 +910,6 @@
    "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
-   "job_id": "8ff15f9a-f8a7-415c-88c3-dbbc0583d934",
-   "lineage_key": "senior-full-stack-engineer-identity-authentication@united-kingdom",
-   "title": "Senior Full-Stack Engineer – Identity & Authentication",
-   "department": "Engineering",
-   "team": "Engineering Application Platform",
-   "location": "United Kingdom",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-08-13T10:21:38.563000+00:00",
-   "url": "https://jobs.lever.co/kpler/8ff15f9a-f8a7-415c-88c3-dbbc0583d934",
-   "description_sha256": "abf899c9f75e01cde934e1d9400ef1b416b51ff6bb152aa8a4c028a1491ffd38"
-  },
-  {
    "job_id": "926f6537-4e06-4999-9690-b340fef64b9c",
    "lineage_key": "team-lead-sales-specialist-arbitrage-refineries@london",
    "title": "Team Lead – Sales Specialist, Arbitrage & Refineries",
@@ -1077,21 +1047,6 @@
    "published_at": "2026-10-09T14:54:50.334000+00:00",
    "url": "https://jobs.lever.co/kpler/a68b2429-bd36-4c7b-a9fd-8c2138fc4daa",
    "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
-  },
-  {
-   "job_id": "ab8a61f8-fce0-4c12-b576-c7d277c07cda",
-   "lineage_key": "senior-full-stack-engineer-identity-authentication@budapest",
-   "title": "Senior Full-Stack Engineer – Identity & Authentication",
-   "department": "Engineering",
-   "team": "Engineering Application Platform",
-   "location": "Budapest",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-06-25T09:59:47.611000+00:00",
-   "url": "https://jobs.lever.co/kpler/ab8a61f8-fce0-4c12-b576-c7d277c07cda",
-   "description_sha256": "abf899c9f75e01cde934e1d9400ef1b416b51ff6bb152aa8a4c028a1491ffd38"
   },
   {
    "job_id": "ac538a08-baee-4949-a055-32ceed587d7f",
@@ -1384,6 +1339,21 @@
    "description_sha256": "16e1750fd867ca527010dd76a113cd448ceeb604f0f8cd4a31639976bfaab348"
   },
   {
+   "job_id": "d97069cd-4ef8-4904-aab1-a7a3e6a58e82",
+   "lineage_key": "customer-success-intern@athens",
+   "title": "Customer Success Intern",
+   "department": "Commercial",
+   "team": "Customer Success",
+   "location": "Athens",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "remote",
+   "is_remote": true,
+   "published_at": "2026-10-30T10:41:59.418000+00:00",
+   "url": "https://jobs.lever.co/kpler/d97069cd-4ef8-4904-aab1-a7a3e6a58e82",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+  },
+  {
    "job_id": "db2189b5-98b8-410e-9110-24d98201973d",
    "lineage_key": "senior-account-manager-banking-financial-institutions@new-york",
    "title": "Senior Account Manager - Banking & Financial Institutions",
@@ -1475,21 +1445,6 @@
    "published_at": "2026-08-25T16:46:33.153000+00:00",
    "url": "https://jobs.lever.co/kpler/e914f4a8-2a6a-41d1-9c0a-51fdd23a5e75",
    "description_sha256": "8d9fd0af0491471b343696f2b8cb96c10f2ca53de8fbc5f4881f08aa014d86df"
-  },
-  {
-   "job_id": "eaa3af74-23c5-4804-8889-9152f83e1236",
-   "lineage_key": "junior-market-analyst-lng-lng-bunkering@singapore",
-   "title": "Junior Market Analyst - LNG/LNG Bunkering",
-   "department": "Business Units",
-   "team": "LNG",
-   "location": "Singapore",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-10-15T10:49:29.360000+00:00",
-   "url": "https://jobs.lever.co/kpler/eaa3af74-23c5-4804-8889-9152f83e1236",
-   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
    "job_id": "ebc88846-7eb7-4ade-8770-fa6572bbdbc5",
@@ -1628,21 +1583,6 @@
    "published_at": "2026-10-27T16:25:12.341000+00:00",
    "url": "https://jobs.lever.co/kpler/fd1fc67c-b448-413e-bdba-66811dee0b99",
    "description_sha256": "0f2a6d87c039e9fa334f670a74c42875fc800f8589ac8fe1b186f90645df2746"
-  },
-  {
-   "job_id": "feaf8e1c-7e6b-494b-8686-9ea557529c76",
-   "lineage_key": "senior-full-stack-engineer-identity-authentication@paris",
-   "title": "Senior Full-Stack Engineer – Identity & Authentication",
-   "department": "Engineering",
-   "team": "Engineering Application Platform",
-   "location": "Paris",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-08-13T10:28:04.529000+00:00",
-   "url": "https://jobs.lever.co/kpler/feaf8e1c-7e6b-494b-8686-9ea557529c76",
-   "description_sha256": "abf899c9f75e01cde934e1d9400ef1b416b51ff6bb152aa8a4c028a1491ffd38"
   }
  ]
 }

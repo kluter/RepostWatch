@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-29T17:02:47+00:00",
- "job_count": 199,
+ "fetched_at": "2026-10-30T16:47:49+00:00",
+ "job_count": 202,
  "jobs": [
   {
    "job_id": "01edf520-e6e9-4b3e-bc57-5886e694b6b8",
@@ -286,6 +286,24 @@
    "description_sha256": "fd881e8bcff8c72fc6944f26eec09283277ce00027cc8589585f3945b3e28a58"
   },
   {
+   "job_id": "1b8f590b-fd9a-4c7a-ae0d-6e15f0bed42f",
+   "lineage_key": "iceye-engineering-intern-lab-2027@espoo",
+   "title": "ICEYE Engineering Intern Lab 2027",
+   "department": "Engineering",
+   "team": "Engineering",
+   "location": "Espoo",
+   "secondary_locations": [
+    "Valencia",
+    "Warsaw"
+   ],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-22T14:13:57.226+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/1b8f590b-fd9a-4c7a-ae0d-6e15f0bed42f",
+   "description_sha256": "7a5b0de1f620b86f9d9eceb540d9dd007ba600e6e88f345ea4c4ea9af3b0e68c"
+  },
+  {
    "job_id": "1d854eb3-6624-4ca8-8e3b-9c787f381b7a",
    "lineage_key": "program-director-uae@united-arab-emirates",
    "title": "Program Director - UAE",
@@ -524,6 +542,23 @@
    "published_at": "2026-09-22T08:47:29.683+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/2af22301-ecca-4a6a-a483-625371b9d195",
    "description_sha256": "9e91b39a4b6d6175f4d781ec5f51d5ce30fe620a2ddb9e585a8e01bcd76fb687"
+  },
+  {
+   "job_id": "2ef68fcc-6ce8-476e-8c94-6e7b099842e9",
+   "lineage_key": "forward-deployed-ai-engineer-portugal@lisbon",
+   "title": "Forward Deployed AI Engineer, Portugal",
+   "department": "Product",
+   "team": "Forward Deployed Engineering",
+   "location": "Lisbon",
+   "secondary_locations": [
+    "Portugal"
+   ],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-15T19:32:12.421+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/2ef68fcc-6ce8-476e-8c94-6e7b099842e9",
+   "description_sha256": "d0113cbb3671efb91d9e8870d81520fc8155c411e0716b6949b66699d24e5138"
   },
   {
    "job_id": "307e5ecf-9033-424d-b6e5-39d0483e7f49",
@@ -950,6 +985,21 @@
    "published_at": "2026-10-14T09:00:20.664+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/4c630f65-1093-4a4a-a106-41cb47de7fa2",
    "description_sha256": "ca24f948c635173df5e3bd666c11749374a83a5dec07693269594bdcfc3c3d2d"
+  },
+  {
+   "job_id": "4e5287d1-69d5-40b9-bc1a-bf6acd944d0a",
+   "lineage_key": "junior-mid-level-thermal-engineer@espoo",
+   "title": "Junior / Mid-level Thermal Engineer",
+   "department": "Engineering",
+   "team": "Spacecraft Hardware",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-30T08:56:29.189+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/4e5287d1-69d5-40b9-bc1a-bf6acd944d0a",
+   "description_sha256": "5ff25c36937e4a3aeb93a41e8906679e84f4a420df38ab5f9036d4c5b5bc5574"
   },
   {
    "job_id": "4f00e104-a4a1-4fa3-ac73-3c8c3f64b123",
@@ -1532,21 +1582,6 @@
    "description_sha256": "e71e3a0a11239783c8e35aae0d78b987dbcea101ad529b9465fc7bc57ea3ea05"
   },
   {
-   "job_id": "82011247-944a-40bc-883b-add08bd65954",
-   "lineage_key": "customer-excellence-specialist@united-arab-emirates",
-   "title": "Customer Excellence Specialist",
-   "department": "Data",
-   "team": "Data",
-   "location": "United Arab Emirates",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-10-23T12:52:58.338+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/82011247-944a-40bc-883b-add08bd65954",
-   "description_sha256": "cf128770d57baadd197aab64591d0e17692f315b651b41eea05860e4d818a73e"
-  },
-  {
    "job_id": "824f4858-2692-4b97-82bf-cbe2805dfbd6",
    "lineage_key": "ait-engineer-electronics@athens",
    "title": "AIT Engineer - Electronics",
@@ -1563,8 +1598,8 @@
   },
   {
    "job_id": "83a8f02c-f829-4f49-994a-91fd6716de0a",
-   "lineage_key": "geospatial-image-analyst@espoo",
-   "title": "Geospatial Image Analyst",
+   "lineage_key": "geospatial-image-analyst-geoint@espoo",
+   "title": "Geospatial Image Analyst (GEOINT)",
    "department": "Data",
    "team": "Data Sales Engineering",
    "location": "Espoo",
@@ -1581,7 +1616,7 @@
    "is_remote": true,
    "published_at": "2026-10-26T13:28:24.922+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/83a8f02c-f829-4f49-994a-91fd6716de0a",
-   "description_sha256": "e6fb98c3209c8e73b436ab0d49e684f392b53d8acf12f971355c01f634018954"
+   "description_sha256": "62d24ce085b4bfefaa3a10c32572eb459fb3c2b1169deb2730a100ff4c09924f"
   },
   {
    "job_id": "879b620d-c9c0-4d71-b642-814fc3996688",
@@ -1750,7 +1785,7 @@
    "is_remote": false,
    "published_at": "2026-08-26T10:23:21.731+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/938ce5df-501a-4349-9586-2ce758dbfd0a",
-   "description_sha256": "71739f276dea6e6883a8cfe7e2f5022091d89c5ac6768616bf0ea2deed0da2be"
+   "description_sha256": "d9ca10b9b90afe2fe8d63829c68aef86a88673407c5b2552b4e64b7d0342820f"
   },
   {
    "job_id": "943bfb53-f3c9-44ef-acf7-81d29f280ba5",
@@ -2029,7 +2064,7 @@
    "lineage_key": "senior-program-manager-japan@tokyo",
    "title": "Senior Program Manager - Japan",
    "department": "Missions",
-   "team": "Missions",
+   "team": "Missions Programs",
    "location": "Tokyo",
    "secondary_locations": [],
    "employment_type": "FullTime",
@@ -2218,21 +2253,6 @@
    "published_at": "2026-10-20T13:32:36.237+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/c40aa252-a920-4809-8a35-3e7baf59fb11",
    "description_sha256": "dac61c3b6289b9e1802c79d20e3d1129d6bd729d915e6daa23a59ae8bf777102"
-  },
-  {
-   "job_id": "c4e73cc7-2fb0-4cc9-a335-f41a3eb70073",
-   "lineage_key": "senior-thermal-system-engineer@espoo",
-   "title": "Senior Thermal System Engineer",
-   "department": "Engineering",
-   "team": "Thermal",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-22T08:19:58.786+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/c4e73cc7-2fb0-4cc9-a335-f41a3eb70073",
-   "description_sha256": "61b6467d429a6560045e89c8159e2b2c8612055e5f88ca97bdeef27c89f0e7f0"
   },
   {
    "job_id": "c50ac459-37a2-4414-b33f-d75c458b53a1",
@@ -2496,6 +2516,21 @@
    "description_sha256": "0795ee58935a5de55a65aa45d4d818d78fb58f54523d65c40cae064b95f6ad77"
   },
   {
+   "job_id": "cf9eb570-9cd8-492a-adad-51fe246801e9",
+   "lineage_key": "customer-success-operations-specialist@espoo",
+   "title": "Customer Success Operations Specialist",
+   "department": "Missions",
+   "team": "Missions",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-30T11:28:42.739+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/cf9eb570-9cd8-492a-adad-51fe246801e9",
+   "description_sha256": "c740a1dd6b7d0c6173f06f487372f30b038852af0561409631c6a81aa358820b"
+  },
+  {
    "job_id": "cfc19497-d4ed-465d-9b7d-e2ed114c4ba4",
    "lineage_key": "finance-manager-japan@tokyo",
    "title": "Finance Manager - Japan",
@@ -2743,6 +2778,21 @@
    "description_sha256": "44e4a1a7e3617348b69e121c2c13f2f94f88a0a7b2f0cf51b76f6930139b8fb3"
   },
   {
+   "job_id": "e5082d17-b132-4106-b70d-2a08cdeeb405",
+   "lineage_key": "engineering-team-lead-geospatial-analytics@espoo",
+   "title": "Engineering Team Lead (Geospatial Analytics)",
+   "department": "Solutions",
+   "team": "Product Engineering",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-30T12:22:43.370+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/e5082d17-b132-4106-b70d-2a08cdeeb405",
+   "description_sha256": "dd717906118a3d71de1c3a528989973b0b33a7937b163a58dd4a95fdd787a359"
+  },
+  {
    "job_id": "e595c160-7caf-4697-a4d5-a2a85bf5c481",
    "lineage_key": "staff-structural-analysis-engineer@valencia",
    "title": "Staff Structural Analysis Engineer",
@@ -2869,7 +2919,7 @@
    "lineage_key": "program-manager-finland@espoo",
    "title": "Program Manager - Finland",
    "department": "Missions",
-   "team": "Missions",
+   "team": "Missions Programs",
    "location": "Espoo",
    "secondary_locations": [],
    "employment_type": "FullTime",

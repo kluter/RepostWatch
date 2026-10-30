@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-10-29T17:02:47+00:00",
- "job_count": 135,
+ "fetched_at": "2026-10-30T16:47:49+00:00",
+ "job_count": 138,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -1611,6 +1611,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "5006394101",
+   "lineage_key": "director-spectrum-production-m-f-d@parsdorf-bavaria-germany",
+   "title": "Director Spectrum Production (m/f/d)",
+   "department": "Production, Operations & Quality",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-30T12:34:20-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5006394101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "5006654101",
    "lineage_key": "manager-cnc-turning-m-f-d@parsdorf-bavaria-germany",
    "title": "Manager CNC Turning (m/f/d)",
@@ -2028,6 +2043,36 @@
    "is_remote": false,
    "published_at": "2026-10-29T10:27:37-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5020780101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5022215101",
+   "lineage_key": "manufacturing-engineer-m-f-d@parsdorf-bavaria-germany",
+   "title": "Manufacturing Engineer (m/f/d)",
+   "department": "Production, Operations & Quality",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-30T09:56:12-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5022215101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5022220101",
+   "lineage_key": "product-assurance-engineer-m-f-d@parsdorf-bavaria-germany",
+   "title": "Product Assurance Engineer (m/f/d)",
+   "department": "Production, Operations & Quality",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-30T09:55:31-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5022220101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

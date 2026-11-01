@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-10-30T16:47:49+00:00",
- "job_count": 202,
+ "fetched_at": "2026-11-01T16:53:45+00:00",
+ "job_count": 201,
  "jobs": [
   {
    "job_id": "01edf520-e6e9-4b3e-bc57-5886e694b6b8",
@@ -2622,23 +2622,6 @@
    "published_at": "2026-08-13T13:47:41.225+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/d54bd3a6-eaca-4969-a6fc-7da77ce27fc6",
    "description_sha256": "06662ba8a9fb956ea3df108242d4502a1a7ddf8839a83b52d2d18ebac80ab8ab"
-  },
-  {
-   "job_id": "d930bdab-a9ee-49e3-ac73-46b42b69eb63",
-   "lineage_key": "program-director-germany@berlin",
-   "title": "Program Director - Germany",
-   "department": "Missions",
-   "team": "Missions Programs",
-   "location": "Berlin",
-   "secondary_locations": [
-    "Munich"
-   ],
-   "employment_type": "FullTime",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-08T14:41:43.063+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/d930bdab-a9ee-49e3-ac73-46b42b69eb63",
-   "description_sha256": "1d59acd109a0f8a78b21ef95c8ae3d1cca71120944d2ca21627b9d845b643546"
   },
   {
    "job_id": "d99923a8-6a54-4968-9468-74dd064b953c",

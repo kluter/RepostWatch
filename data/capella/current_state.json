@@ -4,5 +4,10 @@
  "board": "capellaspace",
  "fetched_at": "2026-10-03T19:23:47+00:00",
  "job_count": 0,
- "jobs": []
+ "jobs": [],
+ "feed_error": {
+  "code": 404,
+  "message": "HTTP 404",
+  "checked_at": "2026-11-01T16:53:45+00:00"
+ }
 }

@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-10-30T16:47:49+00:00",
- "job_count": 103,
+ "fetched_at": "2026-11-02T20:28:49+00:00",
+ "job_count": 105,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -728,6 +728,21 @@
    "description_sha256": "ee327e614b97d0b80240ae66c22bdaebe53ce385ead6965f969f1edff9efbbeb"
   },
   {
+   "job_id": "757a8c44-ea5f-4b01-a973-571da764242d",
+   "lineage_key": "senior-long-term-oil-analyst@london",
+   "title": "Senior long-term oil analyst",
+   "department": "Business Units",
+   "team": "Oil & Chemicals",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-11-02T16:31:48.965000+00:00",
+   "url": "https://jobs.lever.co/kpler/757a8c44-ea5f-4b01-a973-571da764242d",
+   "description_sha256": "9e77c639cb2ba7621182b1212183efb4c00720647f9c9bf2de10a1807e9dfbf3"
+  },
+  {
    "job_id": "764db18a-b285-4be5-bf7e-c27c43214bb4",
    "lineage_key": "sales-specialist-dry-bulk@london",
    "title": "Sales Specialist – Dry Bulk",
@@ -1445,6 +1460,21 @@
    "published_at": "2026-08-25T16:46:33.153000+00:00",
    "url": "https://jobs.lever.co/kpler/e914f4a8-2a6a-41d1-9c0a-51fdd23a5e75",
    "description_sha256": "8d9fd0af0491471b343696f2b8cb96c10f2ca53de8fbc5f4881f08aa014d86df"
+  },
+  {
+   "job_id": "e99acb6e-d1f0-4a83-b0c6-e632300a6845",
+   "lineage_key": "customer-support-intern@athens",
+   "title": "Customer Support Intern",
+   "department": "Commercial",
+   "team": "Customer Support",
+   "location": "Athens",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "remote",
+   "is_remote": true,
+   "published_at": "2026-11-02T12:33:52.024000+00:00",
+   "url": "https://jobs.lever.co/kpler/e99acb6e-d1f0-4a83-b0c6-e632300a6845",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
    "job_id": "ebc88846-7eb7-4ade-8770-fa6572bbdbc5",

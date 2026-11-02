@@ -2,24 +2,9 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-10-30T16:47:49+00:00",
- "job_count": 160,
+ "fetched_at": "2026-11-02T20:28:49+00:00",
+ "job_count": 157,
  "jobs": [
-  {
-   "job_id": "4125061101",
-   "lineage_key": "software-engineer-backend@berlin",
-   "title": "Software Engineer - Backend",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2023-03-14T08:08:54-04:00",
-   "url": "https://helsing.ai/jobs/4125061101?gh_jid=4125061101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
   {
    "job_id": "4327973101",
    "lineage_key": "systems-engineer-land@munich",
@@ -486,21 +471,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4841774101",
-   "lineage_key": "people-business-partner-munich@munich",
-   "title": "People Business Partner - Munich",
-   "department": "People",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-04-15T03:51:02-04:00",
-   "url": "https://helsing.ai/jobs/4841774101?gh_jid=4841774101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4844205101",
    "lineage_key": "lead-systems-engineer-low-observability-shaping-materials@munich",
    "title": "Lead Systems Engineer - Low Observability Shaping & Materials",
@@ -753,21 +723,6 @@
    "is_remote": false,
    "published_at": "2026-05-29T05:37:20-04:00",
    "url": "https://helsing.ai/jobs/4878160101?gh_jid=4878160101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4879138101",
-   "lineage_key": "lead-systems-engineer-avionics-communication@munich",
-   "title": "Lead Systems Engineer - Avionics Communication",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-01T03:08:03-04:00",
-   "url": "https://helsing.ai/jobs/4879138101?gh_jid=4879138101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1821,21 +1776,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4981556101",
-   "lineage_key": "simulation-engineer@munich",
-   "title": "Simulation Engineer",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-21T11:37:59-04:00",
-   "url": "https://helsing.ai/jobs/4981556101?gh_jid=4981556101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4982899101",
    "lineage_key": "workplace-planning-lead@munich",
    "title": "Workplace Planning Lead",
@@ -2163,6 +2103,21 @@
    "is_remote": false,
    "published_at": "2026-10-08T03:41:39-04:00",
    "url": "https://helsing.ai/jobs/4999686101?gh_jid=4999686101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5000522101",
+   "lineage_key": "programme-manager-air@london",
+   "title": "Programme Manager - Air",
+   "department": "Market",
+   "team": "",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-08T06:02:25-04:00",
+   "url": "https://helsing.ai/jobs/5000522101?gh_jid=5000522101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

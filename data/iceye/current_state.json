@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-11-01T16:53:45+00:00",
- "job_count": 201,
+ "fetched_at": "2026-11-02T20:28:49+00:00",
+ "job_count": 203,
  "jobs": [
   {
    "job_id": "01edf520-e6e9-4b3e-bc57-5886e694b6b8",
@@ -500,11 +500,11 @@
   },
   {
    "job_id": "29558448-5b4e-4aef-b395-642acc666efa",
-   "lineage_key": "satellite-operations-specialist@remote-finland",
+   "lineage_key": "satellite-operations-specialist@remote-in-finland",
    "title": "Satellite Operations Specialist",
    "department": "Engineering",
    "team": "Satellite Operations",
-   "location": "Remote | Finland",
+   "location": "Remote in Finland",
    "secondary_locations": [],
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
@@ -710,7 +710,7 @@
    "is_remote": true,
    "published_at": "2026-08-04T07:36:05.304+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/387a2a71-1b63-44b4-ac07-eaa487a78f63",
-   "description_sha256": "f1dd64477e075928fd3e2b00392c652765e5cdd1b1f4f4d083fb0c694d02962d"
+   "description_sha256": "77641046ec27d4f5bfdaf3290ce46c982f36cd5eddfdab43625c8a6c23d0cb03"
   },
   {
    "job_id": "38f05b0a-5a3b-46b8-ba80-d85029734922",
@@ -736,11 +736,11 @@
    "location": "Espoo",
    "secondary_locations": [],
    "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
+   "workplace_type": "OnSite",
+   "is_remote": false,
    "published_at": "2026-10-22T12:44:46.970+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/3a9ddd2c-2c2e-43c2-9e16-45f319ac8f7b",
-   "description_sha256": "9f04235f5cd03fc16ab71060b7207e517ac8477eaf6edd478b368fbc7af5ca46"
+   "description_sha256": "039a9efbc73a0f14fd3e47949ea6a4c8b04b53f2721612bbb0a35fa8eaf39bf8"
   },
   {
    "job_id": "3d7f14e7-e116-4885-9d3d-a66080532999",
@@ -901,13 +901,15 @@
    "department": "Finance",
    "team": "Finance",
    "location": "Espoo",
-   "secondary_locations": [],
+   "secondary_locations": [
+    "Warsaw"
+   ],
    "employment_type": "FullTime",
    "workplace_type": "Hybrid",
    "is_remote": true,
    "published_at": "2026-10-21T08:29:38.949+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/481cf92c-4c4b-45ec-b677-80230dff8e71",
-   "description_sha256": "5e8b2876bec2783eb6e078a6e694f77baa9456ba521a46293e7399925a5dc12d"
+   "description_sha256": "d913f70ecfb83ed9c190171a7048b3042c02885623ab91efd54d234171d6c792"
   },
   {
    "job_id": "482053f5-a2b0-4be8-b513-ec9524346fd6",
@@ -1197,19 +1199,19 @@
    "description_sha256": "8c5c751f74cb4be631bc3af018feb51d1ea73c3166e978752a61853d23200e99"
   },
   {
-   "job_id": "609632e0-17a2-4440-974f-9969551e80af",
-   "lineage_key": "mission-sales-director-greece-balkans-and-eastern-mediterranean@athens",
-   "title": "Mission Sales Director - Greece, Balkans and Eastern Mediterranean",
-   "department": "Missions",
-   "team": "Missions Sales",
-   "location": "Athens",
+   "job_id": "5fa71b7f-693c-455a-a402-ddac3d0e624a",
+   "lineage_key": "director-group-accounting-reporting@remote",
+   "title": "Director, Group Accounting & Reporting",
+   "department": "Finance",
+   "team": "Finance",
+   "location": "Remote",
    "secondary_locations": [],
    "employment_type": "FullTime",
    "workplace_type": "Remote",
    "is_remote": true,
-   "published_at": "2026-08-24T14:50:46.216+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/609632e0-17a2-4440-974f-9969551e80af",
-   "description_sha256": "332f65e8f67c44ae0e75e6d6f899859276401a29731f86d2a8377297ec5f787c"
+   "published_at": "2026-10-29T14:53:08.162+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/5fa71b7f-693c-455a-a402-ddac3d0e624a",
+   "description_sha256": "f70f95f43f5cbe9666f835b9fa2f3487dd94903001f54c28e70fd4e32481af82"
   },
   {
    "job_id": "60a82dbd-bc69-4de4-a133-c58ee0256716",
@@ -1302,6 +1304,21 @@
    "published_at": "2026-09-29T13:41:53.677+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/6b325c6e-480e-4237-91bf-6e1e0e90ca76",
    "description_sha256": "727bf610c24147f50c502d033b994c95ec4ff110d1f2d197bd3c19035cfdb310"
+  },
+  {
+   "job_id": "6bbacedf-1114-4f9f-8713-ffe22b35eac8",
+   "lineage_key": "software-ait-engineer-japan@tokyo",
+   "title": "Software AIT Engineer - Japan",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Tokyo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-02T08:04:14.302+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/6bbacedf-1114-4f9f-8713-ffe22b35eac8",
+   "description_sha256": "1660cb6e6013ea694e05daca178fc708ee30607e28a270bab748e673bc9e4f2b"
   },
   {
    "job_id": "6e365057-467d-4043-b160-64b4df544eb3",
@@ -1505,6 +1522,21 @@
    "published_at": "2026-06-10T08:09:37.953+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/76565bc2-919e-4acb-aa0a-96b93d3f4c39",
    "description_sha256": "e483a81732c0ab3e6aa098ab0dc803facd85e6a03daa4ea334cfd0a44420624d"
+  },
+  {
+   "job_id": "7aa39b54-aa85-477f-962d-ce5925e554b4",
+   "lineage_key": "mechanical-ait-engineer-japan@tokyo",
+   "title": "Mechanical AIT Engineer - Japan",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Tokyo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-02T07:51:49.490+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/7aa39b54-aa85-477f-962d-ce5925e554b4",
+   "description_sha256": "631ae74815d78d91ed58423140d145c97b0525d2b8f2dbad40f5c4b55c175fa6"
   },
   {
    "job_id": "7e1be691-32b2-4a35-9338-8fec83b67c55",
@@ -2180,21 +2212,6 @@
    "description_sha256": "417e9cb8dcd75ae9f07bb46733cc17335cd9f9493bdf1c2bbf9ccc39d2a6ed36"
   },
   {
-   "job_id": "bd583979-0670-41d9-b149-c5156c5d6d11",
-   "lineage_key": "marketing-communications-manager-france-eu@france",
-   "title": "Marketing & Communications Manager, France & EU",
-   "department": "Marketing",
-   "team": "Data & Missions Marketing",
-   "location": "France",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-27T16:07:53.701+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/bd583979-0670-41d9-b149-c5156c5d6d11",
-   "description_sha256": "82ba91397819181d3577a22ba87be4597421add5e36ed2d6445d78cdd4cd2640"
-  },
-  {
    "job_id": "be2a2c66-275f-41b9-acc1-9073b27bfce8",
    "lineage_key": "senior-test-automation-developer@espoo",
    "title": "Senior Test Automation Developer",
@@ -2222,7 +2239,7 @@
    "is_remote": true,
    "published_at": "2026-10-27T05:00:24.104+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/c1468ba6-40e3-4247-803f-8e5b951f208e",
-   "description_sha256": "c3894f8c7ea613ae7e88b31a968b9f9515955d0912231aa0acc3e861f7a4895b"
+   "description_sha256": "1360370080b19d22785c963767e5e33a853469c1c81555741b5ea6cde415da02"
   },
   {
    "job_id": "c27729e6-99f6-4e62-bc39-1a7b5cc6ee8c",
@@ -2818,7 +2835,7 @@
    "is_remote": true,
    "published_at": "2026-08-04T07:37:48.416+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e7d59b96-29fb-4d6c-8e4b-4cdb4e38da1b",
-   "description_sha256": "562b770fe1bdd762ef9d04fba0ae1137f5bca1ed4e674d3c81b4173650984232"
+   "description_sha256": "2ee6470b6f2c2788dea71acbcc6e3abc7e2e16b64fc94de4656f4d00034c02ad"
   },
   {
    "job_id": "e8a204a5-9a8b-4fe5-b4ff-bedf3cb7ad79",
@@ -3034,6 +3051,21 @@
    "published_at": "2026-08-17T08:44:44.008+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/f806e6c7-0817-49fa-b8d5-55130ae45e3a",
    "description_sha256": "a5e73c8a97daf4c0547d24e89d071b886b5a9fb6ee955a69031b506a5d58cbac"
+  },
+  {
+   "job_id": "f918a82e-d1c5-4482-9d1c-f3f29040c3bb",
+   "lineage_key": "buyer-electronics-comms@espoo",
+   "title": "Buyer (Electronics & Comms)",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Supply Chain",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-02T09:48:02.038+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/f918a82e-d1c5-4482-9d1c-f3f29040c3bb",
+   "description_sha256": "541bb465c3650bd8c229e8f3803dbf4e265f4f0c0b9917a39bae8f2a8dbac404"
   },
   {
    "job_id": "fa7cbdf7-5c86-48b7-84f8-12c3476113e7",

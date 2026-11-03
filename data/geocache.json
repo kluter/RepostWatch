@@ -686,6 +686,12 @@
    "lon": 1.8883335,
    "label": "France"
   },
-  "remote in finland": null
+  "remote in finland": null,
+  "singapore, remote": {
+   "lat": 1.357107,
+   "lon": 103.8194992,
+   "label": "Singapore",
+   "remote": true
+  }
  }
 }

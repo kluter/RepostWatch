@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-10-28T16:47:37+00:00",
- "job_count": 39,
+ "fetched_at": "2026-11-03T17:59:40+00:00",
+ "job_count": 38,
  "jobs": [
   {
    "job_id": "6729465",
@@ -63,21 +63,6 @@
    "is_remote": false,
    "published_at": "2026-06-23T10:49:43-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=6769687&gh_jid=6769687",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7317124",
-   "lineage_key": "senior-firmware-engineer@glasgow",
-   "title": "Senior Firmware Engineer",
-   "department": "Engineering",
-   "team": "",
-   "location": "Glasgow",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-14T06:56:33-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7317124&gh_jid=7317124",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

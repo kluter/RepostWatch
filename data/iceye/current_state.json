@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-11-02T20:28:49+00:00",
- "job_count": 203,
+ "fetched_at": "2026-11-03T17:59:40+00:00",
+ "job_count": 202,
  "jobs": [
   {
    "job_id": "01edf520-e6e9-4b3e-bc57-5886e694b6b8",
@@ -257,8 +257,8 @@
   },
   {
    "job_id": "19d29db2-9a39-4e9b-967a-c63105c1eeaa",
-   "lineage_key": "flight-software-engineer-sar-payload@espoo",
-   "title": "Flight Software Engineer SAR Payload",
+   "lineage_key": "flight-software-engineer@espoo",
+   "title": "Flight Software Engineer",
    "department": "Engineering",
    "team": "Flight Software",
    "location": "Espoo",
@@ -406,7 +406,7 @@
    "is_remote": false,
    "published_at": "2026-10-22T09:24:11.105+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/1fffccad-6e68-48ae-a23e-483af70d5fb5",
-   "description_sha256": "0a119b530b3ab501f5ff38aca2b3aced86a90c658ecd9ef28af4da6bc0f268ed"
+   "description_sha256": "374747ba61001b03abc9a9240fe18010eea596ec36caec7a7fdb6c7cc8ae6ca8"
   },
   {
    "job_id": "2048d1e8-7667-466a-a72a-d754cbcb42f2",
@@ -527,21 +527,6 @@
    "published_at": "2026-07-13T19:19:43.575+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/2a7fa616-d6b3-469d-a724-73150c417fac",
    "description_sha256": "37cbf51bc4b1a26b5d9c8aee5b32e63e7f47706111323e78d410dddd279138a2"
-  },
-  {
-   "job_id": "2af22301-ecca-4a6a-a483-625371b9d195",
-   "lineage_key": "satellite-operations-specialist@warsaw",
-   "title": "Satellite Operations Specialist",
-   "department": "Engineering",
-   "team": "Satellite Operations",
-   "location": "Warsaw",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-09-22T08:47:29.683+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/2af22301-ecca-4a6a-a483-625371b9d195",
-   "description_sha256": "9e91b39a4b6d6175f4d781ec5f51d5ce30fe620a2ddb9e585a8e01bcd76fb687"
   },
   {
    "job_id": "2ef68fcc-6ce8-476e-8c94-6e7b099842e9",
@@ -1132,7 +1117,7 @@
    "location": "Singapore",
    "secondary_locations": [],
    "employment_type": "FullTime",
-   "workplace_type": "",
+   "workplace_type": "OnSite",
    "is_remote": false,
    "published_at": "2026-10-23T07:14:24.390+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/5b61f138-6bc9-4d81-b820-d1bf7b30a224",
@@ -1166,7 +1151,7 @@
    "is_remote": false,
    "published_at": "2026-10-23T07:14:21.001+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/5c68a956-9359-4045-9664-c42f79b163fa",
-   "description_sha256": "d3e550eced536fad6ef5153eb976cb90a0a9482ed6262a03b227b44b57543d40"
+   "description_sha256": "153329000abf3267cf3d580e3d2c87429a4b282e3bae1aace05a5e98cc78af30"
   },
   {
    "job_id": "5d1c9124-8b45-4b12-b3b4-8e91168afbbc",
@@ -1524,6 +1509,21 @@
    "description_sha256": "e483a81732c0ab3e6aa098ab0dc803facd85e6a03daa4ea334cfd0a44420624d"
   },
   {
+   "job_id": "773acae9-2aa7-41d4-bc9a-e7512a93bece",
+   "lineage_key": "legal-counsel@espoo",
+   "title": "Legal Counsel",
+   "department": "Legal",
+   "team": "Legal",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-03T12:52:21.947+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/773acae9-2aa7-41d4-bc9a-e7512a93bece",
+   "description_sha256": "5c57b6d5deffcdbfb58063efeb1b694ec4a761db323d0b9ce65c19e4b6af5d9c"
+  },
+  {
    "job_id": "7aa39b54-aa85-477f-962d-ce5925e554b4",
    "lineage_key": "mechanical-ait-engineer-japan@tokyo",
    "title": "Mechanical AIT Engineer - Japan",
@@ -1740,7 +1740,7 @@
    "is_remote": false,
    "published_at": "2026-09-02T05:22:06.511+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/8bbb61b2-e417-4d48-b6e2-45843174e21c",
-   "description_sha256": "44d1610e9029abbc792203a31ba598b28192b119387cd56459dfad43ca91db7f"
+   "description_sha256": "9334e8cf707279db53b1730918e0303d0e09309a05952deb019ca4067555017a"
   },
   {
    "job_id": "8d27f213-6661-450f-a7be-7d5d461c7a59",
@@ -1755,7 +1755,7 @@
    "is_remote": true,
    "published_at": "2026-08-05T09:00:04.125+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/8d27f213-6661-450f-a7be-7d5d461c7a59",
-   "description_sha256": "18921ca4604efe8f0349e01495fa13ae33f6d932c0a4cdf27ce4bc1eb5d5fc01"
+   "description_sha256": "d17b5d405759705cc63cb870af0b52cfcfef950af489e5f02d23943d7458bc13"
   },
   {
    "job_id": "9109656d-4637-4fac-9192-8b61b4b9b568",
@@ -2257,21 +2257,6 @@
    "description_sha256": "16c6427cbf27bff9dbe92630eb72fc674aef8558473f6eaf8cf5a2343299087f"
   },
   {
-   "job_id": "c40aa252-a920-4809-8a35-3e7baf59fb11",
-   "lineage_key": "customer-excellence-specialist@colombia",
-   "title": "Customer Excellence Specialist",
-   "department": "Data",
-   "team": "Customer Excellence",
-   "location": "Colombia",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Remote",
-   "is_remote": true,
-   "published_at": "2026-10-20T13:32:36.237+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/c40aa252-a920-4809-8a35-3e7baf59fb11",
-   "description_sha256": "dac61c3b6289b9e1802c79d20e3d1129d6bd729d915e6daa23a59ae8bf777102"
-  },
-  {
    "job_id": "c50ac459-37a2-4414-b33f-d75c458b53a1",
    "lineage_key": "spacecraft-analysis-team-lead@espoo",
    "title": "Spacecraft Analysis Team Lead",
@@ -2545,7 +2530,7 @@
    "is_remote": true,
    "published_at": "2026-10-30T11:28:42.739+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/cf9eb570-9cd8-492a-adad-51fe246801e9",
-   "description_sha256": "c740a1dd6b7d0c6173f06f487372f30b038852af0561409631c6a81aa358820b"
+   "description_sha256": "da9ae1eceaa8da71d44bbde7bfba82121d52088b75e0b41fbaaca397886f678f"
   },
   {
    "job_id": "cfc19497-d4ed-465d-9b7d-e2ed114c4ba4",

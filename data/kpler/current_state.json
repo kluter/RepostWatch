@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-11-02T20:28:49+00:00",
- "job_count": 105,
+ "fetched_at": "2026-11-03T17:59:40+00:00",
+ "job_count": 109,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -758,6 +758,21 @@
    "description_sha256": "65c19ac397fa429a659bf8c9fc79aea0125bf60b050102f03262a665b007b667"
   },
   {
+   "job_id": "7a1352fb-325d-479d-aabb-a44366acad57",
+   "lineage_key": "senior-research-analyst-gasoline@singapore",
+   "title": "Senior Research Analyst, Gasoline",
+   "department": "Business Units",
+   "team": "Oil & Chemicals",
+   "location": "Singapore",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-11-03T17:19:33.602000+00:00",
+   "url": "https://jobs.lever.co/kpler/7a1352fb-325d-479d-aabb-a44366acad57",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+  },
+  {
    "job_id": "7d2b0b9f-9dae-4eee-aff8-f7493fee8e26",
    "lineage_key": "senior-account-executive-tech-consulting-europe@london",
    "title": "Senior Account Executive - Tech/Consulting - Europe",
@@ -1034,6 +1049,21 @@
    "description_sha256": "2fdcfc04d0101560e0a7296cc7f55066a5f2ea6cc03b33926ae0ce42353fbfaf"
   },
   {
+   "job_id": "a3313f7b-a0d7-425f-94b5-0fb43a571820",
+   "lineage_key": "senior-account-executive-government-defense-intelligence-copy@germany",
+   "title": "Senior Account Executive (Government, Defense & Intelligence) (copy)",
+   "department": "Commercial",
+   "team": "Sales - Government",
+   "location": "Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-11-03T16:52:47.415000+00:00",
+   "url": "https://jobs.lever.co/kpler/a3313f7b-a0d7-425f-94b5-0fb43a571820",
+   "description_sha256": "2335adc5f33de191c8d5f3bc657a5e4f08810cce95d1b4f1a10c1cc7b15c1f60"
+  },
+  {
    "job_id": "a35396e8-6cec-4095-83ab-5384353728c2",
    "lineage_key": "commercial-development-manager-physicals-europe@geneva",
    "title": "Commercial Development Manager - Physicals - Europe",
@@ -1107,6 +1137,21 @@
    "published_at": "2026-10-08T17:51:05.392000+00:00",
    "url": "https://jobs.lever.co/kpler/aee5db97-5ade-4893-9b09-4e630e0288cf",
    "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+  },
+  {
+   "job_id": "af264aa2-83aa-4d0f-9a26-605b100c5dc0",
+   "lineage_key": "senior-account-executive-government-defense-intelligence@paris",
+   "title": "Senior Account Executive (Government, Defense & Intelligence)",
+   "department": "Commercial",
+   "team": "Sales - Government",
+   "location": "Paris",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-11-03T16:49:46.320000+00:00",
+   "url": "https://jobs.lever.co/kpler/af264aa2-83aa-4d0f-9a26-605b100c5dc0",
+   "description_sha256": "639b47c82d46a76fd0a14de6fe1f6e53e908c0c40d862ba96a56ed01d25b939d"
   },
   {
    "job_id": "b3ffa04d-60b6-4761-9a41-5e40944b043e",
@@ -1583,6 +1628,21 @@
    "published_at": "2026-10-09T14:44:28.116000+00:00",
    "url": "https://jobs.lever.co/kpler/f36c44e8-c742-43c8-8e68-3dd27d934e07",
    "description_sha256": "60bdc1eba02d68b97471c493fcc0f49760947a60c729a7fd619cdb073ce99c72"
+  },
+  {
+   "job_id": "f6825e29-7b88-4ade-864c-68f3e560fcdf",
+   "lineage_key": "senior-research-analyst-middle-distillates@singapore",
+   "title": "Senior Research Analyst, Middle Distillates",
+   "department": "Business Units",
+   "team": "Oil & Chemicals",
+   "location": "Singapore",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-11-03T10:39:22.413000+00:00",
+   "url": "https://jobs.lever.co/kpler/f6825e29-7b88-4ade-864c-68f3e560fcdf",
+   "description_sha256": "5abd62f88f463faeb943690853edf5f3d47b1e56f68c28fb9300cb3da5615add"
   },
   {
    "job_id": "fd027bed-7a3f-4e51-ab7b-6da91fcf26bb",

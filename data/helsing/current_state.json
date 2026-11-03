@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-11-02T20:28:49+00:00",
- "job_count": 157,
+ "fetched_at": "2026-11-03T17:59:40+00:00",
+ "job_count": 161,
  "jobs": [
   {
    "job_id": "4327973101",
@@ -126,6 +126,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4538119101",
+   "lineage_key": "forward-strategist@munich",
+   "title": "Forward Strategist",
+   "department": "Deployed Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-20T08:58:17-04:00",
+   "url": "https://helsing.ai/jobs/4538119101?gh_jid=4538119101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4642812101",
    "lineage_key": "production-engineer-mechatronic-systems@munich",
    "title": "Production Engineer - Mechatronic Systems",
@@ -157,11 +172,11 @@
   },
   {
    "job_id": "4676357101",
-   "lineage_key": "ai-research-engineer-reinforcement-learning@barcelona",
+   "lineage_key": "ai-research-engineer-reinforcement-learning@berlin",
    "title": "AI Research Engineer - Reinforcement Learning",
    "department": "AI & Engineering",
    "team": "",
-   "location": "Barcelona",
+   "location": "Berlin",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
@@ -1116,6 +1131,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4939612101",
+   "lineage_key": "security-manager@paris",
+   "title": "Security Manager",
+   "department": "Corporate Security",
+   "team": "",
+   "location": "Paris",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-28T07:31:54-04:00",
+   "url": "https://helsing.ai/jobs/4939612101?gh_jid=4939612101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4941957101",
    "lineage_key": "ai-research-intern-phd-3d-computer-vision@barcelona",
    "title": "AI Research Intern (PhD) – 3D Computer Vision",
@@ -1488,21 +1518,6 @@
    "is_remote": false,
    "published_at": "2026-09-01T03:56:30-04:00",
    "url": "https://helsing.ai/jobs/4964970101?gh_jid=4964970101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4966173101",
-   "lineage_key": "team-lead-training-and-mission-success-international@london",
-   "title": "Team Lead - Training and Mission Success - International",
-   "department": "Deployed Engineering",
-   "team": "",
-   "location": "London",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-02T04:31:26-04:00",
-   "url": "https://helsing.ai/jobs/4966173101?gh_jid=4966173101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -2358,6 +2373,51 @@
    "is_remote": false,
    "published_at": "2026-10-28T04:29:25-04:00",
    "url": "https://helsing.ai/jobs/5018705101?gh_jid=5018705101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5024726101",
+   "lineage_key": "systems-engineer-interceptors@london",
+   "title": "Systems Engineer - Interceptors",
+   "department": "Systems Architecture",
+   "team": "",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-03T04:24:44-05:00",
+   "url": "https://helsing.ai/jobs/5024726101?gh_jid=5024726101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5024730101",
+   "lineage_key": "systems-engineer-interceptors@munich",
+   "title": "Systems Engineer - Interceptors",
+   "department": "Systems Architecture",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-03T04:24:46-05:00",
+   "url": "https://helsing.ai/jobs/5024730101?gh_jid=5024730101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5025576101",
+   "lineage_key": "programme-procurement-and-partnership-manager@munich",
+   "title": "Programme Procurement and Partnership Manager",
+   "department": "Market",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-03T04:02:18-05:00",
+   "url": "https://helsing.ai/jobs/5025576101?gh_jid=5025576101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

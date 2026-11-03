@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-11-02T23:40:38+00:00",
- "job_count": 127,
+ "fetched_at": "2026-11-03T17:59:40+00:00",
+ "job_count": 130,
  "jobs": [
   {
    "job_id": "7374533",
@@ -757,8 +757,8 @@
   },
   {
    "job_id": "8164995",
-   "lineage_key": "presales-engineer-civil-government-and-commercial@germany-remote",
-   "title": "PreSales Engineer, Civil Government and Commercial",
+   "lineage_key": "senior-presales-engineer-civil-government-and-commercial@germany-remote",
+   "title": "Senior PreSales Engineer, Civil Government and Commercial",
    "department": "Pre-Sales and Services",
    "team": "",
    "location": "Germany, Remote",
@@ -1821,6 +1821,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8302899",
+   "lineage_key": "site-reliability-engineer@san-francisco-ca",
+   "title": "Site Reliability Engineer",
+   "department": "Image Processing",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-02T19:58:09-05:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8302899",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8306456",
    "lineage_key": "senior-technical-program-manager-solutions@berlin-germany",
    "title": "Senior Technical Program Manager, Solutions",
@@ -1908,6 +1923,36 @@
    "is_remote": false,
    "published_at": "2026-10-27T11:04:11-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8324236",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8324519",
+   "lineage_key": "customer-success-manager-defence-intelligence@singapore-remote",
+   "title": "Customer Success Manager, Defence & Intelligence",
+   "department": "Customer Success Management",
+   "team": "",
+   "location": "Singapore, remote",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-11-03T05:21:00-05:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8324519",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8349153",
+   "lineage_key": "uae-armed-forces-defense-account-executive@uae-remote",
+   "title": "UAE Armed Forces & Defense Account Executive",
+   "department": "Account Executive",
+   "team": "",
+   "location": "UAE, Remote",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-11-03T09:28:55-05:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8349153",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

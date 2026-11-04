@@ -2,9 +2,24 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-11-03T17:59:40+00:00",
+ "fetched_at": "2026-11-04T18:11:38+00:00",
  "job_count": 161,
  "jobs": [
+  {
+   "job_id": "4125061101",
+   "lineage_key": "software-engineer-backend@berlin",
+   "title": "Software Engineer - Backend",
+   "department": "AI & Engineering",
+   "team": "",
+   "location": "Berlin",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2023-03-14T08:08:54-04:00",
+   "url": "https://helsing.ai/jobs/4125061101?gh_jid=4125061101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
   {
    "job_id": "4327973101",
    "lineage_key": "systems-engineer-land@munich",
@@ -363,21 +378,6 @@
    "is_remote": false,
    "published_at": "2026-02-13T10:22:09-05:00",
    "url": "https://helsing.ai/jobs/4782393101?gh_jid=4782393101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4787205101",
-   "lineage_key": "systems-engineer-command-and-control-air@munich",
-   "title": "Systems Engineer - Command and Control (Air)",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-02-20T08:13:30-05:00",
-   "url": "https://helsing.ai/jobs/4787205101?gh_jid=4787205101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1113,21 +1113,6 @@
    "is_remote": false,
    "published_at": "2026-07-28T03:06:14-04:00",
    "url": "https://helsing.ai/jobs/4938743101?gh_jid=4938743101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4939591101",
-   "lineage_key": "camera-engineer@berlin",
-   "title": "Camera Engineer",
-   "department": "Hardware Engineering",
-   "team": "",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-28T07:14:09-04:00",
-   "url": "https://helsing.ai/jobs/4939591101?gh_jid=4939591101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -2016,21 +2001,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4996521101",
-   "lineage_key": "legal-counsel-it-privacy@munich",
-   "title": "Legal Counsel IT & Privacy",
-   "department": "Core Operations",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-05T05:07:54-04:00",
-   "url": "https://helsing.ai/jobs/4996521101?gh_jid=4996521101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4996583101",
    "lineage_key": "logistics-manager@munich",
    "title": "Logistics Manager",
@@ -2418,6 +2388,36 @@
    "is_remote": false,
    "published_at": "2026-11-03T04:02:18-05:00",
    "url": "https://helsing.ai/jobs/5025576101?gh_jid=5025576101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5026460101",
+   "lineage_key": "test-engineer-environmental@munich",
+   "title": "Test Engineer - Environmental",
+   "department": "Physical Products",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-04T12:05:02-05:00",
+   "url": "https://helsing.ai/jobs/5026460101?gh_jid=5026460101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5026473101",
+   "lineage_key": "test-engineer-ground@munich",
+   "title": "Test Engineer - Ground",
+   "department": "Physical Products",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-04T12:05:29-05:00",
+   "url": "https://helsing.ai/jobs/5026473101?gh_jid=5026473101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

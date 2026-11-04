@@ -2,8 +2,8 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-11-03T21:58:47+00:00",
- "job_count": 46,
+ "fetched_at": "2026-11-04T18:11:38+00:00",
+ "job_count": 43,
  "jobs": [
   {
    "job_id": "0726769f-2ee3-46d2-9243-7bed980f2375",
@@ -276,21 +276,6 @@
    "description_sha256": "6a2748644a3f505c0a316f83fb7c34a1e675ce74a7554c81cfea04b74e9c0b0b"
   },
   {
-   "job_id": "6026eb8c-8ffe-472e-9d63-ac71b4fab899",
-   "lineage_key": "earth-observation-solutions-analyst@harwell-uk",
-   "title": "Earth Observation Solutions Analyst",
-   "department": "DATA",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-09-02T16:40:38+01:00",
-   "url": "https://careers.open-cosmos.com/jobs/8312091-earth-observation-solutions-analyst",
-   "description_sha256": "00024cb27c936b4b062903f45ca7a701a88802ebe3433a6b2e0d714533ee441c"
-  },
-  {
    "job_id": "670e9b42-155a-4fbc-b674-b94167ef8779",
    "lineage_key": "senior-mission-concept-engineer@athens-greece",
    "title": "Senior Mission Concept Engineer",
@@ -319,21 +304,6 @@
    "published_at": "2026-10-28T16:32:12+00:00",
    "url": "https://careers.open-cosmos.com/jobs/8632549-1st-line-it-support-engineer",
    "description_sha256": "d3cd238d415238ce5cba9d7e538f976e5b130528379961f25a88327174720ed5"
-  },
-  {
-   "job_id": "7655f22b-c93a-4310-ba50-40d14cb728f3",
-   "lineage_key": "2nd-line-it-support-engineer@harwell-uk",
-   "title": "2nd Line IT Support Engineer",
-   "department": "IT",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2025-11-24T08:10:58+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/6828550-2nd-line-it-support-engineer",
-   "description_sha256": "7e27a94961716bff5fb7dc483cc9e46b2f3cdf9e49419a92caf1ada0d1c2d37c"
   },
   {
    "job_id": "88c9f24e-ce2a-408b-bb70-fd24b9a43b95",
@@ -379,21 +349,6 @@
    "published_at": "2026-02-14T18:04:31+00:00",
    "url": "https://careers.open-cosmos.com/jobs/7231083-inventory-logistics-coordinator-harwell-oxfordshire",
    "description_sha256": "ac8d808cae80f77bd879742816195f80ea9c16dce5cdbb1ae762b5a0ca72bebe"
-  },
-  {
-   "job_id": "99df5758-340b-490f-a370-a9de81a5858e",
-   "lineage_key": "mechanical-engineer@athens-greece",
-   "title": "Mechanical Engineer",
-   "department": "MECHANICS",
-   "team": "",
-   "location": "Athens, Greece",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2025-12-18T15:10:44+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/6957285-mechanical-engineer",
-   "description_sha256": "3c970e920b826f1bd10993a91b5bce288263bedeb369b6cec52a023c5559762d"
   },
   {
    "job_id": "9f1ebe11-e11c-423c-8d63-3aa2e92f20a4",

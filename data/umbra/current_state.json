@@ -2,7 +2,7 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-10-28T16:47:37+00:00",
+ "fetched_at": "2026-11-04T18:11:38+00:00",
  "job_count": 25,
  "jobs": [
   {
@@ -41,18 +41,21 @@
   },
   {
    "job_id": "0CDD4FACF2",
-   "lineage_key": "spacecraft-mechanical-engineer@santa-barbara-united-states",
+   "lineage_key": "spacecraft-mechanical-engineer@arlington-united-states",
    "title": "Spacecraft Mechanical Engineer",
    "department": "Space Systems",
    "team": "",
-   "location": "Santa Barbara, United States",
-   "secondary_locations": [],
+   "location": "Arlington, United States",
+   "secondary_locations": [
+    "Reston, United States",
+    "Santa Barbara, United States"
+   ],
    "employment_type": "",
    "workplace_type": "",
    "is_remote": false,
    "published_at": "2026-10-06T00:00:00+00:00",
    "url": "https://apply.workable.com/j/0CDD4FACF2",
-   "description_sha256": "c6d4ce21ea979215bc6741df7eeed187f7ba4f22cc38b293ecae352517b6ff4e"
+   "description_sha256": "8ede4e5321c6adfedb1d98bb93afbb1f8cbd7a5d66a33b3fb24bfa5224df00ef"
   },
   {
    "job_id": "1956636B85",
@@ -261,18 +264,21 @@
   },
   {
    "job_id": "71AA98A76F",
-   "lineage_key": "senior-staff-mechanical-engineer@santa-barbara-united-states",
-   "title": "Senior/Staff Mechanical Engineer",
+   "lineage_key": "senior-staff-mechanical-engineer-mechanisms@arlington-united-states",
+   "title": "Senior/Staff Mechanical Engineer - Mechanisms",
    "department": "Space Systems",
    "team": "",
-   "location": "Santa Barbara, United States",
-   "secondary_locations": [],
+   "location": "Arlington, United States",
+   "secondary_locations": [
+    "Reston, United States",
+    "Santa Barbara, United States"
+   ],
    "employment_type": "",
    "workplace_type": "",
    "is_remote": false,
    "published_at": "2026-06-25T00:00:00+00:00",
    "url": "https://apply.workable.com/j/71AA98A76F",
-   "description_sha256": "89d5f1b7d96006e847335cdc12a7cab69b03a16da73be9cf0a763c9be3d519c4"
+   "description_sha256": "3f359e0fcb8167e061089c08d7ebf28091244c195fcf9291b0b09511b19d40e7"
   },
   {
    "job_id": "81DDC16701",

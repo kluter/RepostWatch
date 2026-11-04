@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-11-04T18:11:38+00:00",
- "job_count": 25,
+ "fetched_at": "2026-11-04T22:10:30+00:00",
+ "job_count": 26,
  "jobs": [
   {
    "job_id": "0652C1D7B7",
@@ -91,6 +91,24 @@
    "published_at": "2026-09-21T00:00:00+00:00",
    "url": "https://apply.workable.com/j/27EBA846B1",
    "description_sha256": "b932a99d8e95d458d9deb5f22b20bb6596564dc8f339555022f0d6e75357fb79"
+  },
+  {
+   "job_id": "294D02F992",
+   "lineage_key": "senior-data-platform-engineer@arlington-united-states",
+   "title": "Senior Data Platform Engineer",
+   "department": "Remote Sensing",
+   "team": "",
+   "location": "Arlington, United States",
+   "secondary_locations": [
+    "Reston, United States",
+    "Santa Barbara, United States"
+   ],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-04T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/294D02F992",
+   "description_sha256": "993303b479ec7b177a5f7d3cd339feab54907e15a77bcd693f24a4140efc4874"
   },
   {
    "job_id": "460E5DED83",

@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-11-03T21:58:47+00:00",
- "job_count": 130,
+ "fetched_at": "2026-11-04T22:10:30+00:00",
+ "job_count": 129,
  "jobs": [
   {
    "job_id": "7374533",
@@ -1848,21 +1848,6 @@
    "is_remote": false,
    "published_at": "2026-10-27T06:30:21-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8306456",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8316764",
-   "lineage_key": "senior-flight-dynamics-engineer-orbits-r-d@berlin-germany",
-   "title": "Senior Flight Dynamics Engineer, Orbits R&D",
-   "department": "Orbits R&D",
-   "team": "",
-   "location": "Berlin, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-11-02T08:43:02-05:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8316764",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

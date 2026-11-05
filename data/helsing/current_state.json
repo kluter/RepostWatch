@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-11-04T18:11:38+00:00",
- "job_count": 161,
+ "fetched_at": "2026-11-05T18:13:48+00:00",
+ "job_count": 159,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -411,21 +411,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4809235101",
-   "lineage_key": "hardware-electronics-engineer-robotics@barcelona",
-   "title": "Hardware Electronics Engineer - Robotics",
-   "department": "Hardware Engineering",
-   "team": "",
-   "location": "Barcelona",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-03-13T12:04:48-04:00",
-   "url": "https://helsing.ai/jobs/4809235101?gh_jid=4809235101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4813822101",
    "lineage_key": "systems-engineer-v-v-air@munich",
    "title": "Systems Engineer V&V - Air",
@@ -798,21 +783,6 @@
    "is_remote": false,
    "published_at": "2026-06-03T07:47:39-04:00",
    "url": "https://helsing.ai/jobs/4880852101?gh_jid=4880852101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4881402101",
-   "lineage_key": "robotics-mechancial-engineer@barcelona",
-   "title": "Robotics Mechancial Engineer",
-   "department": "Hardware Engineering",
-   "team": "",
-   "location": "Barcelona",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-08T04:01:07-04:00",
-   "url": "https://helsing.ai/jobs/4881402101?gh_jid=4881402101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1386,21 +1356,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4957275101",
-   "lineage_key": "technical-recruiter@london",
-   "title": "Technical Recruiter",
-   "department": "Talent Acquisition",
-   "team": "",
-   "location": "London",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-21T04:54:24-04:00",
-   "url": "https://helsing.ai/jobs/4957275101?gh_jid=4957275101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4957296101",
    "lineage_key": "talent-operations-partner@london",
    "title": "Talent Operations Partner",
@@ -1728,21 +1683,6 @@
    "is_remote": false,
    "published_at": "2026-09-15T11:01:31-04:00",
    "url": "https://helsing.ai/jobs/4976946101?gh_jid=4976946101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4976970101",
-   "lineage_key": "tecnico-mecatronico-robotica@barcelona",
-   "title": "Técnico Mecatrónico - Robótica",
-   "department": "Hardware Engineering",
-   "team": "",
-   "location": "Barcelona",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-16T05:30:16-04:00",
-   "url": "https://helsing.ai/jobs/4976970101?gh_jid=4976970101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -2418,6 +2358,36 @@
    "is_remote": false,
    "published_at": "2026-11-04T12:05:29-05:00",
    "url": "https://helsing.ai/jobs/5026473101?gh_jid=5026473101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5027521101",
+   "lineage_key": "systems-engineer-air-defense-system-contra@munich",
+   "title": "Systems Engineer - Air Defense System - Contra",
+   "department": "Hardware Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-05T05:22:05-05:00",
+   "url": "https://helsing.ai/jobs/5027521101?gh_jid=5027521101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5027572101",
+   "lineage_key": "system-engineer-system-architecture-contra@london-england-united-kingdom",
+   "title": "System Engineer - System Architecture - Contra",
+   "department": "Physical Products",
+   "team": "",
+   "location": "London, England, United Kingdom",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-05T05:20:47-05:00",
+   "url": "https://helsing.ai/jobs/5027572101?gh_jid=5027572101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

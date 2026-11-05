@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-11-04T18:11:38+00:00",
- "job_count": 109,
+ "fetched_at": "2026-11-05T18:13:48+00:00",
+ "job_count": 110,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -295,6 +295,24 @@
    "description_sha256": "969395a0cbbd8f79eacb6c8c352b59927ecddc331dc324597df453bb1d7cf634"
   },
   {
+   "job_id": "307e36e8-f4d9-49d9-8465-85ca9368b5e7",
+   "lineage_key": "account-executive-new-business-metals-agriculture@houston",
+   "title": "Account Executive, New Business — Metals & Agriculture",
+   "department": "Commercial",
+   "team": "Sales - Mid Market Americas",
+   "location": "Houston",
+   "secondary_locations": [
+    "Miami",
+    "New York"
+   ],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-11-05T17:48:55.734000+00:00",
+   "url": "https://jobs.lever.co/kpler/307e36e8-f4d9-49d9-8465-85ca9368b5e7",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "35db18e4-9d96-4378-901b-f712325f1dd2",
    "lineage_key": "senior-lng-market-analyst@london",
    "title": "Senior LNG Market Analyst",
@@ -509,18 +527,18 @@
    "description_sha256": "c1d32153fabd146a3bd90a108c0abdf0be62f1acf2038857dffba384c90ffdba"
   },
   {
-   "job_id": "551dbb3c-1160-4c2b-9d2b-6987d49b4ae4",
-   "lineage_key": "commercial-manager-insurance@singapore",
-   "title": "Commercial Manager, Insurance",
-   "department": "Commercial",
-   "team": "Sales - Mid Market APAC",
-   "location": "Singapore",
+   "job_id": "54736ae3-0807-43d1-b173-608820b32551",
+   "lineage_key": "p2p-finance-consultant-6-months-ftc@greece",
+   "title": "P2P Finance Consultant (6 months FTC)",
+   "department": "Finance",
+   "team": "Finance",
+   "location": "Greece",
    "secondary_locations": [],
    "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-10-09T14:50:19.739000+00:00",
-   "url": "https://jobs.lever.co/kpler/551dbb3c-1160-4c2b-9d2b-6987d49b4ae4",
+   "workplace_type": "remote",
+   "is_remote": true,
+   "published_at": "2026-11-05T18:08:32.616000+00:00",
+   "url": "https://jobs.lever.co/kpler/54736ae3-0807-43d1-b173-608820b32551",
    "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
@@ -579,11 +597,11 @@
    "location": "Detroit",
    "secondary_locations": [],
    "employment_type": "",
-   "workplace_type": "remote",
-   "is_remote": true,
+   "workplace_type": "hybrid",
+   "is_remote": false,
    "published_at": "2026-10-15T20:20:36.016000+00:00",
    "url": "https://jobs.lever.co/kpler/613fa88b-86a2-4168-ba13-d56452ff4ce8",
-   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+   "description_sha256": "f77d14fc7552ca98699288a1eaa258e6c863ab1c695c82ee1fd17f569e6c8ada"
   },
   {
    "job_id": "616907ff-3ac5-47ef-a8de-077579a691ad",
@@ -1057,8 +1075,8 @@
    "location": "New York",
    "secondary_locations": [],
    "employment_type": "",
-   "workplace_type": "remote",
-   "is_remote": true,
+   "workplace_type": "hybrid",
+   "is_remote": false,
    "published_at": "2026-06-26T12:12:25.799000+00:00",
    "url": "https://jobs.lever.co/kpler/a26f4209-45d6-45b0-b560-3e812e0ecb8a",
    "description_sha256": "2fdcfc04d0101560e0a7296cc7f55066a5f2ea6cc03b33926ae0ce42353fbfaf"
@@ -1080,8 +1098,8 @@
   },
   {
    "job_id": "a35396e8-6cec-4095-83ab-5384353728c2",
-   "lineage_key": "commercial-development-manager-physicals-europe@geneva",
-   "title": "Commercial Development Manager - Physicals - Europe",
+   "lineage_key": "account-manager-physicals-europe@geneva",
+   "title": "Account Manager - Physicals - Europe",
    "department": "Commercial",
    "team": "Sales - Mid Market EMEA",
    "location": "Geneva",
@@ -1215,6 +1233,21 @@
    "published_at": "2026-10-20T10:44:36.434000+00:00",
    "url": "https://jobs.lever.co/kpler/b7007015-01fa-483a-ab3b-5d2a6c910274",
    "description_sha256": "3dcc3cb3b999e3a406674bea56569a601e347b3ec375a05894e08ed61409c53f"
+  },
+  {
+   "job_id": "b74041b7-72f6-4970-8618-a4ab91aca323",
+   "lineage_key": "people-operations-specialist@india",
+   "title": "People Operations Specialist",
+   "department": "People",
+   "team": "People",
+   "location": "India",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "remote",
+   "is_remote": true,
+   "published_at": "2026-11-05T12:52:03.486000+00:00",
+   "url": "https://jobs.lever.co/kpler/b74041b7-72f6-4970-8618-a4ab91aca323",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
    "job_id": "b93250d4-23b6-496e-8483-63fbeaf8c1fa",
@@ -1583,21 +1616,6 @@
    "published_at": "2026-09-30T15:48:11.436000+00:00",
    "url": "https://jobs.lever.co/kpler/ee3ad1a8-7c6c-4633-9d4f-4116621037d9",
    "description_sha256": "a13dfda8d4949bfee210b430b874301a4b9ea05d43e4f11c9dfc8f4873e5bfcb"
-  },
-  {
-   "job_id": "f00d81b8-332d-40fd-89bc-2e90ea26931f",
-   "lineage_key": "account-manager-maritime-mea@dubai",
-   "title": "Account Manager - Maritime - MEA",
-   "department": "Commercial",
-   "team": "Sales - Mid Market EMEA",
-   "location": "Dubai",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-09-24T12:03:40.894000+00:00",
-   "url": "https://jobs.lever.co/kpler/f00d81b8-332d-40fd-89bc-2e90ea26931f",
-   "description_sha256": "2732114b5d9f14a98ad202299f856a7251a73ead677614105bd5fece637ea819"
   },
   {
    "job_id": "f317019a-942b-4280-8699-e1f19084effe",

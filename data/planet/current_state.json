@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-11-05T18:13:48+00:00",
- "job_count": 124,
+ "fetched_at": "2026-11-05T22:16:46+00:00",
+ "job_count": 123,
  "jobs": [
   {
    "job_id": "7374533",
@@ -213,21 +213,6 @@
    "is_remote": false,
    "published_at": "2026-03-16T15:52:03-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7704446",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7711289",
-   "lineage_key": "account-executive-defence-intelligence-sweden@sweden-remote",
-   "title": "Account Executive, Defence & Intelligence, Sweden",
-   "department": "Account Executive",
-   "team": "",
-   "location": "Sweden, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-03-16T12:34:53-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7711289",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

@@ -2,7 +2,7 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-11-06T17:39:11+00:00",
+ "fetched_at": "2026-11-06T21:45:01+00:00",
  "job_count": 160,
  "jobs": [
   {
@@ -36,21 +36,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4334842101",
-   "lineage_key": "staff-ai-research-engineer-computer-vision@berlin",
-   "title": "Staff AI Research Engineer -  Computer Vision",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2024-05-08T09:22:11-04:00",
-   "url": "https://helsing.ai/jobs/4334842101?gh_jid=4334842101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4345720101",
    "lineage_key": "field-engineer@london",
    "title": "Field Engineer",
@@ -78,36 +63,6 @@
    "is_remote": false,
    "published_at": "2024-06-11T08:50:50-04:00",
    "url": "https://helsing.ai/jobs/4347030101?gh_jid=4347030101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4372802101",
-   "lineage_key": "ai-research-engineer-ml-signal-processing@berlin",
-   "title": "AI Research Engineer - ML & Signal Processing",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2024-07-31T08:44:50-04:00",
-   "url": "https://helsing.ai/jobs/4372802101?gh_jid=4372802101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4423924101",
-   "lineage_key": "ai-research-engineer-robotics@barcelona",
-   "title": "AI Research Engineer - Robotics",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Barcelona",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2024-10-14T04:04:33-04:00",
-   "url": "https://helsing.ai/jobs/4423924101?gh_jid=4423924101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -183,21 +138,6 @@
    "is_remote": false,
    "published_at": "2025-08-24T15:53:38-04:00",
    "url": "https://helsing.ai/jobs/4660594101?gh_jid=4660594101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4676357101",
-   "lineage_key": "ai-research-engineer-reinforcement-learning@berlin",
-   "title": "AI Research Engineer - Reinforcement Learning",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2025-09-17T10:26:36-04:00",
-   "url": "https://helsing.ai/jobs/4676357101?gh_jid=4676357101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -903,21 +843,6 @@
    "is_remote": false,
    "published_at": "2026-06-24T05:38:22-04:00",
    "url": "https://helsing.ai/jobs/4906726101?gh_jid=4906726101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4911999101",
-   "lineage_key": "staff-ai-research-engineer-3d-computer-vision@berlin",
-   "title": "Staff AI Research Engineer -  3D Computer Vision",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-29T11:47:48-04:00",
-   "url": "https://helsing.ai/jobs/4911999101?gh_jid=4911999101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -2376,6 +2301,66 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "5028703101",
+   "lineage_key": "staff-ai-research-engineer-computer-vision@munich",
+   "title": "Staff AI Research Engineer -  Computer Vision",
+   "department": "AI & Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-06T15:17:51-05:00",
+   "url": "https://helsing.ai/jobs/5028703101?gh_jid=5028703101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5028718101",
+   "lineage_key": "staff-ai-research-engineer-3d-computer-vision@munich",
+   "title": "Staff AI Research Engineer -  3D Computer Vision",
+   "department": "AI & Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-06T15:17:49-05:00",
+   "url": "https://helsing.ai/jobs/5028718101?gh_jid=5028718101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5028719101",
+   "lineage_key": "ai-research-engineer-ml-signal-processing@munich",
+   "title": "AI Research Engineer - ML & Signal Processing",
+   "department": "AI & Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-06T15:17:47-05:00",
+   "url": "https://helsing.ai/jobs/5028719101?gh_jid=5028719101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5028731101",
+   "lineage_key": "ai-research-engineer-reinforcement-learning@munich",
+   "title": "AI Research Engineer - Reinforcement Learning",
+   "department": "AI & Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-06T15:19:16-05:00",
+   "url": "https://helsing.ai/jobs/5028731101?gh_jid=5028731101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "5028804101",
    "lineage_key": "robotics-mechanical-design-engineer@barcelona",
    "title": "Robotics Mechanical Design Engineer",
@@ -2388,6 +2373,21 @@
    "is_remote": false,
    "published_at": "2026-11-06T04:10:31-05:00",
    "url": "https://helsing.ai/jobs/5028804101?gh_jid=5028804101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5028848101",
+   "lineage_key": "ai-research-engineer-robotics@barcelona",
+   "title": "AI Research Engineer - Robotics",
+   "department": "AI & Engineering",
+   "team": "",
+   "location": "Barcelona",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-06T15:19:18-05:00",
+   "url": "https://helsing.ai/jobs/5028848101?gh_jid=5028848101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

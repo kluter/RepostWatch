@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-11-06T17:39:11+00:00",
- "job_count": 125,
+ "fetched_at": "2026-11-06T21:45:01+00:00",
+ "job_count": 124,
  "jobs": [
   {
    "job_id": "7374533",
@@ -378,21 +378,6 @@
    "is_remote": true,
    "published_at": "2026-08-26T12:09:05-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8106198",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8128410",
-   "lineage_key": "customer-success-manager-ii@brazil-remote",
-   "title": "Customer Success Manager II",
-   "department": "Customer Success Management",
-   "team": "",
-   "location": "Brazil, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-08-24T10:41:02-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8128410",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

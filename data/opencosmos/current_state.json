@@ -2,8 +2,8 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-11-06T17:39:11+00:00",
- "job_count": 46,
+ "fetched_at": "2026-11-06T21:45:01+00:00",
+ "job_count": 42,
  "jobs": [
   {
    "job_id": "0726769f-2ee3-46d2-9243-7bed980f2375",
@@ -201,36 +201,6 @@
    "description_sha256": "2783eda25d249d7d95e0d605b3c799b92011976356cd106b3cc9a51501add871"
   },
   {
-   "job_id": "52719bdc-bbb6-4b01-9835-1839c5e6d72c",
-   "lineage_key": "system-performance-modelling-engineer@harwell-uk",
-   "title": "System Performance & Modelling Engineer",
-   "department": "SATCOM (Broadband and Narrowband)",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-05-06T14:58:54+01:00",
-   "url": "https://careers.open-cosmos.com/jobs/7692860-system-performance-modelling-engineer",
-   "description_sha256": "6e10c87f198c2170dc3816112058f070b061f801a4ed3b5e73bbed714e737cff"
-  },
-  {
-   "job_id": "53100646-103b-40c4-bc33-148b92495879",
-   "lineage_key": "customer-support-specialist-datacosmos@harwell-uk",
-   "title": "Customer Support Specialist (DataCosmos)",
-   "department": "DATA",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-04-15T09:30:10+01:00",
-   "url": "https://careers.open-cosmos.com/jobs/7570517-customer-support-specialist-datacosmos",
-   "description_sha256": "ad553f91836c22d36c7fdccfa15368d1bd88c147cca9b081b4d2756c85c6013e"
-  },
-  {
    "job_id": "5c046be8-6bdd-41aa-9d14-c1dfe5563ede",
    "lineage_key": "quality-and-product-assurance-manager@athens-greece",
    "title": "Quality and Product Assurance Manager",
@@ -276,21 +246,6 @@
    "description_sha256": "6a2748644a3f505c0a316f83fb7c34a1e675ce74a7554c81cfea04b74e9c0b0b"
   },
   {
-   "job_id": "6026eb8c-8ffe-472e-9d63-ac71b4fab899",
-   "lineage_key": "earth-observation-solutions-analyst@harwell-uk",
-   "title": "Earth Observation Solutions Analyst",
-   "department": "DATA",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-09-02T16:40:38+01:00",
-   "url": "https://careers.open-cosmos.com/jobs/8312091-earth-observation-solutions-analyst",
-   "description_sha256": "00024cb27c936b4b062903f45ca7a701a88802ebe3433a6b2e0d714533ee441c"
-  },
-  {
    "job_id": "670e9b42-155a-4fbc-b674-b94167ef8779",
    "lineage_key": "senior-mission-concept-engineer@athens-greece",
    "title": "Senior Mission Concept Engineer",
@@ -319,21 +274,6 @@
    "published_at": "2026-10-28T16:32:12+00:00",
    "url": "https://careers.open-cosmos.com/jobs/8632549-1st-line-it-support-engineer",
    "description_sha256": "d3cd238d415238ce5cba9d7e538f976e5b130528379961f25a88327174720ed5"
-  },
-  {
-   "job_id": "7655f22b-c93a-4310-ba50-40d14cb728f3",
-   "lineage_key": "2nd-line-it-support-engineer@harwell-uk",
-   "title": "2nd Line IT Support Engineer",
-   "department": "IT",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2025-11-24T08:10:58+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/6828550-2nd-line-it-support-engineer",
-   "description_sha256": "7e27a94961716bff5fb7dc483cc9e46b2f3cdf9e49419a92caf1ada0d1c2d37c"
   },
   {
    "job_id": "88c9f24e-ce2a-408b-bb70-fd24b9a43b95",
@@ -379,21 +319,6 @@
    "published_at": "2026-02-14T18:04:31+00:00",
    "url": "https://careers.open-cosmos.com/jobs/7231083-inventory-logistics-coordinator-harwell-oxfordshire",
    "description_sha256": "ac8d808cae80f77bd879742816195f80ea9c16dce5cdbb1ae762b5a0ca72bebe"
-  },
-  {
-   "job_id": "99df5758-340b-490f-a370-a9de81a5858e",
-   "lineage_key": "mechanical-engineer@athens-greece",
-   "title": "Mechanical Engineer",
-   "department": "MECHANICS",
-   "team": "",
-   "location": "Athens, Greece",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2025-12-18T15:10:44+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/6957285-mechanical-engineer",
-   "description_sha256": "3c970e920b826f1bd10993a91b5bce288263bedeb369b6cec52a023c5559762d"
   },
   {
    "job_id": "9f1ebe11-e11c-423c-8d63-3aa2e92f20a4",
@@ -499,6 +424,21 @@
    "published_at": "2026-05-06T16:21:41+01:00",
    "url": "https://careers.open-cosmos.com/jobs/7693587-air-interface-architect",
    "description_sha256": "358652a5a82144a54a9c6d3c8d28f8fcc32ae0817f55e1d5f4a4bb8f2c09184b"
+  },
+  {
+   "job_id": "c4b43ff8-d510-4903-b679-48792093591e",
+   "lineage_key": "applied-ai-engineer-space-eo-data@harwell-uk",
+   "title": "Applied AI Engineer: Space & EO (Data)",
+   "department": "DATA",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-05-12T08:13:55+01:00",
+   "url": "https://careers.open-cosmos.com/jobs/7721055-applied-ai-engineer-space-eo-data",
+   "description_sha256": "0afda3d61347c6fd2e97a31dbead4ddf1d9aa446af18ebdbbd2bb13d5d3012d9"
   },
   {
    "job_id": "c99139df-3d6a-4596-b489-a53bf96da21c",

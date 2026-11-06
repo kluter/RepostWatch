@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-11-05T18:13:48+00:00",
- "job_count": 159,
+ "fetched_at": "2026-11-06T17:39:11+00:00",
+ "job_count": 160,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -906,21 +906,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4908213101",
-   "lineage_key": "lead-systems-engineer-maritime@munich",
-   "title": "Lead Systems Engineer - Maritime",
-   "department": "Systems Architecture",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-29T02:45:00-04:00",
-   "url": "https://helsing.ai/jobs/4908213101?gh_jid=4908213101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4911999101",
    "lineage_key": "staff-ai-research-engineer-3d-computer-vision@berlin",
    "title": "Staff AI Research Engineer -  3D Computer Vision",
@@ -1374,7 +1359,7 @@
    "job_id": "4961556101",
    "lineage_key": "robotics-senior-mechanical-engineer@barcelona",
    "title": "Robotics Senior Mechanical Engineer",
-   "department": "Physical Products",
+   "department": "Hardware Engineering",
    "team": "",
    "location": "Barcelona",
    "secondary_locations": [],
@@ -1818,21 +1803,6 @@
    "is_remote": false,
    "published_at": "2026-09-29T05:13:18-04:00",
    "url": "https://helsing.ai/jobs/4989373101?gh_jid=4989373101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4989382101",
-   "lineage_key": "supply-chain-and-procurement-manager@martinsburg-wv",
-   "title": "Supply Chain and Procurement Manager",
-   "department": "Production Operations",
-   "team": "",
-   "location": "Martinsburg, WV",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-29T05:28:06-04:00",
-   "url": "https://helsing.ai/jobs/4989382101?gh_jid=4989382101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -2388,6 +2358,51 @@
    "is_remote": false,
    "published_at": "2026-11-05T05:20:47-05:00",
    "url": "https://helsing.ai/jobs/5027572101?gh_jid=5027572101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5027618101",
+   "lineage_key": "lead-systems-engineer-fuzes-warheads-wirksysteme@munich",
+   "title": "Lead Systems Engineer – Fuzes & Warheads (Wirksysteme)",
+   "department": "Physical Products",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-06T03:55:59-05:00",
+   "url": "https://helsing.ai/jobs/5027618101?gh_jid=5027618101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5028804101",
+   "lineage_key": "robotics-mechanical-design-engineer@barcelona",
+   "title": "Robotics Mechanical Design Engineer",
+   "department": "Hardware Engineering",
+   "team": "",
+   "location": "Barcelona",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-06T04:10:31-05:00",
+   "url": "https://helsing.ai/jobs/5028804101?gh_jid=5028804101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5029924101",
+   "lineage_key": "senior-systems-engineer-it-architect@munich",
+   "title": "(Senior) Systems Engineer – IT Architect",
+   "department": "Market",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-06T10:25:52-05:00",
+   "url": "https://helsing.ai/jobs/5029924101?gh_jid=5029924101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

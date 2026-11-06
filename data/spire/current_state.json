@@ -2,7 +2,7 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-11-03T17:59:40+00:00",
+ "fetched_at": "2026-11-06T17:39:11+00:00",
  "job_count": 38,
  "jobs": [
   {
@@ -142,8 +142,8 @@
   },
   {
    "job_id": "7898534",
-   "lineage_key": "front-end-software-engineer-weather-platforms@boulder-colorado-united-states",
-   "title": "Front-End Software Engineer — Weather Platforms",
+   "lineage_key": "software-development-engineer-in-test-sdet-weather-platforms@boulder-colorado-united-states",
+   "title": "Software Development Engineer in Test (SDET) – Weather Platforms",
    "department": "Engineering",
    "team": "",
    "location": "Boulder, Colorado, United States",

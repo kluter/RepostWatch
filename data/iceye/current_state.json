@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-11-05T18:13:48+00:00",
+ "fetched_at": "2026-11-06T17:39:11+00:00",
  "job_count": 193,
  "jobs": [
   {
@@ -79,21 +79,6 @@
    "published_at": "2026-10-28T07:50:56.195+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/09d02ba3-5ba6-4a11-bb30-74e42c22c485",
    "description_sha256": "e5c6d7a2b636df46b36054fb528562017f7654a3b5f652df38be3dc64282ed89"
-  },
-  {
-   "job_id": "0b21baf2-aca9-49d5-8a8e-d49803845f14",
-   "lineage_key": "staff-electronics-engineer-avionics@espoo",
-   "title": "Staff Electronics Engineer - Avionics",
-   "department": "Engineering",
-   "team": "Avionics",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-04-08T07:28:31.736+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/0b21baf2-aca9-49d5-8a8e-d49803845f14",
-   "description_sha256": "de5b0638f458b486c02a64ffb0555fc6edefe18d2cad73f2fcdfafa301d265e3"
   },
   {
    "job_id": "0bcc9e17-7eec-4648-bb5a-298f3f84794d",
@@ -696,21 +681,6 @@
    "published_at": "2026-10-15T14:04:21.449+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/38f05b0a-5a3b-46b8-ba80-d85029734922",
    "description_sha256": "1d95d1e1ff442aeea24ce76db16ce0d1dfd7d901e528dfbedd75989e4b19f6cb"
-  },
-  {
-   "job_id": "3a9ddd2c-2c2e-43c2-9e16-45f319ac8f7b",
-   "lineage_key": "logistics-specialist@espoo",
-   "title": "Logistics Specialist",
-   "department": "Global Manufacturing Organization",
-   "team": "Production Finland",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-10-22T12:44:46.970+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/3a9ddd2c-2c2e-43c2-9e16-45f319ac8f7b",
-   "description_sha256": "039a9efbc73a0f14fd3e47949ea6a4c8b04b53f2721612bbb0a35fa8eaf39bf8"
   },
   {
    "job_id": "3d7f14e7-e116-4885-9d3d-a66080532999",
@@ -1554,6 +1524,21 @@
    "description_sha256": "b816c8f2a7d28a3eefaefcc3ee319d8c5e2290f9086312566829a5aa68ecaa03"
   },
   {
+   "job_id": "813ac772-0e4f-468e-add1-baaf0eff36d3",
+   "lineage_key": "stock-coordinator-intern@espoo",
+   "title": "Stock Coordinator Intern",
+   "department": "Global Manufacturing Organization",
+   "team": "FI Stock Management",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-06T08:59:02.265+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/813ac772-0e4f-468e-add1-baaf0eff36d3",
+   "description_sha256": "d0ab5750f878152ebaeb425608aefe9b71167757f9ffe9a33b4913548e234cdc"
+  },
+  {
    "job_id": "815956c4-b3c7-4b96-b361-584b53a2af86",
    "lineage_key": "qms-specialist@valencia",
    "title": "QMS Specialist",
@@ -1567,6 +1552,21 @@
    "published_at": "2026-10-16T15:18:54.830+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/815956c4-b3c7-4b96-b361-584b53a2af86",
    "description_sha256": "e71e3a0a11239783c8e35aae0d78b987dbcea101ad529b9465fc7bc57ea3ea05"
+  },
+  {
+   "job_id": "81908ad3-84f4-4cc3-ac25-1440f38b52c2",
+   "lineage_key": "office-assistant@warsaw",
+   "title": "Office Assistant",
+   "department": "Operations",
+   "team": "Operations",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-06T13:38:01.353+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/81908ad3-84f4-4cc3-ac25-1440f38b52c2",
+   "description_sha256": "3fde4e9e7dfad656ffc66c64417469f4420e7c3b35b2a3eaf3aacef33c988040"
   },
   {
    "job_id": "824f4858-2692-4b97-82bf-cbe2805dfbd6",
@@ -1895,21 +1895,6 @@
    "published_at": "2026-09-23T19:14:55.523+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/a463a0f7-2610-4205-9f6a-9976f92c8341",
    "description_sha256": "57bc5b2b29093035b62e704fe4b7bb676ad7c0e631c208faa64a4d35c131ab6d"
-  },
-  {
-   "job_id": "a6d0bba0-2219-4f01-8c79-f4d945de5af7",
-   "lineage_key": "senior-electronics-engineer@valencia-spain",
-   "title": "Senior Electronics Engineer",
-   "department": "Engineering",
-   "team": "SIGINT",
-   "location": "Valencia, Spain",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-07-21T12:14:33.756+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/a6d0bba0-2219-4f01-8c79-f4d945de5af7",
-   "description_sha256": "52e0aaf157d39471c937b696c810211ffdf8f2b4b09cf4e9b8cf3ffe906bce26"
   },
   {
    "job_id": "a758df0a-2db1-4c14-926f-2c87eaf33d6a",
@@ -2642,7 +2627,7 @@
    "is_remote": true,
    "published_at": "2026-08-20T09:18:26.835+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e4d89d32-5bee-4090-8bd0-5634803b6d3f",
-   "description_sha256": "44e4a1a7e3617348b69e121c2c13f2f94f88a0a7b2f0cf51b76f6930139b8fb3"
+   "description_sha256": "ced3990252b49a1e9b7ceb1238de3e3ac4d332332b1ab386aa11e4bd2ebcc3c3"
   },
   {
    "job_id": "e5082d17-b132-4106-b70d-2a08cdeeb405",
@@ -2933,6 +2918,21 @@
    "published_at": "2026-08-14T06:28:35.941+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/fa7cbdf7-5c86-48b7-84f8-12c3476113e7",
    "description_sha256": "f577ca9d6522ab0a87ab547fd36d6e6af2bc296483d94682161a170059ca08db"
+  },
+  {
+   "job_id": "fb48d8a8-a747-4df7-9f43-91cec3bdd87e",
+   "lineage_key": "satellite-production-senior-technician-power-electronics@espoo",
+   "title": "Satellite Production Senior Technician , Power & Electronics",
+   "department": "Global Manufacturing Organization",
+   "team": "Production Finland",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-06T14:22:48.407+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/fb48d8a8-a747-4df7-9f43-91cec3bdd87e",
+   "description_sha256": "12ff17967b5ea77e5e355d6b1008a350e33a210429f7c45ec2abd86fd5802308"
   },
   {
    "job_id": "fe0001f5-f3c9-4df7-b968-23451c9b4b1d",

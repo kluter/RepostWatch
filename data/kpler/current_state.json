@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-11-05T18:13:48+00:00",
- "job_count": 110,
+ "fetched_at": "2026-11-06T17:39:11+00:00",
+ "job_count": 115,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -128,6 +128,21 @@
    "description_sha256": "2d1701eda667d04d469564fed0f125fac1a28a5b657dde8c41373532ba17643e"
   },
   {
+   "job_id": "0d848161-d760-4186-85d6-8bb5f69bd11d",
+   "lineage_key": "account-executive-commodities-middle-east@dubai",
+   "title": "Account Executive - Commodities - Middle East",
+   "department": "Commercial",
+   "team": "Sales - Mid Market EMEA",
+   "location": "Dubai",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-11-06T11:47:12.630000+00:00",
+   "url": "https://jobs.lever.co/kpler/0d848161-d760-4186-85d6-8bb5f69bd11d",
+   "description_sha256": "ecb09640a7f2dd750dea1a79e6b22de2072d0e8038a3c9facb34c10336617083"
+  },
+  {
    "job_id": "10105b9b-ed9c-4ebe-8f3b-76b18edeccb8",
    "lineage_key": "ml-engineer-power@paris",
    "title": "ML Engineer - Power",
@@ -141,6 +156,21 @@
    "published_at": "2026-09-23T12:07:21.680000+00:00",
    "url": "https://jobs.lever.co/kpler/10105b9b-ed9c-4ebe-8f3b-76b18edeccb8",
    "description_sha256": "60141ba414a7b114fc66a6de969f2e0735a3b5ba4925679ec42f9d84d09631f5"
+  },
+  {
+   "job_id": "11bbc990-0c4d-4502-84e7-dbbc4e9b498b",
+   "lineage_key": "account-manager-tech-consulting@athens",
+   "title": "Account Manager - Tech/Consulting",
+   "department": "Commercial",
+   "team": "Sales - Mid Market EMEA",
+   "location": "Athens",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-11-06T10:54:06.437000+00:00",
+   "url": "https://jobs.lever.co/kpler/11bbc990-0c4d-4502-84e7-dbbc4e9b498b",
+   "description_sha256": "68bc2435a93ffcf983dd61f8f0815b91b2e361cc70bedf279a29ca6359e75e9b"
   },
   {
    "job_id": "15474088-c317-42ba-bb01-502a4b1617d3",
@@ -388,6 +418,21 @@
    "description_sha256": "b2acba36718c2cd64472d68d52b7f23954d6f2c6c8481ddcd9aa73849a37d3a7"
   },
   {
+   "job_id": "41f27ae9-3310-48d4-b05f-44d12fb2099e",
+   "lineage_key": "senior-account-manager-maritime@athens",
+   "title": "Senior Account Manager - Maritime",
+   "department": "Commercial",
+   "team": "Sales - Mid Market EMEA",
+   "location": "Athens",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-11-06T11:22:00.977000+00:00",
+   "url": "https://jobs.lever.co/kpler/41f27ae9-3310-48d4-b05f-44d12fb2099e",
+   "description_sha256": "3a8af45d3b29dbb9d85ade7949ad4ac8b1ef219655aaa24585af3629c8a778f1"
+  },
+  {
    "job_id": "4510b4e9-9a89-4e35-9bcd-818164d12c2d",
    "lineage_key": "senior-crude-oil-market-analyst@houston",
    "title": "Senior Crude Oil Market Analyst",
@@ -572,6 +617,21 @@
    "published_at": "2026-09-02T10:35:13.453000+00:00",
    "url": "https://jobs.lever.co/kpler/5c6e077d-3c12-4ea3-a053-b02d42880134",
    "description_sha256": "5502793bd53aa95c1f4fedd043312566eefdec9d8cf388521e7df0c5b77a799e"
+  },
+  {
+   "job_id": "5ce9f173-8621-4c92-873f-156516db8c44",
+   "lineage_key": "account-executive-financials-europe@london",
+   "title": "Account Executive - Financials - Europe",
+   "department": "Commercial",
+   "team": "Sales - Mid Market EMEA",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-11-06T11:21:50.521000+00:00",
+   "url": "https://jobs.lever.co/kpler/5ce9f173-8621-4c92-873f-156516db8c44",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
    "job_id": "5d5c2a52-9a9b-4307-9221-ab40d294c889",
@@ -1020,6 +1080,21 @@
    "description_sha256": "74c86ecb70086b843fe3e4faf285e15abdca30692fd16e9315187adca4e38759"
   },
   {
+   "job_id": "97bda82b-c606-42cd-84d3-7b05f2fdd035",
+   "lineage_key": "senior-account-executive-tech-consulting-eastern-med-mea@athens",
+   "title": "Senior Account Executive - Tech/Consulting - Eastern Med & MEA",
+   "department": "Commercial",
+   "team": "Sales - Mid Market EMEA",
+   "location": "Athens",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-11-06T11:25:39.573000+00:00",
+   "url": "https://jobs.lever.co/kpler/97bda82b-c606-42cd-84d3-7b05f2fdd035",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "98a0722a-8224-48ea-830a-58a606806383",
    "lineage_key": "sales-development-representative-financial@singapore",
    "title": "Sales Development Representative – Financial",
@@ -1185,21 +1260,6 @@
    "published_at": "2026-11-03T16:49:46.320000+00:00",
    "url": "https://jobs.lever.co/kpler/af264aa2-83aa-4d0f-9a26-605b100c5dc0",
    "description_sha256": "639b47c82d46a76fd0a14de6fe1f6e53e908c0c40d862ba96a56ed01d25b939d"
-  },
-  {
-   "job_id": "b3ffa04d-60b6-4761-9a41-5e40944b043e",
-   "lineage_key": "talent-acquisition-partner@new-york",
-   "title": "Talent Acquisition Partner",
-   "department": "People",
-   "team": "People",
-   "location": "New York",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-10-23T10:27:38.378000+00:00",
-   "url": "https://jobs.lever.co/kpler/b3ffa04d-60b6-4761-9a41-5e40944b043e",
-   "description_sha256": "0f2a6d87c039e9fa334f670a74c42875fc800f8589ac8fe1b186f90645df2746"
   },
   {
    "job_id": "b4c1a77c-585e-402b-af76-c18a5c10c6d1",
@@ -1417,6 +1477,21 @@
    "description_sha256": "0fda6ebd03b77f10041f23e164011488225b26a00f011ccd89b2c94c35e651d2"
   },
   {
+   "job_id": "c921bf16-0821-4f20-8721-9148e6ddae37",
+   "lineage_key": "account-manager-tech-consulting-europe@london",
+   "title": "Account Manager - Tech/Consulting - Europe",
+   "department": "Commercial",
+   "team": "Sales - Mid Market EMEA",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-11-06T11:39:06.087000+00:00",
+   "url": "https://jobs.lever.co/kpler/c921bf16-0821-4f20-8721-9148e6ddae37",
+   "description_sha256": "68bc2435a93ffcf983dd61f8f0815b91b2e361cc70bedf279a29ca6359e75e9b"
+  },
+  {
    "job_id": "caa9dbc6-f48f-437b-994f-64d233010da7",
    "lineage_key": "junior-data-quality-analyst@london",
    "title": "Junior Data Quality Analyst",
@@ -1430,6 +1505,21 @@
    "published_at": "2026-10-27T12:33:31.360000+00:00",
    "url": "https://jobs.lever.co/kpler/caa9dbc6-f48f-437b-994f-64d233010da7",
    "description_sha256": "365dc4f2801ef644c44bf868bae5564c608af02ce284ea654735e2048db1450a"
+  },
+  {
+   "job_id": "cc4c0731-55f9-41b2-9522-da42d024183c",
+   "lineage_key": "account-manager-commodities-europe@london",
+   "title": "Account Manager - Commodities - Europe",
+   "department": "Commercial",
+   "team": "Sales - Mid Market EMEA",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-11-06T11:15:34.392000+00:00",
+   "url": "https://jobs.lever.co/kpler/cc4c0731-55f9-41b2-9522-da42d024183c",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
    "job_id": "d2ae744f-9539-4e0d-9d42-6014001833fc",
@@ -1676,21 +1766,6 @@
    "published_at": "2026-10-13T13:35:02.071000+00:00",
    "url": "https://jobs.lever.co/kpler/fd027bed-7a3f-4e51-ab7b-6da91fcf26bb",
    "description_sha256": "f5b4e3fab3512dc174dffb104d7c1889f8676ac59c02cb02161241e915054684"
-  },
-  {
-   "job_id": "fd1fc67c-b448-413e-bdba-66811dee0b99",
-   "lineage_key": "talent-acquisition-partner@houston",
-   "title": "Talent Acquisition Partner",
-   "department": "People",
-   "team": "People",
-   "location": "Houston",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-10-27T16:25:12.341000+00:00",
-   "url": "https://jobs.lever.co/kpler/fd1fc67c-b448-413e-bdba-66811dee0b99",
-   "description_sha256": "0f2a6d87c039e9fa334f670a74c42875fc800f8589ac8fe1b186f90645df2746"
   }
  ]
 }

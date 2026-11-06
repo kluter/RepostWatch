@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-11-05T18:13:48+00:00",
- "job_count": 139,
+ "fetched_at": "2026-11-06T17:39:11+00:00",
+ "job_count": 141,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -2088,6 +2088,36 @@
    "is_remote": false,
    "published_at": "2026-11-02T04:06:21-05:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5024674101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5029339101",
+   "lineage_key": "automation-electrician-m-f-d@andenes-nordland-norway",
+   "title": "Automation Electrician (m/f/d)",
+   "department": "Mission & Launch Operations",
+   "team": "",
+   "location": "Andenes, Nordland, Norway",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-06T03:30:35-05:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5029339101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5029437101",
+   "lineage_key": "associate-ceo-office-f-m-d@parsdorf-bavaria-germany",
+   "title": "Associate, CEO Office (f/m/d)",
+   "department": "CEO Office",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-06T04:35:35-05:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5029437101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

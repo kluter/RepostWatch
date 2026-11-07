@@ -2,8 +2,8 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-11-06T21:45:01+00:00",
- "job_count": 42,
+ "fetched_at": "2026-11-07T16:35:42+00:00",
+ "job_count": 44,
  "jobs": [
   {
    "job_id": "0726769f-2ee3-46d2-9243-7bed980f2375",
@@ -199,6 +199,36 @@
    "published_at": "2025-12-31T16:26:20+00:00",
    "url": "https://careers.open-cosmos.com/jobs/6993728-user-terminal-architect",
    "description_sha256": "2783eda25d249d7d95e0d605b3c799b92011976356cd106b3cc9a51501add871"
+  },
+  {
+   "job_id": "52719bdc-bbb6-4b01-9835-1839c5e6d72c",
+   "lineage_key": "system-performance-modelling-engineer@harwell-uk",
+   "title": "System Performance & Modelling Engineer",
+   "department": "SATCOM (Broadband and Narrowband)",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-05-06T14:58:54+01:00",
+   "url": "https://careers.open-cosmos.com/jobs/7692860-system-performance-modelling-engineer",
+   "description_sha256": "6e10c87f198c2170dc3816112058f070b061f801a4ed3b5e73bbed714e737cff"
+  },
+  {
+   "job_id": "53100646-103b-40c4-bc33-148b92495879",
+   "lineage_key": "customer-support-specialist-datacosmos@harwell-uk",
+   "title": "Customer Support Specialist (DataCosmos)",
+   "department": "DATA",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-04-15T09:30:10+01:00",
+   "url": "https://careers.open-cosmos.com/jobs/7570517-customer-support-specialist-datacosmos",
+   "description_sha256": "ad553f91836c22d36c7fdccfa15368d1bd88c147cca9b081b4d2756c85c6013e"
   },
   {
    "job_id": "5c046be8-6bdd-41aa-9d14-c1dfe5563ede",

@@ -2,13 +2,13 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-11-04T22:10:30+00:00",
- "job_count": 26,
+ "fetched_at": "2026-11-07T16:35:42+00:00",
+ "job_count": 27,
  "jobs": [
   {
    "job_id": "0652C1D7B7",
-   "lineage_key": "program-manager@arlington-united-states",
-   "title": "Program Manager",
+   "lineage_key": "program-manager-mission-systems@arlington-united-states",
+   "title": "Program Manager (Mission Systems)",
    "department": "Mission Solutions",
    "team": "",
    "location": "Arlington, United States",
@@ -58,6 +58,24 @@
    "description_sha256": "8ede4e5321c6adfedb1d98bb93afbb1f8cbd7a5d66a33b3fb24bfa5224df00ef"
   },
   {
+   "job_id": "12F0B52804",
+   "lineage_key": "senior-spacecraft-mechanical-engineer@arlington-united-states",
+   "title": "Senior Spacecraft Mechanical Engineer",
+   "department": "Space Systems",
+   "team": "",
+   "location": "Arlington, United States",
+   "secondary_locations": [
+    "Reston, United States",
+    "Santa Barbara, United States"
+   ],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-07T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/12F0B52804",
+   "description_sha256": "8e2625639307ddc5f5e080717a5188ee0f3c8e1290601f65beba843c69c08348"
+  },
+  {
    "job_id": "1956636B85",
    "lineage_key": "engineering-manager@arlington-united-states",
    "title": "Engineering Manager",
@@ -73,6 +91,21 @@
    "published_at": "2026-06-22T00:00:00+00:00",
    "url": "https://apply.workable.com/j/1956636B85",
    "description_sha256": "c06a16089660f3ffaefa9d4a883128f59f680bd11593b9ee3859748665edef49"
+  },
+  {
+   "job_id": "2052942FA2",
+   "lineage_key": "senior-spacecraft-mechanical-engineer-composites-and-structures@santa-barbara-united-states",
+   "title": "Senior Spacecraft Mechanical Engineer - Composites and Structures",
+   "department": "Space Systems",
+   "team": "",
+   "location": "Santa Barbara, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-07T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/2052942FA2",
+   "description_sha256": "31df49fb0acdc4422b1bf276a1cb81486ac1118fc734a31a13947173317fb6a9"
   },
   {
    "job_id": "27EBA846B1",
@@ -210,21 +243,6 @@
    "published_at": "2026-04-03T00:00:00+00:00",
    "url": "https://apply.workable.com/j/56DCFBD0A8",
    "description_sha256": "a3c3063060ec9129da86e35baad0727bacf1452c7190aac287ef8de5828d1ac1"
-  },
-  {
-   "job_id": "5D49E1A011",
-   "lineage_key": "spacecraft-aerospace-technician@santa-barbara-united-states",
-   "title": "Spacecraft Aerospace Technician",
-   "department": "Space Systems",
-   "team": "",
-   "location": "Santa Barbara, United States",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-05T00:00:00+00:00",
-   "url": "https://apply.workable.com/j/5D49E1A011",
-   "description_sha256": "78a83c73f394046c31fd9718b92bb4562e9d79b47b50c564e130c57ce389cfaa"
   },
   {
    "job_id": "5DEC056541",

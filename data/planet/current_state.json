@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-11-06T21:45:01+00:00",
- "job_count": 124,
+ "fetched_at": "2026-11-07T16:35:42+00:00",
+ "job_count": 123,
  "jobs": [
   {
    "job_id": "7374533",
@@ -456,21 +456,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8140271",
-   "lineage_key": "senior-quality-engineer@san-francisco-ca",
-   "title": "Senior Quality Engineer",
-   "department": "Supply Chain",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-01T20:52:11-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8140271",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8140278",
    "lineage_key": "pcb-design-engineer@san-francisco-ca",
    "title": "PCB Design Engineer",
@@ -543,21 +528,6 @@
    "is_remote": false,
    "published_at": "2026-08-31T12:58:06-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8148503",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8148629",
-   "lineage_key": "senior-service-delivery-manager@san-francisco-ca",
-   "title": "Senior Service Delivery Manager",
-   "department": "Ground Operations",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-03T20:11:55-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8148629",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1788,6 +1758,21 @@
    "is_remote": true,
    "published_at": "2026-11-03T05:21:00-05:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8324519",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8334402",
+   "lineage_key": "customer-success-manager-ii-commercial-markets@san-francisco-ca",
+   "title": "Customer Success Manager II, Commercial Markets",
+   "department": "Customer Success Management",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-06T19:06:39-05:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8334402",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

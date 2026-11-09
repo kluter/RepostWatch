@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-11-08T20:45:06+00:00",
- "job_count": 116,
+ "fetched_at": "2026-11-09T21:00:18+00:00",
+ "job_count": 114,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -340,7 +340,7 @@
    "is_remote": false,
    "published_at": "2026-11-05T17:48:55.734000+00:00",
    "url": "https://jobs.lever.co/kpler/307e36e8-f4d9-49d9-8465-85ca9368b5e7",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "description_sha256": "ec615eb23dbf6115d8fd3c9110a20c78e380f3b8e8c9e6b5e4880db5e6f423d1"
   },
   {
    "job_id": "35db18e4-9d96-4378-901b-f712325f1dd2",
@@ -359,8 +359,8 @@
   },
   {
    "job_id": "3a57da80-b4ed-434e-8048-ed2f1fd84408",
-   "lineage_key": "senior-account-manager-maritime@london",
-   "title": "Senior Account Manager - Maritime",
+   "lineage_key": "account-manager-maritime@london",
+   "title": "Account Manager - Maritime",
    "department": "Commercial",
    "team": "Sales - Mid Market EMEA",
    "location": "London",
@@ -386,21 +386,6 @@
    "published_at": "2026-10-08T17:22:08.411000+00:00",
    "url": "https://jobs.lever.co/kpler/3aba2e72-9f7a-4ff7-bc57-902da0779c6c",
    "description_sha256": "4bcc8b46850a6d58b59d147eff933b9a08fda046cc662f113db09a4c79596e70"
-  },
-  {
-   "job_id": "3c351162-0b2f-4670-b03f-5954b50a02c1",
-   "lineage_key": "account-executive-maritime-greece@greece",
-   "title": "Account Executive - Maritime - Greece",
-   "department": "Commercial",
-   "team": "Sales - Mid Market EMEA",
-   "location": "Greece",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-09-18T09:44:31.522000+00:00",
-   "url": "https://jobs.lever.co/kpler/3c351162-0b2f-4670-b03f-5954b50a02c1",
-   "description_sha256": "3b7ba0e35c4ffbacfc4ead13bd4ad3b3a33cde03ebb2ad716e5012f6d09eabec"
   },
   {
    "job_id": "401edb1b-674a-4278-9fee-3f35fa6384d4",
@@ -524,7 +509,7 @@
    "is_remote": false,
    "published_at": "2026-09-22T11:37:00.414000+00:00",
    "url": "https://jobs.lever.co/kpler/49c47c9b-87ca-45e8-bed4-e56f5e4766f8",
-   "description_sha256": "afc7635c96574f19f1705227fda45d855c9b9f16cded2eb979f7b67060e2351d"
+   "description_sha256": "4a3c33ae9b272e3247a900fce3c0765da811ca1bc25a5c02a6bfc696e119a25f"
   },
   {
    "job_id": "4aeb9439-99c7-4013-b6c6-493b36d50a78",
@@ -866,6 +851,21 @@
    "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
+   "job_id": "7c05bdbd-4fe3-4063-9a81-3c80abe0b661",
+   "lineage_key": "product-analyst-intern-price-transaction@paris",
+   "title": "Product Analyst Intern – Price & Transaction",
+   "department": "Business Units",
+   "team": "Price and Transaction",
+   "location": "Paris",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-11-09T14:02:58.514000+00:00",
+   "url": "https://jobs.lever.co/kpler/7c05bdbd-4fe3-4063-9a81-3c80abe0b661",
+   "description_sha256": "7b5abd12122a70ae7dec18b681d20f224f4d987e0ec1af3013949fff211f70b2"
+  },
+  {
    "job_id": "7d2b0b9f-9dae-4eee-aff8-f7493fee8e26",
    "lineage_key": "senior-account-executive-tech-consulting-europe@london",
    "title": "Senior Account Executive - Tech/Consulting - Europe",
@@ -941,21 +941,6 @@
    "published_at": "2026-09-11T11:11:14.516000+00:00",
    "url": "https://jobs.lever.co/kpler/8b3a689a-a3d9-4ebe-8c42-b2f5b9373c6a",
    "description_sha256": "b20e8688318cbb61887fd3861ba7db09d5510c5d3a384ccf1114070b3517b4e8"
-  },
-  {
-   "job_id": "8b58e2c6-9219-4976-ab8a-da39d23dbd6b",
-   "lineage_key": "sales-development-representative-maritime@singapore",
-   "title": "Sales Development Representative – Maritime",
-   "department": "Commercial",
-   "team": "Sales - Mid Market APAC",
-   "location": "Singapore",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-10-08T15:44:04.935000+00:00",
-   "url": "https://jobs.lever.co/kpler/8b58e2c6-9219-4976-ab8a-da39d23dbd6b",
-   "description_sha256": "950c4eea3e1f2a3bf92784b20ff42b10d7b995011a32829c9b0a21abe4937248"
   },
   {
    "job_id": "8c26d839-713f-4bfb-82cd-cc2a38938358",
@@ -1643,21 +1628,6 @@
    "published_at": "2026-08-25T16:46:33.153000+00:00",
    "url": "https://jobs.lever.co/kpler/e914f4a8-2a6a-41d1-9c0a-51fdd23a5e75",
    "description_sha256": "8d9fd0af0491471b343696f2b8cb96c10f2ca53de8fbc5f4881f08aa014d86df"
-  },
-  {
-   "job_id": "e99acb6e-d1f0-4a83-b0c6-e632300a6845",
-   "lineage_key": "customer-support-intern@athens",
-   "title": "Customer Support Intern",
-   "department": "Commercial",
-   "team": "Customer Support",
-   "location": "Athens",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "remote",
-   "is_remote": true,
-   "published_at": "2026-11-02T12:33:52.024000+00:00",
-   "url": "https://jobs.lever.co/kpler/e99acb6e-d1f0-4a83-b0c6-e632300a6845",
-   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
    "job_id": "ebc88846-7eb7-4ade-8770-fa6572bbdbc5",

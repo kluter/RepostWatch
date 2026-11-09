@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-11-07T16:35:42+00:00",
- "job_count": 123,
+ "fetched_at": "2026-11-09T21:00:18+00:00",
+ "job_count": 122,
  "jobs": [
   {
    "job_id": "7374533",
@@ -396,21 +396,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8128721",
-   "lineage_key": "data-analyst@san-francisco-ca",
-   "title": "Data Analyst",
-   "department": "Data Science & Insights",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-27T12:53:48-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8128721",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8134793",
    "lineage_key": "solutions-architect-pre-sales-german-defense-intelligence@germany-remote",
    "title": "Solutions Architect, Pre-Sales - German Defense & Intelligence",
@@ -573,21 +558,6 @@
    "is_remote": true,
    "published_at": "2026-09-03T17:45:56-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8160294",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8160736",
-   "lineage_key": "data-analyst@arlington-va",
-   "title": "Data Analyst",
-   "department": "Data Science & Insights",
-   "team": "",
-   "location": "Arlington, VA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-27T12:53:51-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8160736",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1356,21 +1326,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8250328",
-   "lineage_key": "senior-manager-people-operations@berlin-germany",
-   "title": "Senior Manager, People Operations",
-   "department": "People Operations",
-   "team": "",
-   "location": "Berlin, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-23T03:09:24-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8250328",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8255417",
    "lineage_key": "senior-software-engineer@ljubljana-slovenia",
    "title": "Senior Software Engineer",
@@ -1701,6 +1656,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "8318998",
+   "lineage_key": "customer-success-manager@san-francisco-ca",
+   "title": "Customer Success Manager",
+   "department": "Customer Success Management",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-09T15:43:56-05:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8318998",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "8319000",
    "lineage_key": "senior-business-development-manager-us-army@arlington-va",
    "title": "Senior Business Development Manager, US Army",
@@ -1713,6 +1683,21 @@
    "is_remote": false,
    "published_at": "2026-10-28T14:33:20-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8319000",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8319004",
+   "lineage_key": "director-global-commercial-sales@united-states-remote",
+   "title": "Director, Global Commercial Sales",
+   "department": "Sales Manager",
+   "team": "",
+   "location": "United States, Remote",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-11-09T15:41:37-05:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8319004",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1758,6 +1743,21 @@
    "is_remote": true,
    "published_at": "2026-11-03T05:21:00-05:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8324519",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8328786",
+   "lineage_key": "customer-success-manager@arlington-va",
+   "title": "Customer Success Manager",
+   "department": "Customer Success Management",
+   "team": "",
+   "location": "Arlington, VA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-09T15:44:00-05:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8328786",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1833,21 +1833,6 @@
    "is_remote": false,
    "published_at": "2026-11-06T06:54:40-05:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8346050",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8349153",
-   "lineage_key": "uae-armed-forces-defense-account-executive@uae-remote",
-   "title": "UAE Armed Forces & Defense Account Executive",
-   "department": "Account Executive",
-   "team": "",
-   "location": "UAE, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-11-03T09:28:55-05:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8349153",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

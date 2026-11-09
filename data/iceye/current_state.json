@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-11-06T17:39:11+00:00",
- "job_count": 193,
+ "fetched_at": "2026-11-09T21:00:18+00:00",
+ "job_count": 194,
  "jobs": [
   {
    "job_id": "01edf520-e6e9-4b3e-bc57-5886e694b6b8",
@@ -484,21 +484,6 @@
    "description_sha256": "80998635e99b69c0457c0d468fe71777fa308fab68669754deb0fdbc3799d7b3"
   },
   {
-   "job_id": "29558448-5b4e-4aef-b395-642acc666efa",
-   "lineage_key": "satellite-operations-specialist@remote-in-finland",
-   "title": "Satellite Operations Specialist",
-   "department": "Engineering",
-   "team": "Satellite Operations",
-   "location": "Remote in Finland",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-09-04T16:03:25.572+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/29558448-5b4e-4aef-b395-642acc666efa",
-   "description_sha256": "836002115f483f599c6d45902b2469c424eabb53364310af31c8605cb3cd30d3"
-  },
-  {
    "job_id": "2a7fa616-d6b3-469d-a724-73150c417fac",
    "lineage_key": "staff-optical-engineer@warsaw",
    "title": "Staff Optical Engineer",
@@ -512,6 +497,21 @@
    "published_at": "2026-07-13T19:19:43.575+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/2a7fa616-d6b3-469d-a724-73150c417fac",
    "description_sha256": "37cbf51bc4b1a26b5d9c8aee5b32e63e7f47706111323e78d410dddd279138a2"
+  },
+  {
+   "job_id": "2eaba1d2-8ed8-44f4-a769-31c9292cbe31",
+   "lineage_key": "freight-customs-clearance-specialist@warsaw",
+   "title": "Freight & Customs Clearance Specialist",
+   "department": "Global Manufacturing Organization",
+   "team": "Production Poland",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-11-09T20:36:05.985+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/2eaba1d2-8ed8-44f4-a769-31c9292cbe31",
+   "description_sha256": "11ed24adb45d623e63530300244b17a7039406418f501f39d0fc421951ada7b6"
   },
   {
    "job_id": "2ef68fcc-6ce8-476e-8c94-6e7b099842e9",
@@ -758,21 +758,6 @@
    "description_sha256": "da9567fd356d416775fe2a40a913221bf2e29ac84f58df5997dd0c05bc49f6e0"
   },
   {
-   "job_id": "42ec11f9-2c5a-417d-aca7-1ff6740dea7d",
-   "lineage_key": "ehs-senior-specialist@valencia",
-   "title": "EHS Senior Specialist",
-   "department": "Global Manufacturing Organization",
-   "team": "Manufacturing Assurance",
-   "location": "Valencia",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-10-15T10:48:35.753+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/42ec11f9-2c5a-417d-aca7-1ff6740dea7d",
-   "description_sha256": "f9616a6fd544c259c727b1d0d94be6a073c316f723002e69c8413224f9499c5e"
-  },
-  {
    "job_id": "431baaab-347b-485b-a52a-67d18dcbc2be",
    "lineage_key": "isr-operator-iceye-japan@tokyo",
    "title": "ISR Operator – ICEYE Japan",
@@ -912,6 +897,21 @@
    "description_sha256": "98c5b0b4566d00f2c885c49b7cdecf2642f17dd624f4cab5cd3aebcbc94b074b"
   },
   {
+   "job_id": "4b5957fb-dd07-424f-b1b0-59bbd2864a0f",
+   "lineage_key": "senior-geospatial-software-engineer@espoo",
+   "title": "Senior Geospatial Software Engineer",
+   "department": "Solutions",
+   "team": "Product Engineering",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-09T07:13:12.111+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/4b5957fb-dd07-424f-b1b0-59bbd2864a0f",
+   "description_sha256": "e1b7ddebb00d75c991ac3ab12d1f53018fa26b4e19a32e171215887bdba84192"
+  },
+  {
    "job_id": "4c630f65-1093-4a4a-a106-41cb47de7fa2",
    "lineage_key": "sales-engineer-missions-business@espoo",
    "title": "Sales Engineer, Missions Business",
@@ -942,21 +942,6 @@
    "published_at": "2026-07-20T12:10:21.083+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/4f00e104-a4a1-4fa3-ac73-3c8c3f64b123",
    "description_sha256": "6ab0dd75be335d993325d755d2fa37124cc1927b87a128103cf40b896cf86d17"
-  },
-  {
-   "job_id": "4f06e7bf-5b09-4b93-b71e-ca5a8bfb8d8f",
-   "lineage_key": "quality-control-technician-mechanical@valencia",
-   "title": "Quality Control Technician - Mechanical",
-   "department": "Global Manufacturing Organization",
-   "team": "ES Stock Management",
-   "location": "Valencia",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-09-18T13:13:54.061+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/4f06e7bf-5b09-4b93-b71e-ca5a8bfb8d8f",
-   "description_sha256": "b03cdf9ab414a22c39652cbe9e2e4d5659d441a5e9ab07cb028655667169f316"
   },
   {
    "job_id": "511f26c8-63cf-4689-9d8c-3abc7c0410e6",
@@ -1110,14 +1095,14 @@
   },
   {
    "job_id": "5fa71b7f-693c-455a-a402-ddac3d0e624a",
-   "lineage_key": "director-group-accounting-reporting@remote",
+   "lineage_key": "director-group-accounting-reporting@espoo",
    "title": "Director, Group Accounting & Reporting",
    "department": "Finance",
    "team": "Finance",
-   "location": "Remote",
+   "location": "Espoo",
    "secondary_locations": [],
    "employment_type": "FullTime",
-   "workplace_type": "Remote",
+   "workplace_type": "Hybrid",
    "is_remote": true,
    "published_at": "2026-10-29T14:53:08.162+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/5fa71b7f-693c-455a-a402-ddac3d0e624a",
@@ -1184,6 +1169,21 @@
    "published_at": "2026-09-01T07:12:54.680+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/65672a82-d0bd-4f86-99d6-5d35432453fd",
    "description_sha256": "0513baf53272b76aa357de877cca679cd86240f4b8f0b9d8bfbc32b8d09af4cc"
+  },
+  {
+   "job_id": "670ef77a-137f-49a5-895b-8ff1dfafcc59",
+   "lineage_key": "security-officer@new-delhi",
+   "title": "Security Officer",
+   "department": "Missions",
+   "team": "Local Subsidiary, India",
+   "location": "New Delhi",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-09T13:36:35.474+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/670ef77a-137f-49a5-895b-8ff1dfafcc59",
+   "description_sha256": "9f1fcdcc677f18f0805fa2c449bbace913d7702ef8c779d62ab01d1e70e89b64"
   },
   {
    "job_id": "67b84d2a-1f66-473a-b24c-b7ba35f02fe5",
@@ -1566,7 +1566,7 @@
    "is_remote": true,
    "published_at": "2026-11-06T13:38:01.353+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/81908ad3-84f4-4cc3-ac25-1440f38b52c2",
-   "description_sha256": "3fde4e9e7dfad656ffc66c64417469f4420e7c3b35b2a3eaf3aacef33c988040"
+   "description_sha256": "52374e8f62ecbbb30f5ae5538df07cb95e8ba9e5d0793ded70d85f0232edcb14"
   },
   {
    "job_id": "824f4858-2692-4b97-82bf-cbe2805dfbd6",
@@ -1755,7 +1755,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-10-14T17:34:27.555+00:00",
+   "published_at": "2026-11-09T19:38:21.162+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9371410f-1664-48c7-8153-466766739c8d",
    "description_sha256": "b1892de07b80874de17e31ee40b7f76f40093d5de6e8ff943205667ad2c6a3e6"
   },
@@ -1882,6 +1882,21 @@
    "description_sha256": "ae2f0aec4bb065e19191afc9a78fd7b4a16c5bb89f3880805231c22ed41387a7"
   },
   {
+   "job_id": "a3267648-4ec9-475c-9013-ab2313927047",
+   "lineage_key": "stock-and-logistics-specialist@valencia",
+   "title": "Stock and Logistics Specialist",
+   "department": "Global Manufacturing Organization",
+   "team": "Production Spain",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-11-09T14:11:08.125+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/a3267648-4ec9-475c-9013-ab2313927047",
+   "description_sha256": "68e959c360a26d25a4bc6e7ef7ea08339b3dd6ede26becc70af01c2a579401bd"
+  },
+  {
    "job_id": "a463a0f7-2610-4205-9f6a-9976f92c8341",
    "lineage_key": "staff-software-engineer-commercial-platform@espoo",
    "title": "Staff Software Engineer (Commercial Platform)",
@@ -1895,6 +1910,21 @@
    "published_at": "2026-09-23T19:14:55.523+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/a463a0f7-2610-4205-9f6a-9976f92c8341",
    "description_sha256": "57bc5b2b29093035b62e704fe4b7bb676ad7c0e631c208faa64a4d35c131ab6d"
+  },
+  {
+   "job_id": "a6d0bba0-2219-4f01-8c79-f4d945de5af7",
+   "lineage_key": "senior-electronics-engineer@valencia-spain",
+   "title": "Senior Electronics Engineer",
+   "department": "Engineering",
+   "team": "SIGINT",
+   "location": "Valencia, Spain",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-11-09T07:49:27.147+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/a6d0bba0-2219-4f01-8c79-f4d945de5af7",
+   "description_sha256": "52e0aaf157d39471c937b696c810211ffdf8f2b4b09cf4e9b8cf3ffe906bce26"
   },
   {
    "job_id": "a758df0a-2db1-4c14-926f-2c87eaf33d6a",
@@ -2154,21 +2184,6 @@
    "description_sha256": "16c6427cbf27bff9dbe92630eb72fc674aef8558473f6eaf8cf5a2343299087f"
   },
   {
-   "job_id": "c50ac459-37a2-4414-b33f-d75c458b53a1",
-   "lineage_key": "spacecraft-analysis-team-lead@espoo",
-   "title": "Spacecraft Analysis Team Lead",
-   "department": "Engineering",
-   "team": "Spacecraft Hardware",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-08-18T13:14:24.691+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/c50ac459-37a2-4414-b33f-d75c458b53a1",
-   "description_sha256": "8e4fad2d3bab77252df831db31257668417637e141e66937e3a2f568e671e166"
-  },
-  {
    "job_id": "c51065ca-6ecb-4ce9-9dcb-d48b397dabdd",
    "lineage_key": "electronics-engineer-radar-payload-team@espoo",
    "title": "Electronics Engineer, Radar Payload Team",
@@ -2259,21 +2274,6 @@
    "published_at": "2026-05-05T09:05:06.284+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/c9efcbfb-8542-413e-8bbc-4ef9178dab31",
    "description_sha256": "1f7bdce3c58ef96063992a58c13ad451e52d900533d246447b998b0794d98af7"
-  },
-  {
-   "job_id": "ca582861-6f7d-4190-8b31-4738891dc0ea",
-   "lineage_key": "rotational-product-manager-program@espoo",
-   "title": "Rotational Product Manager Program",
-   "department": "Product",
-   "team": "Product Management",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-10-13T02:32:13.516+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/ca582861-6f7d-4190-8b31-4738891dc0ea",
-   "description_sha256": "b6ca14137d285e82640066bc2b7b1332414cfd50577324600d3e9e856e316f06"
   },
   {
    "job_id": "cc0b017f-f910-4e64-9dd6-4b4da5538089",
@@ -2553,6 +2553,21 @@
    "published_at": "2026-10-22T12:56:13.103+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/dcd95d7f-3607-4afa-b806-0b2a342faa97",
    "description_sha256": "c86798162be9cd2ae59f663cbfdc40d7befec8d391fe55e4a0355840687c15b1"
+  },
+  {
+   "job_id": "de5a67b2-af22-41a1-b615-32213e65160c",
+   "lineage_key": "iceye-intern-lab-product-management@espoo",
+   "title": "ICEYE Intern Lab: Product Management",
+   "department": "Product",
+   "team": "Product Management",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-11-09T08:37:02.713+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/de5a67b2-af22-41a1-b615-32213e65160c",
+   "description_sha256": "e95f96b479900999b5ac256b0c08bf8be3b4d101225368943794d16abec616d3"
   },
   {
    "job_id": "e276cf77-21f8-4509-b926-d9d24fda8d48",

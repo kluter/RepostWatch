@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-11-06T17:39:11+00:00",
- "job_count": 141,
+ "fetched_at": "2026-11-09T21:00:18+00:00",
+ "job_count": 136,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -516,21 +516,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4864857101",
-   "lineage_key": "fluids-engineer-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Fluids Engineer (m/f/d)",
-   "department": "Spectrum",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-18T18:00:01-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4864857101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4869206101",
    "lineage_key": "senior-safety-compliance-specialist-f-m-d@parsdorf-bavaria-germany",
    "title": "Senior Safety & Compliance Specialist (f/m/d)",
@@ -573,21 +558,6 @@
    "is_remote": false,
    "published_at": "2026-06-25T04:22:51-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4907850101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4920269101",
-   "lineage_key": "embedded-software-engineer-m-f-d@ottobrunn-bavaria-germany",
-   "title": "Embedded Software Engineer (m/f/d)",
-   "department": "AGNC",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-10T06:03:46-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4920269101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1296,21 +1266,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4998641101",
-   "lineage_key": "propulsion-intern-propulsion@parsdorf-bavaria-germany",
-   "title": "Propulsion Intern, Propulsion",
-   "department": "Propulsion",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-06T09:16:04-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4998641101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4998952101",
    "lineage_key": "principal-system-architect-spectrum-m-f-d@parsdorf-bavaria-germany",
    "title": "Principal System Architect, Spectrum (m/f/d)",
@@ -1581,6 +1536,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "5006394101",
+   "lineage_key": "vp-spectrum-production-m-f-d@parsdorf-bavaria-germany",
+   "title": "VP Spectrum Production (m/f/d)",
+   "department": "Production, Operations & Quality",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-30T12:34:20-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5006394101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "5006654101",
    "lineage_key": "manager-cnc-turning-m-f-d@parsdorf-bavaria-germany",
    "title": "Manager CNC Turning (m/f/d)",
@@ -1593,36 +1563,6 @@
    "is_remote": false,
    "published_at": "2026-10-15T02:38:28-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5006654101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "5007501101",
-   "lineage_key": "working-student-piping-system-propulsion-m-f-d@parsdorf-bavaria-germany",
-   "title": "Working Student – Piping System, Propulsion (m/f/d)",
-   "department": "Propulsion",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-15T10:58:15-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5007501101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "5008831101",
-   "lineage_key": "working-student-avionics-spectrum@parsdorf-bavaria-germany",
-   "title": "Working Student Avionics, Spectrum",
-   "department": "Spectrum",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-16T10:26:07-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5008831101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1683,21 +1623,6 @@
    "is_remote": false,
    "published_at": "2026-10-19T09:48:51-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5009998101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "5011474101",
-   "lineage_key": "propulsion-design-engineer-propulsion-m-f-d@parsdorf-bavaria-germany",
-   "title": "Propulsion Design Engineer, Propulsion (m/f/d)",
-   "department": "Propulsion",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-20T11:18:18-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5011474101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1989,7 +1914,7 @@
    "job_id": "5020763101",
    "lineage_key": "working-student-launch-vehicle-structures-m-f-d@parsdorf-bavaria-germany",
    "title": "Working Student, Launch Vehicle Structures (m/f/d)",
-   "department": "Template",
+   "department": "Launch Vehicle Structures",
    "team": "",
    "location": "Parsdorf, Bavaria, Germany",
    "secondary_locations": [],

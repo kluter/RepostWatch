@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-11-10T18:09:19+00:00",
- "job_count": 200,
+ "fetched_at": "2026-11-10T21:56:46+00:00",
+ "job_count": 199,
  "jobs": [
   {
    "job_id": "01edf520-e6e9-4b3e-bc57-5886e694b6b8",
@@ -222,21 +222,6 @@
    "published_at": "2026-05-19T16:05:31.899+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/15ec7f83-01ba-46fc-91c6-88cd28bb6338",
    "description_sha256": "d5be633781edc601b862b4142ca9b233a97faa022627d1a11608ec1991d122c3"
-  },
-  {
-   "job_id": "173676c5-440b-4305-bf98-6297aed07fd3",
-   "lineage_key": "electronics-r-d-test-lead@warsaw",
-   "title": "Electronics R&D Test Lead",
-   "department": "Engineering",
-   "team": "Optical System",
-   "location": "Warsaw",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-29T15:54:01.154+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/173676c5-440b-4305-bf98-6297aed07fd3",
-   "description_sha256": "263f68d2cc3585f089cf9ac7c4ce2b1c7ad34f9d6af7f7e7cb4b65bad7b70419"
   },
   {
    "job_id": "18952119-94cf-46c8-a6b8-9c05df99dd34",

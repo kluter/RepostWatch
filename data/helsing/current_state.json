@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-11-09T21:00:18+00:00",
- "job_count": 167,
+ "fetched_at": "2026-11-10T18:09:19+00:00",
+ "job_count": 166,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -243,21 +243,6 @@
    "is_remote": false,
    "published_at": "2025-12-23T10:09:41-05:00",
    "url": "https://helsing.ai/jobs/4743310101?gh_jid=4743310101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4776546101",
-   "lineage_key": "senior-systems-safety-engineer-air@munich",
-   "title": "(Senior) Systems Safety Engineer - Air",
-   "department": "Hardware Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-02-06T08:22:42-05:00",
-   "url": "https://helsing.ai/jobs/4776546101?gh_jid=4776546101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -606,21 +591,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4876451101",
-   "lineage_key": "systems-technical-writer@munich",
-   "title": "Systems Technical Writer",
-   "department": "Hardware Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-27T08:36:22-04:00",
-   "url": "https://helsing.ai/jobs/4876451101?gh_jid=4876451101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4876698101",
    "lineage_key": "payroll-specialist@berlin",
    "title": "Payroll Specialist",
@@ -861,21 +831,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4924017101",
-   "lineage_key": "senior-systems-safety-engineer-land@munich",
-   "title": "(Senior) Systems Safety Engineer - Land",
-   "department": "Hardware Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-10T04:50:46-04:00",
-   "url": "https://helsing.ai/jobs/4924017101?gh_jid=4924017101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4924405101",
    "lineage_key": "lead-systems-engineer-military-communications@munich",
    "title": "Lead Systems Engineer – Military Communications",
@@ -1068,21 +1023,6 @@
    "is_remote": false,
    "published_at": "2026-08-06T07:09:07-04:00",
    "url": "https://helsing.ai/jobs/4947489101?gh_jid=4947489101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4948063101",
-   "lineage_key": "safety-manager-system-safety@munich",
-   "title": "Safety Manager (System Safety)",
-   "department": "Systems Architecture",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-07T08:14:34-04:00",
-   "url": "https://helsing.ai/jobs/4948063101?gh_jid=4948063101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1821,21 +1761,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4997172101",
-   "lineage_key": "procurement-project-manager-uk@london",
-   "title": "Procurement Project Manager – UK",
-   "department": "Market",
-   "team": "",
-   "location": "London",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-05T05:16:28-04:00",
-   "url": "https://helsing.ai/jobs/4997172101?gh_jid=4997172101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4997901101",
    "lineage_key": "lead-it-engineer@munich",
    "title": "Lead IT Engineer",
@@ -2227,8 +2152,8 @@
   },
   {
    "job_id": "5027572101",
-   "lineage_key": "system-engineer-system-architecture-contra@london-england-united-kingdom",
-   "title": "System Engineer - System Architecture - Contra",
+   "lineage_key": "systems-engineer-system-architecture-contra@london-england-united-kingdom",
+   "title": "Systems Engineer - System Architecture - Contra",
    "department": "Physical Products",
    "team": "",
    "location": "London, England, United Kingdom",
@@ -2508,6 +2433,66 @@
    "is_remote": false,
    "published_at": "2026-11-09T05:23:38-05:00",
    "url": "https://helsing.ai/jobs/5030595101?gh_jid=5030595101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5031918101",
+   "lineage_key": "encargado-a-taller-de-mecanizado-cnc@barcelona",
+   "title": "Encargado/a Taller de Mecanizado CNC",
+   "department": "Hardware Engineering",
+   "team": "",
+   "location": "Barcelona",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-10T09:05:09-05:00",
+   "url": "https://helsing.ai/jobs/5031918101?gh_jid=5031918101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5032474101",
+   "lineage_key": "mecanizador-a-senior-y-responsable-de-taller@barcelona",
+   "title": "Mecanizador/a Senior y Responsable de Taller",
+   "department": "Hardware Engineering",
+   "team": "",
+   "location": "Barcelona",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-10T09:20:06-05:00",
+   "url": "https://helsing.ai/jobs/5032474101?gh_jid=5032474101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5032475101",
+   "lineage_key": "encargado-a-de-taller-de-mecanizado-de-precision@barcelona",
+   "title": "Encargado/a de Taller de Mecanizado de Precisión",
+   "department": "Hardware Engineering",
+   "team": "",
+   "location": "Barcelona",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-10T09:20:03-05:00",
+   "url": "https://helsing.ai/jobs/5032475101?gh_jid=5032475101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5032670101",
+   "lineage_key": "field-engineer-interceptors@london",
+   "title": "Field Engineer - Interceptors",
+   "department": "AI & Engineering",
+   "team": "",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-10T12:29:28-05:00",
+   "url": "https://helsing.ai/jobs/5032670101?gh_jid=5032670101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

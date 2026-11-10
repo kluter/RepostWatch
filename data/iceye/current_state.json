@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-11-09T21:00:18+00:00",
- "job_count": 194,
+ "fetched_at": "2026-11-10T18:09:19+00:00",
+ "job_count": 200,
  "jobs": [
   {
    "job_id": "01edf520-e6e9-4b3e-bc57-5886e694b6b8",
@@ -79,6 +79,21 @@
    "published_at": "2026-10-28T07:50:56.195+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/09d02ba3-5ba6-4a11-bb30-74e42c22c485",
    "description_sha256": "e5c6d7a2b636df46b36054fb528562017f7654a3b5f652df38be3dc64282ed89"
+  },
+  {
+   "job_id": "0b59b282-5c17-439e-b5af-86e118d98cd1",
+   "lineage_key": "satellite-production-technician@athens",
+   "title": "Satellite Production Technician",
+   "department": "Global Manufacturing Organization",
+   "team": "Production Greece",
+   "location": "Athens",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-11-10T15:43:31.657+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/0b59b282-5c17-439e-b5af-86e118d98cd1",
+   "description_sha256": "5af798f16f8fa6e2078d4fce11ed547d3169764197e662a41ce812a846af914c"
   },
   {
    "job_id": "0bcc9e17-7eec-4648-bb5a-298f3f84794d",
@@ -790,6 +805,21 @@
    "description_sha256": "d1aed79f34a0f70f470c9b1493c8eb31983a9b27dfb8c9d8eb2b38ec002e1079"
   },
   {
+   "job_id": "4488104e-585a-4a22-b3fe-0753216fe81b",
+   "lineage_key": "quality-assurance-technician@valencia",
+   "title": "Quality Assurance Technician",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-11-10T15:40:01.012+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/4488104e-585a-4a22-b3fe-0753216fe81b",
+   "description_sha256": "e1c33af1af150f7d841086840e6327eefbd81a7407f03069b9692f971cb8ec09"
+  },
+  {
    "job_id": "44f6dbe9-e401-4e56-b419-c40726855da0",
    "lineage_key": "rf-test-engineer@espoo",
    "title": "RF Test Engineer",
@@ -818,6 +848,21 @@
    "published_at": "2026-09-17T07:10:12.980+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/4684576e-929f-4a2d-a39d-bbf90c9f399d",
    "description_sha256": "8a7a9a398a0512668542791f9a7e265e2ba47ac46c05b3c8eca4ac4ddca38b14"
+  },
+  {
+   "job_id": "46e20f89-4110-4db0-839f-4b5994b0e14f",
+   "lineage_key": "lead-process-excellence-controls@espoo",
+   "title": "Lead, Process Excellence & Controls",
+   "department": "Finance",
+   "team": "Finance",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-10T09:46:52.642+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/46e20f89-4110-4db0-839f-4b5994b0e14f",
+   "description_sha256": "7336868b30eb92d746074b15cc15fd58077288b01d76a31c22635e5685a1d19a"
   },
   {
    "job_id": "471cf438-9c29-4167-9c18-be4cc5f4e115",
@@ -1047,6 +1092,21 @@
    "published_at": "2026-04-28T13:13:51.694+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/5bc4767f-7ae6-429a-a784-a9d260680462",
    "description_sha256": "79a7864f6be4e0f7bbdf1267c18215530c805ffe88998bcd478bc91fb7524c95"
+  },
+  {
+   "job_id": "5befc085-a80e-4586-bf99-9a49450163ba",
+   "lineage_key": "mission-delivery-engineer-greece@athens",
+   "title": "Mission Delivery Engineer Greece",
+   "department": "Missions",
+   "team": "Missions Programs",
+   "location": "Athens",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-10T11:15:54.202+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/5befc085-a80e-4586-bf99-9a49450163ba",
+   "description_sha256": "0c61928f3885216c6a72054c9ece649a1599d29ca893b25d99b32a0adcf126f6"
   },
   {
    "job_id": "5c68a956-9359-4045-9664-c42f79b163fa",
@@ -2004,6 +2064,36 @@
    "description_sha256": "def83254fd0c2beababe60e9520b2bf47b68025d1b8275ee588cfb1be0f2bd68"
   },
   {
+   "job_id": "abee635f-768c-46ea-9b92-33aceb94ec87",
+   "lineage_key": "customer-excellence-specialist@athens",
+   "title": "Customer Excellence Specialist",
+   "department": "Data",
+   "team": "Customer Excellence",
+   "location": "Athens",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-11-10T12:19:57.901+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/abee635f-768c-46ea-9b92-33aceb94ec87",
+   "description_sha256": "78c1b11ebe0c3a9dab4abefe538759db8f08258a0214c897fe0f78d48f6b16e0"
+  },
+  {
+   "job_id": "ade33296-95c8-410c-9f08-62cf09fb1999",
+   "lineage_key": "senior-software-engineer-tasking-and-planning@valencia",
+   "title": "Senior Software Engineer (Tasking and Planning)",
+   "department": "Engineering",
+   "team": "SIGINT",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-11-10T08:47:51.647+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/ade33296-95c8-410c-9f08-62cf09fb1999",
+   "description_sha256": "fcbd2601dd29fa19fd8b6b3c67515b42f13dde43f38990fbd3f2e1b4eba2bf6c"
+  },
+  {
    "job_id": "b08a9033-4c52-43a1-bd6c-a8b728711e90",
    "lineage_key": "senior-devops-platform-engineer-isr@berlin",
    "title": "Senior DevOps / Platform Engineer, ISR",
@@ -2017,21 +2107,6 @@
    "published_at": "2026-10-05T07:27:00.472+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/b08a9033-4c52-43a1-bd6c-a8b728711e90",
    "description_sha256": "b0087f9959d6cdb6b7304f6ed34d85998a638a76a65645b3d0a7124d990a5b3a"
-  },
-  {
-   "job_id": "b12fce39-5cbb-44ed-8f02-ca1654d41659",
-   "lineage_key": "senior-software-engineer-tasking-and-planning@valencia",
-   "title": "Senior Software Engineer - Tasking and Planning",
-   "department": "Engineering",
-   "team": "SIGINT",
-   "location": "Valencia",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-13T13:26:54.622+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/b12fce39-5cbb-44ed-8f02-ca1654d41659",
-   "description_sha256": "9a7a24c9a9fee2f1ed9124d1d07dfb71d14ffd146ea5dcf42ee86f305c88ff28"
   },
   {
    "job_id": "b4432ff0-6b94-4630-a7f6-833415ae7d63",
@@ -2658,6 +2733,21 @@
    "published_at": "2026-10-30T12:22:43.370+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e5082d17-b132-4106-b70d-2a08cdeeb405",
    "description_sha256": "dd717906118a3d71de1c3a528989973b0b33a7937b163a58dd4a95fdd787a359"
+  },
+  {
+   "job_id": "e52eedf8-f847-4fb5-91c6-2c7521fb99cc",
+   "lineage_key": "satellite-integration-specialist@espoo",
+   "title": "Satellite Integration Specialist",
+   "department": "Global Manufacturing Organization",
+   "team": "Production Finland",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-11-10T09:56:34.895+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/e52eedf8-f847-4fb5-91c6-2c7521fb99cc",
+   "description_sha256": "18d57a45ed149731400c863927d072aea8633983e50f5569dca47b27a1538819"
   },
   {
    "job_id": "e595c160-7caf-4697-a4d5-a2a85bf5c481",

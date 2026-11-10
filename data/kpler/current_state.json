@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-11-09T21:00:18+00:00",
- "job_count": 114,
+ "fetched_at": "2026-11-10T18:09:19+00:00",
+ "job_count": 113,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -156,21 +156,6 @@
    "published_at": "2026-09-23T12:07:21.680000+00:00",
    "url": "https://jobs.lever.co/kpler/10105b9b-ed9c-4ebe-8f3b-76b18edeccb8",
    "description_sha256": "60141ba414a7b114fc66a6de969f2e0735a3b5ba4925679ec42f9d84d09631f5"
-  },
-  {
-   "job_id": "11bbc990-0c4d-4502-84e7-dbbc4e9b498b",
-   "lineage_key": "account-manager-tech-consulting@athens",
-   "title": "Account Manager - Tech/Consulting",
-   "department": "Commercial",
-   "team": "Sales - Mid Market EMEA",
-   "location": "Athens",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-11-06T10:54:06.437000+00:00",
-   "url": "https://jobs.lever.co/kpler/11bbc990-0c4d-4502-84e7-dbbc4e9b498b",
-   "description_sha256": "68bc2435a93ffcf983dd61f8f0815b91b2e361cc70bedf279a29ca6359e75e9b"
   },
   {
    "job_id": "15474088-c317-42ba-bb01-502a4b1617d3",
@@ -616,7 +601,7 @@
    "is_remote": false,
    "published_at": "2026-11-06T11:21:50.521000+00:00",
    "url": "https://jobs.lever.co/kpler/5ce9f173-8621-4c92-873f-156516db8c44",
-   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+   "description_sha256": "bfcf123a8548e4d1172e72e08fbaecdeccc9dbd65d36f8e32a71dc5daac41a97"
   },
   {
    "job_id": "5d5c2a52-9a9b-4307-9221-ab40d294c889",
@@ -911,21 +896,6 @@
    "published_at": "2026-10-02T17:39:56.319000+00:00",
    "url": "https://jobs.lever.co/kpler/8a52af87-a0dd-46d6-bc25-9c40bab1f49c",
    "description_sha256": "5fc42b47b55a032dadc5afc37cdbbb0519af343e9bda81aaabe35a2c6c6c8e0e"
-  },
-  {
-   "job_id": "8a854040-5c93-426f-a864-abc3d70d27f7",
-   "lineage_key": "account-manager-sme-uae@dubai",
-   "title": "Account Manager - SME - UAE",
-   "department": "Commercial",
-   "team": "Sales - Mid Market EMEA",
-   "location": "Dubai",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-09-17T09:43:16.238000+00:00",
-   "url": "https://jobs.lever.co/kpler/8a854040-5c93-426f-a864-abc3d70d27f7",
-   "description_sha256": "4f5fd10359f51adcefbad02b688b73bbafa2a2ac97d39f4dfaef4a51340907b8"
   },
   {
    "job_id": "8b3a689a-a3d9-4ebe-8c42-b2f5b9373c6a",
@@ -1504,7 +1474,7 @@
    "is_remote": false,
    "published_at": "2026-11-06T11:15:34.392000+00:00",
    "url": "https://jobs.lever.co/kpler/cc4c0731-55f9-41b2-9522-da42d024183c",
-   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+   "description_sha256": "91c8e8fb2d98111e7dd70064079df75ee21f5955f5a9cd40fcd55e01e1f2c903"
   },
   {
    "job_id": "d0b15eec-6865-4e5a-9d73-a20ef069bf8e",
@@ -1580,6 +1550,21 @@
    "published_at": "2026-09-11T16:25:25.103000+00:00",
    "url": "https://jobs.lever.co/kpler/db490413-d848-4030-988c-1bb90bd84072",
    "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+  },
+  {
+   "job_id": "db52ce61-a62a-4cc9-a8a0-6663e74665c8",
+   "lineage_key": "senior-data-engineer@united-kingdom",
+   "title": "Senior Data Engineer",
+   "department": "Engineering",
+   "team": "Engineering Maritime & Logistic",
+   "location": "United Kingdom",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-11-10T10:15:52.552000+00:00",
+   "url": "https://jobs.lever.co/kpler/db52ce61-a62a-4cc9-a8a0-6663e74665c8",
+   "description_sha256": "f5b4e3fab3512dc174dffb104d7c1889f8676ac59c02cb02161241e915054684"
   },
   {
    "job_id": "dd8e0a88-62fe-4711-80b5-3380e492f41c",

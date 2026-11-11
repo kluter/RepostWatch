@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-11-10T21:56:46+00:00",
- "job_count": 199,
+ "fetched_at": "2026-11-11T18:00:14+00:00",
+ "job_count": 202,
  "jobs": [
   {
    "job_id": "01edf520-e6e9-4b3e-bc57-5886e694b6b8",
@@ -349,21 +349,6 @@
    "description_sha256": "469628cf4adfc012334aa160b7e503dccdd78f03159b63450b65c1badd5b8e0b"
   },
   {
-   "job_id": "1ea5f8ce-fa19-4829-849e-c6457fc666be",
-   "lineage_key": "supply-chain-intern@valencia",
-   "title": "Supply Chain Intern",
-   "department": "Global Manufacturing Organization",
-   "team": "Global Supply Chain",
-   "location": "Valencia",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-10-16T09:48:52.741+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/1ea5f8ce-fa19-4829-849e-c6457fc666be",
-   "description_sha256": "0622666ce63771049783ffc37c50456ba158a8cd5bd66715928a2b2aa06b3970"
-  },
-  {
    "job_id": "1ffce4d4-4088-4336-9007-622dc10399fb",
    "lineage_key": "senior-software-engineer-developer-enablement@espoo",
    "title": "Senior Software Engineer (Developer Enablement)",
@@ -466,7 +451,7 @@
    "is_remote": false,
    "published_at": "2026-11-04T14:58:11.931+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/272627a3-ec22-4205-be51-32a5b540b314",
-   "description_sha256": "c5aefbbfc5f77c2c3ca758ec7ff7ec3c5ad5ad8776fe2f392c4312da8fffc7e5"
+   "description_sha256": "800476ef5e87d919c3f466b6cb28ea4dbc5e595f735ab409b0db821791669d39"
   },
   {
    "job_id": "28910d93-1651-4b52-b724-02bd48024027",
@@ -836,8 +821,8 @@
   },
   {
    "job_id": "46e20f89-4110-4db0-839f-4b5994b0e14f",
-   "lineage_key": "lead-process-excellence-controls@espoo",
-   "title": "Lead, Process Excellence & Controls",
+   "lineage_key": "senior-manager-controls-process-excellence-finance@espoo",
+   "title": "Senior Manager, Controls & Process Excellence (Finance)",
    "department": "Finance",
    "team": "Finance",
    "location": "Espoo",
@@ -847,7 +832,7 @@
    "is_remote": true,
    "published_at": "2026-11-10T09:46:52.642+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/46e20f89-4110-4db0-839f-4b5994b0e14f",
-   "description_sha256": "7336868b30eb92d746074b15cc15fd58077288b01d76a31c22635e5685a1d19a"
+   "description_sha256": "7bab4a2841bc236f73c804a80812c569d72dab881d60273e41f64461a112cd61"
   },
   {
    "job_id": "471cf438-9c29-4167-9c18-be4cc5f4e115",
@@ -1151,7 +1136,7 @@
    "is_remote": true,
    "published_at": "2026-10-29T14:53:08.162+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/5fa71b7f-693c-455a-a402-ddac3d0e624a",
-   "description_sha256": "f70f95f43f5cbe9666f835b9fa2f3487dd94903001f54c28e70fd4e32481af82"
+   "description_sha256": "453b7768fbb05cd32037e3418a7d8beb7f1dc66f197beecf815e5fa0d9c7bff8"
   },
   {
    "job_id": "60a82dbd-bc69-4de4-a133-c58ee0256716",
@@ -1399,9 +1384,9 @@
    "employment_type": "FullTime",
    "workplace_type": "Hybrid",
    "is_remote": true,
-   "published_at": "2026-10-08T16:38:40.363+00:00",
+   "published_at": "2026-11-11T12:05:20.487+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/70f4bfc4-d4f9-46b0-a556-f82c710d6100",
-   "description_sha256": "2d42095b860d9892520cbd82ac51daba9e8bc769fcdb57d839ddc501a7d93702"
+   "description_sha256": "32e8e2a65cbc735b7cdcb5b2c9be0a07adfe6cf1cf05cc07b7cea994219e04da"
   },
   {
    "job_id": "71e209c3-f5ee-4267-8351-a68adac0b564",
@@ -1417,6 +1402,21 @@
    "published_at": "2026-10-28T11:51:22.313+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/71e209c3-f5ee-4267-8351-a68adac0b564",
    "description_sha256": "c7bb1cbff0fe83def5117c351c5e8f33e60ac9ff068ce69213b39be8694d0a35"
+  },
+  {
+   "job_id": "7270373f-9e9c-4608-b492-39afa380fb48",
+   "lineage_key": "lead-ai-hardware-design-skunkworks@valencia",
+   "title": "Lead, AI Hardware Design Skunkworks",
+   "department": "Engineering",
+   "team": "SIGINT",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-11-11T12:26:31.298+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/7270373f-9e9c-4608-b492-39afa380fb48",
+   "description_sha256": "c84922a3b35db5220cedfd7bdfe8a94398d9edf4f490658475f868b5f5798d5d"
   },
   {
    "job_id": "728ba3dc-5ab4-4f86-b7cc-5bd24c37f2d4",
@@ -1837,6 +1837,21 @@
    "description_sha256": "cfd43312c2b5142a733a827df83adf482336218f8ed7e05aad80387a624104ef"
   },
   {
+   "job_id": "945a7745-188f-46a5-af37-09e2efe9a39b",
+   "lineage_key": "senior-electronics-technician@valencia",
+   "title": "Senior Electronics Technician",
+   "department": "Global Manufacturing Organization",
+   "team": "ES Satellite Production",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-11-11T12:32:35.167+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/945a7745-188f-46a5-af37-09e2efe9a39b",
+   "description_sha256": "05c77a6b4bdd86b549e8064f0443eeef8362bd97293ef76ec16f817c54df042e"
+  },
+  {
    "job_id": "945f6b59-8d2b-4bee-92e8-ac3d000d5fa9",
    "lineage_key": "harness-manufacturing-technician@espoo",
    "title": "Harness Manufacturing Technician",
@@ -1868,8 +1883,8 @@
   },
   {
    "job_id": "9649c999-70dc-4620-9487-e664767fa88d",
-   "lineage_key": "systems-and-software-verification-engineer@valencia",
-   "title": "Systems and Software Verification Engineer",
+   "lineage_key": "systems-and-software-verification-technician@valencia",
+   "title": "Systems and Software Verification Technician",
    "department": "Global Manufacturing Organization",
    "team": "ES Satellite Production",
    "location": "Valencia",
@@ -1877,9 +1892,9 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-10-15T17:07:58.091+00:00",
+   "published_at": "2026-11-11T12:21:33.234+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9649c999-70dc-4620-9487-e664767fa88d",
-   "description_sha256": "7725d2e1016c95da5d99cf53474faa633f2ca7b2e5635c0a4867db288b1318da"
+   "description_sha256": "d9a432fca98ba6ad5aab00e0b153fb19324161bac7010293ec0d5d387ea82385"
   },
   {
    "job_id": "9c37d56f-492b-4167-809a-ebb61ef7d793",
@@ -1939,7 +1954,7 @@
    "is_remote": false,
    "published_at": "2026-11-09T14:11:08.125+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/a3267648-4ec9-475c-9013-ab2313927047",
-   "description_sha256": "68e959c360a26d25a4bc6e7ef7ea08339b3dd6ede26becc70af01c2a579401bd"
+   "description_sha256": "ee4d2894460738421d2557f906515e3f3515184e330c774821ef0c736f474907"
   },
   {
    "job_id": "a463a0f7-2610-4205-9f6a-9976f92c8341",
@@ -2079,6 +2094,21 @@
    "description_sha256": "fcbd2601dd29fa19fd8b6b3c67515b42f13dde43f38990fbd3f2e1b4eba2bf6c"
   },
   {
+   "job_id": "b02ffc1c-503a-41e0-a693-b7e4ab9a45f6",
+   "lineage_key": "senior-software-engineer-flood-risk@espoo",
+   "title": "Senior Software Engineer, Flood Risk",
+   "department": "Solutions",
+   "team": "Solutions",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-11T13:56:19.716+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/b02ffc1c-503a-41e0-a693-b7e4ab9a45f6",
+   "description_sha256": "be69b3d9d8900204280275e5cdf02b186c9e6cac8baf7245006ec78d489a3e78"
+  },
+  {
    "job_id": "b08a9033-4c52-43a1-bd6c-a8b728711e90",
    "lineage_key": "senior-devops-platform-engineer-isr@berlin",
    "title": "Senior DevOps / Platform Engineer, ISR",
@@ -2134,7 +2164,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-10-16T10:59:07.286+00:00",
+   "published_at": "2026-11-11T12:21:36.741+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/b4a193de-415e-4320-a95c-17e925ca56f7",
    "description_sha256": "25440cc408ba4db9ec55fab946b9d78e37a3b40ad155e00c263154ca2e897bc4"
   },
@@ -2167,6 +2197,21 @@
    "published_at": "2026-11-04T15:22:06.914+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/b6c72b2a-d448-4722-9ab8-4d608e3f7dd6",
    "description_sha256": "aaa985337fe4c72b8eff7a9ab2fc663635682f49e70de196c4dbadc9d352c7b5"
+  },
+  {
+   "job_id": "bcb9940b-58cd-4c23-8671-7b67f011d07d",
+   "lineage_key": "mission-management-team-lead@espoo",
+   "title": "Mission Management Team Lead",
+   "department": "Global Manufacturing Organization",
+   "team": "Satellite Delivery Program Execution",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-11T05:53:22.539+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/bcb9940b-58cd-4c23-8671-7b67f011d07d",
+   "description_sha256": "9a61af06b86689744832e74bb2f45d6ae79f08d521127fcb352ab7d959c68b59"
   },
   {
    "job_id": "bcde4efc-5cf7-4bd4-abea-95e3c061f4ff",
@@ -2214,6 +2259,26 @@
    "description_sha256": "cddc810be19771034b63a437536803b6ce58852230b2e1247c4184b6a807d17a"
   },
   {
+   "job_id": "c004f3c1-79a7-439f-af53-57ef6e7fd531",
+   "lineage_key": "director-supply-chain-category@espoo",
+   "title": "Director Supply Chain, Category",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Supply Chain",
+   "location": "Espoo",
+   "secondary_locations": [
+    "Valencia",
+    "Athens",
+    "Munich",
+    "Warsaw"
+   ],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-11-11T06:20:45.594+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/c004f3c1-79a7-439f-af53-57ef6e7fd531",
+   "description_sha256": "4eee59e70abc8b1b750cf947e2b6546e7cf863dbe134a4758aa326195f7f244a"
+  },
+  {
    "job_id": "c1468ba6-40e3-4247-803f-8e5b951f208e",
    "lineage_key": "electrical-ait-engineer@tokyo",
    "title": "Electrical AIT Engineer",
@@ -2242,6 +2307,21 @@
    "published_at": "2026-09-08T06:40:31.953+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/c27729e6-99f6-4e62-bc39-1a7b5cc6ee8c",
    "description_sha256": "16c6427cbf27bff9dbe92630eb72fc674aef8558473f6eaf8cf5a2343299087f"
+  },
+  {
+   "job_id": "c3fa361a-0e7f-41d7-a1c2-d17c711e4cf4",
+   "lineage_key": "senior-technician-integration-mechanical-thermal@valencia",
+   "title": "Senior Technician (Integration, Mechanical & Thermal)",
+   "department": "Global Manufacturing Organization",
+   "team": "ES Satellite Production",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-11-11T12:20:07.886+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/c3fa361a-0e7f-41d7-a1c2-d17c711e4cf4",
+   "description_sha256": "cb11cf2d71c184af53c0cebaa8f30689b22d072f75903d969dc4a39461fdedd8"
   },
   {
    "job_id": "c51065ca-6ecb-4ce9-9dcb-d48b397dabdd",
@@ -2630,21 +2710,6 @@
    "description_sha256": "e95f96b479900999b5ac256b0c08bf8be3b4d101225368943794d16abec616d3"
   },
   {
-   "job_id": "e276cf77-21f8-4509-b926-d9d24fda8d48",
-   "lineage_key": "subsystem-assembly-technician@greece",
-   "title": "Subsystem Assembly Technician",
-   "department": "Global Manufacturing Organization",
-   "team": "GR AIT Engineering",
-   "location": "Greece",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-04-29T16:43:14.373+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/e276cf77-21f8-4509-b926-d9d24fda8d48",
-   "description_sha256": "ac3b6b8435ba86b5f7413c3ca4cb2d9b23dbeb1442fa781db84e1ffe9b7437e2"
-  },
-  {
    "job_id": "e28c6e08-79ca-442b-aae8-adb02ee56076",
    "lineage_key": "senior-hr-generalist-japan@tokyo",
    "title": "Senior HR Generalist, Japan",
@@ -2935,21 +3000,6 @@
    "description_sha256": "272d3baba596f67805764f1c8eff3885cfb37474d437de14b3953766168b2f89"
   },
   {
-   "job_id": "f457fd1a-738e-417c-aa94-d5d94f3ed0c5",
-   "lineage_key": "field-marketing-manager-data@espoo",
-   "title": "Field Marketing Manager, Data",
-   "department": "Marketing",
-   "team": "Data & Missions Marketing",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-13T15:22:32.977+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/f457fd1a-738e-417c-aa94-d5d94f3ed0c5",
-   "description_sha256": "6284c884dad424cea5dce22ecbe208d94c1623c89270290ec45decc6f5ae1b5c"
-  },
-  {
    "job_id": "f710849f-4a69-48b6-9f4d-0000c7c1265a",
    "lineage_key": "senior-talent-attraction-partner@espoo",
    "title": "Senior Talent Attraction Partner",
@@ -3022,7 +3072,7 @@
    "is_remote": true,
    "published_at": "2026-11-06T14:22:48.407+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/fb48d8a8-a747-4df7-9f43-91cec3bdd87e",
-   "description_sha256": "12ff17967b5ea77e5e355d6b1008a350e33a210429f7c45ec2abd86fd5802308"
+   "description_sha256": "ebc9e6151f546711f4eecfbdf1ca00f2d2ffb1b0c4625b12f09f5dba81817919"
   },
   {
    "job_id": "fe0001f5-f3c9-4df7-b968-23451c9b4b1d",

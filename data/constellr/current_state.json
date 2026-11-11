@@ -140,5 +140,10 @@
    "url": "https://constellr.recruitee.com/o/mission-planning-software-engineer",
    "description_sha256": "aa9f2b555c073caced7005fea18bf5ddc147ac26cfce6c3218f491c03a500b2b"
   }
- ]
+ ],
+ "feed_error": {
+  "code": 404,
+  "message": "HTTP 404",
+  "checked_at": "2026-11-11T18:00:14+00:00"
+ }
 }

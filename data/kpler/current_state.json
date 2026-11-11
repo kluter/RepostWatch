@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-11-10T21:56:46+00:00",
- "job_count": 114,
+ "fetched_at": "2026-11-11T18:00:14+00:00",
+ "job_count": 111,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -328,21 +328,6 @@
    "description_sha256": "ec615eb23dbf6115d8fd3c9110a20c78e380f3b8e8c9e6b5e4880db5e6f423d1"
   },
   {
-   "job_id": "35db18e4-9d96-4378-901b-f712325f1dd2",
-   "lineage_key": "senior-lng-market-analyst@london",
-   "title": "Senior LNG Market Analyst",
-   "department": "Business Units",
-   "team": "LNG",
-   "location": "London",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-09-17T12:02:54.332000+00:00",
-   "url": "https://jobs.lever.co/kpler/35db18e4-9d96-4378-901b-f712325f1dd2",
-   "description_sha256": "765434bc6f3c9946a6291b7656c66fb8fb897b8bfa4218a62be64aa631ca0a6a"
-  },
-  {
    "job_id": "3a57da80-b4ed-434e-8048-ed2f1fd84408",
    "lineage_key": "account-manager-maritime@london",
    "title": "Account Manager - Maritime",
@@ -371,21 +356,6 @@
    "published_at": "2026-10-08T17:22:08.411000+00:00",
    "url": "https://jobs.lever.co/kpler/3aba2e72-9f7a-4ff7-bc57-902da0779c6c",
    "description_sha256": "4bcc8b46850a6d58b59d147eff933b9a08fda046cc662f113db09a4c79596e70"
-  },
-  {
-   "job_id": "401edb1b-674a-4278-9fee-3f35fa6384d4",
-   "lineage_key": "lead-engineer-commodities@athens",
-   "title": "Lead Engineer - Commodities",
-   "department": "Engineering",
-   "team": "Engineering Commodities",
-   "location": "Athens",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-07-23T11:23:57.396000+00:00",
-   "url": "https://jobs.lever.co/kpler/401edb1b-674a-4278-9fee-3f35fa6384d4",
-   "description_sha256": "b2acba36718c2cd64472d68d52b7f23954d6f2c6c8481ddcd9aa73849a37d3a7"
   },
   {
    "job_id": "41f27ae9-3310-48d4-b05f-44d12fb2099e",
@@ -866,23 +836,6 @@
    "description_sha256": "985e2e601169f6fcb3b49a5f218a2ab65ffe41c3a4b25ad520544087b2fc195c"
   },
   {
-   "job_id": "8406b890-cd64-4f78-bc58-f8f842e8db72",
-   "lineage_key": "enterprise-account-manager-supply-chain-and-logistics@new-york",
-   "title": "Enterprise Account Manager - Supply Chain and Logistics",
-   "department": "Commercial",
-   "team": "Sales - Mid Market Americas",
-   "location": "New York",
-   "secondary_locations": [
-    "Miami"
-   ],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-09-24T12:28:36.827000+00:00",
-   "url": "https://jobs.lever.co/kpler/8406b890-cd64-4f78-bc58-f8f842e8db72",
-   "description_sha256": "8726b4999f528fc79136f659fc8c1efd9d2a11c9a8b5714dfeff7445d69c58d0"
-  },
-  {
    "job_id": "8a52af87-a0dd-46d6-bc25-9c40bab1f49c",
    "lineage_key": "senior-data-engineer@united-kingdom",
    "title": "Senior Data Engineer",
@@ -1098,8 +1051,8 @@
   },
   {
    "job_id": "a26f4209-45d6-45b0-b560-3e812e0ecb8a",
-   "lineage_key": "mid-market-account-manager-supply-chain-and-logistics@new-york",
-   "title": "Mid Market Account Manager - Supply Chain and Logistics",
+   "lineage_key": "account-manager-supply-chain-and-logistics-saas@new-york",
+   "title": "Account Manager - Supply Chain and Logistics (saas)",
    "department": "Commercial",
    "team": "Sales - Mid Market Americas",
    "location": "New York",
@@ -1552,21 +1505,6 @@
    "description_sha256": "930b0e5e9951a4e38aa5ae71c07717883e35f4e6cd3361d7edeab75cde5a3c73"
   },
   {
-   "job_id": "db490413-d848-4030-988c-1bb90bd84072",
-   "lineage_key": "senior-lng-market-analyst@singapore",
-   "title": "Senior LNG Market Analyst",
-   "department": "Business Units",
-   "team": "LNG",
-   "location": "Singapore",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-09-11T16:25:25.103000+00:00",
-   "url": "https://jobs.lever.co/kpler/db490413-d848-4030-988c-1bb90bd84072",
-   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
-  },
-  {
    "job_id": "db52ce61-a62a-4cc9-a8a0-6663e74665c8",
    "lineage_key": "senior-data-engineer@united-kingdom",
    "title": "Senior Data Engineer",
@@ -1661,6 +1599,21 @@
    "published_at": "2026-10-15T15:11:38.320000+00:00",
    "url": "https://jobs.lever.co/kpler/ec047856-55e1-4f01-b882-7f609c11fb3d",
    "description_sha256": "35be3a04b2c29ab429fc4d9f8779cb10ead07497d3799e1d28e3d02c40614497"
+  },
+  {
+   "job_id": "ec2b1897-fb38-4513-afac-4c19ce92e25c",
+   "lineage_key": "account-manager-supply-chain-and-logistics-saas@houston",
+   "title": "Account Manager - Supply Chain and Logistics (saas)",
+   "department": "Commercial",
+   "team": "Sales - Mid Market Americas",
+   "location": "Houston",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-11-11T13:45:17.422000+00:00",
+   "url": "https://jobs.lever.co/kpler/ec2b1897-fb38-4513-afac-4c19ce92e25c",
+   "description_sha256": "2fdcfc04d0101560e0a7296cc7f55066a5f2ea6cc03b33926ae0ce42353fbfaf"
   },
   {
    "job_id": "ee05fe01-7e4d-4292-897d-e9114f7f3509",

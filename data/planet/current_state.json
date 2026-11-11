@@ -2,24 +2,9 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-11-10T18:09:19+00:00",
- "job_count": 120,
+ "fetched_at": "2026-11-11T18:00:14+00:00",
+ "job_count": 118,
  "jobs": [
-  {
-   "job_id": "7374533",
-   "lineage_key": "d-i-program-manager-professional-services@netherlands-remote",
-   "title": "D&I Program Manager, Professional Services",
-   "department": "Program Management (ProServ)",
-   "team": "",
-   "location": "Netherlands, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2025-11-18T13:38:58-05:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7374533",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
   {
    "job_id": "7377994",
    "lineage_key": "solutions-architect-deployment-strategist@abu-dhabi-uae",
@@ -36,21 +21,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "7439062",
-   "lineage_key": "d-i-program-manager-professional-services@germany-remote",
-   "title": "D&I Program Manager, Professional Services",
-   "department": "Program Management (ProServ)",
-   "team": "",
-   "location": "Germany, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2025-12-04T00:31:46-05:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7439062",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "7476623",
    "lineage_key": "opto-mechanical-engineer@san-francisco-ca",
    "title": "Opto-Mechanical Engineer",
@@ -63,51 +33,6 @@
    "is_remote": false,
    "published_at": "2025-12-18T13:25:03-05:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7476623",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7490266",
-   "lineage_key": "d-i-program-manager-professional-services@slovenia-remote",
-   "title": "D&I Program Manager, Professional Services",
-   "department": "Program Management (ProServ)",
-   "team": "",
-   "location": "Slovenia, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-06-09T14:58:46-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7490266",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7490269",
-   "lineage_key": "d-i-program-manager-professional-services@austria-remote",
-   "title": "D&I Program Manager, Professional Services",
-   "department": "Program Management (ProServ)",
-   "team": "",
-   "location": "Austria, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-06-09T14:58:48-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7490269",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7490275",
-   "lineage_key": "d-i-program-manager-professional-services@united-kingdom-remote",
-   "title": "D&I Program Manager, Professional Services",
-   "department": "Program Management (ProServ)",
-   "team": "",
-   "location": "United Kingdom, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-02-06T11:52:34-05:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7490275",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -228,6 +153,21 @@
    "is_remote": false,
    "published_at": "2026-03-27T19:02:12-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7740653",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "7772699",
+   "lineage_key": "customer-success-manager-d-i-south-korea@south-korea-remote",
+   "title": "Customer Success Manager  (D&I - South Korea)",
+   "department": "Customer Success Management",
+   "team": "",
+   "location": "South Korea, Remote",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-04-14T20:57:54-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7772699",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -858,6 +798,21 @@
    "is_remote": false,
    "published_at": "2026-09-25T13:10:50-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8204476",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8204493",
+   "lineage_key": "space-systems-engineer-space-operations@berlin-germany",
+   "title": "Space Systems Engineer, Space Operations",
+   "department": "Space Operations",
+   "team": "",
+   "location": "Berlin, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-17T06:35:06-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8204493",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1578,6 +1533,21 @@
    "is_remote": false,
    "published_at": "2026-11-02T18:07:35-05:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8291896",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8302862",
+   "lineage_key": "internal-audit-analyst@san-francisco-ca",
+   "title": "Internal Audit Analyst",
+   "department": "Accounting",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-10T19:03:07-05:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8302862",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

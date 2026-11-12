@@ -2,8 +2,8 @@
  "company": "liveeo",
  "source": "personio",
  "board": "liveeo-gmbh",
- "fetched_at": "2026-11-11T18:00:14+00:00",
- "job_count": 23,
+ "fetched_at": "2026-11-12T18:32:47+00:00",
+ "job_count": 24,
  "jobs": [
   {
    "job_id": "2006503",
@@ -348,6 +348,21 @@
    "is_remote": false,
    "published_at": "2026-11-03T15:33:39+00:00",
    "url": "https://liveeo-gmbh.jobs.personio.de/job/2873911",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "2886045",
+   "lineage_key": "sales-enablement-revenue-operations-manager-f-m-x@berlin",
+   "title": "Sales Enablement & Revenue Operations Manager (f/m/x)",
+   "department": "Sales",
+   "team": "",
+   "location": "Berlin",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-12T10:55:40+00:00",
+   "url": "https://liveeo-gmbh.jobs.personio.de/job/2886045",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

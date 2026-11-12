@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-11-11T18:00:14+00:00",
- "job_count": 136,
+ "fetched_at": "2026-11-12T18:32:47+00:00",
+ "job_count": 135,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -333,6 +333,21 @@
    "is_remote": false,
    "published_at": "2026-03-09T19:00:00-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4794793101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4802021101",
+   "lineage_key": "working-student-ground-systems-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Working Student, Ground Systems (m/f/d)",
+   "department": "Ground Systems",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-03-15T19:00:00-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4802021101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1206,21 +1221,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4994562101",
-   "lineage_key": "cybersecurity-engineer-m-f-d@parsdorf-bavaria-germany",
-   "title": "Cybersecurity Engineer (m/f/d)",
-   "department": "Information & Cybersecurity",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-30T11:42:42-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4994562101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4994584101",
    "lineage_key": "executive-assistant-m-f-d@parsdorf-bavaria-germany",
    "title": "Executive Assistant (m/f/d)",
@@ -1683,21 +1683,6 @@
    "is_remote": false,
    "published_at": "2026-10-27T08:07:08-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5013229101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "5013742101",
-   "lineage_key": "working-student-launch-vehicle-design-m-f-d@parsdorf-bavaria-germany",
-   "title": "Working Student - Launch Vehicle Design (m/f/d)",
-   "department": "Spectrum",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-22T10:15:22-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5013742101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

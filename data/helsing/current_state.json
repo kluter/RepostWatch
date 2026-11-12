@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-11-11T18:00:14+00:00",
- "job_count": 166,
+ "fetched_at": "2026-11-12T18:32:47+00:00",
+ "job_count": 169,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -453,21 +453,6 @@
    "is_remote": false,
    "published_at": "2026-05-08T09:17:14-04:00",
    "url": "https://helsing.ai/jobs/4861198101?gh_jid=4861198101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4862537101",
-   "lineage_key": "procurement-project-manager@munich",
-   "title": "Procurement Project Manager",
-   "department": "Core Operations",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-08T09:18:26-04:00",
-   "url": "https://helsing.ai/jobs/4862537101?gh_jid=4862537101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1551,6 +1536,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4981556101",
+   "lineage_key": "simulation-engineer@munich",
+   "title": "Simulation Engineer",
+   "department": "AI & Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-21T11:37:59-04:00",
+   "url": "https://helsing.ai/jobs/4981556101?gh_jid=4981556101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4983519101",
    "lineage_key": "software-programme-manager-land@london-england-united-kingdom",
    "title": "Software Programme Manager – Land",
@@ -1878,21 +1878,6 @@
    "is_remote": false,
    "published_at": "2026-10-10T09:59:23-04:00",
    "url": "https://helsing.ai/jobs/5002061101?gh_jid=5002061101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "5004097101",
-   "lineage_key": "senior-product-graphic-designer@munich",
-   "title": "Senior Product Graphic Designer",
-   "department": "Product Design",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-13T04:49:08-04:00",
-   "url": "https://helsing.ai/jobs/5004097101?gh_jid=5004097101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -2481,6 +2466,36 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "5033029101",
+   "lineage_key": "lead-indirect-tax@munich",
+   "title": "Lead Indirect Tax",
+   "department": "Finance",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-12T10:54:29-05:00",
+   "url": "https://helsing.ai/jobs/5033029101?gh_jid=5033029101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5033806101",
+   "lineage_key": "project-management-office-pmo-lead-site-development-programme@munich",
+   "title": "Project Management Office (PMO) Lead - Site Development Programme",
+   "department": "Project Management",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-12T02:36:56-05:00",
+   "url": "https://helsing.ai/jobs/5033806101?gh_jid=5033806101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "5034019101",
    "lineage_key": "product-manager-autonomy@berlin",
    "title": "Product Manager - Autonomy",
@@ -2493,6 +2508,36 @@
    "is_remote": false,
    "published_at": "2026-11-11T12:16:21-05:00",
    "url": "https://helsing.ai/jobs/5034019101?gh_jid=5034019101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5035173101",
+   "lineage_key": "early-careers-aerospace-and-aeronautical-engineering@london",
+   "title": "Early Careers - Aerospace and Aeronautical Engineering",
+   "department": "Physical Products",
+   "team": "",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-12T11:30:25-05:00",
+   "url": "https://helsing.ai/jobs/5035173101?gh_jid=5035173101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5035194101",
+   "lineage_key": "early-careers-electronics-and-rf-engineering@london",
+   "title": "Early Careers - Electronics and RF Engineering",
+   "department": "Physical Products",
+   "team": "",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-12T11:30:48-05:00",
+   "url": "https://helsing.ai/jobs/5035194101?gh_jid=5035194101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

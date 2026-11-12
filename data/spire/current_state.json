@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-11-11T18:00:14+00:00",
- "job_count": 35,
+ "fetched_at": "2026-11-12T18:32:47+00:00",
+ "job_count": 31,
  "jobs": [
   {
    "job_id": "6729465",
@@ -96,36 +96,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "7739287",
-   "lineage_key": "director-of-software-engineering@glasgow-scotland-united-kingdom",
-   "title": "Director of Software Engineering",
-   "department": "Engineering",
-   "team": "",
-   "location": "Glasgow, Scotland, United Kingdom",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-03-23T10:35:01-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7739287&gh_jid=7739287",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7745871",
-   "lineage_key": "director-of-software-engineering@boulder-colorado-united-states",
-   "title": "Director of Software Engineering",
-   "department": "Engineering",
-   "team": "",
-   "location": "Boulder, Colorado, United States",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-03-24T09:18:24-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7745871&gh_jid=7745871",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "7749148",
    "lineage_key": "senior-gnc-engineer@glasgow",
    "title": "Senior GNC Engineer",
@@ -198,21 +168,6 @@
    "is_remote": false,
    "published_at": "2026-06-03T08:58:39-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=7976858&gh_jid=7976858",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8001327",
-   "lineage_key": "sales-manager-weather-climate-emea-apac@remote",
-   "title": "Sales Manager - Weather & Climate (EMEA & APAC)",
-   "department": "Sales",
-   "team": "",
-   "location": "Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-06-12T14:12:22-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8001327&gh_jid=8001327",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -303,21 +258,6 @@
    "is_remote": false,
    "published_at": "2026-07-31T10:32:47-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8095214&gh_jid=8095214",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8119290",
-   "lineage_key": "software-engineer@glasgow-scotland-united-kingdom",
-   "title": "Software Engineer",
-   "department": "Engineering",
-   "team": "",
-   "location": "Glasgow, Scotland, United Kingdom",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-02T11:34:40-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8119290&gh_jid=8119290",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

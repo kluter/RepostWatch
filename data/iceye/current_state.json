@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-11-12T18:32:47+00:00",
- "job_count": 198,
+ "fetched_at": "2026-11-12T22:26:20+00:00",
+ "job_count": 197,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -1137,21 +1137,6 @@
    "published_at": "2026-08-26T13:17:19.779+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/60a82dbd-bc69-4de4-a133-c58ee0256716",
    "description_sha256": "ecc5bbf468c68812ea25316b0ab351fdbadb0aff8033c93a57da376706f7fc21"
-  },
-  {
-   "job_id": "637982df-5c1e-437a-81ee-3e234f75a732",
-   "lineage_key": "senior-software-engineer-tactical-access@espoo",
-   "title": "Senior Software Engineer (Tactical Access)",
-   "department": "Engineering",
-   "team": "Business Automation",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-05T13:40:02.499+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/637982df-5c1e-437a-81ee-3e234f75a732",
-   "description_sha256": "56b5116866add8ce60a51fee81d8bc71c094beb608f922f6ef297fa365f57417"
   },
   {
    "job_id": "655f4071-2346-4b8d-bcc2-49fe3712a380",

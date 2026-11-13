@@ -2,8 +2,8 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-11-13T17:59:35+00:00",
- "job_count": 44,
+ "fetched_at": "2026-11-13T22:10:01+00:00",
+ "job_count": 42,
  "jobs": [
   {
    "job_id": "0726769f-2ee3-46d2-9243-7bed980f2375",
@@ -171,6 +171,21 @@
    "description_sha256": "20cc35d7d1ebc6ed122573fcce576e4da0730239bf6ac1a934c62c0b69da0512"
   },
   {
+   "job_id": "4051818d-65cc-432a-b40d-7c52d333db09",
+   "lineage_key": "satcom-scrum-master@harwell-uk",
+   "title": "Satcom Scrum Master",
+   "department": "SATCOM (Broadband and Narrowband)",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-11-11T07:51:04+00:00",
+   "url": "https://careers.open-cosmos.com/jobs/8702853-satcom-scrum-master",
+   "description_sha256": "6a1ac65a64bf96805b256d2e85b380d9045f92c29f0210d66c68f8f00184771e"
+  },
+  {
    "job_id": "4a6848fd-9f8e-4fa7-920d-bc8e92cef003",
    "lineage_key": "ait-technician@athens-greece",
    "title": "AIT Technician",
@@ -214,21 +229,6 @@
    "published_at": "2025-08-01T13:38:28+01:00",
    "url": "https://careers.open-cosmos.com/jobs/6255243-quality-and-product-assurance-manager",
    "description_sha256": "d698aa4679dde085da9ba66b5f6d21f64f2ed8d134e52d92a002cb325a167cbf"
-  },
-  {
-   "job_id": "5f0694fb-929c-478e-aaa7-52d245ce226e",
-   "lineage_key": "quality-and-product-assurance-manager@harwell-uk",
-   "title": "Quality and Product Assurance Manager",
-   "department": "QUALITY & PRODUCT ASSURANCE",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2025-05-20T14:18:31+01:00",
-   "url": "https://careers.open-cosmos.com/jobs/5953818-quality-and-product-assurance-manager",
-   "description_sha256": "d7dc5638c598f2b7c90de5c1d8d0a3debd6dcb09ee9462782110d526cc909ddb"
   },
   {
    "job_id": "5f4038e2-d87b-4660-aab2-514cd41f7906",
@@ -396,21 +396,6 @@
    "description_sha256": "ec80daf298e1112f2148c8db293e3d5033b5e8cca93e4e0ac27b7a66cb5a0a78"
   },
   {
-   "job_id": "b00ff0b2-2321-4d39-99b4-1d8f18732401",
-   "lineage_key": "ait-technician@coimbra-portugal",
-   "title": "AIT Technician",
-   "department": "ASSEMBLY, INTEGRATION & TEST",
-   "team": "",
-   "location": "Coimbra, Portugal",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-05-22T10:26:16+01:00",
-   "url": "https://careers.open-cosmos.com/jobs/7780528-ait-technician",
-   "description_sha256": "3bbc752da21b5938e05faa08e4eecb3eb251f2d516347503038b9885809e7d7f"
-  },
-  {
    "job_id": "b0b61ad4-52d6-4d23-bff7-29561ef48c49",
    "lineage_key": "senior-mission-manager-barcelona-spain@barcelona-spain",
    "title": "Senior Mission Manager (Barcelona, Spain)",
@@ -514,21 +499,6 @@
    "published_at": "2026-07-06T15:01:40+01:00",
    "url": "https://careers.open-cosmos.com/jobs/8025374-quality-product-assurance-qpa-intern",
    "description_sha256": "7798e408d0f65941f3e4e357bf56337814758b0be6a515d0e20afea766da3d6b"
-  },
-  {
-   "job_id": "d1052eb6-a0a9-4d9a-ba3f-f72e11fccb23",
-   "lineage_key": "sales-lead-earth-observation-data-europe@harwell-uk",
-   "title": "Sales Lead, Earth Observation Data (Europe)",
-   "department": "DATA",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-02-14T16:08:05+00:00",
-   "url": "https://careers.open-cosmos.com/jobs/7231054-sales-lead-earth-observation-data-europe",
-   "description_sha256": "09c4d6239cf4b34e2ab769a37f8857ccf760f4a3fcd4fe1411b22388bcb01ff3"
   },
   {
    "job_id": "d15351b6-0895-4966-bdc0-1447ef782823",

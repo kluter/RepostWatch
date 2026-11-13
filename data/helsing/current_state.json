@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-11-12T18:32:47+00:00",
- "job_count": 169,
+ "fetched_at": "2026-11-13T17:59:35+00:00",
+ "job_count": 171,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -1011,6 +1011,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4948063101",
+   "lineage_key": "safety-manager-system-safety@munich",
+   "title": "Safety Manager (System Safety)",
+   "department": "Systems Architecture",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-07T08:14:34-04:00",
+   "url": "https://helsing.ai/jobs/4948063101?gh_jid=4948063101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4948277101",
    "lineage_key": "obsolescence-manager@munich",
    "title": "Obsolescence Manager",
@@ -1173,21 +1188,6 @@
    "is_remote": false,
    "published_at": "2026-08-18T14:59:55-04:00",
    "url": "https://helsing.ai/jobs/4953565101?gh_jid=4953565101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4957296101",
-   "lineage_key": "talent-operations-partner@london",
-   "title": "Talent Operations Partner",
-   "department": "Talent Acquisition",
-   "team": "",
-   "location": "London",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-21T10:50:38-04:00",
-   "url": "https://helsing.ai/jobs/4957296101?gh_jid=4957296101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1926,21 +1926,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "5012217101",
-   "lineage_key": "environmental-engineer@london",
-   "title": "Environmental Engineer",
-   "department": "Hardware Engineering",
-   "team": "",
-   "location": "London",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-22T11:50:16-04:00",
-   "url": "https://helsing.ai/jobs/5012217101?gh_jid=5012217101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "5013785101",
    "lineage_key": "junior-customs-manager@munich",
    "title": "(Junior) Customs Manager",
@@ -1957,8 +1942,8 @@
   },
   {
    "job_id": "5015993101",
-   "lineage_key": "specialist-export-control@munich",
-   "title": "Specialist Export Control",
+   "lineage_key": "export-control-manager@munich",
+   "title": "Export Control Manager",
    "department": "Operations",
    "team": "",
    "location": "Munich",
@@ -2481,6 +2466,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "5033685101",
+   "lineage_key": "senior-manager-ifrs-consolidation@munich",
+   "title": "Senior Manager, IFRS & Consolidation",
+   "department": "Finance",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-13T04:11:03-05:00",
+   "url": "https://helsing.ai/jobs/5033685101?gh_jid=5033685101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "5033806101",
    "lineage_key": "project-management-office-pmo-lead-site-development-programme@munich",
    "title": "Project Management Office (PMO) Lead - Site Development Programme",
@@ -2511,6 +2511,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "5034496101",
+   "lineage_key": "tecnico-a-de-produccion@barcelona",
+   "title": "Técnico/a de Producción",
+   "department": "Hardware Engineering",
+   "team": "",
+   "location": "Barcelona",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-13T04:33:16-05:00",
+   "url": "https://helsing.ai/jobs/5034496101?gh_jid=5034496101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "5035173101",
    "lineage_key": "early-careers-aerospace-and-aeronautical-engineering@london",
    "title": "Early Careers - Aerospace and Aeronautical Engineering",
@@ -2538,6 +2553,21 @@
    "is_remote": false,
    "published_at": "2026-11-12T11:30:48-05:00",
    "url": "https://helsing.ai/jobs/5035194101?gh_jid=5035194101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5035642101",
+   "lineage_key": "manager-exportkontrolle@munich",
+   "title": "Manager Exportkontrolle",
+   "department": "Operations",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-13T04:22:02-05:00",
+   "url": "https://helsing.ai/jobs/5035642101?gh_jid=5035642101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

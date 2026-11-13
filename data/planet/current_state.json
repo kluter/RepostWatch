@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-11-11T18:00:14+00:00",
- "job_count": 118,
+ "fetched_at": "2026-11-13T17:59:35+00:00",
+ "job_count": 116,
  "jobs": [
   {
    "job_id": "7377994",
@@ -411,21 +411,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8143129",
-   "lineage_key": "senior-software-engineer-full-stack-d-i-solutions@united-states-remote",
-   "title": "Senior Software Engineer, Full-stack - D&I Solutions",
-   "department": "Global Monitoring Solutions (SWE)",
-   "team": "",
-   "location": "United States, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-09-01T17:40:17-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8143129",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8148503",
    "lineage_key": "senior-business-development-manager-us-navy@arlington-va",
    "title": "Senior Business Development Manager, US Navy",
@@ -453,21 +438,6 @@
    "is_remote": true,
    "published_at": "2026-09-03T17:45:53-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8154780",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8155646",
-   "lineage_key": "senior-software-engineer-gms-app-team@united-states-remote",
-   "title": "Senior Software Engineer, GMS App Team",
-   "department": "Global Monitoring Solutions (SWE)",
-   "team": "",
-   "location": "United States, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-08-25T13:26:38-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8155646",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

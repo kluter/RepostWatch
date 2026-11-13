@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-11-12T18:32:47+00:00",
- "job_count": 135,
+ "fetched_at": "2026-11-13T17:59:35+00:00",
+ "job_count": 138,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -651,21 +651,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4941074101",
-   "lineage_key": "director-spectrum-value-stream-m-f-d@parsdorf-bavaria-germany",
-   "title": "Director Spectrum Value Stream (m/f/d)",
-   "department": "Production, Operations & Quality",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-10T03:24:46-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4941074101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4941905101",
    "lineage_key": "technical-buyer-m-f-d@parsdorf-bavaria-germany",
    "title": "Technical Buyer (m/f/d)",
@@ -828,6 +813,21 @@
    "is_remote": false,
    "published_at": "2026-08-14T10:34:06-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4953240101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4963501101",
+   "lineage_key": "supply-chain-management-specialist-transport-logistics-m-f-d@parsdorf-bavaria-germany",
+   "title": "Supply Chain Management Specialist / Transport Logistics (m/f/d)",
+   "department": "Production, Operations & Quality",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-10T12:27:34-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4963501101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1132,8 +1132,8 @@
   },
   {
    "job_id": "4989616101",
-   "lineage_key": "manager-supplier-quality-continuous-improvement-m-f-d@parsdorf-bavaria-germany",
-   "title": "Manager Supplier Quality & Continuous Improvement (m/f/d)",
+   "lineage_key": "manager-supply-quality-continuous-improvement-m-f-d@parsdorf-bavaria-germany",
+   "title": "Manager Supply Quality & Continuous Improvement (m/f/d)",
    "department": "Production, Operations & Quality",
    "team": "",
    "location": "Parsdorf, Bavaria, Germany",
@@ -2016,18 +2016,63 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "5033512101",
-   "lineage_key": "intern-ai-data-transformation@parsdorf-bavaria-germany",
-   "title": "Intern AI & Data Transformation",
-   "department": "AI & Data Transformation",
+   "job_id": "5030503101",
+   "lineage_key": "senior-people-operations-specialist-m-f-d@parsdorf-bavaria-germany",
+   "title": "Senior People Operations Specialist (m/f/d)",
+   "department": "Talent",
    "team": "",
    "location": "Parsdorf, Bavaria, Germany",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
    "is_remote": false,
-   "published_at": "2026-11-11T08:14:04-05:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5033512101",
+   "published_at": "2026-11-13T08:41:47-05:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5030503101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5036028101",
+   "lineage_key": "director-spectrum-value-stream-m-f-d@parsdorf-bavaria-germany",
+   "title": "Director Spectrum Value Stream (m/f/d)",
+   "department": "Production, Operations & Quality",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-13T10:28:06-05:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5036028101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5036040101",
+   "lineage_key": "senior-executive-assistant-to-the-cto-f-m-d@parsdorf-bavaria-germany",
+   "title": "Senior Executive Assistant to the CTO (f/m/d)",
+   "department": "Spectrum",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-13T10:51:18-05:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5036040101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5036121101",
+   "lineage_key": "umweltmanagement-spezialist-m-w-d@parsdorf-bavaria-germany",
+   "title": "Umweltmanagement Spezialist (m/w/d)",
+   "department": "Infrastructure, Safety & Service",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-13T11:53:14-05:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5036121101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

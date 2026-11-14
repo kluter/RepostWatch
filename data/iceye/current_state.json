@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-11-13T17:59:35+00:00",
+ "fetched_at": "2026-11-14T20:55:13+00:00",
  "job_count": 199,
  "jobs": [
   {
@@ -1204,8 +1204,8 @@
    "job_id": "67928e92-3ef8-4028-83f5-325a420a0973",
    "lineage_key": "iceye-intern-lab-missions-line-of-business@espoo",
    "title": "ICEYE Intern Lab: Missions Line of Business",
-   "department": "Product",
-   "team": "Product Management",
+   "department": "Missions",
+   "team": "Missions",
    "location": "Espoo",
    "secondary_locations": [],
    "employment_type": "FullTime",

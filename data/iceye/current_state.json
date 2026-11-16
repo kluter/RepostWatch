@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-11-14T20:55:13+00:00",
- "job_count": 199,
+ "fetched_at": "2026-11-16T20:38:44+00:00",
+ "job_count": 195,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -78,7 +78,7 @@
    "is_remote": false,
    "published_at": "2026-11-10T15:43:31.657+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/0b59b282-5c17-439e-b5af-86e118d98cd1",
-   "description_sha256": "5af798f16f8fa6e2078d4fce11ed547d3169764197e662a41ce812a846af914c"
+   "description_sha256": "0c3c9c7a5567591a58028db8d66381623808bd6263ae99c24665df58e0c1273c"
   },
   {
    "job_id": "0bcc9e17-7eec-4648-bb5a-298f3f84794d",
@@ -621,21 +621,6 @@
    "description_sha256": "bf5fad8d8c59303bd5ef42bb175cfc3a338c4e9c95b8d710c834138635d8ed4f"
   },
   {
-   "job_id": "37b350c7-9a07-441b-b7a5-18b1aeff4d90",
-   "lineage_key": "staff-mechanical-engineer@warsaw",
-   "title": "Staff Mechanical Engineer",
-   "department": "Engineering",
-   "team": "Optical System",
-   "location": "Warsaw",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-07-29T16:11:27.548+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/37b350c7-9a07-441b-b7a5-18b1aeff4d90",
-   "description_sha256": "be78aac00e5969faa410986b2991b1b827f6f791befb4c4309c5e59efb3d79b4"
-  },
-  {
    "job_id": "37ce25c9-e16c-45d7-8891-f808c76e1102",
    "lineage_key": "senior-system-engineer-ground-systems-hardware@espoo",
    "title": "Senior System Engineer (Ground Systems Hardware)",
@@ -1140,8 +1125,8 @@
   },
   {
    "job_id": "60a82dbd-bc69-4de4-a133-c58ee0256716",
-   "lineage_key": "ait-technician@athens",
-   "title": "AIT Technician",
+   "lineage_key": "satellite-production-technician@athens",
+   "title": "Satellite Production Technician",
    "department": "Global Manufacturing Organization",
    "team": "GR AIT Engineering",
    "location": "Athens",
@@ -1151,7 +1136,7 @@
    "is_remote": false,
    "published_at": "2026-08-26T13:17:19.779+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/60a82dbd-bc69-4de4-a133-c58ee0256716",
-   "description_sha256": "ecc5bbf468c68812ea25316b0ab351fdbadb0aff8033c93a57da376706f7fc21"
+   "description_sha256": "39981e80fe1ea71b98a5d685b6d05213fc0c72c09a841179eba40e6341dbd038"
   },
   {
    "job_id": "655f4071-2346-4b8d-bcc2-49fe3712a380",
@@ -1314,21 +1299,6 @@
    "description_sha256": "044ad7920eb2fe4a218a06bb43397c8485d6ace40aecc88ecebb58b502716d0a"
   },
   {
-   "job_id": "6f4faf66-f7c0-4e89-a10f-6e9589646e0c",
-   "lineage_key": "structural-analysis-engineer-team-lead@espoo",
-   "title": "Structural Analysis Engineer, Team Lead",
-   "department": "Engineering",
-   "team": "Mechanical Engineering",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-04-14T13:05:15.294+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/6f4faf66-f7c0-4e89-a10f-6e9589646e0c",
-   "description_sha256": "f5ee52738846db421f1637679ebd29b3cb7f9ccb34f14f59c0ec5f8577f83bc9"
-  },
-  {
    "job_id": "6ff3a63c-29b2-4652-83df-6546a875804e",
    "lineage_key": "senior-electronics-engineer@warsaw",
    "title": "Senior Electronics Engineer",
@@ -1429,7 +1399,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-09-29T10:41:34.756+00:00",
+   "published_at": "2026-11-16T10:47:14.054+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/728ba3dc-5ab4-4f86-b7cc-5bd24c37f2d4",
    "description_sha256": "7b84e32bc481518c8c328c960b6daec413b348237e77e782648d441dc3aa1f0d"
   },
@@ -1569,21 +1539,6 @@
    "description_sha256": "b816c8f2a7d28a3eefaefcc3ee319d8c5e2290f9086312566829a5aa68ecaa03"
   },
   {
-   "job_id": "813ac772-0e4f-468e-add1-baaf0eff36d3",
-   "lineage_key": "stock-coordinator-intern@espoo",
-   "title": "Stock Coordinator Intern",
-   "department": "Global Manufacturing Organization",
-   "team": "FI Stock Management",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-11-06T08:59:02.265+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/813ac772-0e4f-468e-add1-baaf0eff36d3",
-   "description_sha256": "32d11a2a4f0115bcbca145a0994b552e2a1849f150845ce0bd515e40cea88650"
-  },
-  {
    "job_id": "815956c4-b3c7-4b96-b361-584b53a2af86",
    "lineage_key": "qms-specialist@valencia",
    "title": "QMS Specialist",
@@ -1626,7 +1581,7 @@
    "is_remote": false,
    "published_at": "2026-08-26T13:15:51.237+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/824f4858-2692-4b97-82bf-cbe2805dfbd6",
-   "description_sha256": "957893a5380f6429d4d673210b026d85c7687e6c089273c38520a0c06ec2d048"
+   "description_sha256": "b30a6ab865a4a82ee0594bbd29a5f0de29acd37ee35c0ff5d709c4de3bb9ab61"
   },
   {
    "job_id": "83a8f02c-f829-4f49-994a-91fd6716de0a",
@@ -1682,8 +1637,8 @@
   },
   {
    "job_id": "8a1f917f-09fa-45b0-8e05-2f6eb2cdc793",
-   "lineage_key": "forward-deployed-backend-devops-engineer-portugal@lisbon",
-   "title": "Forward Deployed Backend/DevOps Engineer, Portugal",
+   "lineage_key": "forward-deployed-devops-engineer-portugal@lisbon",
+   "title": "Forward Deployed DevOps Engineer, Portugal",
    "department": "Product",
    "team": "Forward Deployed Engineering",
    "location": "Lisbon",
@@ -1693,24 +1648,7 @@
    "is_remote": true,
    "published_at": "2026-10-02T10:58:49.181+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/8a1f917f-09fa-45b0-8e05-2f6eb2cdc793",
-   "description_sha256": "0dee2274e4d0b18836cc7a978d244d307c17cdaccfb65b50f6f864c803290d66"
-  },
-  {
-   "job_id": "8a6bfe22-bf26-49da-a1ce-b64b314897ee",
-   "lineage_key": "senior-devops-engineer-ground-stations@espoo",
-   "title": "Senior DevOps Engineer (Ground Stations)",
-   "department": "Engineering",
-   "team": "CONNECT and Ground Stations",
-   "location": "Espoo",
-   "secondary_locations": [
-    "Berlin"
-   ],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-10-01T12:27:29.075+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/8a6bfe22-bf26-49da-a1ce-b64b314897ee",
-   "description_sha256": "43271fb0530c230cd144b237dda766afacb6d04f75d54df9a69e73dccf9c0738"
+   "description_sha256": "f8250eecb72960d1952b0b7b167c7a7cd934f3df83e1e5bf6061212940359730"
   },
   {
    "job_id": "8bb9b7f6-bcc1-488f-8d3b-c03535d5888d",
@@ -1806,8 +1744,8 @@
   },
   {
    "job_id": "938ce5df-501a-4349-9586-2ce758dbfd0a",
-   "lineage_key": "senior-ait-technician@athens",
-   "title": "Senior AIT Technician",
+   "lineage_key": "senior-satellite-production-technician@athens",
+   "title": "Senior Satellite Production Technician",
    "department": "Global Manufacturing Organization",
    "team": "GR AIT Engineering",
    "location": "Athens",
@@ -1817,7 +1755,7 @@
    "is_remote": false,
    "published_at": "2026-08-26T10:23:21.731+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/938ce5df-501a-4349-9586-2ce758dbfd0a",
-   "description_sha256": "d9ca10b9b90afe2fe8d63829c68aef86a88673407c5b2552b4e64b7d0342820f"
+   "description_sha256": "2b99715f52216ce0a5f452faaaef4018b7b408d84d1d040cf564eb45237bc73b"
   },
   {
    "job_id": "943bfb53-f3c9-44ef-acf7-81d29f280ba5",
@@ -1972,6 +1910,21 @@
    "description_sha256": "52e0aaf157d39471c937b696c810211ffdf8f2b4b09cf4e9b8cf3ffe906bce26"
   },
   {
+   "job_id": "a6db612f-b49f-4be4-a4d4-7639649a1cf7",
+   "lineage_key": "director-of-maite-finland@espoo",
+   "title": "Director of MAITE Finland",
+   "department": "Global Manufacturing Organization",
+   "team": "Production Finland",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-16T13:55:29.970+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/a6db612f-b49f-4be4-a4d4-7639649a1cf7",
+   "description_sha256": "f1a8f6720e6ef381928eafa5b1f0cb4ff7ba326d1a9a652c1b0a9bb6d4540875"
+  },
+  {
    "job_id": "a758df0a-2db1-4c14-926f-2c87eaf33d6a",
    "lineage_key": "senior-electric-propulsion-engineer@espoo",
    "title": "Senior Electric Propulsion Engineer",
@@ -2008,7 +1961,7 @@
    "lineage_key": "customs-specialist@espoo",
    "title": "Customs Specialist",
    "department": "Global Manufacturing Organization",
-   "team": "Supply Chain Logistics and Compliance",
+   "team": "FI Stock Management",
    "location": "Espoo",
    "secondary_locations": [],
    "employment_type": "FullTime",
@@ -2373,21 +2326,6 @@
    "description_sha256": "761fee80bcf545a41aa35bae42834661d64f95c1f1a98fe8b2a6d9787ac9cbee"
   },
   {
-   "job_id": "c7cf51bc-0164-45cd-a5d9-53f1e4f77845",
-   "lineage_key": "engineering-lead-orbit-determination@espoo",
-   "title": "Engineering Lead, Orbit Determination",
-   "department": "Engineering",
-   "team": "Orbit Determination",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-04-14T08:27:19.833+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/c7cf51bc-0164-45cd-a5d9-53f1e4f77845",
-   "description_sha256": "0b40630f03cf777e1433c08bb1077806fa511e44c43609835226817ac2d53264"
-  },
-  {
    "job_id": "c80943db-8b71-4c64-97ba-e28f6e7b174e",
    "lineage_key": "smart-manufacturing-engineer-mechanical@espoo",
    "title": "Smart Manufacturing Engineer, Mechanical",
@@ -2507,7 +2445,7 @@
    "is_remote": false,
    "published_at": "2026-08-20T07:02:36.812+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/cf5aef51-a500-4e06-895e-c2bc9be02bbf",
-   "description_sha256": "bff85a7c63d6f43b19a3cb38ea461161ed7ee712042d6a1aaeafaa45a31b43d7"
+   "description_sha256": "e009703435a55525565152334b941a8b1f1d731833cc39def1a9b54831989516"
   },
   {
    "job_id": "cf6ba0e9-a750-4ee7-9b0a-8cb519cb7c39",
@@ -2539,7 +2477,7 @@
    "is_remote": true,
    "published_at": "2026-10-30T11:28:42.739+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/cf9eb570-9cd8-492a-adad-51fe246801e9",
-   "description_sha256": "da9ae1eceaa8da71d44bbde7bfba82121d52088b75e0b41fbaaca397886f678f"
+   "description_sha256": "db9ff817cfdfb0fa7ce9b2b73cc6db358e54b1836d71d79ae1b420f8d5f99932"
   },
   {
    "job_id": "cfc19497-d4ed-465d-9b7d-e2ed114c4ba4",
@@ -2861,7 +2799,7 @@
    "is_remote": false,
    "published_at": "2026-11-13T08:25:12.395+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e8bba89b-1a9f-4b40-b476-454b43bb0244",
-   "description_sha256": "163059988c38cf32e0eb3a7c6b48773c048387e223c6004828fe8f277c5bb88b"
+   "description_sha256": "b4bdcd907a4467b9110c362dda49071edeaa07a77d0bcf0788a043c7843eac98"
   },
   {
    "job_id": "ea6fcf8b-f800-4abb-a254-cb82596b5c98",
@@ -3018,8 +2956,8 @@
   },
   {
    "job_id": "fb48d8a8-a747-4df7-9f43-91cec3bdd87e",
-   "lineage_key": "senior-production-technician-power@espoo",
-   "title": "Senior Production Technician, Power",
+   "lineage_key": "senior-production-technician-electronics@espoo",
+   "title": "Senior Production Technician, Electronics",
    "department": "Global Manufacturing Organization",
    "team": "Production Finland",
    "location": "Espoo",
@@ -3029,7 +2967,7 @@
    "is_remote": true,
    "published_at": "2026-11-13T12:37:39.046+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/fb48d8a8-a747-4df7-9f43-91cec3bdd87e",
-   "description_sha256": "0e1e4ffece49aa516c9d163e67a0fe618e40af3df70a0b7558d30f5a73f339a1"
+   "description_sha256": "e36cf24a223bb54611a6b6c5c83a409220db4702bfb73d351f9b30bfa486b12c"
   },
   {
    "job_id": "fe0001f5-f3c9-4df7-b968-23451c9b4b1d",

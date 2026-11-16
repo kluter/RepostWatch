@@ -692,6 +692,11 @@
    "lon": 103.8194992,
    "label": "Singapore",
    "remote": true
+  },
+  "buenos aires, argentina": {
+   "lat": -34.6095579,
+   "lon": -58.3887904,
+   "label": "Buenos Aires"
   }
  }
 }

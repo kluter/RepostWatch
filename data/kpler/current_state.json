@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-11-13T22:10:01+00:00",
- "job_count": 111,
+ "fetched_at": "2026-11-16T20:38:44+00:00",
+ "job_count": 109,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -201,21 +201,6 @@
    "published_at": "2026-10-08T17:28:41.185000+00:00",
    "url": "https://jobs.lever.co/kpler/187966a4-ec74-4e60-94ee-016ffdb95d11",
    "description_sha256": "ba6aecdc741f5ee31404ff3e387e1de0cf90439a94514d162866e880450aa612"
-  },
-  {
-   "job_id": "19dc1d40-6a2f-47a2-bca6-64c845938625",
-   "lineage_key": "sales-specialist-financial-flows-americas@houston",
-   "title": "Sales Specialist – Financial Flows (Americas)",
-   "department": "Commercial",
-   "team": "Sales Specialist",
-   "location": "Houston",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-10-27T11:42:43.060000+00:00",
-   "url": "https://jobs.lever.co/kpler/19dc1d40-6a2f-47a2-bca6-64c845938625",
-   "description_sha256": "768315627911efc8a938cb2d427fea099579226a009d23ebb5452d9b4402c42b"
   },
   {
    "job_id": "1e3dc8d0-c551-4c25-aa69-63ab3f1d8578",
@@ -560,8 +545,8 @@
   },
   {
    "job_id": "5ce9f173-8621-4c92-873f-156516db8c44",
-   "lineage_key": "account-executive-financials-europe@london",
-   "title": "Account Executive - Financials - Europe",
+   "lineage_key": "account-executive-energy-commodities-europe@london",
+   "title": "Account Executive -Energy/Commodities- Europe",
    "department": "Commercial",
    "team": "Sales - Mid Market EMEA",
    "location": "London",
@@ -1003,7 +988,7 @@
    "is_remote": false,
    "published_at": "2026-11-06T11:25:39.573000+00:00",
    "url": "https://jobs.lever.co/kpler/97bda82b-c606-42cd-84d3-7b05f2fdd035",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "description_sha256": "97dd5dec6ac6ea3ae852dfd7fe08a364cad7a721433647971e197a33cfcac0f7"
   },
   {
    "job_id": "98a0722a-8224-48ea-830a-58a606806383",
@@ -1388,23 +1373,6 @@
    "published_at": "2026-04-08T13:53:44.143000+00:00",
    "url": "https://jobs.lever.co/kpler/c7409152-aa25-4564-8bde-76c3ecc70049",
    "description_sha256": "195cf11ba09f0934e23e0cd0aa52f2fa3b1357834fdc5f1b29a7b1c3fdcafe41"
-  },
-  {
-   "job_id": "c84729bc-bd8b-404c-9d04-c0a9f49c5513",
-   "lineage_key": "account-executive-energy@houston",
-   "title": "Account Executive - Energy",
-   "department": "Commercial",
-   "team": "Sales - Mid Market Americas",
-   "location": "Houston",
-   "secondary_locations": [
-    "New York"
-   ],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-04-21T09:56:12.230000+00:00",
-   "url": "https://jobs.lever.co/kpler/c84729bc-bd8b-404c-9d04-c0a9f49c5513",
-   "description_sha256": "0fda6ebd03b77f10041f23e164011488225b26a00f011ccd89b2c94c35e651d2"
   },
   {
    "job_id": "c921bf16-0821-4f20-8721-9148e6ddae37",

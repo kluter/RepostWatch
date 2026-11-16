@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-11-13T17:59:35+00:00",
- "job_count": 171,
+ "fetched_at": "2026-11-16T20:38:44+00:00",
+ "job_count": 172,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -1746,6 +1746,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4996521101",
+   "lineage_key": "legal-counsel-it-privacy@munich",
+   "title": "Legal Counsel IT & Privacy",
+   "department": "Legal",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-10-05T05:07:54-04:00",
+   "url": "https://helsing.ai/jobs/4996521101?gh_jid=4996521101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4996583101",
    "lineage_key": "logistics-manager@munich",
    "title": "Logistics Manager",
@@ -1762,11 +1777,11 @@
   },
   {
    "job_id": "4997901101",
-   "lineage_key": "lead-it-engineer@munich",
+   "lineage_key": "lead-it-engineer@paris",
    "title": "Lead IT Engineer",
    "department": "IT",
    "team": "",
-   "location": "Munich",
+   "location": "Paris",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
@@ -1878,21 +1893,6 @@
    "is_remote": false,
    "published_at": "2026-10-10T09:59:23-04:00",
    "url": "https://helsing.ai/jobs/5002061101?gh_jid=5002061101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "5004102101",
-   "lineage_key": "senior-programme-manager-military-exercises@munich",
-   "title": "(Senior) Programme Manager - Military Exercises",
-   "department": "Market",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-13T10:15:05-04:00",
-   "url": "https://helsing.ai/jobs/5004102101?gh_jid=5004102101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -2568,6 +2568,21 @@
    "is_remote": false,
    "published_at": "2026-11-13T04:22:02-05:00",
    "url": "https://helsing.ai/jobs/5035642101?gh_jid=5035642101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5037050101",
+   "lineage_key": "simulation-architect-defence-combat-systems@munich",
+   "title": "Simulation Architect – Defence & Combat Systems",
+   "department": "AI & Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-16T10:48:06-05:00",
+   "url": "https://helsing.ai/jobs/5037050101?gh_jid=5037050101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

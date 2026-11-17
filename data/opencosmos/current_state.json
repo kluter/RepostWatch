@@ -2,8 +2,8 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-11-17T19:17:57+00:00",
- "job_count": 54,
+ "fetched_at": "2026-11-17T23:38:44+00:00",
+ "job_count": 53,
  "jobs": [
   {
    "job_id": "000079db-b149-42e6-82cb-a457d52a9373",
@@ -619,21 +619,6 @@
    "published_at": "2026-03-17T09:04:13+00:00",
    "url": "https://careers.open-cosmos.com/jobs/7399240-senior-spectrum-systems-engineer",
    "description_sha256": "7061f66699594e02e12be0b4a1831ef23e90760e5d9dcbc8cc3f36a24d162400"
-  },
-  {
-   "job_id": "caa3cc3f-4961-4772-845d-38c376c072ea",
-   "lineage_key": "embedded-systems-engineer@harwell-uk",
-   "title": "Embedded Systems Engineer",
-   "department": "SATCOM (Broadband and Narrowband)",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-05-06T17:07:37+01:00",
-   "url": "https://careers.open-cosmos.com/jobs/7693992-embedded-systems-engineer",
-   "description_sha256": "ca4310f973f583b35b678932473c298b3de009606fa52748c1eed00c8f5bf8c2"
   },
   {
    "job_id": "cf44ccdf-509c-499b-b7b1-3f5dd1089976",

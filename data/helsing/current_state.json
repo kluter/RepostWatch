@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-11-17T19:17:57+00:00",
- "job_count": 174,
+ "fetched_at": "2026-11-17T23:38:44+00:00",
+ "job_count": 176,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -772,11 +772,11 @@
   },
   {
    "job_id": "4906726101",
-   "lineage_key": "lead-field-engineer@washington-dc",
-   "title": "Lead Field Engineer",
+   "lineage_key": "field-engineer@martinsburg-wv",
+   "title": "Field Engineer",
    "department": "Deployed Engineering",
    "team": "",
-   "location": "Washington, DC",
+   "location": "Martinsburg, WV",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
@@ -2121,6 +2121,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "5028673101",
+   "lineage_key": "mechanical-designer@washington-dc",
+   "title": "Mechanical Designer",
+   "department": "Physical Products",
+   "team": "",
+   "location": "Washington, DC",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-17T14:44:46-05:00",
+   "url": "https://helsing.ai/jobs/5028673101?gh_jid=5028673101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "5028718101",
    "lineage_key": "staff-ai-research-engineer-3d-computer-vision@munich",
    "title": "Staff AI Research Engineer -  3D Computer Vision",
@@ -2193,6 +2208,21 @@
    "is_remote": false,
    "published_at": "2026-11-06T15:19:18-05:00",
    "url": "https://helsing.ai/jobs/5028848101?gh_jid=5028848101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5028875101",
+   "lineage_key": "systems-engineer@washington-dc",
+   "title": "Systems Engineer",
+   "department": "Physical Products",
+   "team": "",
+   "location": "Washington, DC",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-17T14:48:11-05:00",
+   "url": "https://helsing.ai/jobs/5028875101?gh_jid=5028875101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

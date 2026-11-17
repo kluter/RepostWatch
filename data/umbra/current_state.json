@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-11-09T21:00:18+00:00",
- "job_count": 25,
+ "fetched_at": "2026-11-17T23:38:44+00:00",
+ "job_count": 26,
  "jobs": [
   {
    "job_id": "0652C1D7B7",
@@ -106,6 +106,24 @@
    "published_at": "2026-11-07T00:00:00+00:00",
    "url": "https://apply.workable.com/j/2052942FA2",
    "description_sha256": "31df49fb0acdc4422b1bf276a1cb81486ac1118fc734a31a13947173317fb6a9"
+  },
+  {
+   "job_id": "24324A1196",
+   "lineage_key": "account-manager@arlington-united-states",
+   "title": "Account Manager",
+   "department": "Mission Solutions",
+   "team": "",
+   "location": "Arlington, United States",
+   "secondary_locations": [
+    "Reston, United States",
+    "Santa Barbara, United States"
+   ],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/24324A1196",
+   "description_sha256": "43169545e104c3f396142b0219dc0931b3de19bfcf02fdac11dc28c873f4fea9"
   },
   {
    "job_id": "27EBA846B1",

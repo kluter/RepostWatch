@@ -2,7 +2,7 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-11-17T19:17:57+00:00",
+ "fetched_at": "2026-11-17T23:38:44+00:00",
  "job_count": 109,
  "jobs": [
   {
@@ -1325,7 +1325,7 @@
    "is_remote": false,
    "published_at": "2026-09-23T10:32:17.285000+00:00",
    "url": "https://jobs.lever.co/kpler/c1c461f8-b95a-49ab-ad43-f8b519e59778",
-   "description_sha256": "16e1750fd867ca527010dd76a113cd448ceeb604f0f8cd4a31639976bfaab348"
+   "description_sha256": "8756ea63a7e518b8fcf4e6865ccb5e43798221c2f9ca9b28c059221a9bd346d6"
   },
   {
    "job_id": "c49c1eb2-36f8-488d-ac27-cc920e6435a9",
@@ -1447,7 +1447,7 @@
    "is_remote": false,
    "published_at": "2026-09-23T10:35:14.219000+00:00",
    "url": "https://jobs.lever.co/kpler/d2ae744f-9539-4e0d-9d42-6014001833fc",
-   "description_sha256": "16e1750fd867ca527010dd76a113cd448ceeb604f0f8cd4a31639976bfaab348"
+   "description_sha256": "65abfe0e4efbcaf8ecb6b5eb01f1ab068604e58e08b6dd1b5b06779c1181d2d2"
   },
   {
    "job_id": "d97069cd-4ef8-4904-aab1-a7a3e6a58e82",

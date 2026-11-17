@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-11-17T00:28:09+00:00",
- "job_count": 116,
+ "fetched_at": "2026-11-17T19:17:57+00:00",
+ "job_count": 118,
  "jobs": [
   {
    "job_id": "7377994",
@@ -1743,6 +1743,36 @@
    "is_remote": false,
    "published_at": "2026-11-13T20:03:57-05:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8353172",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8354040",
+   "lineage_key": "inventory-operations-specialist@san-francisco-ca",
+   "title": "Inventory Operations Specialist",
+   "department": "Supply Chain",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-17T14:00:24-05:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8354040",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8354045",
+   "lineage_key": "materials-coordinator@san-francisco-ca",
+   "title": "Materials Coordinator",
+   "department": "Supply Chain",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-17T13:59:31-05:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8354045",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

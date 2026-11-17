@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-11-16T20:38:44+00:00",
- "job_count": 30,
+ "fetched_at": "2026-11-17T19:17:57+00:00",
+ "job_count": 29,
  "jobs": [
   {
    "job_id": "6729465",
@@ -246,21 +246,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8157070",
-   "lineage_key": "sales-manager-americas@boulder-colorado-united-states",
-   "title": "Sales Manager - Americas",
-   "department": "Sales",
-   "team": "",
-   "location": "Boulder, Colorado, United States",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-27T06:19:54-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8157070&gh_jid=8157070",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8171029",
    "lineage_key": "program-coordinator-federal-programs@washington-district-of-columbia-united-states",
    "title": "Program Coordinator - Federal Programs",
@@ -427,11 +412,11 @@
   },
   {
    "job_id": "8331049",
-   "lineage_key": "senior-it-network-engineer@washington-dc",
+   "lineage_key": "senior-it-network-engineer@washington-district-of-columbia-united-states",
    "title": "Senior IT Network Engineer",
    "department": "Business Operations",
    "team": "",
-   "location": "Washington DC",
+   "location": "Washington, District of Columbia, United States",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
@@ -442,11 +427,11 @@
   },
   {
    "job_id": "8331105",
-   "lineage_key": "senior-it-network-engineer@boulder",
+   "lineage_key": "senior-it-network-engineer@boulder-colorado-united-states",
    "title": "Senior IT Network Engineer",
    "department": "Business Operations",
    "team": "",
-   "location": "Boulder",
+   "location": "Boulder, Colorado, United States",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",

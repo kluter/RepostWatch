@@ -2,7 +2,7 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-11-16T20:38:44+00:00",
+ "fetched_at": "2026-11-17T19:17:57+00:00",
  "job_count": 109,
  "jobs": [
   {
@@ -52,8 +52,8 @@
   },
   {
    "job_id": "05358726-3031-4db6-b78a-a584d4c23830",
-   "lineage_key": "sales-specialist-ai-products@london",
-   "title": "Sales Specialist – AI Products",
+   "lineage_key": "ai-solutions-specialist@london",
+   "title": "AI Solutions Specialist",
    "department": "Commercial",
    "team": "Sales Specialist",
    "location": "London",
@@ -702,6 +702,21 @@
    "description_sha256": "fb770bebb9c83bdda0e7fc4663886d7d2f245c92bda6f204f8624a3edeea7f9f"
   },
   {
+   "job_id": "6c1c276c-13f9-4c17-8a3c-276a9226b0cb",
+   "lineage_key": "engineering-manager-commodities@london",
+   "title": "Engineering Manager - Commodities",
+   "department": "Engineering",
+   "team": "Engineering Commodities",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-11-17T10:21:08.699000+00:00",
+   "url": "https://jobs.lever.co/kpler/6c1c276c-13f9-4c17-8a3c-276a9226b0cb",
+   "description_sha256": "d72e9a340406c491afd4cd68549ed251162a6fdac49df1bbbe2c87891566a0f6"
+  },
+  {
    "job_id": "6ed49864-cc93-4a22-8dad-d6ba55883e4d",
    "lineage_key": "spontaneous-application@",
    "title": "Spontaneous Application",
@@ -1018,7 +1033,7 @@
    "is_remote": false,
    "published_at": "2026-11-13T11:07:32.959000+00:00",
    "url": "https://jobs.lever.co/kpler/9e074aba-4ada-4fbe-806e-aca30a92e831",
-   "description_sha256": "0f2d0a9e8c3116f36a6395ba91baa389d25a823d412397c85ebb4805616325a5"
+   "description_sha256": "2326b171b11d61fc42743756fb5f1f660edd4ebf821a882dfbe82981a870b7b0"
   },
   {
    "job_id": "9e07834d-855a-4971-ab40-d8b34ddb3075",
@@ -1158,21 +1173,6 @@
    "published_at": "2026-10-08T17:51:05.392000+00:00",
    "url": "https://jobs.lever.co/kpler/aee5db97-5ade-4893-9b09-4e630e0288cf",
    "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
-  },
-  {
-   "job_id": "af264aa2-83aa-4d0f-9a26-605b100c5dc0",
-   "lineage_key": "senior-account-executive-government-defense-intelligence@paris",
-   "title": "Senior Account Executive (Government, Defense & Intelligence)",
-   "department": "Commercial",
-   "team": "Sales - Government",
-   "location": "Paris",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-11-03T16:49:46.320000+00:00",
-   "url": "https://jobs.lever.co/kpler/af264aa2-83aa-4d0f-9a26-605b100c5dc0",
-   "description_sha256": "639b47c82d46a76fd0a14de6fe1f6e53e908c0c40d862ba96a56ed01d25b939d"
   },
   {
    "job_id": "b4c1a77c-585e-402b-af76-c18a5c10c6d1",

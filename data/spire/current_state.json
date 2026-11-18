@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-11-17T19:17:57+00:00",
- "job_count": 29,
+ "fetched_at": "2026-11-18T18:59:50+00:00",
+ "job_count": 28,
  "jobs": [
   {
    "job_id": "6729465",
@@ -183,21 +183,6 @@
    "is_remote": false,
    "published_at": "2026-06-30T05:57:20-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8015574&gh_jid=8015574",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8026433",
-   "lineage_key": "senior-director-u-s-federal-sales@washington-district-of-columbia-united-states",
-   "title": "Senior Director, U.S. Federal Sales",
-   "department": "Sales",
-   "team": "",
-   "location": "Washington, District of Columbia, United States",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-29T13:38:44-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8026433&gh_jid=8026433",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-11-17T19:17:57+00:00",
- "job_count": 191,
+ "fetched_at": "2026-11-18T18:59:50+00:00",
+ "job_count": 193,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -78,7 +78,7 @@
    "is_remote": false,
    "published_at": "2026-11-10T15:43:31.657+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/0b59b282-5c17-439e-b5af-86e118d98cd1",
-   "description_sha256": "0c3c9c7a5567591a58028db8d66381623808bd6263ae99c24665df58e0c1273c"
+   "description_sha256": "2226fd2210a9d2f9bc9159122ac6d57575d5b5393d878d9d34cebeb997ddc0c6"
   },
   {
    "job_id": "0bcc9e17-7eec-4648-bb5a-298f3f84794d",
@@ -1106,7 +1106,7 @@
    "is_remote": false,
    "published_at": "2026-08-26T13:17:19.779+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/60a82dbd-bc69-4de4-a133-c58ee0256716",
-   "description_sha256": "39981e80fe1ea71b98a5d685b6d05213fc0c72c09a841179eba40e6341dbd038"
+   "description_sha256": "5d00117bc2f6e0a6422f61133de9e1b4e5d76938d6811c00d5e006270169ba39"
   },
   {
    "job_id": "655f4071-2346-4b8d-bcc2-49fe3712a380",
@@ -1551,7 +1551,7 @@
    "is_remote": false,
    "published_at": "2026-08-26T13:15:51.237+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/824f4858-2692-4b97-82bf-cbe2805dfbd6",
-   "description_sha256": "b30a6ab865a4a82ee0594bbd29a5f0de29acd37ee35c0ff5d709c4de3bb9ab61"
+   "description_sha256": "d09aaed273b20f26ce8883896a92163bcdc5c0b199442825740caa3ff81d0505"
   },
   {
    "job_id": "879b620d-c9c0-4d71-b642-814fc3996688",
@@ -1594,7 +1594,7 @@
    "employment_type": "FullTime",
    "workplace_type": "Hybrid",
    "is_remote": true,
-   "published_at": "2026-10-02T10:58:49.181+00:00",
+   "published_at": "2026-11-18T10:38:22.699+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/8a1f917f-09fa-45b0-8e05-2f6eb2cdc793",
    "description_sha256": "f8250eecb72960d1952b0b7b167c7a7cd934f3df83e1e5bf6061212940359730"
   },
@@ -1626,7 +1626,7 @@
    "is_remote": false,
    "published_at": "2026-09-02T05:22:06.511+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/8bbb61b2-e417-4d48-b6e2-45843174e21c",
-   "description_sha256": "9334e8cf707279db53b1730918e0303d0e09309a05952deb019ca4067555017a"
+   "description_sha256": "23c0008177f2a1617bcaa5ffb55576354edb4520a4379ca73f3af74095a81bb2"
   },
   {
    "job_id": "8d27f213-6661-450f-a7be-7d5d461c7a59",
@@ -1703,7 +1703,7 @@
    "is_remote": false,
    "published_at": "2026-08-26T10:23:21.731+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/938ce5df-501a-4349-9586-2ce758dbfd0a",
-   "description_sha256": "2b99715f52216ce0a5f452faaaef4018b7b408d84d1d040cf564eb45237bc73b"
+   "description_sha256": "6acebaef51073a7d86078860bab878c26de9d041613878e6bb25e680142c44f6"
   },
   {
    "job_id": "943bfb53-f3c9-44ef-acf7-81d29f280ba5",
@@ -2149,6 +2149,21 @@
    "description_sha256": "417e9cb8dcd75ae9f07bb46733cc17335cd9f9493bdf1c2bbf9ccc39d2a6ed36"
   },
   {
+   "job_id": "bd583979-0670-41d9-b149-c5156c5d6d11",
+   "lineage_key": "marketing-communications-manager-france-eu@france",
+   "title": "Marketing & Communications Manager, France & EU",
+   "department": "Marketing",
+   "team": "Data & Missions Marketing",
+   "location": "France",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Remote",
+   "is_remote": true,
+   "published_at": "2026-10-27T16:07:53.701+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/bd583979-0670-41d9-b149-c5156c5d6d11",
+   "description_sha256": "dd6b1b3b2bd80c11ed0ce1f0c5afd2b223695a52729e3b354b445677685af085"
+  },
+  {
    "job_id": "be2a2c66-275f-41b9-acc1-9073b27bfce8",
    "lineage_key": "senior-test-automation-developer@espoo",
    "title": "Senior Test Automation Developer",
@@ -2351,6 +2366,21 @@
    "description_sha256": "65ebcec7a89f853ca681f8be30c1518d2180a888c5db27cf8dd9f53f13c072a0"
   },
   {
+   "job_id": "cd7e0449-3f24-45ed-8c09-6153c0d02980",
+   "lineage_key": "rf-hardware-engineer-constellation-x-lab@valencia",
+   "title": "RF / Hardware Engineer Constellation X-Lab",
+   "department": "Engineering",
+   "team": "SIGINT",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-11-18T10:42:50.141+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/cd7e0449-3f24-45ed-8c09-6153c0d02980",
+   "description_sha256": "be6c29be06890da02b6a672dd2fb5cff6156ae119253e64858067990e723be24"
+  },
+  {
    "job_id": "ce2358dd-63dd-401e-9bbf-61a4b94ad170",
    "lineage_key": "senior-sales-engineer-missions-business@espoo",
    "title": "Senior Sales Engineer, Missions Business",
@@ -2395,7 +2425,7 @@
    "is_remote": false,
    "published_at": "2026-08-20T07:02:36.812+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/cf5aef51-a500-4e06-895e-c2bc9be02bbf",
-   "description_sha256": "e009703435a55525565152334b941a8b1f1d731833cc39def1a9b54831989516"
+   "description_sha256": "1e48e236be238642db283c65167dfe750e20d1810f0edf01ac370c9aeb8d9e1a"
   },
   {
    "job_id": "cf6ba0e9-a750-4ee7-9b0a-8cb519cb7c39",
@@ -2419,7 +2449,7 @@
    "lineage_key": "customer-success-operations-specialist@espoo",
    "title": "Customer Success Operations Specialist",
    "department": "Missions",
-   "team": "Missions Product",
+   "team": "Missions Customer Success",
    "location": "Espoo",
    "secondary_locations": [],
    "employment_type": "FullTime",
@@ -2732,7 +2762,7 @@
    "is_remote": false,
    "published_at": "2026-11-17T09:18:42.639+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e8bba89b-1a9f-4b40-b476-454b43bb0244",
-   "description_sha256": "678ed537bccae2f4cbdaf54f3c23bb1433ebe4c930df8101936f6c59a956fcc4"
+   "description_sha256": "4704a9a393e09f78369394e4ae619b6dd85a259481bba6b6bfc3456bbe3398f5"
   },
   {
    "job_id": "ea6fcf8b-f800-4abb-a254-cb82596b5c98",
@@ -2930,7 +2960,7 @@
    "is_remote": true,
    "published_at": "2026-11-17T09:45:28.680+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/ffa2458c-cb86-4c8f-83e4-baf60f7b613b",
-   "description_sha256": "3f32007c5af6d8007aa27e01a8debe018d25206f98bf6d065ba9f6d4317b7c05"
+   "description_sha256": "afd958361e950742d4ded0634182098630c02534bd3e0036f5a647c4166932ae"
   }
  ]
 }

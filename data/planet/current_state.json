@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-11-17T19:17:57+00:00",
- "job_count": 118,
+ "fetched_at": "2026-11-18T18:59:50+00:00",
+ "job_count": 113,
  "jobs": [
   {
    "job_id": "7377994",
@@ -66,21 +66,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "7555019",
-   "lineage_key": "software-engineer-platform-operations@united-states-remote",
-   "title": "Software Engineer, Platform Operations",
-   "department": "Infrastructure and Operations",
-   "team": "",
-   "location": "United States, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-02-10T12:47:19-05:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7555019",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "7564777",
    "lineage_key": "account-executive-defence-intelligence@japan-remote",
    "title": "Account Executive, Defence & Intelligence",
@@ -93,21 +78,6 @@
    "is_remote": true,
    "published_at": "2026-02-17T11:14:02-05:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7564777",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7593419",
-   "lineage_key": "software-engineer-platform-operations@canada-remote",
-   "title": "Software Engineer, Platform Operations",
-   "department": "Infrastructure and Operations",
-   "team": "",
-   "location": "Canada, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-02-10T12:47:16-05:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7593419",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -621,21 +591,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8188408",
-   "lineage_key": "industry-marketing-manager-defense-intelligence-emea@london-united-kingdom",
-   "title": "Industry Marketing Manager, Defense & Intelligence (EMEA)",
-   "department": "Product Marketing",
-   "team": "",
-   "location": "London, United Kingdom",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-15T03:06:55-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8188408",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8188420",
    "lineage_key": "senior-solutions-architect-i-pre-sales-us-government-defense-intelligence@arlington-va",
    "title": "Senior Solutions Architect I, Pre-Sales - US Government Defense & Intelligence",
@@ -663,21 +618,6 @@
    "is_remote": false,
    "published_at": "2026-09-14T11:49:30-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8190766",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8190771",
-   "lineage_key": "senior-software-engineer@berlin-germany",
-   "title": "Senior Software Engineer",
-   "department": "Data Availability",
-   "team": "",
-   "location": "Berlin, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-14T11:49:05-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8190771",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1083,36 +1023,6 @@
    "is_remote": false,
    "published_at": "2026-09-29T03:43:08-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8231925",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8233190",
-   "lineage_key": "senior-software-engineer@haarlem-netherlands",
-   "title": "Senior Software Engineer",
-   "department": "Data Availability",
-   "team": "",
-   "location": "Haarlem, Netherlands",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-25T10:53:46-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8233190",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8233191",
-   "lineage_key": "senior-software-engineer@ljubljana-slovenia",
-   "title": "Senior Software Engineer",
-   "department": "Data Availability",
-   "team": "",
-   "location": "Ljubljana, Slovenia",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-25T10:54:48-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8233191",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1773,6 +1683,21 @@
    "is_remote": false,
    "published_at": "2026-11-17T13:59:31-05:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8354045",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8394110",
+   "lineage_key": "mission-operations-training-specialist@united-arab-emirates-remote",
+   "title": "Mission Operations Training Specialist",
+   "department": "Education and Enablement",
+   "team": "",
+   "location": "United Arab Emirates, Remote",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-11-18T06:02:44-05:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8394110",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

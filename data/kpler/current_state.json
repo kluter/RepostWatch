@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-11-17T23:38:44+00:00",
- "job_count": 109,
+ "fetched_at": "2026-11-18T18:59:50+00:00",
+ "job_count": 110,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -355,7 +355,7 @@
    "is_remote": false,
    "published_at": "2026-11-06T11:22:00.977000+00:00",
    "url": "https://jobs.lever.co/kpler/41f27ae9-3310-48d4-b05f-44d12fb2099e",
-   "description_sha256": "3a8af45d3b29dbb9d85ade7949ad4ac8b1ef219655aaa24585af3629c8a778f1"
+   "description_sha256": "998c83d9cbd12e49d17e40f6b6cee6696d8fe279562f87ac6a18d342100e7bec"
   },
   {
    "job_id": "4510b4e9-9a89-4e35-9bcd-818164d12c2d",
@@ -599,7 +599,8 @@
    "team": "Engineering Cloud Platform",
    "location": "Paris",
    "secondary_locations": [
-    "Athens"
+    "Athens",
+    "Singapore"
    ],
    "employment_type": "",
    "workplace_type": "hybrid",
@@ -1209,8 +1210,8 @@
   },
   {
    "job_id": "b93250d4-23b6-496e-8483-63fbeaf8c1fa",
-   "lineage_key": "account-executive-energy-and-chemicals-new-business@houston",
-   "title": "Account Executive - Energy and Chemicals (New Business)",
+   "lineage_key": "account-executive-energy-new-business@houston",
+   "title": "Account Executive - Energy (New Business)",
    "department": "Commercial",
    "team": "Sales - Mid Market Americas",
    "location": "Houston",
@@ -1220,7 +1221,7 @@
    "is_remote": false,
    "published_at": "2026-06-26T08:53:25.819000+00:00",
    "url": "https://jobs.lever.co/kpler/b93250d4-23b6-496e-8483-63fbeaf8c1fa",
-   "description_sha256": "21020ac1874f02ed93c2a28f7190396c89aa0741058d4f5fe43d07bb3fedf76a"
+   "description_sha256": "3a5f79d83da6f713d97ef27b3b2212b78b01c53102132f2872fbb32cb55146a9"
   },
   {
    "job_id": "baa763a0-0bce-4240-ad4f-554f1741481e",
@@ -1646,6 +1647,21 @@
    "published_at": "2026-10-09T14:44:28.116000+00:00",
    "url": "https://jobs.lever.co/kpler/f36c44e8-c742-43c8-8e68-3dd27d934e07",
    "description_sha256": "60bdc1eba02d68b97471c493fcc0f49760947a60c729a7fd619cdb073ce99c72"
+  },
+  {
+   "job_id": "f4782013-5b8e-4848-9e0d-39cb72ce3d9c",
+   "lineage_key": "director-of-design-maternity-cover-9-months-ftc@london",
+   "title": "Director of Design - Maternity Cover (9 months FTC)",
+   "department": "Product",
+   "team": "Product Application Platform",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-11-18T13:32:24.427000+00:00",
+   "url": "https://jobs.lever.co/kpler/f4782013-5b8e-4848-9e0d-39cb72ce3d9c",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
    "job_id": "f6825e29-7b88-4ade-864c-68f3e560fcdf",

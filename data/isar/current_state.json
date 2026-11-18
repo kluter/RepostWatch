@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-11-17T19:17:57+00:00",
- "job_count": 144,
+ "fetched_at": "2026-11-18T18:59:50+00:00",
+ "job_count": 145,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -573,6 +573,21 @@
    "is_remote": false,
    "published_at": "2026-06-25T04:22:51-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4907850101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4930992101",
+   "lineage_key": "working-student-poq-m-f-d@ottobrunn-bavaria-germany",
+   "title": "Working Student, POQ (m/f/d)",
+   "department": "Production, Operations & Quality",
+   "team": "",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-07-17T11:13:41-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4930992101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

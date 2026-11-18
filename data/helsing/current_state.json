@@ -2,7 +2,7 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-11-17T23:38:44+00:00",
+ "fetched_at": "2026-11-18T18:59:50+00:00",
  "job_count": 176,
  "jobs": [
   {
@@ -68,7 +68,7 @@
   {
    "job_id": "4468911101",
    "lineage_key": "senior-product-marketing-manager@london",
-   "title": "(Senior) Product Marketing Manager",
+   "title": "Senior Product Marketing Manager",
    "department": "Marketing & Communications",
    "team": "",
    "location": "London",
@@ -348,6 +348,21 @@
    "is_remote": false,
    "published_at": "2026-03-17T10:46:22-04:00",
    "url": "https://helsing.ai/jobs/4813822101?gh_jid=4813822101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4820991101",
+   "lineage_key": "produktionsmitarbeiter-monteur@munich",
+   "title": "Produktionsmitarbeiter / Monteur",
+   "department": "Production Operations",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-04-13T07:18:50-04:00",
+   "url": "https://helsing.ai/jobs/4820991101?gh_jid=4820991101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -711,6 +726,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4893273101",
+   "lineage_key": "it-support-engineer@munich",
+   "title": "IT Support Engineer",
+   "department": "IT",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-06-15T05:41:28-04:00",
+   "url": "https://helsing.ai/jobs/4893273101?gh_jid=4893273101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4895583101",
    "lineage_key": "senior-design-engineer@washington-dc",
    "title": "Senior Design Engineer",
@@ -768,6 +798,21 @@
    "is_remote": false,
    "published_at": "2026-06-18T10:36:59-04:00",
    "url": "https://helsing.ai/jobs/4902679101?gh_jid=4902679101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4903759101",
+   "lineage_key": "it-support-engineer@munich",
+   "title": "IT Support Engineer",
+   "department": "IT",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-06-19T10:46:36-04:00",
+   "url": "https://helsing.ai/jobs/4903759101?gh_jid=4903759101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -2256,21 +2301,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "5030564101",
-   "lineage_key": "robotics-industrialization-engineer@barcelona",
-   "title": "Robotics Industrialization Engineer",
-   "department": "Physical Products",
-   "team": "",
-   "location": "Barcelona",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-11-09T05:23:43-05:00",
-   "url": "https://helsing.ai/jobs/5030564101?gh_jid=5030564101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "5030565101",
    "lineage_key": "robotics-dfm-engineer@barcelona",
    "title": "Robotics DFM Engineer",
@@ -2283,21 +2313,6 @@
    "is_remote": false,
    "published_at": "2026-11-09T05:23:41-05:00",
    "url": "https://helsing.ai/jobs/5030565101?gh_jid=5030565101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "5030566101",
-   "lineage_key": "robotics-npi-engineer@barcelona",
-   "title": "Robotics NPI Engineer",
-   "department": "Physical Products",
-   "team": "",
-   "location": "Barcelona",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-11-09T05:23:45-05:00",
-   "url": "https://helsing.ai/jobs/5030566101?gh_jid=5030566101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -2328,36 +2343,6 @@
    "is_remote": false,
    "published_at": "2026-11-09T05:23:47-05:00",
    "url": "https://helsing.ai/jobs/5030585101?gh_jid=5030585101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "5030586101",
-   "lineage_key": "robotics-senior-npi-engineer@barcelona",
-   "title": "Robotics Senior NPI Engineer",
-   "department": "Physical Products",
-   "team": "",
-   "location": "Barcelona",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-11-09T05:23:52-05:00",
-   "url": "https://helsing.ai/jobs/5030586101?gh_jid=5030586101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "5030587101",
-   "lineage_key": "robotics-senior-industrialization-engineer@barcelona",
-   "title": "Robotics Senior Industrialization Engineer",
-   "department": "Physical Products",
-   "team": "",
-   "location": "Barcelona",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-11-09T05:23:48-05:00",
-   "url": "https://helsing.ai/jobs/5030587101?gh_jid=5030587101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -2583,6 +2568,21 @@
    "is_remote": false,
    "published_at": "2026-11-16T10:48:06-05:00",
    "url": "https://helsing.ai/jobs/5037050101?gh_jid=5037050101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5039795101",
+   "lineage_key": "electro-optical-expert-space@munich",
+   "title": "Electro-Optical Expert - Space",
+   "department": "Systems Architecture",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-18T04:52:14-05:00",
+   "url": "https://helsing.ai/jobs/5039795101?gh_jid=5039795101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

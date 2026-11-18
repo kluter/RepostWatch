@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-11-18T18:59:50+00:00",
+ "fetched_at": "2026-11-18T23:07:14+00:00",
  "job_count": 193,
  "jobs": [
   {
@@ -835,21 +835,6 @@
    "published_at": "2026-07-13T07:16:41.993+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/482053f5-a2b0-4be8-b513-ec9524346fd6",
    "description_sha256": "dfe2e977ab815e092629f655fa509c410121e3b5e46d1f08b055a8f03c6f5816"
-  },
-  {
-   "job_id": "49688ae2-0ada-46dc-b867-09ea1fe2e228",
-   "lineage_key": "ait-mechanical-test-engineer@espoo",
-   "title": "AIT Mechanical Test Engineer",
-   "department": "Global Manufacturing Organization",
-   "team": "FI AIT Engineering",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-08-14T08:39:37.875+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/49688ae2-0ada-46dc-b867-09ea1fe2e228",
-   "description_sha256": "3f5828e35327972358cc72eb19ff6c5eadeba37300e9a206c2bc457162fd41a5"
   },
   {
    "job_id": "4b263ffa-135a-4855-b843-156cb8628683",
@@ -2521,6 +2506,21 @@
    "published_at": "2026-10-26T12:36:36.294+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/d3c2ba94-9d66-48e6-bbf0-d4d02ab73866",
    "description_sha256": "5b7266c790875b151122de5b8a19cc00545f4cb585c474d890eb6f9820dd7f13"
+  },
+  {
+   "job_id": "d455c559-b560-4a25-86aa-fd27522214b4",
+   "lineage_key": "gmo-strategy-execution-associate@espoo",
+   "title": "GMO Strategy & Execution Associate",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Organization Management",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-18T21:09:46.571+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/d455c559-b560-4a25-86aa-fd27522214b4",
+   "description_sha256": "35d6600e847db92b272c433969931a4c6c1ac847b7aa75e1ae4e88aaa3931056"
   },
   {
    "job_id": "d54bd3a6-eaca-4969-a6fc-7da77ce27fc6",

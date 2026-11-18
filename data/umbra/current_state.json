@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-11-17T23:38:44+00:00",
- "job_count": 26,
+ "fetched_at": "2026-11-18T23:07:14+00:00",
+ "job_count": 27,
  "jobs": [
   {
    "job_id": "0652C1D7B7",
@@ -397,6 +397,21 @@
    "published_at": "2026-09-25T00:00:00+00:00",
    "url": "https://apply.workable.com/j/CE5C24CBE2",
    "description_sha256": "d9572b4e862a72cf5f92a6d02cfe1d22b4d4fa2127db7c09b10e0a6e2abf20ba"
+  },
+  {
+   "job_id": "D692479CD8",
+   "lineage_key": "environmental-health-safety-ehs-manager@santa-barbara-united-states",
+   "title": "Environmental, Health & Safety (EHS) Manager",
+   "department": "Space Systems",
+   "team": "",
+   "location": "Santa Barbara, United States",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-18T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/D692479CD8",
+   "description_sha256": "d90ea9fa43ffbb85661b20f366d759c4cb04f227a50b271270a460842d6f5e73"
   },
   {
    "job_id": "E548043C79",

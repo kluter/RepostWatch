@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-11-18T18:59:50+00:00",
- "job_count": 176,
+ "fetched_at": "2026-11-18T23:07:14+00:00",
+ "job_count": 177,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -2643,6 +2643,21 @@
    "is_remote": false,
    "published_at": "2026-11-17T10:57:22-05:00",
    "url": "https://helsing.ai/jobs/5040443101?gh_jid=5040443101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5041713101",
+   "lineage_key": "mechanical-cad-designer@martinsburg-wv",
+   "title": "Mechanical CAD Designer",
+   "department": "Physical Products",
+   "team": "",
+   "location": "Martinsburg, WV",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-18T14:19:20-05:00",
+   "url": "https://helsing.ai/jobs/5041713101?gh_jid=5041713101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

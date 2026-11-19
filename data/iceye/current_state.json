@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-11-18T23:07:14+00:00",
- "job_count": 193,
+ "fetched_at": "2026-11-19T19:07:22+00:00",
+ "job_count": 191,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -179,6 +179,21 @@
    "description_sha256": "b2b651bdbdfbb7716c89be9d109e7a651935fed8095bcac4b776ee85495a8220"
   },
   {
+   "job_id": "12b245fc-8b29-454e-96e2-6b621288a781",
+   "lineage_key": "logistics-driver@espoo",
+   "title": "Logistics Driver",
+   "department": "Global Manufacturing Organization",
+   "team": "FI Stock Management",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-11-19T06:56:07.989+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/12b245fc-8b29-454e-96e2-6b621288a781",
+   "description_sha256": "0db6e88c131dce3abb490029db430351557ff3d4edd3bc16f4a20ab1cf9546af"
+  },
+  {
    "job_id": "15151504-9995-4025-9d94-a31ef624a838",
    "lineage_key": "engineering-supply-chain-manager-electronics@espoo",
    "title": "Engineering Supply Chain Manager (Electronics)",
@@ -269,6 +284,21 @@
    "published_at": "2026-08-06T10:28:27.747+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/19d29db2-9a39-4e9b-967a-c63105c1eeaa",
    "description_sha256": "01eafcb09671328f8e5f2dcac9fec3d6784674b8901778a62b8f9110ac3ae621"
+  },
+  {
+   "job_id": "1ad8ffe4-7981-43a6-8395-fd5a8040937f",
+   "lineage_key": "hr-generalist@warsaw",
+   "title": "HR Generalist",
+   "department": "Operations",
+   "team": "Operations",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-19T11:19:26.661+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/1ad8ffe4-7981-43a6-8395-fd5a8040937f",
+   "description_sha256": "d6e8d217fd62accb3d99435b185c0e58df052e03fcc1857e757f2686955dd5e2"
   },
   {
    "job_id": "1b8f590b-fd9a-4c7a-ae0d-6e15f0bed42f",
@@ -517,8 +547,8 @@
   },
   {
    "job_id": "3177be0f-5997-45cf-bbdb-60b1c38543ea",
-   "lineage_key": "thermal-harness-ait-engineer@valencia",
-   "title": "Thermal & Harness AIT Engineer",
+   "lineage_key": "harness-thermal-ait-engineer@valencia",
+   "title": "Harness & Thermal AIT Engineer",
    "department": "Global Manufacturing Organization",
    "team": "ES AIT Engineering",
    "location": "Valencia",
@@ -526,7 +556,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-10-05T06:51:54.204+00:00",
+   "published_at": "2026-11-19T16:53:09.874+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/3177be0f-5997-45cf-bbdb-60b1c38543ea",
    "description_sha256": "2494591ca1ac14230b8913f4b738c7ba1fe75b863e934c4393b558eda8376ee0"
   },
@@ -621,21 +651,6 @@
    "published_at": "2026-04-20T08:30:26.834+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/37ce25c9-e16c-45d7-8891-f808c76e1102",
    "description_sha256": "3a3a755a91720312751954f7b8aed0dcc82c0836935d34155025ced3a7acacc3"
-  },
-  {
-   "job_id": "38f05b0a-5a3b-46b8-ba80-d85029734922",
-   "lineage_key": "mission-sales-director-india@new-delhi",
-   "title": "Mission Sales Director, India",
-   "department": "Missions",
-   "team": "Missions Sales",
-   "location": "New Delhi",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-15T14:04:21.449+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/38f05b0a-5a3b-46b8-ba80-d85029734922",
-   "description_sha256": "1d95d1e1ff442aeea24ce76db16ce0d1dfd7d901e528dfbedd75989e4b19f6cb"
   },
   {
    "job_id": "3d7f14e7-e116-4885-9d3d-a66080532999",
@@ -837,6 +852,21 @@
    "description_sha256": "dfe2e977ab815e092629f655fa509c410121e3b5e46d1f08b055a8f03c6f5816"
   },
   {
+   "job_id": "49c3a146-6898-4a20-ae58-5c6bf3cab38b",
+   "lineage_key": "sar-image-annotation-consultant@remote",
+   "title": "SAR Image Annotation Consultant",
+   "department": "Engineering",
+   "team": "ISR Engineering",
+   "location": "Remote",
+   "secondary_locations": [],
+   "employment_type": "Temporary",
+   "workplace_type": "Remote",
+   "is_remote": true,
+   "published_at": "2026-11-19T08:27:30.915+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/49c3a146-6898-4a20-ae58-5c6bf3cab38b",
+   "description_sha256": "19006312d6397311c9e5f5b55fe23d22ad60b34b474a4c8a039bdce0a28daea8"
+  },
+  {
    "job_id": "4b263ffa-135a-4855-b843-156cb8628683",
    "lineage_key": "mission-delivery-engineer-portugal@lisbon",
    "title": "Mission Delivery Engineer Portugal",
@@ -972,21 +1002,6 @@
    "published_at": "2026-08-06T06:57:55.796+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/565cf1a9-250b-4ce5-ab2d-140fe2955412",
    "description_sha256": "c9065403d17ff50122550fcccb7b825ef8d80baa4c941cea26b424634df589de"
-  },
-  {
-   "job_id": "58c4f84f-f804-407f-b566-e3866be6e193",
-   "lineage_key": "satellite-production-technician-harness@valencia",
-   "title": "Satellite Production Technician, Harness",
-   "department": "Engineering",
-   "team": "SIGINT",
-   "location": "Valencia",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-08-24T06:38:57.849+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/58c4f84f-f804-407f-b566-e3866be6e193",
-   "description_sha256": "74ff7d9093006a2e04ab3fa9bcb537c863e217ecd51f8a4de560687a06ee34a9"
   },
   {
    "job_id": "5b61f138-6bc9-4d81-b820-d1bf7b30a224",
@@ -1199,21 +1214,6 @@
    "published_at": "2026-11-02T08:04:14.302+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/6bbacedf-1114-4f9f-8713-ffe22b35eac8",
    "description_sha256": "1660cb6e6013ea694e05daca178fc708ee30607e28a270bab748e673bc9e4f2b"
-  },
-  {
-   "job_id": "6e365057-467d-4043-b160-64b4df544eb3",
-   "lineage_key": "program-manager-greece@athens",
-   "title": "Program Manager - Greece",
-   "department": "Missions",
-   "team": "Missions",
-   "location": "Athens",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-10-05T13:46:39.080+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/6e365057-467d-4043-b160-64b4df544eb3",
-   "description_sha256": "41d7ae23f593e5fdfbf1457bc8081dfa3bd57922608b60ee2ed94b02171f975d"
   },
   {
    "job_id": "6e531bd0-02f1-4191-91dd-f16910246d23",
@@ -1626,7 +1626,7 @@
    "is_remote": true,
    "published_at": "2026-11-12T12:39:29.540+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/8d27f213-6661-450f-a7be-7d5d461c7a59",
-   "description_sha256": "6f8b27fe12e3e74c70f62749700a18a09f26e0a07cb88f73fcefd3595226510a"
+   "description_sha256": "c4533d79fbe135dd3d9c0b58e2c274a67f70adecd4089612e01995fa5dd3f771"
   },
   {
    "job_id": "9109656d-4637-4fac-9192-8b61b4b9b568",
@@ -1783,21 +1783,6 @@
    "description_sha256": "570d428859fd7c2fc6c072e3a885a518c0a1c33b516650f6bb49f632de8387fb"
   },
   {
-   "job_id": "9e91192a-ae07-4ba6-b0d8-dd2d99064d9d",
-   "lineage_key": "senior-targeting-analyst@espoo",
-   "title": "Senior Targeting Analyst",
-   "department": "Solutions",
-   "team": "Solutions Operations",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-09-14T06:08:12.215+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/9e91192a-ae07-4ba6-b0d8-dd2d99064d9d",
-   "description_sha256": "ae2f0aec4bb065e19191afc9a78fd7b4a16c5bb89f3880805231c22ed41387a7"
-  },
-  {
    "job_id": "9e92da27-90b8-4822-a79d-4525f0b8b0e9",
    "lineage_key": "senior-fp-a-manager@espoo",
    "title": "Senior FP&A Manager",
@@ -1828,21 +1813,6 @@
    "published_at": "2026-11-09T14:11:08.125+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/a3267648-4ec9-475c-9013-ab2313927047",
    "description_sha256": "ee4d2894460738421d2557f906515e3f3515184e330c774821ef0c736f474907"
-  },
-  {
-   "job_id": "a463a0f7-2610-4205-9f6a-9976f92c8341",
-   "lineage_key": "staff-software-engineer-commercial-platform@espoo",
-   "title": "Staff Software Engineer (Commercial Platform)",
-   "department": "Engineering",
-   "team": "Business Automation",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-09-23T19:14:55.523+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/a463a0f7-2610-4205-9f6a-9976f92c8341",
-   "description_sha256": "57bc5b2b29093035b62e704fe4b7bb676ad7c0e631c208faa64a4d35c131ab6d"
   },
   {
    "job_id": "a6d0bba0-2219-4f01-8c79-f4d945de5af7",
@@ -2442,7 +2412,7 @@
    "is_remote": true,
    "published_at": "2026-10-30T11:28:42.739+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/cf9eb570-9cd8-492a-adad-51fe246801e9",
-   "description_sha256": "af47365af4b2d7887e0125a72fabe8ebb11dbc0066f835e5e74dc8e0f7ed88e8"
+   "description_sha256": "cde293a00ce622546a09d53fb5f0241e74ca3da7ca15a2b0624eaecfd2a097ee"
   },
   {
    "job_id": "cfc19497-d4ed-465d-9b7d-e2ed114c4ba4",

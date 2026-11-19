@@ -2,8 +2,8 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-11-18T18:59:50+00:00",
- "job_count": 110,
+ "fetched_at": "2026-11-19T19:07:22+00:00",
+ "job_count": 111,
  "jobs": [
   {
    "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
@@ -293,6 +293,21 @@
    "published_at": "2026-08-25T12:30:04.705000+00:00",
    "url": "https://jobs.lever.co/kpler/28234859-8c3e-4782-94f8-4b8c0458584a",
    "description_sha256": "969395a0cbbd8f79eacb6c8c352b59927ecddc331dc324597df453bb1d7cf634"
+  },
+  {
+   "job_id": "2dd05b03-da4d-492c-81b2-750466495281",
+   "lineage_key": "accounting-manager-german-speaking@hungary",
+   "title": "Accounting Manager (German Speaking)",
+   "department": "Finance",
+   "team": "Finance",
+   "location": "Hungary",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "remote",
+   "is_remote": true,
+   "published_at": "2026-11-19T14:11:22.281000+00:00",
+   "url": "https://jobs.lever.co/kpler/2dd05b03-da4d-492c-81b2-750466495281",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
    "job_id": "307e36e8-f4d9-49d9-8465-85ca9368b5e7",
@@ -1019,7 +1034,7 @@
    "is_remote": false,
    "published_at": "2026-10-15T09:21:53.448000+00:00",
    "url": "https://jobs.lever.co/kpler/98a0722a-8224-48ea-830a-58a606806383",
-   "description_sha256": "293d47bc2587503df8152f8f7588f5e574c7d8a05948de69c1eb4051b8a385f9"
+   "description_sha256": "6bcdf6cfaf8b08383a287fe0810f139ac081c4d6fe37a6b0e552d41dc8269a6c"
   },
   {
    "job_id": "9e074aba-4ada-4fbe-806e-aca30a92e831",

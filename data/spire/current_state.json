@@ -2,7 +2,7 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-11-18T18:59:50+00:00",
+ "fetched_at": "2026-11-19T19:07:22+00:00",
  "job_count": 28,
  "jobs": [
   {
@@ -352,8 +352,8 @@
   },
   {
    "job_id": "8303608",
-   "lineage_key": "hr-generalist@washington-dc",
-   "title": "HR Generalist",
+   "lineage_key": "hr-coordinator@washington-dc",
+   "title": "HR Coordinator",
    "department": "People",
    "team": "",
    "location": "Washington DC",

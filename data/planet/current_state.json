@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-11-18T18:59:50+00:00",
- "job_count": 113,
+ "fetched_at": "2026-11-19T19:07:22+00:00",
+ "job_count": 111,
  "jobs": [
   {
    "job_id": "7377994",
@@ -333,21 +333,6 @@
    "is_remote": true,
    "published_at": "2026-09-01T02:47:33-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8134793",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8137141",
-   "lineage_key": "director-of-government-affairs@arlington-va",
-   "title": "Director of Government Affairs",
-   "department": "Global Communications and Government Affairs (Global Communications and Government Affairs)",
-   "team": "",
-   "location": "Arlington, VA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-19T07:23:14-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8137141",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -828,21 +813,6 @@
    "is_remote": false,
    "published_at": "2026-09-23T03:56:29-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8221607",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8221849",
-   "lineage_key": "infrastructure-solutions-engineer@united-states-remote",
-   "title": "Infrastructure Solutions Engineer",
-   "department": "Infrastructure and Operations",
-   "team": "",
-   "location": "United States, Remote",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-10-13T19:47:07-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8221849",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

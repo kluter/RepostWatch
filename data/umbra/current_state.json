@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-11-18T23:07:14+00:00",
- "job_count": 27,
+ "fetched_at": "2026-11-19T19:07:22+00:00",
+ "job_count": 28,
  "jobs": [
   {
    "job_id": "0652C1D7B7",
@@ -174,7 +174,7 @@
    "is_remote": false,
    "published_at": "2026-08-27T00:00:00+00:00",
    "url": "https://apply.workable.com/j/49CF1FA326",
-   "description_sha256": "63ec12bf13affa7c20fcc2b81141e113407f929248a17f7d0d5d578b9fd26096"
+   "description_sha256": "070dd7fa5de1a29a7d0f0b4a190c16e4a33c8b9bd5a2c8e0b9b2330587773897"
   },
   {
    "job_id": "4A5E102FBA",
@@ -315,6 +315,23 @@
    "published_at": "2026-06-25T00:00:00+00:00",
    "url": "https://apply.workable.com/j/71AA98A76F",
    "description_sha256": "3f359e0fcb8167e061089c08d7ebf28091244c195fcf9291b0b09511b19d40e7"
+  },
+  {
+   "job_id": "76F6FBBAB5",
+   "lineage_key": "program-manager-global@arlington-united-states",
+   "title": "Program Manager (Global)",
+   "department": "Mission Solutions",
+   "team": "",
+   "location": "Arlington, United States",
+   "secondary_locations": [
+    "Reston, United States"
+   ],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-19T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/76F6FBBAB5",
+   "description_sha256": "72010331eb30b9d8e324ca7ea90777919912611e74cc7b97e1762e606f87327f"
   },
   {
    "job_id": "8E57BC8D50",

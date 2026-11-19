@@ -2,7 +2,7 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-11-18T23:07:14+00:00",
+ "fetched_at": "2026-11-19T19:07:22+00:00",
  "job_count": 177,
  "jobs": [
   {
@@ -801,21 +801,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4903759101",
-   "lineage_key": "it-support-engineer@munich",
-   "title": "IT Support Engineer",
-   "department": "IT",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-19T10:46:36-04:00",
-   "url": "https://helsing.ai/jobs/4903759101?gh_jid=4903759101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4906726101",
    "lineage_key": "field-engineer@martinsburg-wv",
    "title": "Field Engineer",
@@ -933,21 +918,6 @@
    "is_remote": false,
    "published_at": "2026-07-15T07:51:35-04:00",
    "url": "https://helsing.ai/jobs/4927641101?gh_jid=4927641101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4929769101",
-   "lineage_key": "programme-manager-air@paris",
-   "title": "Programme Manager - Air",
-   "department": "Campaigns & Programmes",
-   "team": "",
-   "location": "Paris",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-07-16T10:13:01-04:00",
-   "url": "https://helsing.ai/jobs/4929769101?gh_jid=4929769101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1822,11 +1792,11 @@
   },
   {
    "job_id": "4997901101",
-   "lineage_key": "lead-it-engineer@paris",
+   "lineage_key": "lead-it-engineer@munich",
    "title": "Lead IT Engineer",
    "department": "IT",
    "team": "",
-   "location": "Paris",
+   "location": "Munich",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
@@ -2122,8 +2092,8 @@
   },
   {
    "job_id": "5027521101",
-   "lineage_key": "systems-engineer-air-defense-system-contra@munich",
-   "title": "Systems Engineer - Air Defense System - Contra",
+   "lineage_key": "systems-engineer-c2-fire-control-air-defence-contra@munich",
+   "title": "Systems Engineer – C2 & Fire Control, Air Defence (Contra)",
    "department": "Hardware Engineering",
    "team": "",
    "location": "Munich",
@@ -2137,11 +2107,11 @@
   },
   {
    "job_id": "5027572101",
-   "lineage_key": "systems-engineer-system-architecture-contra@london-england-united-kingdom",
-   "title": "Systems Engineer - System Architecture - Contra",
+   "lineage_key": "system-architect-safe-autonomy-air-defence@berlin",
+   "title": "System Architect - Safe Autonomy, Air Defence",
    "department": "Physical Products",
    "team": "",
-   "location": "London, England, United Kingdom",
+   "location": "Berlin",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
@@ -2658,6 +2628,36 @@
    "is_remote": false,
    "published_at": "2026-11-18T14:19:20-05:00",
    "url": "https://helsing.ai/jobs/5041713101?gh_jid=5041713101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5042223101",
+   "lineage_key": "senior-systems-engineer-flight-mission-planning@munich",
+   "title": "Senior Systems Engineer - Flight & Mission Planning",
+   "department": "AI & Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-19T08:55:46-05:00",
+   "url": "https://helsing.ai/jobs/5042223101?gh_jid=5042223101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5042583101",
+   "lineage_key": "senior-systems-engineer-mission-system-compute-platform@munich",
+   "title": "Senior Systems Engineer - Mission System Compute Platform",
+   "department": "AI & Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-19T08:55:29-05:00",
+   "url": "https://helsing.ai/jobs/5042583101?gh_jid=5042583101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

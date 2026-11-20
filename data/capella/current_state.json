@@ -2,7 +2,7 @@
  "company": "capella",
  "source": "greenhouse",
  "board": "capellaspace",
- "fetched_at": "2026-11-20T18:45:25+00:00",
+ "fetched_at": "2026-11-20T22:48:23+00:00",
  "job_count": 9,
  "jobs": [
   {
@@ -17,7 +17,7 @@
    "workplace_type": "",
    "is_remote": false,
    "published_at": "2026-11-20T13:08:56-05:00",
-   "url": "https://job-boards.greenhouse.io/capellaspace/jobs/6267585004",
+   "url": "https://www.capellaspace.com/careers?gh_jid=6267585004",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -32,7 +32,7 @@
    "workplace_type": "",
    "is_remote": false,
    "published_at": "2026-11-20T13:09:08-05:00",
-   "url": "https://job-boards.greenhouse.io/capellaspace/jobs/6267593004",
+   "url": "https://www.capellaspace.com/careers?gh_jid=6267593004",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -47,7 +47,7 @@
    "workplace_type": "",
    "is_remote": false,
    "published_at": "2026-11-20T13:09:38-05:00",
-   "url": "https://job-boards.greenhouse.io/capellaspace/jobs/6267595004",
+   "url": "https://www.capellaspace.com/careers?gh_jid=6267595004",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -62,7 +62,7 @@
    "workplace_type": "",
    "is_remote": false,
    "published_at": "2026-11-20T13:09:50-05:00",
-   "url": "https://job-boards.greenhouse.io/capellaspace/jobs/6267599004",
+   "url": "https://www.capellaspace.com/careers?gh_jid=6267599004",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -77,7 +77,7 @@
    "workplace_type": "",
    "is_remote": false,
    "published_at": "2026-11-20T13:10:05-05:00",
-   "url": "https://job-boards.greenhouse.io/capellaspace/jobs/6267600004",
+   "url": "https://www.capellaspace.com/careers?gh_jid=6267600004",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -92,7 +92,7 @@
    "workplace_type": "",
    "is_remote": false,
    "published_at": "2026-11-20T13:10:20-05:00",
-   "url": "https://job-boards.greenhouse.io/capellaspace/jobs/6267601004",
+   "url": "https://www.capellaspace.com/careers?gh_jid=6267601004",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -107,7 +107,7 @@
    "workplace_type": "",
    "is_remote": false,
    "published_at": "2026-11-20T13:10:46-05:00",
-   "url": "https://job-boards.greenhouse.io/capellaspace/jobs/6267602004",
+   "url": "https://www.capellaspace.com/careers?gh_jid=6267602004",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -122,13 +122,13 @@
    "workplace_type": "",
    "is_remote": false,
    "published_at": "2026-11-20T13:11:00-05:00",
-   "url": "https://job-boards.greenhouse.io/capellaspace/jobs/6267603004",
+   "url": "https://www.capellaspace.com/careers?gh_jid=6267603004",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
    "job_id": "6267604004",
-   "lineage_key": "systems-engineer@louisville-colorado-united-states",
-   "title": "Systems Engineer",
+   "lineage_key": "systems-engineer-ii@louisville-colorado-united-states",
+   "title": "Systems Engineer II",
    "department": "Capella",
    "team": "",
    "location": "Louisville, Colorado, United States",
@@ -137,7 +137,7 @@
    "workplace_type": "",
    "is_remote": false,
    "published_at": "2026-11-20T13:05:19-05:00",
-   "url": "https://job-boards.greenhouse.io/capellaspace/jobs/6267604004",
+   "url": "https://www.capellaspace.com/careers?gh_jid=6267604004",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

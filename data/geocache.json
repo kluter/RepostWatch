@@ -697,6 +697,16 @@
    "lat": -34.6095579,
    "lon": -58.3887904,
    "label": "Buenos Aires"
+  },
+  "louisville, colorado, united states": {
+   "lat": 39.977763,
+   "lon": -105.1319296,
+   "label": "Louisville"
+  },
+  "san francisco, california, united states": {
+   "lat": 37.7879363,
+   "lon": -122.4075201,
+   "label": "San Francisco"
   }
  }
 }

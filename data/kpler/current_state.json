@@ -2,24 +2,9 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-11-19T19:07:22+00:00",
- "job_count": 111,
+ "fetched_at": "2026-11-20T18:45:25+00:00",
+ "job_count": 110,
  "jobs": [
-  {
-   "job_id": "0354b55d-7141-4491-98bc-538daeed8593",
-   "lineage_key": "fullstack-engineer@athens",
-   "title": "Fullstack Engineer",
-   "department": "Engineering",
-   "team": "Engineering Application Platform",
-   "location": "Athens",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-09-17T11:17:34.233000+00:00",
-   "url": "https://jobs.lever.co/kpler/0354b55d-7141-4491-98bc-538daeed8593",
-   "description_sha256": "9e545bf902643755c541065c5addd77e8066040fd80ce4af0f0aac028bd85318"
-  },
   {
    "job_id": "03daf6b2-51ae-477d-8085-59bfa125b1fa",
    "lineage_key": "accounts-receivable-consultant-o2c-6-months-ftc@greece",
@@ -216,21 +201,6 @@
    "published_at": "2026-10-29T14:43:39.191000+00:00",
    "url": "https://jobs.lever.co/kpler/1e3dc8d0-c551-4c25-aa69-63ab3f1d8578",
    "description_sha256": "639b47c82d46a76fd0a14de6fe1f6e53e908c0c40d862ba96a56ed01d25b939d"
-  },
-  {
-   "job_id": "23e9e7db-ca92-4663-8b60-eed96c3859f1",
-   "lineage_key": "fullstack-engineer@united-kingdom",
-   "title": "Fullstack Engineer",
-   "department": "Engineering",
-   "team": "Engineering Application Platform",
-   "location": "United Kingdom",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-09-14T14:45:47.070000+00:00",
-   "url": "https://jobs.lever.co/kpler/23e9e7db-ca92-4663-8b60-eed96c3859f1",
-   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
    "job_id": "253cb923-88b8-4dac-abd6-e498852ebb95",
@@ -644,11 +614,11 @@
   },
   {
    "job_id": "645258a8-e421-4ef9-b466-2d4a4fa303bd",
-   "lineage_key": "senior-data-engineer-financial-flows@united-kingdom",
+   "lineage_key": "senior-data-engineer-financial-flows@france",
    "title": "Senior Data Engineer - Financial Flows",
    "department": "Engineering",
    "team": "Engineering Market Pricing & Transactions",
-   "location": "United Kingdom",
+   "location": "France",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "hybrid",
@@ -838,6 +808,23 @@
    "published_at": "2026-11-09T14:02:58.514000+00:00",
    "url": "https://jobs.lever.co/kpler/7c05bdbd-4fe3-4063-9a81-3c80abe0b661",
    "description_sha256": "7b5abd12122a70ae7dec18b681d20f224f4d987e0ec1af3013949fff211f70b2"
+  },
+  {
+   "job_id": "7cb09bc9-0c0e-4bda-a246-5b2a55df6d6e",
+   "lineage_key": "solution-engineer-ii@colombia",
+   "title": "Solution Engineer II",
+   "department": "Commercial",
+   "team": "Technical Customer Experience",
+   "location": "Colombia",
+   "secondary_locations": [
+    "Brazil"
+   ],
+   "employment_type": "",
+   "workplace_type": "remote",
+   "is_remote": true,
+   "published_at": "2026-11-20T09:25:51.244000+00:00",
+   "url": "https://jobs.lever.co/kpler/7cb09bc9-0c0e-4bda-a246-5b2a55df6d6e",
+   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
   },
   {
    "job_id": "7d2b0b9f-9dae-4eee-aff8-f7493fee8e26",
@@ -1053,11 +1040,11 @@
   },
   {
    "job_id": "9e07834d-855a-4971-ab40-d8b34ddb3075",
-   "lineage_key": "back-end-engineer@athens",
+   "lineage_key": "back-end-engineer@united-kingdom",
    "title": "Back-end Engineer",
    "department": "Engineering",
    "team": "Engineering Commodities",
-   "location": "Athens",
+   "location": "United Kingdom",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "hybrid",
@@ -1478,7 +1465,7 @@
    "is_remote": true,
    "published_at": "2026-10-30T10:41:59.418000+00:00",
    "url": "https://jobs.lever.co/kpler/d97069cd-4ef8-4904-aab1-a7a3e6a58e82",
-   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
+   "description_sha256": "444ccb2b3a7b6d036062c84ddc638a0c4f654f8f747b0f89b56f2a97467c6c7f"
   },
   {
    "job_id": "db2189b5-98b8-410e-9110-24d98201973d",

@@ -2,7 +2,7 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-11-19T19:07:22+00:00",
+ "fetched_at": "2026-11-20T18:45:25+00:00",
  "job_count": 191,
  "jobs": [
   {
@@ -139,21 +139,6 @@
    "published_at": "2026-10-16T08:42:47.463+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/0f659212-84d0-436e-b27c-99306b650318",
    "description_sha256": "40f8545a2af9e07082d1c1e89e5e0b3660b36bbe75ea58b3d6f567b31de2de37"
-  },
-  {
-   "job_id": "105d0392-a86e-49e2-ab75-d96ec84c2186",
-   "lineage_key": "senior-people-generalist@lisbon",
-   "title": "Senior People Generalist",
-   "department": "CEO Office",
-   "team": "CEO Office",
-   "location": "Lisbon",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-09-18T07:10:55.910+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/105d0392-a86e-49e2-ab75-d96ec84c2186",
-   "description_sha256": "72c4053fcd9b048387fddaee4a0f7e7a3823713f2036d0ca57fd44155885916b"
   },
   {
    "job_id": "1102b455-bc29-4db3-947e-81056a37b99c",
@@ -770,7 +755,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-11-10T15:40:01.012+00:00",
+   "published_at": "2026-11-20T16:13:21.566+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/4488104e-585a-4a22-b3fe-0753216fe81b",
    "description_sha256": "e1c33af1af150f7d841086840e6327eefbd81a7407f03069b9692f971cb8ec09"
   },
@@ -1509,21 +1494,6 @@
    "description_sha256": "e71e3a0a11239783c8e35aae0d78b987dbcea101ad529b9465fc7bc57ea3ea05"
   },
   {
-   "job_id": "81908ad3-84f4-4cc3-ac25-1440f38b52c2",
-   "lineage_key": "office-assistant@warsaw",
-   "title": "Office Assistant",
-   "department": "Missions",
-   "team": "Local Subsidiary, Poland",
-   "location": "Warsaw",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-11-06T13:38:01.353+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/81908ad3-84f4-4cc3-ac25-1440f38b52c2",
-   "description_sha256": "52374e8f62ecbbb30f5ae5538df07cb95e8ba9e5d0793ded70d85f0232edcb14"
-  },
-  {
    "job_id": "824f4858-2692-4b97-82bf-cbe2805dfbd6",
    "lineage_key": "ait-engineer-electronics@athens",
    "title": "AIT Engineer - Electronics",
@@ -1671,7 +1641,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-11-09T19:38:21.162+00:00",
+   "published_at": "2026-11-20T16:15:51.306+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9371410f-1664-48c7-8153-466766739c8d",
    "description_sha256": "b1892de07b80874de17e31ee40b7f76f40093d5de6e8ff943205667ad2c6a3e6"
   },
@@ -1739,8 +1709,8 @@
   },
   {
    "job_id": "9649c999-70dc-4620-9487-e664767fa88d",
-   "lineage_key": "systems-and-software-verification-technician@valencia",
-   "title": "Systems and Software Verification Technician",
+   "lineage_key": "systems-and-software-verification-engineer@valencia",
+   "title": "Systems and Software Verification Engineer",
    "department": "Global Manufacturing Organization",
    "team": "ES Satellite Production",
    "location": "Valencia",
@@ -1748,9 +1718,9 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-11-11T12:21:33.234+00:00",
+   "published_at": "2026-11-20T12:41:30.576+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/9649c999-70dc-4620-9487-e664767fa88d",
-   "description_sha256": "d9a432fca98ba6ad5aab00e0b153fb19324161bac7010293ec0d5d387ea82385"
+   "description_sha256": "7725d2e1016c95da5d99cf53474faa633f2ca7b2e5635c0a4867db288b1318da"
   },
   {
    "job_id": "9c37d56f-492b-4167-809a-ebb61ef7d793",
@@ -2102,21 +2072,6 @@
    "published_at": "2026-10-12T13:49:02.079+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/bd3c5426-8a06-409b-b7f6-975112bbd958",
    "description_sha256": "417e9cb8dcd75ae9f07bb46733cc17335cd9f9493bdf1c2bbf9ccc39d2a6ed36"
-  },
-  {
-   "job_id": "bd583979-0670-41d9-b149-c5156c5d6d11",
-   "lineage_key": "marketing-communications-manager-france-eu@france",
-   "title": "Marketing & Communications Manager, France & EU",
-   "department": "Marketing",
-   "team": "Data & Missions Marketing",
-   "location": "France",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Remote",
-   "is_remote": true,
-   "published_at": "2026-10-27T16:07:53.701+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/bd583979-0670-41d9-b149-c5156c5d6d11",
-   "description_sha256": "dd6b1b3b2bd80c11ed0ce1f0c5afd2b223695a52729e3b354b445677685af085"
   },
   {
    "job_id": "be2a2c66-275f-41b9-acc1-9073b27bfce8",
@@ -2570,6 +2525,21 @@
    "description_sha256": "c86798162be9cd2ae59f663cbfdc40d7befec8d391fe55e4a0355840687c15b1"
   },
   {
+   "job_id": "de2950d6-f413-4e74-a1dd-4ef3c62b74ab",
+   "lineage_key": "senior-backend-software-engineer@espoo",
+   "title": "Senior Backend Software Engineer",
+   "department": "Engineering",
+   "team": "Engineering",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-20T09:45:17.604+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/de2950d6-f413-4e74-a1dd-4ef3c62b74ab",
+   "description_sha256": "9307762899ecafd4966f3602af5f917d147c528088473f60ee7be9e1188919c9"
+  },
+  {
    "job_id": "de5a67b2-af22-41a1-b615-32213e65160c",
    "lineage_key": "iceye-intern-lab-product-management@espoo",
    "title": "ICEYE Intern Lab: Product Management",
@@ -2630,6 +2600,21 @@
    "description_sha256": "3376f0657a8ddb2cd868b524601ccb780ab034401210ac9cd283666136def8b6"
   },
   {
+   "job_id": "e358575f-01c4-40ce-aac5-68f7255fce67",
+   "lineage_key": "senior-staff-grc-engineer-security@espoo",
+   "title": "Senior/Staff GRC Engineer (Security)",
+   "department": "Security",
+   "team": "Security",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-20T13:16:52.999+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/e358575f-01c4-40ce-aac5-68f7255fce67",
+   "description_sha256": "99d644e149935e90c4d5b9389ec8f48c21beb39e392769581906bead9bec0cd8"
+  },
+  {
    "job_id": "e4d89d32-5bee-4090-8bd0-5634803b6d3f",
    "lineage_key": "smart-manufacturing-engineer-software@espoo",
    "title": "Smart Manufacturing Engineer, Software",
@@ -2672,7 +2657,7 @@
    "is_remote": false,
    "published_at": "2026-11-10T09:56:34.895+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e52eedf8-f847-4fb5-91c6-2c7521fb99cc",
-   "description_sha256": "18d57a45ed149731400c863927d072aea8633983e50f5569dca47b27a1538819"
+   "description_sha256": "6e1ab6f11cdfa0ad82b4db7daecf873e7b137fc3630f8fd4c8eec1fb9f42836b"
   },
   {
    "job_id": "e595c160-7caf-4697-a4d5-a2a85bf5c481",
@@ -2793,6 +2778,21 @@
    "published_at": "2026-10-05T06:52:24.940+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/ef4c789d-85da-466c-ac71-0c20cc5a8023",
    "description_sha256": "a1e38831b2965e588e2cb4b7678c0fa8bf66db55813651920d2a0edc81a0a88f"
+  },
+  {
+   "job_id": "ef9b96f4-b5b2-403c-9bb7-b07a339a5c82",
+   "lineage_key": "software-engineer-simulation-and-modeling@valencia",
+   "title": "Software Engineer, Simulation and Modeling",
+   "department": "Engineering",
+   "team": "SIGINT",
+   "location": "Valencia",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-11-20T12:29:45.877+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/ef9b96f4-b5b2-403c-9bb7-b07a339a5c82",
+   "description_sha256": "63a1bdcef0ff38d66c494049e3efcc6c68dcc00aa0ad003d8d95feddbc90f0ba"
   },
   {
    "job_id": "f1923306-9ffa-4b2f-bee3-c7472c711167",

@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-11-19T19:07:22+00:00",
- "job_count": 177,
+ "fetched_at": "2026-11-20T18:45:25+00:00",
+ "job_count": 175,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -588,21 +588,6 @@
    "is_remote": false,
    "published_at": "2026-05-27T08:35:42-04:00",
    "url": "https://helsing.ai/jobs/4876328101?gh_jid=4876328101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4876698101",
-   "lineage_key": "payroll-specialist@berlin",
-   "title": "Payroll Specialist",
-   "department": "People",
-   "team": "",
-   "location": "Berlin",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-02T09:05:08-04:00",
-   "url": "https://helsing.ai/jobs/4876698101?gh_jid=4876698101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1776,21 +1761,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4996583101",
-   "lineage_key": "logistics-manager@munich",
-   "title": "Logistics Manager",
-   "department": "Production Operations",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-02T10:23:56-04:00",
-   "url": "https://helsing.ai/jobs/4996583101?gh_jid=4996583101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4997901101",
    "lineage_key": "lead-it-engineer@munich",
    "title": "Lead IT Engineer",
@@ -2107,8 +2077,8 @@
   },
   {
    "job_id": "5027572101",
-   "lineage_key": "system-architect-safe-autonomy-air-defence@berlin",
-   "title": "System Architect - Safe Autonomy, Air Defence",
+   "lineage_key": "systems-architect-safe-autonomy-air-defence@berlin",
+   "title": "Systems Architect - Safe Autonomy, Air Defence",
    "department": "Physical Products",
    "team": "",
    "location": "Berlin",

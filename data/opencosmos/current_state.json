@@ -2,8 +2,8 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-11-19T23:12:57+00:00",
- "job_count": 55,
+ "fetched_at": "2026-11-21T17:44:32+00:00",
+ "job_count": 58,
  "jobs": [
   {
    "job_id": "000079db-b149-42e6-82cb-a457d52a9373",
@@ -19,21 +19,6 @@
    "published_at": "2026-11-16T01:13:01+00:00",
    "url": "https://careers.open-cosmos.com/jobs/8744541-rf-electronics-engineer",
    "description_sha256": "2edf15bd2afb5663855368f8c9fbdcee07f9c588cc2ae07342cc91c44c6aed7e"
-  },
-  {
-   "job_id": "0726769f-2ee3-46d2-9243-7bed980f2375",
-   "lineage_key": "senior-network-engineer@harwell-uk",
-   "title": "Senior Network Engineer",
-   "department": "SATCOM (Broadband and Narrowband)",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-05-06T14:45:27+01:00",
-   "url": "https://careers.open-cosmos.com/jobs/7692728-senior-network-engineer",
-   "description_sha256": "5d8982ab80f1dd5fa9f00908049360db647c430b536b1e3a316f54b249605daa"
   },
   {
    "job_id": "075a0039-96f4-4248-9c6b-213966cd4a06",
@@ -321,6 +306,21 @@
    "description_sha256": "6a2748644a3f505c0a316f83fb7c34a1e675ce74a7554c81cfea04b74e9c0b0b"
   },
   {
+   "job_id": "5f76707b-5734-4206-a109-311e602617ae",
+   "lineage_key": "vp-sales-data@harwell-uk",
+   "title": "VP Sales, Data",
+   "department": "DATA",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-11-16T21:54:05+00:00",
+   "url": "https://careers.open-cosmos.com/jobs/8751196-vp-sales-data",
+   "description_sha256": "8614e3bff3813d13e30b0eccee4a7433ebcd2bfbbc368217d9851ac3a19b5727"
+  },
+  {
    "job_id": "670e9b42-155a-4fbc-b674-b94167ef8779",
    "lineage_key": "senior-mission-concept-engineer@athens-greece",
    "title": "Senior Mission Concept Engineer",
@@ -591,6 +591,21 @@
    "description_sha256": "358652a5a82144a54a9c6d3c8d28f8fcc32ae0817f55e1d5f4a4bb8f2c09184b"
   },
   {
+   "job_id": "bc10582a-c197-4ca5-a4ef-f427df7ae405",
+   "lineage_key": "satellite-payload-processing-engineer@harwell-uk",
+   "title": "Satellite Payload Processing Engineer",
+   "department": "DATA",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-11-16T15:34:43+00:00",
+   "url": "https://careers.open-cosmos.com/jobs/8749710-satellite-payload-processing-engineer",
+   "description_sha256": "3579478121426f5621af8068186b41daf3d5d5ae29790ca8102621057e6510e2"
+  },
+  {
    "job_id": "c0a9c9af-1f60-4cde-a133-54b92910879f",
    "lineage_key": "senior-optical-design-engineer@harwell-uk",
    "title": "Senior Optical Design Engineer",
@@ -604,6 +619,21 @@
    "published_at": "2026-11-16T00:16:36+00:00",
    "url": "https://careers.open-cosmos.com/jobs/8744519-senior-optical-design-engineer",
    "description_sha256": "c8c8e461063db24d113434b265800d4c0682da67d9c594a0fc96545ad2692754"
+  },
+  {
+   "job_id": "c3d4fbc9-a42e-46d9-ae16-4c26ca92ac7c",
+   "lineage_key": "project-manager-software-engineering@harwell-uk",
+   "title": "Project Manager, Software Engineering",
+   "department": "DATA",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-11-16T21:34:10+00:00",
+   "url": "https://careers.open-cosmos.com/jobs/8751178-project-manager-software-engineering",
+   "description_sha256": "afefc0745c914fcaaf10d318469de5ceaadc9b650fa5ae2b32e4f8627099fe49"
   },
   {
    "job_id": "c4b43ff8-d510-4903-b679-48792093591e",
@@ -621,6 +651,21 @@
    "description_sha256": "0afda3d61347c6fd2e97a31dbead4ddf1d9aa446af18ebdbbd2bb13d5d3012d9"
   },
   {
+   "job_id": "c79525a4-2838-418c-975d-378a230c3b96",
+   "lineage_key": "head-of-product-satellite-imagery@harwell-uk",
+   "title": "Head of Product, Satellite Imagery",
+   "department": "DATA",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-16T22:22:03+00:00",
+   "url": "https://careers.open-cosmos.com/jobs/8751216-head-of-product-satellite-imagery",
+   "description_sha256": "e6e1941db5587cc3e3452c23e226391804871eca992720937534c6839a44b090"
+  },
+  {
    "job_id": "c99139df-3d6a-4596-b489-a53bf96da21c",
    "lineage_key": "senior-spectrum-systems-engineer@harwell-uk",
    "title": "Senior Spectrum Systems Engineer",
@@ -634,21 +679,6 @@
    "published_at": "2026-03-17T09:04:13+00:00",
    "url": "https://careers.open-cosmos.com/jobs/7399240-senior-spectrum-systems-engineer",
    "description_sha256": "7061f66699594e02e12be0b4a1831ef23e90760e5d9dcbc8cc3f36a24d162400"
-  },
-  {
-   "job_id": "caa3cc3f-4961-4772-845d-38c376c072ea",
-   "lineage_key": "embedded-systems-engineer@harwell-uk",
-   "title": "Embedded Systems Engineer",
-   "department": "SATCOM (Broadband and Narrowband)",
-   "team": "",
-   "location": "Harwell, UK",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": true,
-   "published_at": "2026-05-06T17:07:37+01:00",
-   "url": "https://careers.open-cosmos.com/jobs/7693992-embedded-systems-engineer",
-   "description_sha256": "ca4310f973f583b35b678932473c298b3de009606fa52748c1eed00c8f5bf8c2"
   },
   {
    "job_id": "cf44ccdf-509c-499b-b7b1-3f5dd1089976",
@@ -829,6 +859,21 @@
    "published_at": "2026-11-16T00:39:46+00:00",
    "url": "https://careers.open-cosmos.com/jobs/8744526-senior-opto-mechanical-engineer",
    "description_sha256": "f627c8d13382de27a3beacd8ac62da3de663041184e6938e2d20763766cd3a68"
+  },
+  {
+   "job_id": "fc9d3433-a97e-47da-a1ff-f85a74392f70",
+   "lineage_key": "delivery-service-manager@harwell-uk",
+   "title": "Delivery Service Manager",
+   "department": "DATA",
+   "team": "",
+   "location": "Harwell, UK",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-11-16T14:58:16+00:00",
+   "url": "https://careers.open-cosmos.com/jobs/8749366-delivery-service-manager",
+   "description_sha256": "b22ccf0632dd11a51a4c2c295a3839802a3fc534a89eb7eb8af51c48679998e5"
   }
  ]
 }

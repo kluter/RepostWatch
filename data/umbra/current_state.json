@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-11-19T19:07:22+00:00",
- "job_count": 28,
+ "fetched_at": "2026-11-21T17:44:32+00:00",
+ "job_count": 29,
  "jobs": [
   {
    "job_id": "0652C1D7B7",
@@ -379,6 +379,24 @@
    "published_at": "2026-08-03T00:00:00+00:00",
    "url": "https://apply.workable.com/j/A9AE7BC7D6",
    "description_sha256": "06d238cf9923957ec0072cdd77b0ffa34d78b52b509a590cf5ae8f6ea511c213"
+  },
+  {
+   "job_id": "B9DBA6BAA6",
+   "lineage_key": "senior-spacecraft-electrical-engineer@arlington-united-states",
+   "title": "Senior Spacecraft Electrical Engineer",
+   "department": "Space Systems",
+   "team": "",
+   "location": "Arlington, United States",
+   "secondary_locations": [
+    "Reston, United States",
+    "Santa Barbara, United States"
+   ],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-20T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/B9DBA6BAA6",
+   "description_sha256": "c92afe943c5f7b244f0d399f3c06630b6e645f2bd276ddd6986d22cd642713ed"
   },
   {
    "job_id": "C5AC9FC05B",

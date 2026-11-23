@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-11-21T17:44:32+00:00",
- "job_count": 109,
+ "fetched_at": "2026-11-23T22:11:18+00:00",
+ "job_count": 108,
  "jobs": [
   {
    "job_id": "7377994",
@@ -108,21 +108,6 @@
    "is_remote": false,
    "published_at": "2026-03-16T15:52:03-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7704446",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "7740653",
-   "lineage_key": "senior-manager-talent-operations@san-francisco-ca",
-   "title": "Senior Manager, Talent Operations",
-   "department": "Talent Acquisition",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-03-27T19:02:12-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7740653",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -381,21 +366,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8160748",
-   "lineage_key": "senior-product-marketing-manager-global-monitoring-services@arlington-va",
-   "title": "Senior Product Marketing Manager, Global Monitoring Services",
-   "department": "Product Marketing",
-   "team": "",
-   "location": "Arlington, VA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-26T18:20:49-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8160748",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8161967",
    "lineage_key": "solutions-architect-i-professional-services@berlin-germany",
    "title": "Solutions Architect I, Professional Services",
@@ -606,21 +576,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8204162",
-   "lineage_key": "account-executive-defence-intelligence-france@france",
-   "title": "Account Executive, Defence & Intelligence, France",
-   "department": "Account Executive",
-   "team": "",
-   "location": "France",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-15T10:30:50-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8204162",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8204476",
    "lineage_key": "sales-development-representative@berlin-germany",
    "title": "Sales Development Representative",
@@ -738,21 +693,6 @@
    "is_remote": false,
    "published_at": "2026-09-23T03:56:29-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8221607",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8221853",
-   "lineage_key": "harness-manufacturing-engineer@san-francisco-ca",
-   "title": "Harness Manufacturing Engineer",
-   "department": "NPI Engineering",
-   "team": "",
-   "location": "San Francisco, CA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-30T14:52:56-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8221853",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1638,6 +1578,51 @@
    "is_remote": true,
    "published_at": "2026-11-18T06:02:44-05:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8394110",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8394389",
+   "lineage_key": "senior-solutions-architect-i-pre-sales-uk-defence-intelligence@united-kingdom-remote",
+   "title": "Senior Solutions Architect I, Pre-Sales - UK Defence & Intelligence",
+   "department": "Pre-Sales and Services",
+   "team": "",
+   "location": "United Kingdom, Remote",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-11-23T05:46:23-05:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8394389",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8396468",
+   "lineage_key": "working-student-export-control-international-trade-compliance-m-f-d@berlin-germany",
+   "title": "Working Student, Export Control/ International Trade Compliance (m/f/d)",
+   "department": "Regulatory & Compliance",
+   "team": "",
+   "location": "Berlin, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-23T05:12:02-05:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8396468",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8396505",
+   "lineage_key": "senior-analyst-international-trade-compliance@united-states-remote",
+   "title": "Senior Analyst, International Trade Compliance",
+   "department": "Regulatory & Compliance",
+   "team": "",
+   "location": "United States, Remote",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-11-23T12:24:37-05:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8396505",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

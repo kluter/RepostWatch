@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-11-22T17:59:33+00:00",
- "job_count": 189,
+ "fetched_at": "2026-11-23T22:11:18+00:00",
+ "job_count": 195,
  "jobs": [
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
@@ -64,6 +64,36 @@
    "published_at": "2026-10-28T07:50:56.195+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/09d02ba3-5ba6-4a11-bb30-74e42c22c485",
    "description_sha256": "e5c6d7a2b636df46b36054fb528562017f7654a3b5f652df38be3dc64282ed89"
+  },
+  {
+   "job_id": "09ff648d-b16a-46f4-8258-052fea06502f",
+   "lineage_key": "senior-ap-specialist-senior-supplier-finance-specialist@espoo",
+   "title": "Senior AP Specialist (Senior Supplier Finance Specialist)",
+   "department": "Finance",
+   "team": "Finance",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-23T15:57:21.133+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/09ff648d-b16a-46f4-8258-052fea06502f",
+   "description_sha256": "53335030ccfc87be006aa9c033024b86f7734260bb69b3d22f2b9684257d68d4"
+  },
+  {
+   "job_id": "0b21baf2-aca9-49d5-8a8e-d49803845f14",
+   "lineage_key": "staff-electronics-engineer-avionics@espoo",
+   "title": "Staff Electronics Engineer - Avionics",
+   "department": "Engineering",
+   "team": "Avionics",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-23T14:17:53.826+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/0b21baf2-aca9-49d5-8a8e-d49803845f14",
+   "description_sha256": "f1c9e3e9b68ca22184d007c99f3b0507ce4eba700be90da24ae6d26c5d80e1cb"
   },
   {
    "job_id": "0b59b282-5c17-439e-b5af-86e118d98cd1",
@@ -177,6 +207,21 @@
    "published_at": "2026-11-19T06:56:07.989+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/12b245fc-8b29-454e-96e2-6b621288a781",
    "description_sha256": "0db6e88c131dce3abb490029db430351557ff3d4edd3bc16f4a20ab1cf9546af"
+  },
+  {
+   "job_id": "145faa36-701c-4a11-8e67-2cd5d033ff8b",
+   "lineage_key": "ap-specialist-supplier-finance-operations@espoo",
+   "title": "AP Specialist (Supplier Finance Operations)",
+   "department": "Finance",
+   "team": "Finance",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-23T15:21:06.427+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/145faa36-701c-4a11-8e67-2cd5d033ff8b",
+   "description_sha256": "01b80393926bcf13e73fafb73d49651a4497d60d942a14cf76c5f647335e5f40"
   },
   {
    "job_id": "15151504-9995-4025-9d94-a31ef624a838",
@@ -302,21 +347,6 @@
    "published_at": "2026-10-22T14:13:57.226+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/1b8f590b-fd9a-4c7a-ae0d-6e15f0bed42f",
    "description_sha256": "7a5b0de1f620b86f9d9eceb540d9dd007ba600e6e88f345ea4c4ea9af3b0e68c"
-  },
-  {
-   "job_id": "1db756b7-7d44-4232-aaae-4632e727850f",
-   "lineage_key": "staff-product-designer@espoo",
-   "title": "Staff Product Designer",
-   "department": "Product",
-   "team": "Product",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-09-21T07:34:23.022+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/1db756b7-7d44-4232-aaae-4632e727850f",
-   "description_sha256": "899371c78fbda509b93ea246584f0ce2bdf32e5af5ae7de2d376544d5d2dc0ae"
   },
   {
    "job_id": "1dd48b2e-7a42-42bb-8731-f9fc8b32c528",
@@ -454,6 +484,21 @@
    "description_sha256": "800476ef5e87d919c3f466b6cb28ea4dbc5e595f735ab409b0db821791669d39"
   },
   {
+   "job_id": "2741fc53-8979-47ff-9c7e-4b7ef9de81e4",
+   "lineage_key": "ehs-specialist@munich",
+   "title": "EHS Specialist",
+   "department": "Global Manufacturing Organization",
+   "team": "Manufacturing Assurance",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-23T09:10:38.655+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/2741fc53-8979-47ff-9c7e-4b7ef9de81e4",
+   "description_sha256": "629dc3e1b38e85f76ce75f8ef2a2fbfe4b461ec1143cad8b184076192515f822"
+  },
+  {
    "job_id": "28910d93-1651-4b52-b724-02bd48024027",
    "lineage_key": "open-application-global-manufacturing-operations-gmo@espoo",
    "title": "Open Application: Global Manufacturing Operations (GMO)",
@@ -482,6 +527,21 @@
    "published_at": "2026-07-13T19:19:43.575+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/2a7fa616-d6b3-469d-a724-73150c417fac",
    "description_sha256": "37cbf51bc4b1a26b5d9c8aee5b32e63e7f47706111323e78d410dddd279138a2"
+  },
+  {
+   "job_id": "2b6f4ed5-daee-4c4e-aa8f-1a441b600c45",
+   "lineage_key": "engineering-team-lead-flood-observation@espoo",
+   "title": "Engineering Team Lead, Flood Observation",
+   "department": "Solutions",
+   "team": "Product Engineering",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-23T07:38:09.644+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/2b6f4ed5-daee-4c4e-aa8f-1a441b600c45",
+   "description_sha256": "f573343753c934f7251742e4d8a1c3b8a267877d3e06e48078deabbfa164b0e0"
   },
   {
    "job_id": "2eaba1d2-8ed8-44f4-a769-31c9292cbe31",
@@ -619,6 +679,21 @@
    "published_at": "2026-11-13T08:29:56.108+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/3662acb4-316e-4b9b-aa2d-71ba9f84a85d",
    "description_sha256": "bf5fad8d8c59303bd5ef42bb175cfc3a338c4e9c95b8d710c834138635d8ed4f"
+  },
+  {
+   "job_id": "368d2f1f-bf5c-43fa-85ec-8d6b7b529347",
+   "lineage_key": "ehs-specialist@amsterdam",
+   "title": "EHS Specialist",
+   "department": "Global Manufacturing Organization",
+   "team": "Manufacturing Assurance",
+   "location": "Amsterdam",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-23T09:02:32.121+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/368d2f1f-bf5c-43fa-85ec-8d6b7b529347",
+   "description_sha256": "a9ebf86e6f5526d6cab8b7b8b08a63ed4ddb3a5c4416534a1c7970d8ce7d3122"
   },
   {
    "job_id": "37ce25c9-e16c-45d7-8891-f808c76e1102",
@@ -852,11 +927,26 @@
    "description_sha256": "19006312d6397311c9e5f5b55fe23d22ad60b34b474a4c8a039bdce0a28daea8"
   },
   {
+   "job_id": "4abdc8a8-5bc1-4378-9a16-378e1e6da262",
+   "lineage_key": "senior-product-designer-missions-and-data@espoo",
+   "title": "Senior Product Designer, Missions and Data",
+   "department": "Product",
+   "team": "Product Management",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-23T16:59:52.057+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/4abdc8a8-5bc1-4378-9a16-378e1e6da262",
+   "description_sha256": "de07694a5dacd3691649e155586710b1008d69004b3482396e6f864680f8cc50"
+  },
+  {
    "job_id": "4b263ffa-135a-4855-b843-156cb8628683",
    "lineage_key": "mission-delivery-engineer-portugal@lisbon",
    "title": "Mission Delivery Engineer Portugal",
    "department": "Missions",
-   "team": "Missions Programs",
+   "team": "Missions Delivery Engineering",
    "location": "Lisbon",
    "secondary_locations": [],
    "employment_type": "FullTime",
@@ -865,21 +955,6 @@
    "published_at": "2026-09-14T15:09:28.217+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/4b263ffa-135a-4855-b843-156cb8628683",
    "description_sha256": "98c5b0b4566d00f2c885c49b7cdecf2642f17dd624f4cab5cd3aebcbc94b074b"
-  },
-  {
-   "job_id": "4b5957fb-dd07-424f-b1b0-59bbd2864a0f",
-   "lineage_key": "senior-geospatial-software-engineer@espoo",
-   "title": "Senior Geospatial Software Engineer",
-   "department": "Solutions",
-   "team": "Product Engineering",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-11-09T07:13:12.111+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/4b5957fb-dd07-424f-b1b0-59bbd2864a0f",
-   "description_sha256": "e1b7ddebb00d75c991ac3ab12d1f53018fa26b4e19a32e171215887bdba84192"
   },
   {
    "job_id": "4c630f65-1093-4a4a-a106-41cb47de7fa2",
@@ -1023,7 +1098,7 @@
    "lineage_key": "mission-delivery-engineer-greece@athens",
    "title": "Mission Delivery Engineer Greece",
    "department": "Missions",
-   "team": "Missions Programs",
+   "team": "Missions Delivery Engineering",
    "location": "Athens",
    "secondary_locations": [],
    "employment_type": "FullTime",
@@ -1182,6 +1257,21 @@
    "published_at": "2026-11-02T08:04:14.302+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/6bbacedf-1114-4f9f-8713-ffe22b35eac8",
    "description_sha256": "1660cb6e6013ea694e05daca178fc708ee30607e28a270bab748e673bc9e4f2b"
+  },
+  {
+   "job_id": "6e365057-467d-4043-b160-64b4df544eb3",
+   "lineage_key": "program-manager-greece@athens",
+   "title": "Program Manager - Greece",
+   "department": "Missions",
+   "team": "Missions",
+   "location": "Athens",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "OnSite",
+   "is_remote": false,
+   "published_at": "2026-11-23T16:40:46.777+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/6e365057-467d-4043-b160-64b4df544eb3",
+   "description_sha256": "41d7ae23f593e5fdfbf1457bc8081dfa3bd57922608b60ee2ed94b02171f975d"
   },
   {
    "job_id": "6e531bd0-02f1-4191-91dd-f16910246d23",
@@ -1357,21 +1447,6 @@
    "description_sha256": "e483a81732c0ab3e6aa098ab0dc803facd85e6a03daa4ea334cfd0a44420624d"
   },
   {
-   "job_id": "773acae9-2aa7-41d4-bc9a-e7512a93bece",
-   "lineage_key": "legal-counsel-commercial-procurement-focus@espoo",
-   "title": "Legal Counsel - Commercial (procurement focus)",
-   "department": "Legal",
-   "team": "Legal",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-11-03T12:52:21.947+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/773acae9-2aa7-41d4-bc9a-e7512a93bece",
-   "description_sha256": "0157f282adcf0a56d18b316d8eb53bb7acae14526cae3bfa7725ea40dff769aa"
-  },
-  {
    "job_id": "77a37ccc-5fc4-4978-9882-e40436959d16",
    "lineage_key": "optical-engineer-test-metrology@warsaw",
    "title": "Optical Engineer (Test/Metrology)",
@@ -1400,6 +1475,21 @@
    "published_at": "2026-11-02T07:51:49.490+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/7aa39b54-aa85-477f-962d-ce5925e554b4",
    "description_sha256": "631ae74815d78d91ed58423140d145c97b0525d2b8f2dbad40f5c4b55c175fa6"
+  },
+  {
+   "job_id": "7d13fbd3-1c8a-4f2a-91c2-2b6895856604",
+   "lineage_key": "procurement-operations-and-master-data-specialist@espoo",
+   "title": "Procurement Operations and Master Data Specialist",
+   "department": "Finance",
+   "team": "Finance",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-23T15:23:10.011+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/7d13fbd3-1c8a-4f2a-91c2-2b6895856604",
+   "description_sha256": "5e54e956b5bb41c5449eeec39cae75d6885b068f195bcbc5eb73c0de6b7becf9"
   },
   {
    "job_id": "7e1be691-32b2-4a35-9338-8fec83b67c55",
@@ -1601,7 +1691,7 @@
    "lineage_key": "mission-delivery-engineer@warsaw",
    "title": "Mission Delivery Engineer",
    "department": "Missions",
-   "team": "Missions Programs",
+   "team": "Missions Delivery Engineering",
    "location": "Warsaw",
    "secondary_locations": [
     "Espoo"
@@ -2214,6 +2304,21 @@
    "description_sha256": "1f7bdce3c58ef96063992a58c13ad451e52d900533d246447b998b0794d98af7"
   },
   {
+   "job_id": "cb818b4c-b021-421a-8464-e4d60b41d62e",
+   "lineage_key": "talent-attraction-coordinator@espoo",
+   "title": "Talent Attraction Coordinator",
+   "department": "Operations",
+   "team": "Operations",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-23T16:00:09.897+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/cb818b4c-b021-421a-8464-e4d60b41d62e",
+   "description_sha256": "41d169b5b9b277a8ccdceb351f4ea3f451235ef8cce64fd68abc12b50c61d293"
+  },
+  {
    "job_id": "cc0b017f-f910-4e64-9dd6-4b4da5538089",
    "lineage_key": "senior-radio-frequency-engineer@valencia-spain",
    "title": "Senior Radio Frequency Engineer",
@@ -2595,7 +2700,7 @@
    "is_remote": true,
    "published_at": "2026-11-20T13:16:52.999+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e358575f-01c4-40ce-aac5-68f7255fce67",
-   "description_sha256": "99d644e149935e90c4d5b9389ec8f48c21beb39e392769581906bead9bec0cd8"
+   "description_sha256": "2bced256d44452103e0e41cb9b9c7cfd57047004b160c94827a0df4def4c50e2"
   },
   {
    "job_id": "e4d89d32-5bee-4090-8bd0-5634803b6d3f",
@@ -2611,21 +2716,6 @@
    "published_at": "2026-08-20T09:18:26.835+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e4d89d32-5bee-4090-8bd0-5634803b6d3f",
    "description_sha256": "ced3990252b49a1e9b7ceb1238de3e3ac4d332332b1ab386aa11e4bd2ebcc3c3"
-  },
-  {
-   "job_id": "e5082d17-b132-4106-b70d-2a08cdeeb405",
-   "lineage_key": "engineering-team-lead-geospatial-analytics@espoo",
-   "title": "Engineering Team Lead (Geospatial Analytics)",
-   "department": "Solutions",
-   "team": "Product Engineering",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-10-30T12:22:43.370+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/e5082d17-b132-4106-b70d-2a08cdeeb405",
-   "description_sha256": "dd717906118a3d71de1c3a528989973b0b33a7937b163a58dd4a95fdd787a359"
   },
   {
    "job_id": "e52eedf8-f847-4fb5-91c6-2c7521fb99cc",

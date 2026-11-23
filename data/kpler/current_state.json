@@ -2,24 +2,9 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-11-20T18:45:25+00:00",
- "job_count": 110,
+ "fetched_at": "2026-11-23T22:11:18+00:00",
+ "job_count": 106,
  "jobs": [
-  {
-   "job_id": "03daf6b2-51ae-477d-8085-59bfa125b1fa",
-   "lineage_key": "accounts-receivable-consultant-o2c-6-months-ftc@greece",
-   "title": "Accounts Receivable Consultant (O2C) - 6 months FTC",
-   "department": "Finance",
-   "team": "Finance",
-   "location": "Greece",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "remote",
-   "is_remote": true,
-   "published_at": "2026-11-04T15:45:38.631000+00:00",
-   "url": "https://jobs.lever.co/kpler/03daf6b2-51ae-477d-8085-59bfa125b1fa",
-   "description_sha256": "fb08cce57e0ce670c330434ea577f1eafad15a086fa4ec2122e44ae54a3de59d"
-  },
   {
    "job_id": "04129e3c-8390-4ce7-9e7f-30787378caf5",
    "lineage_key": "account-executive-new-business@london",
@@ -562,21 +547,6 @@
    "description_sha256": "8cfac88e5a6735ffe80f6dde0ac3c56d9d720f4c1bce197904ce4738388fff83"
   },
   {
-   "job_id": "613fa88b-86a2-4168-ba13-d56452ff4ce8",
-   "lineage_key": "account-executive-automotive-mobility-intelligence@detroit",
-   "title": "Account Executive - Automotive & Mobility Intelligence",
-   "department": "Commercial",
-   "team": "Sales - Mid Market Americas",
-   "location": "Detroit",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-10-15T20:20:36.016000+00:00",
-   "url": "https://jobs.lever.co/kpler/613fa88b-86a2-4168-ba13-d56452ff4ce8",
-   "description_sha256": "f77d14fc7552ca98699288a1eaa258e6c863ab1c695c82ee1fd17f569e6c8ada"
-  },
-  {
    "job_id": "616907ff-3ac5-47ef-a8de-077579a691ad",
    "lineage_key": "senior-ai-engineer-ai-enablement@paris",
    "title": "Senior AI Engineer (AI Enablement)",
@@ -1009,21 +979,6 @@
    "description_sha256": "97dd5dec6ac6ea3ae852dfd7fe08a364cad7a721433647971e197a33cfcac0f7"
   },
   {
-   "job_id": "98a0722a-8224-48ea-830a-58a606806383",
-   "lineage_key": "sales-development-representative-financial@singapore",
-   "title": "Sales Development Representative – Financial",
-   "department": "Commercial",
-   "team": "Sales - Mid Market APAC",
-   "location": "Singapore",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "hybrid",
-   "is_remote": false,
-   "published_at": "2026-10-15T09:21:53.448000+00:00",
-   "url": "https://jobs.lever.co/kpler/98a0722a-8224-48ea-830a-58a606806383",
-   "description_sha256": "6bcdf6cfaf8b08383a287fe0810f139ac081c4d6fe37a6b0e552d41dc8269a6c"
-  },
-  {
    "job_id": "9e074aba-4ada-4fbe-806e-aca30a92e831",
    "lineage_key": "lng-natural-gas-analyst@london",
    "title": "LNG & Natural Gas Analyst",
@@ -1040,8 +995,8 @@
   },
   {
    "job_id": "9e07834d-855a-4971-ab40-d8b34ddb3075",
-   "lineage_key": "back-end-engineer@united-kingdom",
-   "title": "Back-end Engineer",
+   "lineage_key": "senior-back-end-engineer@united-kingdom",
+   "title": "Senior Back-end Engineer",
    "department": "Engineering",
    "team": "Engineering Commodities",
    "location": "United Kingdom",
@@ -1224,21 +1179,6 @@
    "published_at": "2026-06-26T08:53:25.819000+00:00",
    "url": "https://jobs.lever.co/kpler/b93250d4-23b6-496e-8483-63fbeaf8c1fa",
    "description_sha256": "3a5f79d83da6f713d97ef27b3b2212b78b01c53102132f2872fbb32cb55146a9"
-  },
-  {
-   "job_id": "baa763a0-0bce-4240-ad4f-554f1741481e",
-   "lineage_key": "account-executive-maritime-shipping-logistics-new-business@toronto",
-   "title": "Account Executive - Maritime/ Shipping & Logistics (New Business)",
-   "department": "Commercial",
-   "team": "Sales - Mid Market Americas",
-   "location": "Toronto",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "remote",
-   "is_remote": true,
-   "published_at": "2026-08-07T14:50:26.607000+00:00",
-   "url": "https://jobs.lever.co/kpler/baa763a0-0bce-4240-ad4f-554f1741481e",
-   "description_sha256": "d7c4a1780b9f5d07baeaf4720a34b29f1f555185cec31f3ed5c0547654e7705b"
   },
   {
    "job_id": "bbfca9dc-240c-4fdd-8710-20b6c55b87fd",

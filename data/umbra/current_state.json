@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-11-21T17:44:32+00:00",
- "job_count": 29,
+ "fetched_at": "2026-11-23T22:11:18+00:00",
+ "job_count": 28,
  "jobs": [
   {
    "job_id": "0652C1D7B7",
@@ -74,23 +74,6 @@
    "published_at": "2026-11-07T00:00:00+00:00",
    "url": "https://apply.workable.com/j/12F0B52804",
    "description_sha256": "8e2625639307ddc5f5e080717a5188ee0f3c8e1290601f65beba843c69c08348"
-  },
-  {
-   "job_id": "1956636B85",
-   "lineage_key": "engineering-manager@arlington-united-states",
-   "title": "Engineering Manager",
-   "department": "Space Systems",
-   "team": "",
-   "location": "Arlington, United States",
-   "secondary_locations": [
-    "Santa Barbara, United States"
-   ],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-22T00:00:00+00:00",
-   "url": "https://apply.workable.com/j/1956636B85",
-   "description_sha256": "c06a16089660f3ffaefa9d4a883128f59f680bd11593b9ee3859748665edef49"
   },
   {
    "job_id": "2052942FA2",

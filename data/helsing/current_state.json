@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-11-20T18:45:25+00:00",
- "job_count": 175,
+ "fetched_at": "2026-11-23T22:11:18+00:00",
+ "job_count": 177,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -93,21 +93,6 @@
    "is_remote": false,
    "published_at": "2025-01-13T12:15:06-05:00",
    "url": "https://helsing.ai/jobs/4516967101?gh_jid=4516967101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4538119101",
-   "lineage_key": "forward-strategist@munich",
-   "title": "Forward Strategist",
-   "department": "Deployed Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-20T08:58:17-04:00",
-   "url": "https://helsing.ai/jobs/4538119101?gh_jid=4538119101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -727,8 +712,8 @@
   },
   {
    "job_id": "4895583101",
-   "lineage_key": "senior-design-engineer@washington-dc",
-   "title": "Senior Design Engineer",
+   "lineage_key": "design-engineer@washington-dc",
+   "title": "Design Engineer",
    "department": "Hardware Engineering",
    "team": "",
    "location": "Washington, DC",
@@ -742,8 +727,8 @@
   },
   {
    "job_id": "4895594101",
-   "lineage_key": "senior-navigation-engineer@washington-dc",
-   "title": "Senior Navigation Engineer",
+   "lineage_key": "navigation-engineer@washington-dc",
+   "title": "Navigation Engineer",
    "department": "Hardware Engineering",
    "team": "",
    "location": "Washington, DC",
@@ -963,21 +948,6 @@
    "is_remote": false,
    "published_at": "2026-08-03T11:22:35-04:00",
    "url": "https://helsing.ai/jobs/4943195101?gh_jid=4943195101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4944213101",
-   "lineage_key": "senior-programme-manager-land@munich",
-   "title": "(Senior) Programme Manager - Land",
-   "department": "Campaigns & Programmes",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-04T10:17:16-04:00",
-   "url": "https://helsing.ai/jobs/4944213101?gh_jid=4944213101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1536,21 +1506,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4981556101",
-   "lineage_key": "simulation-engineer@munich",
-   "title": "Simulation Engineer",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-21T11:37:59-04:00",
-   "url": "https://helsing.ai/jobs/4981556101?gh_jid=4981556101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4983519101",
    "lineage_key": "software-programme-manager-land@london-england-united-kingdom",
    "title": "Software Programme Manager – Land",
@@ -1912,8 +1867,8 @@
   },
   {
    "job_id": "5017322101",
-   "lineage_key": "senior-power-electronics-engineer@washington-dc",
-   "title": "Senior Power Electronics Engineer",
+   "lineage_key": "power-electronics-engineer@washington-dc",
+   "title": "Power Electronics Engineer",
    "department": "Hardware Engineering",
    "team": "",
    "location": "Washington, DC",
@@ -1927,8 +1882,8 @@
   },
   {
    "job_id": "5017328101",
-   "lineage_key": "senior-electronics-engineer@washington-dc",
-   "title": "Senior Electronics Engineer",
+   "lineage_key": "electronics-engineer@washington-dc",
+   "title": "Electronics Engineer",
    "department": "Hardware Engineering",
    "team": "",
    "location": "Washington, DC",
@@ -2628,6 +2583,81 @@
    "is_remote": false,
    "published_at": "2026-11-19T08:55:29-05:00",
    "url": "https://helsing.ai/jobs/5042583101?gh_jid=5042583101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5043812101",
+   "lineage_key": "people-operations-associate-onboarding-and-data@washington-dc",
+   "title": "People Operations Associate (Onboarding and Data)",
+   "department": "Physical Products",
+   "team": "",
+   "location": "Washington, DC",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-23T09:18:15-05:00",
+   "url": "https://helsing.ai/jobs/5043812101?gh_jid=5043812101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5044242101",
+   "lineage_key": "controller-public-pricing-law@munich",
+   "title": "Controller Public Pricing Law",
+   "department": "Finance",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-23T03:59:25-05:00",
+   "url": "https://helsing.ai/jobs/5044242101?gh_jid=5044242101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5044261101",
+   "lineage_key": "controller-in-offentliches-preisrecht-kalkulation@munich",
+   "title": "Controller/in - Öffentliches Preisrecht & Kalkulation",
+   "department": "Finance",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-23T04:08:17-05:00",
+   "url": "https://helsing.ai/jobs/5044261101?gh_jid=5044261101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5044676101",
+   "lineage_key": "senior-programme-manager-air-defence@munich",
+   "title": "Senior Programme Manager - Air Defence",
+   "department": "Market",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-23T10:06:56-05:00",
+   "url": "https://helsing.ai/jobs/5044676101?gh_jid=5044676101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5044683101",
+   "lineage_key": "associate-programme-manager-air-defence@berlin",
+   "title": "Associate Programme Manager - Air Defence",
+   "department": "Market",
+   "team": "",
+   "location": "Berlin",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-23T10:06:25-05:00",
+   "url": "https://helsing.ai/jobs/5044683101?gh_jid=5044683101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

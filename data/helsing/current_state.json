@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-11-23T22:11:18+00:00",
- "job_count": 177,
+ "fetched_at": "2026-11-24T03:01:58+00:00",
+ "job_count": 176,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -1893,21 +1893,6 @@
    "is_remote": false,
    "published_at": "2026-10-27T06:42:13-04:00",
    "url": "https://helsing.ai/jobs/5017328101?gh_jid=5017328101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "5017382101",
-   "lineage_key": "facilities-manager@martinsburg-wv",
-   "title": "Facilities Manager",
-   "department": "Operations",
-   "team": "",
-   "location": "Martinsburg, WV",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-27T07:25:27-04:00",
-   "url": "https://helsing.ai/jobs/5017382101?gh_jid=5017382101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

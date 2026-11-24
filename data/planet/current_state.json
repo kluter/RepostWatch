@@ -2,7 +2,7 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-11-24T03:01:58+00:00",
+ "fetched_at": "2026-11-24T20:49:39+00:00",
  "job_count": 107,
  "jobs": [
   {
@@ -303,21 +303,6 @@
    "is_remote": true,
    "published_at": "2026-09-01T02:47:33-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8134793",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8148503",
-   "lineage_key": "senior-business-development-manager-us-navy@arlington-va",
-   "title": "Senior Business Development Manager, US Navy",
-   "department": "Business Development",
-   "team": "",
-   "location": "Arlington, VA",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-31T12:58:06-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8148503",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1593,6 +1578,21 @@
    "is_remote": false,
    "published_at": "2026-11-23T05:12:02-05:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8396468",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8396499",
+   "lineage_key": "technical-program-manager-solutions@ljubljana-slovenia",
+   "title": "Technical Program Manager, Solutions",
+   "department": "Program Management",
+   "team": "",
+   "location": "Ljubljana, Slovenia",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-24T05:51:54-05:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8396499",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

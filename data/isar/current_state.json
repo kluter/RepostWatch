@@ -2,8 +2,8 @@
  "company": "isar",
  "source": "greenhouse",
  "board": "isaraerospace",
- "fetched_at": "2026-11-23T22:11:18+00:00",
- "job_count": 146,
+ "fetched_at": "2026-11-24T20:49:39+00:00",
+ "job_count": 142,
  "jobs": [
   {
    "job_id": "4206414101",
@@ -66,6 +66,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4636046101",
+   "lineage_key": "zerspanungsmechaniker-cnc-fraser-m-w-d@parsdorf-bavaria-germany",
+   "title": "Zerspanungsmechaniker / CNC-Fräser (m/w/d)",
+   "department": "Production, Operations & Quality",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2025-07-11T04:47:26-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4636046101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4642289101",
    "lineage_key": "senior-design-engineer-m-f-d@parsdorf-bavaria-germany",
    "title": "(Senior) Design Engineer (m/f/d)",
@@ -78,21 +93,6 @@
    "is_remote": false,
    "published_at": "2025-07-27T16:20:55-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4642289101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4688142101",
-   "lineage_key": "senior-talent-attraction-specialist-m-f-d@parsdorf-bavaria-germany",
-   "title": "Senior Talent Attraction Specialist (m/f/d)",
-   "department": "Talent",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2025-10-15T09:59:49-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4688142101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -396,21 +396,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4820303101",
-   "lineage_key": "hr-business-partner-m-f-d@parsdorf-bavaria-germany",
-   "title": "HR Business Partner (m/f/d)",
-   "department": "Talent",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-03-29T18:00:00-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4820303101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4820723101",
    "lineage_key": "lead-technician-m-f-d@kiruna-norrbotten-sweden",
    "title": "Lead Technician (m/f/d)",
@@ -558,6 +543,21 @@
    "is_remote": false,
    "published_at": "2026-06-01T00:00:15-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4875375101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4896442101",
+   "lineage_key": "zerspanungsmechaniker-cnc-fraser-cnc-dreher-m-w-d@parsdorf-bavaria-germany",
+   "title": "Zerspanungsmechaniker / CNC-Fräser / CNC-Dreher (m/w/d)",
+   "department": "Production, Operations & Quality",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-06-12T08:07:23-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4896442101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -726,21 +726,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4948968101",
-   "lineage_key": "talent-attraction-specialist-m-f-d@parsdorf-bavaria-germany",
-   "title": "Talent Attraction Specialist (m/f/d)",
-   "department": "Talent",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-07T13:58:29-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4948968101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4950896101",
    "lineage_key": "launch-pad-operations-engineer-m-f-d@andenes-nordland-norway",
    "title": "Launch Pad Operations Engineer (m/f/d)",
@@ -753,21 +738,6 @@
    "is_remote": false,
    "published_at": "2026-08-11T11:21:03-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4950896101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4950930101",
-   "lineage_key": "application-software-engineer-f-m-d@parsdorf-bavaria-germany",
-   "title": "Application Software Engineer (f/m/d)",
-   "department": "Ground Systems",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-11T12:05:59-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4950930101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -846,6 +816,21 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+   "job_id": "4961224101",
+   "lineage_key": "cnc-tool-shop-operator-m-f-d@parsdorf-bavaria-germany",
+   "title": "CNC Tool Shop Operator (m/f/d)",
+   "department": "Production, Operations & Quality",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-26T09:53:32-04:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4961224101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
    "job_id": "4963501101",
    "lineage_key": "supply-chain-management-specialist-transport-logistics-m-f-d@parsdorf-bavaria-germany",
    "title": "Supply Chain Management Specialist / Transport Logistics (m/f/d)",
@@ -888,21 +873,6 @@
    "is_remote": false,
    "published_at": "2026-09-07T10:57:37-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4970051101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4974306101",
-   "lineage_key": "senior-data-backend-software-engineer-f-m-d@ottobrunn-bavaria-germany",
-   "title": "Senior Data & Backend Software Engineer (f/m/d)",
-   "department": "Ground Systems",
-   "team": "",
-   "location": "Ottobrunn, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-11T07:51:02-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4974306101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1158,21 +1128,6 @@
    "is_remote": false,
    "published_at": "2026-09-30T06:25:32-04:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4989582101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4989616101",
-   "lineage_key": "manager-supply-quality-continuous-improvement-m-f-d@parsdorf-bavaria-germany",
-   "title": "Manager Supply Quality & Continuous Improvement (m/f/d)",
-   "department": "Production, Operations & Quality",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-30T06:26:02-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4989616101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1776,21 +1731,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "5014934101",
-   "lineage_key": "lead-full-stack-software-engineer-internal-platforms-f-m-d@parsdorf-bavaria-germany",
-   "title": "Lead Full Stack Software Engineer - Internal Platforms (f/m/d)",
-   "department": "AI & Data Transformation",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-26T06:04:31-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5014934101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "5015056101",
    "lineage_key": "vice-president-sales-strategic-funding-m-f-d@parsdorf-bavaria-germany",
    "title": "Vice President Sales & Strategic Funding (m/f/d)",
@@ -1803,21 +1743,6 @@
    "is_remote": false,
    "published_at": "2026-11-05T11:02:56-05:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5015056101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "5015825101",
-   "lineage_key": "senior-data-engineer-enterprise-integration-data-platform-f-m-d@parsdorf-bavaria-germany",
-   "title": "Senior Data Engineer - Enterprise Integration & Data Platform (f/m/d)",
-   "department": "AI & Data Transformation",
-   "team": "",
-   "location": "Parsdorf, Bavaria, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-26T06:04:37-04:00",
-   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5015825101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -2193,6 +2118,21 @@
    "is_remote": false,
    "published_at": "2026-11-23T10:44:41-05:00",
    "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5043163101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5043842101",
+   "lineage_key": "working-student-systems-engineering-m-f-d@parsdorf-bavaria-germany",
+   "title": "Working Student Systems Engineering, (m/f/d)",
+   "department": "Spectrum",
+   "team": "",
+   "location": "Parsdorf, Bavaria, Germany",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-24T08:51:16-05:00",
+   "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5043842101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

@@ -707,6 +707,11 @@
    "lat": 37.7879363,
    "lon": -122.4075201,
    "label": "San Francisco"
+  },
+  "colorado": {
+   "lat": 38.7251776,
+   "lon": -105.607716,
+   "label": "Colorado"
   }
  }
 }

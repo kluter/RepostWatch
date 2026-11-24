@@ -2,7 +2,7 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-11-23T22:11:18+00:00",
+ "fetched_at": "2026-11-24T20:49:39+00:00",
  "job_count": 28,
  "jobs": [
   {
@@ -158,24 +158,6 @@
    "published_at": "2026-08-27T00:00:00+00:00",
    "url": "https://apply.workable.com/j/49CF1FA326",
    "description_sha256": "070dd7fa5de1a29a7d0f0b4a190c16e4a33c8b9bd5a2c8e0b9b2330587773897"
-  },
-  {
-   "job_id": "4A5E102FBA",
-   "lineage_key": "senior-site-reliability-engineer@arlington-united-states",
-   "title": "Senior Site Reliability Engineer",
-   "department": "Remote Sensing",
-   "team": "",
-   "location": "Arlington, United States",
-   "secondary_locations": [
-    "Reston, United States",
-    "Santa Barbara, United States"
-   ],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-03T00:00:00+00:00",
-   "url": "https://apply.workable.com/j/4A5E102FBA",
-   "description_sha256": "8cdb23f1550fc3e12de01fe1db06fbdb9ee8dbf490ea2884ea56ff6d0a6a4788"
   },
   {
    "job_id": "4D4B246C29",
@@ -417,6 +399,24 @@
    "description_sha256": "d9572b4e862a72cf5f92a6d02cfe1d22b4d4fa2127db7c09b10e0a6e2abf20ba"
   },
   {
+   "job_id": "CEE6417780",
+   "lineage_key": "senior-site-reliability-engineer@arlington-united-states",
+   "title": "Senior Site Reliability Engineer",
+   "department": "Remote Sensing",
+   "team": "",
+   "location": "Arlington, United States",
+   "secondary_locations": [
+    "Reston, United States",
+    "Santa Barbara, United States"
+   ],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-24T00:00:00+00:00",
+   "url": "https://apply.workable.com/j/CEE6417780",
+   "description_sha256": "bc8a66b6b9416c6fb0770a78102d2f06cf84392631869804bde9846484877986"
+  },
+  {
    "job_id": "D692479CD8",
    "lineage_key": "environmental-health-safety-ehs-manager@santa-barbara-united-states",
    "title": "Environmental, Health & Safety (EHS) Manager",
@@ -429,7 +429,7 @@
    "is_remote": false,
    "published_at": "2026-11-18T00:00:00+00:00",
    "url": "https://apply.workable.com/j/D692479CD8",
-   "description_sha256": "d90ea9fa43ffbb85661b20f366d759c4cb04f227a50b271270a460842d6f5e73"
+   "description_sha256": "0b1c5a39c8d80104cf3aee738cfbae2b52870483b842b22bdf4d76ecb2162751"
   },
   {
    "job_id": "E548043C79",

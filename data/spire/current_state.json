@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-11-20T18:45:25+00:00",
- "job_count": 25,
+ "fetched_at": "2026-11-24T20:49:39+00:00",
+ "job_count": 23,
  "jobs": [
   {
    "job_id": "6729465",
@@ -261,21 +261,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8191296",
-   "lineage_key": "gnc-engineer@glasgow",
-   "title": "GNC Engineer",
-   "department": "Engineering",
-   "team": "",
-   "location": "Glasgow",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-11T05:56:06-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8191296&gh_jid=8191296",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8230260",
    "lineage_key": "salesforce-administrator-developer@washington-dc",
    "title": "Salesforce Administrator & Developer",
@@ -288,21 +273,6 @@
    "is_remote": false,
    "published_at": "2026-09-24T09:12:14-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8230260&gh_jid=8230260",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8238125",
-   "lineage_key": "backend-software-engineer-weather-aviation@boulder-colorado-united-states",
-   "title": "Backend Software Engineer, Weather & Aviation",
-   "department": "Engineering",
-   "team": "",
-   "location": "Boulder, Colorado, United States",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-06T10:07:52-04:00",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8238125&gh_jid=8238125",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

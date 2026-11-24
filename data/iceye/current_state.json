@@ -2,9 +2,24 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-11-23T22:11:18+00:00",
- "job_count": 195,
+ "fetched_at": "2026-11-24T20:49:39+00:00",
+ "job_count": 202,
  "jobs": [
+  {
+   "job_id": "002c9b1e-5d3d-4713-9ea3-7f380f3df3d6",
+   "lineage_key": "staff-software-engineer-tasking-and-planning@warsaw",
+   "title": "Staff Software Engineer (Tasking and Planning)",
+   "department": "Engineering",
+   "team": "Optical System",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-24T14:16:49.785+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/002c9b1e-5d3d-4713-9ea3-7f380f3df3d6",
+   "description_sha256": "4e2cd2abf9dd5397f4fdd54f477f2c7b2b159b8f3a13eab7f924aa7b3cda2114"
+  },
   {
    "job_id": "0333e4cd-ce2f-44e5-82ad-9c5c48f652a9",
    "lineage_key": "senior-fullstack-engineer-fleet-ui@espoo",
@@ -67,18 +82,18 @@
   },
   {
    "job_id": "09ff648d-b16a-46f4-8258-052fea06502f",
-   "lineage_key": "senior-ap-specialist-senior-supplier-finance-specialist@espoo",
+   "lineage_key": "senior-ap-specialist-senior-supplier-finance-specialist@warsaw",
    "title": "Senior AP Specialist (Senior Supplier Finance Specialist)",
    "department": "Finance",
    "team": "Finance",
-   "location": "Espoo",
+   "location": "Warsaw",
    "secondary_locations": [],
    "employment_type": "FullTime",
    "workplace_type": "Hybrid",
    "is_remote": true,
    "published_at": "2026-11-23T15:57:21.133+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/09ff648d-b16a-46f4-8258-052fea06502f",
-   "description_sha256": "53335030ccfc87be006aa9c033024b86f7734260bb69b3d22f2b9684257d68d4"
+   "description_sha256": "75adcc1aa3cc2072665306f8e3f842f5917524b9eb56cfa2782a815634368be8"
   },
   {
    "job_id": "0b21baf2-aca9-49d5-8a8e-d49803845f14",
@@ -194,21 +209,6 @@
    "description_sha256": "b2b651bdbdfbb7716c89be9d109e7a651935fed8095bcac4b776ee85495a8220"
   },
   {
-   "job_id": "12b245fc-8b29-454e-96e2-6b621288a781",
-   "lineage_key": "logistics-driver@espoo",
-   "title": "Logistics Driver",
-   "department": "Global Manufacturing Organization",
-   "team": "FI Stock Management",
-   "location": "Espoo",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-11-19T06:56:07.989+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/12b245fc-8b29-454e-96e2-6b621288a781",
-   "description_sha256": "0db6e88c131dce3abb490029db430351557ff3d4edd3bc16f4a20ab1cf9546af"
-  },
-  {
    "job_id": "145faa36-701c-4a11-8e67-2cd5d033ff8b",
    "lineage_key": "ap-specialist-supplier-finance-operations@espoo",
    "title": "AP Specialist (Supplier Finance Operations)",
@@ -221,7 +221,7 @@
    "is_remote": true,
    "published_at": "2026-11-23T15:21:06.427+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/145faa36-701c-4a11-8e67-2cd5d033ff8b",
-   "description_sha256": "01b80393926bcf13e73fafb73d49651a4497d60d942a14cf76c5f647335e5f40"
+   "description_sha256": "f357920a98a972f7a95a0e36b03e6f25a8a3b2f983ec0f406ac16962344d492c"
   },
   {
    "job_id": "15151504-9995-4025-9d94-a31ef624a838",
@@ -347,6 +347,21 @@
    "published_at": "2026-10-22T14:13:57.226+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/1b8f590b-fd9a-4c7a-ae0d-6e15f0bed42f",
    "description_sha256": "7a5b0de1f620b86f9d9eceb540d9dd007ba600e6e88f345ea4c4ea9af3b0e68c"
+  },
+  {
+   "job_id": "1bf1edd5-1fc2-4e9b-a6d6-f0b34bda1fcc",
+   "lineage_key": "senior-ap-specialist-senior-supplier-finance-specialist@espoo",
+   "title": "Senior AP Specialist (Senior Supplier Finance Specialist)",
+   "department": "Finance",
+   "team": "Finance",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-24T11:53:19.083+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/1bf1edd5-1fc2-4e9b-a6d6-f0b34bda1fcc",
+   "description_sha256": "d3b1d7e503a5a57800573b160a72f55a6785d2c4fc276de41d5758711c84ae01"
   },
   {
    "job_id": "1dd48b2e-7a42-42bb-8731-f9fc8b32c528",
@@ -723,7 +738,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-08-14T11:51:08.317+00:00",
+   "published_at": "2026-11-24T14:11:14.559+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/3d7f14e7-e116-4885-9d3d-a66080532999",
    "description_sha256": "812b1544d6b78e4f94ac18659245c940981a62bf2cb842119b3ebf87f7e9dbd5"
   },
@@ -865,6 +880,21 @@
    "description_sha256": "accc3162246b7426fb7f63d6bcfde3c76edcb87dbaf88338174eee0e93937bfe"
   },
   {
+   "job_id": "46ea76b4-d6d3-4609-a311-0a39781403ed",
+   "lineage_key": "t-e-specialist-travel-and-expense@espoo",
+   "title": "T&E Specialist (Travel and Expense)",
+   "department": "Finance",
+   "team": "Finance",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-24T12:12:09.126+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/46ea76b4-d6d3-4609-a311-0a39781403ed",
+   "description_sha256": "d1b9176987395d758300fb345ab5c4741143b2fbabb4b2505c7bf014a73dc605"
+  },
+  {
    "job_id": "471cf438-9c29-4167-9c18-be4cc5f4e115",
    "lineage_key": "ait-engineering-team-lead@lisbon",
    "title": "AIT Engineering Team Lead",
@@ -939,7 +969,7 @@
    "is_remote": true,
    "published_at": "2026-11-23T16:59:52.057+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/4abdc8a8-5bc1-4378-9a16-378e1e6da262",
-   "description_sha256": "de07694a5dacd3691649e155586710b1008d69004b3482396e6f864680f8cc50"
+   "description_sha256": "a08ca0a2389f3d077342508787c0bdfc1b0639b545849d477eb8ddd4a3d1b416"
   },
   {
    "job_id": "4b263ffa-135a-4855-b843-156cb8628683",
@@ -1047,6 +1077,21 @@
    "published_at": "2026-09-21T14:11:59.852+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/551ed47a-6af8-48ef-8275-4273e635b909",
    "description_sha256": "6a86372cb02000c3384dc9e07ff0d9129b16050cb1821dd21197634e8a83b67e"
+  },
+  {
+   "job_id": "5613d6f6-24be-4ebf-9b0e-a2284fd21650",
+   "lineage_key": "staff-image-processing-engineer@warsaw",
+   "title": "Staff Image Processing Engineer",
+   "department": "Engineering",
+   "team": "Optical System",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-24T14:28:01.459+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/5613d6f6-24be-4ebf-9b0e-a2284fd21650",
+   "description_sha256": "ef5dd5ff5f6019f0780f0982fee984e535f60c02c6122d0b077cad541d1a97a2"
   },
   {
    "job_id": "565cf1a9-250b-4ce5-ab2d-140fe2955412",
@@ -1217,8 +1262,8 @@
    "job_id": "67b84d2a-1f66-473a-b24c-b7ba35f02fe5",
    "lineage_key": "marketing-communications-manager-japan@tokyo",
    "title": "Marketing & Communications Manager - Japan",
-   "department": "Marketing",
-   "team": "Marketing",
+   "department": "Marketing & Communications",
+   "team": "Marketing & Communications",
    "location": "Tokyo",
    "secondary_locations": [],
    "employment_type": "FullTime",
@@ -1489,7 +1534,7 @@
    "is_remote": true,
    "published_at": "2026-11-23T15:23:10.011+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/7d13fbd3-1c8a-4f2a-91c2-2b6895856604",
-   "description_sha256": "5e54e956b5bb41c5449eeec39cae75d6885b068f195bcbc5eb73c0de6b7becf9"
+   "description_sha256": "7a67a1635e0196c68f265a788073f0861f1b007e4166a7a721415c5afa1bc7ac"
   },
   {
    "job_id": "7e1be691-32b2-4a35-9338-8fec83b67c55",
@@ -1935,6 +1980,21 @@
    "description_sha256": "227c41a7aed3096a3772ce0ede8484a6b7a1dcc72047f4bd21838990ed1a9f1e"
   },
   {
+   "job_id": "aa018e95-2d0b-4cff-b701-78f602f55927",
+   "lineage_key": "head-of-satellite-industrialization-engineering@espoo",
+   "title": "Head of Satellite Industrialization Engineering",
+   "department": "Global Manufacturing Organization",
+   "team": "Global Manufacturing Infrastructure",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-13T06:45:54.833+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/aa018e95-2d0b-4cff-b701-78f602f55927",
+   "description_sha256": "a28c8da20929b22534643d8ba6b6115050b8c6e87e46573fa718d8c4b4b6c720"
+  },
+  {
    "job_id": "ab3e7d37-bb82-4565-b408-87cce3c4c27f",
    "lineage_key": "workplace-manager@berlin",
    "title": "Workplace Manager",
@@ -2304,6 +2364,21 @@
    "description_sha256": "1f7bdce3c58ef96063992a58c13ad451e52d900533d246447b998b0794d98af7"
   },
   {
+   "job_id": "caf057f2-a523-4e6c-8afd-90bef41f1222",
+   "lineage_key": "procurement-operations-and-master-data-specialist@warsaw",
+   "title": "Procurement Operations and Master Data Specialist",
+   "department": "Finance",
+   "team": "Finance",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-24T12:11:01.926+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/caf057f2-a523-4e6c-8afd-90bef41f1222",
+   "description_sha256": "da44c593003ab8a2d18ebdac84dbf5cfb6f76c80d8a8ddc97a9ec21ca9693f8b"
+  },
+  {
    "job_id": "cb818b4c-b021-421a-8464-e4d60b41d62e",
    "lineage_key": "talent-attraction-coordinator@espoo",
    "title": "Talent Attraction Coordinator",
@@ -2316,7 +2391,7 @@
    "is_remote": true,
    "published_at": "2026-11-23T16:00:09.897+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/cb818b4c-b021-421a-8464-e4d60b41d62e",
-   "description_sha256": "41d169b5b9b277a8ccdceb351f4ea3f451235ef8cce64fd68abc12b50c61d293"
+   "description_sha256": "7b55af5a51635b7d96a271e8165ee9e5d8fbe2824bb0e41d5565270b61c0170a"
   },
   {
    "job_id": "cc0b017f-f910-4e64-9dd6-4b4da5538089",
@@ -2504,18 +2579,18 @@
   },
   {
    "job_id": "d3c2ba94-9d66-48e6-bbf0-d4d02ab73866",
-   "lineage_key": "director-supply-chain-strategy@espoo",
+   "lineage_key": "director-supply-chain-strategy@valencia",
    "title": "Director, Supply Chain Strategy",
    "department": "Global Manufacturing Organization",
    "team": "Global Manufacturing Organization",
-   "location": "Espoo",
+   "location": "Valencia",
    "secondary_locations": [
     "Valencia",
     "Munich"
    ],
    "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
+   "workplace_type": "OnSite",
+   "is_remote": false,
    "published_at": "2026-10-26T12:36:36.294+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/d3c2ba94-9d66-48e6-bbf0-d4d02ab73866",
    "description_sha256": "5b7266c790875b151122de5b8a19cc00545f4cb585c474d890eb6f9820dd7f13"
@@ -2596,6 +2671,21 @@
    "published_at": "2026-08-10T07:05:44.916+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/d9c1cb3c-a38a-40d6-827e-ad42bec71684",
    "description_sha256": "1035293111a0a9b1e58284a289466e1346a2b2291bdbad0e2db8901e4c34a469"
+  },
+  {
+   "job_id": "daa5f4b2-6a16-4214-b218-d0c2a80393f3",
+   "lineage_key": "ap-specialist-supplier-finance-operations@warsaw",
+   "title": "AP Specialist (Supplier Finance Operations)",
+   "department": "Finance",
+   "team": "Finance",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-24T12:02:07.627+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/daa5f4b2-6a16-4214-b218-d0c2a80393f3",
+   "description_sha256": "1617722a558c8b88422fae95295c825f6e1411da00bb8314b213a1a4f9ec32f7"
   },
   {
    "job_id": "dcd95d7f-3607-4afa-b806-0b2a342faa97",
@@ -2703,6 +2793,21 @@
    "description_sha256": "2bced256d44452103e0e41cb9b9c7cfd57047004b160c94827a0df4def4c50e2"
   },
   {
+   "job_id": "e37c4f6b-3c64-4c82-9f1e-7f2397a06a6a",
+   "lineage_key": "t-e-specialist-travel-and-expense@warsaw",
+   "title": "T&E Specialist (Travel and Expense)",
+   "department": "Finance",
+   "team": "Finance",
+   "location": "Warsaw",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-24T12:14:15.782+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/e37c4f6b-3c64-4c82-9f1e-7f2397a06a6a",
+   "description_sha256": "f3d4f9d2beac9121d3d0c8e823a1a40a9e3728d9ca0fd5e4f84b111fa07a305f"
+  },
+  {
    "job_id": "e4d89d32-5bee-4090-8bd0-5634803b6d3f",
    "lineage_key": "smart-manufacturing-engineer-software@espoo",
    "title": "Smart Manufacturing Engineer, Software",
@@ -2731,21 +2836,6 @@
    "published_at": "2026-11-10T09:56:34.895+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e52eedf8-f847-4fb5-91c6-2c7521fb99cc",
    "description_sha256": "6e1ab6f11cdfa0ad82b4db7daecf873e7b137fc3630f8fd4c8eec1fb9f42836b"
-  },
-  {
-   "job_id": "e595c160-7caf-4697-a4d5-a2a85bf5c481",
-   "lineage_key": "staff-structural-analysis-engineer@valencia",
-   "title": "Staff Structural Analysis Engineer",
-   "department": "Engineering",
-   "team": "SIGINT",
-   "location": "Valencia",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-09-23T14:40:13.366+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/e595c160-7caf-4697-a4d5-a2a85bf5c481",
-   "description_sha256": "2a69bcdd713d237a94cdd569c1b6efe7740bc7fce920acc7ff9b68d15d0ab49c"
   },
   {
    "job_id": "e7d59b96-29fb-4d6c-8e4b-4cdb4e38da1b",
@@ -2871,6 +2961,21 @@
    "description_sha256": "2b2b8c0afcd75277f2d21eb7130940b4ff571a1d4469ef93e3c8557989caffea"
   },
   {
+   "job_id": "f38baf0b-6f74-47c0-a3dd-5ae19a7798f4",
+   "lineage_key": "senior-platform-engineer-infrastructure-platform@espoo",
+   "title": "Senior Platform Engineer, Infrastructure Platform",
+   "department": "Solutions",
+   "team": "Product Engineering",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-24T07:15:37.111+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/f38baf0b-6f74-47c0-a3dd-5ae19a7798f4",
+   "description_sha256": "bc02ffa1176c6e585051758379842eced0746a07a39352d29017bfc2301a5ace"
+  },
+  {
    "job_id": "f3a4e7d3-6099-470d-ac0c-e88a9dfc456f",
    "lineage_key": "technical-release-manager@espoo",
    "title": "Technical Release Manager",
@@ -2949,8 +3054,8 @@
    "job_id": "fe0001f5-f3c9-4df7-b968-23451c9b4b1d",
    "lineage_key": "head-of-marketing-communications@new-delhi",
    "title": "Head of Marketing & Communications",
-   "department": "Marketing",
-   "team": "Marketing",
+   "department": "Marketing & Communications",
+   "team": "Marketing & Communications",
    "location": "New Delhi",
    "secondary_locations": [],
    "employment_type": "FullTime",

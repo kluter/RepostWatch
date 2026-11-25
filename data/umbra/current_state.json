@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-11-24T20:49:39+00:00",
- "job_count": 28,
+ "fetched_at": "2026-11-25T20:06:20+00:00",
+ "job_count": 27,
  "jobs": [
   {
    "job_id": "0652C1D7B7",
@@ -193,21 +193,6 @@
    "published_at": "2026-07-09T00:00:00+00:00",
    "url": "https://apply.workable.com/j/53B406B565",
    "description_sha256": "127e4e6ac1e245ddd72580b9cdb55c77b8223a8ee35765d037538ae5484acbc5"
-  },
-  {
-   "job_id": "56DCFBD0A8",
-   "lineage_key": "embedded-systems-engineer@santa-barbara-united-states",
-   "title": "Embedded Systems Engineer",
-   "department": "Space Systems",
-   "team": "",
-   "location": "Santa Barbara, United States",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-04-03T00:00:00+00:00",
-   "url": "https://apply.workable.com/j/56DCFBD0A8",
-   "description_sha256": "a3c3063060ec9129da86e35baad0727bacf1452c7190aac287ef8de5828d1ac1"
   },
   {
    "job_id": "5DEC056541",

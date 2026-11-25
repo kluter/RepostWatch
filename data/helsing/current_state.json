@@ -2,7 +2,7 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-11-24T20:49:39+00:00",
+ "fetched_at": "2026-11-25T20:06:20+00:00",
  "job_count": 176,
  "jobs": [
   {
@@ -682,8 +682,8 @@
   },
   {
    "job_id": "4893273101",
-   "lineage_key": "it-support-engineer@munich",
-   "title": "IT Support Engineer",
+   "lineage_key": "it-engineer@munich",
+   "title": "IT Engineer",
    "department": "IT",
    "team": "",
    "location": "Munich",
@@ -862,8 +862,8 @@
   },
   {
    "job_id": "4927641101",
-   "lineage_key": "accountant@munich",
-   "title": "Accountant",
+   "lineage_key": "senior-accountant@munich",
+   "title": "Senior Accountant",
    "department": "Finance",
    "team": "",
    "location": "Munich",
@@ -1236,21 +1236,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4967013101",
-   "lineage_key": "senior-flight-test-engineer@munich",
-   "title": "Senior Flight Test Engineer",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-07T09:58:12-04:00",
-   "url": "https://helsing.ai/jobs/4967013101?gh_jid=4967013101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4969183101",
    "lineage_key": "guidance-navigation-control-engineer@london",
    "title": "Guidance, Navigation & Control Engineer",
@@ -1398,21 +1383,6 @@
    "is_remote": false,
    "published_at": "2026-09-10T03:01:40-04:00",
    "url": "https://helsing.ai/jobs/4972262101?gh_jid=4972262101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "4974612101",
-   "lineage_key": "accountant-part-time@munich",
-   "title": "Accountant - Part time",
-   "department": "Finance",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-11T09:56:59-04:00",
-   "url": "https://helsing.ai/jobs/4974612101?gh_jid=4974612101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1882,8 +1852,8 @@
   },
   {
    "job_id": "5017459101",
-   "lineage_key": "senior-fp-a-analyst@munich",
-   "title": "Senior FP&A Analyst",
+   "lineage_key": "senior-fp-a-manager@munich",
+   "title": "Senior FP&A Manager",
    "department": "Finance",
    "team": "",
    "location": "Munich",
@@ -2643,6 +2613,36 @@
    "is_remote": false,
    "published_at": "2026-11-24T04:58:01-05:00",
    "url": "https://helsing.ai/jobs/5047139101?gh_jid=5047139101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5047963101",
+   "lineage_key": "senior-legal-counsel-employment-law@berlin",
+   "title": "Senior Legal Counsel, Employment Law",
+   "department": "Legal",
+   "team": "",
+   "location": "Berlin",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-25T08:35:22-05:00",
+   "url": "https://helsing.ai/jobs/5047963101?gh_jid=5047963101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5048521101",
+   "lineage_key": "legal-counsel-employment-law@berlin",
+   "title": "Legal Counsel - Employment Law",
+   "department": "Legal",
+   "team": "",
+   "location": "Berlin",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-25T08:51:48-05:00",
+   "url": "https://helsing.ai/jobs/5048521101?gh_jid=5048521101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

@@ -2,8 +2,8 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-11-25T01:03:31+00:00",
- "job_count": 105,
+ "fetched_at": "2026-11-25T20:06:20+00:00",
+ "job_count": 106,
  "jobs": [
   {
    "job_id": "7377994",
@@ -123,6 +123,21 @@
    "is_remote": true,
    "published_at": "2026-04-14T20:57:54-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7772699",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "7774850",
+   "lineage_key": "senior-spacecraft-systems-engineer@san-francisco-ca",
+   "title": "Senior Spacecraft Systems Engineer",
+   "department": "Spacecraft Systems Engineering",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-04-08T10:59:13-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7774850",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -543,21 +558,6 @@
    "is_remote": false,
    "published_at": "2026-09-17T06:35:06-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8204493",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-   "job_id": "8209807",
-   "lineage_key": "manager-workplace-facilities@berlin-germany",
-   "title": "Manager, Workplace & Facilities",
-   "department": "Workplace",
-   "team": "",
-   "location": "Berlin, Germany",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-09-23T03:49:57-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8209807",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -1548,6 +1548,21 @@
    "is_remote": false,
    "published_at": "2026-11-23T05:12:02-05:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8396468",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8396492",
+   "lineage_key": "senior-software-engineer-platform@canada-remote",
+   "title": "Senior Software Engineer, Platform",
+   "department": "Access",
+   "team": "",
+   "location": "Canada, Remote",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": true,
+   "published_at": "2026-11-25T12:31:51-05:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8396492",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

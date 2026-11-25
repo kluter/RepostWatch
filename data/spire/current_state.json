@@ -2,8 +2,8 @@
  "company": "spire",
  "source": "greenhouse",
  "board": "spire",
- "fetched_at": "2026-11-24T20:49:39+00:00",
- "job_count": 23,
+ "fetched_at": "2026-11-25T20:06:20+00:00",
+ "job_count": 24,
  "jobs": [
   {
    "job_id": "6729465",
@@ -348,6 +348,21 @@
    "is_remote": false,
    "published_at": "2026-10-28T11:19:19-04:00",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8331105&gh_jid=8331105",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8398708",
+   "lineage_key": "north-america-end-user-technology-lead@boulder-colorado",
+   "title": "North America End User Technology Lead",
+   "department": "Business Operations",
+   "team": "",
+   "location": "Boulder, Colorado",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-25T08:54:48-05:00",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8398708&gh_jid=8398708",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

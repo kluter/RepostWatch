@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-11-24T20:49:39+00:00",
- "job_count": 202,
+ "fetched_at": "2026-11-25T20:06:20+00:00",
+ "job_count": 203,
  "jobs": [
   {
    "job_id": "002c9b1e-5d3d-4713-9ea3-7f380f3df3d6",
@@ -1166,7 +1166,7 @@
    "is_remote": false,
    "published_at": "2026-10-23T07:14:21.001+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/5c68a956-9359-4045-9664-c42f79b163fa",
-   "description_sha256": "48930f69105b02c7637da046420ad9e3ca1f68f2027838eeca895418e7f9ba02"
+   "description_sha256": "1dc8d7d34e2f0c0216aae9d4afd5c8dbf0f2e40c7dd8d4737d9f81487b0fb145"
   },
   {
    "job_id": "5d1c9124-8b45-4b12-b3b4-8e91168afbbc",
@@ -1272,6 +1272,21 @@
    "published_at": "2026-08-24T04:42:52.985+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/67b84d2a-1f66-473a-b24c-b7ba35f02fe5",
    "description_sha256": "81743579a0c4de526e90f69b9ff9b51cfbff7a3f3614f651d1a2468cab389897"
+  },
+  {
+   "job_id": "68505c4a-7251-4f06-90d4-51da45c27cce",
+   "lineage_key": "iceye-intern-lab-product-design@espoo",
+   "title": "ICEYE Intern Lab: Product Design",
+   "department": "Product",
+   "team": "Product Management",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-25T18:25:55.584+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/68505c4a-7251-4f06-90d4-51da45c27cce",
+   "description_sha256": "37435aa62ab4bc6392cc8a8947413fa27cb4701d93bfff432e120862aa1071df"
   },
   {
    "job_id": "6b325c6e-480e-4237-91bf-6e1e0e90ca76",

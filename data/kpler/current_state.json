@@ -2,9 +2,24 @@
  "company": "kpler",
  "source": "lever",
  "board": "kpler",
- "fetched_at": "2026-11-25T20:06:20+00:00",
- "job_count": 106,
+ "fetched_at": "2026-11-26T19:46:41+00:00",
+ "job_count": 108,
  "jobs": [
+  {
+   "job_id": "01b41ab1-7860-43b2-a0be-bc2c974b1686",
+   "lineage_key": "contract-analyst@new-york",
+   "title": "Contract Analyst",
+   "department": "Legal",
+   "team": "Legal",
+   "location": "New York",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "remote",
+   "is_remote": true,
+   "published_at": "2026-11-26T12:24:58.231000+00:00",
+   "url": "https://jobs.lever.co/kpler/01b41ab1-7860-43b2-a0be-bc2c974b1686",
+   "description_sha256": "17db1da2619d9e5c03bf928a20152cc7723847493dc59b3e99db98c7ed45654c"
+  },
   {
    "job_id": "04129e3c-8390-4ce7-9e7f-30787378caf5",
    "lineage_key": "account-executive-new-business@london",
@@ -25,7 +40,7 @@
    "lineage_key": "ai-solutions-specialist@london",
    "title": "AI Solutions Specialist",
    "department": "Commercial",
-   "team": "Sales Specialist",
+   "team": "Technical Customer Experience",
    "location": "London",
    "secondary_locations": [],
    "employment_type": "",
@@ -467,6 +482,21 @@
    "description_sha256": "c1d32153fabd146a3bd90a108c0abdf0be62f1acf2038857dffba384c90ffdba"
   },
   {
+   "job_id": "515819c1-26ad-443a-9f0a-5285acf606db",
+   "lineage_key": "team-lead-sales-specialist-power-gas@london",
+   "title": "Team Lead – Sales Specialist, Power & Gas",
+   "department": "Commercial",
+   "team": "Sales Specialist",
+   "location": "London",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "hybrid",
+   "is_remote": false,
+   "published_at": "2026-11-26T09:16:11.984000+00:00",
+   "url": "https://jobs.lever.co/kpler/515819c1-26ad-443a-9f0a-5285acf606db",
+   "description_sha256": "3b564f60189e9c89aecbac63b1c8ef87b6c9bbf1bc2a2a83239c74425b4d0261"
+  },
+  {
    "job_id": "54736ae3-0807-43d1-b173-608820b32551",
    "lineage_key": "p2p-finance-consultant-6-months-ftc@greece",
    "title": "P2P Finance Consultant (6 months FTC)",
@@ -513,8 +543,8 @@
   },
   {
    "job_id": "5c6e077d-3c12-4ea3-a053-b02d42880134",
-   "lineage_key": "senior-graphic-motion-designer@london",
-   "title": "Senior Graphic & Motion Designer",
+   "lineage_key": "senior-motion-graphic-designer@london",
+   "title": "Senior Motion & Graphic Designer",
    "department": "Product",
    "team": "Product Application Platform",
    "location": "London",
@@ -526,7 +556,7 @@
    "is_remote": false,
    "published_at": "2026-09-02T10:35:13.453000+00:00",
    "url": "https://jobs.lever.co/kpler/5c6e077d-3c12-4ea3-a053-b02d42880134",
-   "description_sha256": "5502793bd53aa95c1f4fedd043312566eefdec9d8cf388521e7df0c5b77a799e"
+   "description_sha256": "f7145cd62f68bf89ecdbe2607898ef2656a2a588f73a62d266db9945aa5c3a10"
   },
   {
    "job_id": "5d5c2a52-9a9b-4307-9221-ab40d294c889",

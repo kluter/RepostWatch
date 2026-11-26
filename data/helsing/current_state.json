@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-11-25T20:06:20+00:00",
- "job_count": 176,
+ "fetched_at": "2026-11-26T19:46:41+00:00",
+ "job_count": 175,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -2301,21 +2301,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "5033806101",
-   "lineage_key": "project-management-office-pmo-lead-site-development-programme@munich",
-   "title": "Project Management Office (PMO) Lead - Site Development Programme",
-   "department": "Project Management",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-11-12T02:36:56-05:00",
-   "url": "https://helsing.ai/jobs/5033806101?gh_jid=5033806101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "5034019101",
    "lineage_key": "product-manager-autonomy@berlin",
    "title": "Product Manager - Autonomy",
@@ -2601,21 +2586,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "5047139101",
-   "lineage_key": "simulation-backend-engineer@munich",
-   "title": "Simulation Backend Engineer",
-   "department": "AI & Engineering",
-   "team": "",
-   "location": "Munich",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-11-24T04:58:01-05:00",
-   "url": "https://helsing.ai/jobs/5047139101?gh_jid=5047139101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "5047963101",
    "lineage_key": "senior-legal-counsel-employment-law@berlin",
    "title": "Senior Legal Counsel, Employment Law",
@@ -2643,6 +2613,21 @@
    "is_remote": false,
    "published_at": "2026-11-25T08:51:48-05:00",
    "url": "https://helsing.ai/jobs/5048521101?gh_jid=5048521101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "5048559101",
+   "lineage_key": "integrated-product-support-ips-manager-technical-documentation-s1000d@munich",
+   "title": "Integrated Product Support (IPS) Manager, Technical Documentation (S1000D)",
+   "department": "Market",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-11-26T03:40:51-05:00",
+   "url": "https://helsing.ai/jobs/5048559101?gh_jid=5048559101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
  ]

@@ -2,8 +2,8 @@
  "company": "iceye",
  "source": "ashby",
  "board": "iceye",
- "fetched_at": "2026-11-25T20:06:20+00:00",
- "job_count": 203,
+ "fetched_at": "2026-11-26T19:46:41+00:00",
+ "job_count": 197,
  "jobs": [
   {
    "job_id": "002c9b1e-5d3d-4713-9ea3-7f380f3df3d6",
@@ -284,23 +284,6 @@
    "description_sha256": "fc4bb6e42297baba549fb957321e5ec65fccb47d6b0848ff246492cd08c65a40"
   },
   {
-   "job_id": "19a2709c-1e6d-4c8d-958a-2f07f017f372",
-   "lineage_key": "senior-staff-platform-observability-engineer@espoo",
-   "title": "Senior/Staff Platform Observability Engineer",
-   "department": "Engineering",
-   "team": "Platform & Release Staff Engineers",
-   "location": "Espoo",
-   "secondary_locations": [
-    "Berlin"
-   ],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-18T16:05:28.007+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/19a2709c-1e6d-4c8d-958a-2f07f017f372",
-   "description_sha256": "7c422a01c48ecb7286e1283efa083e07bf9fbc2ca32abc04be2c7425dc207e0d"
-  },
-  {
    "job_id": "19d29db2-9a39-4e9b-967a-c63105c1eeaa",
    "lineage_key": "flight-software-engineer@espoo",
    "title": "Flight Software Engineer",
@@ -346,7 +329,7 @@
    "is_remote": true,
    "published_at": "2026-10-22T14:13:57.226+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/1b8f590b-fd9a-4c7a-ae0d-6e15f0bed42f",
-   "description_sha256": "7a5b0de1f620b86f9d9eceb540d9dd007ba600e6e88f345ea4c4ea9af3b0e68c"
+   "description_sha256": "67fcb4e6620b418be2f7501a4ce95c207127b0e0030b6e495cd1c84a5497984a"
   },
   {
    "job_id": "1bf1edd5-1fc2-4e9b-a6d6-f0b34bda1fcc",
@@ -392,6 +375,21 @@
    "published_at": "2026-09-29T11:57:45.151+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/1e29609f-111a-453f-a557-bac520a88783",
    "description_sha256": "469628cf4adfc012334aa160b7e503dccdd78f03159b63450b65c1badd5b8e0b"
+  },
+  {
+   "job_id": "1f5b0989-6718-412b-80d7-4201e83be233",
+   "lineage_key": "data-sales-director-south-korea@south-korea",
+   "title": "Data Sales Director, South Korea",
+   "department": "Data",
+   "team": "Data",
+   "location": "South Korea",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Remote",
+   "is_remote": true,
+   "published_at": "2026-11-26T08:08:23.889+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/1f5b0989-6718-412b-80d7-4201e83be233",
+   "description_sha256": "a9e4e3b8106a6d840787cc1e201c22bd441cf207a79f3181d54f6da414b1cde3"
   },
   {
    "job_id": "1ffce4d4-4088-4336-9007-622dc10399fb",
@@ -484,21 +482,6 @@
    "description_sha256": "9efadeb4704765e03ff78324047ad3cd31e8e25ddb46a8edee6d379b1ec49fe6"
   },
   {
-   "job_id": "272627a3-ec22-4205-be51-32a5b540b314",
-   "lineage_key": "senior-people-generalist@athens",
-   "title": "Senior People Generalist",
-   "department": "Operations",
-   "team": "People Operations",
-   "location": "Athens",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-11-04T14:58:11.931+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/272627a3-ec22-4205-be51-32a5b540b314",
-   "description_sha256": "800476ef5e87d919c3f466b6cb28ea4dbc5e595f735ab409b0db821791669d39"
-  },
-  {
    "job_id": "2741fc53-8979-47ff-9c7e-4b7ef9de81e4",
    "lineage_key": "ehs-specialist@munich",
    "title": "EHS Specialist",
@@ -557,6 +540,21 @@
    "published_at": "2026-11-23T07:38:09.644+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/2b6f4ed5-daee-4c4e-aa8f-1a441b600c45",
    "description_sha256": "f573343753c934f7251742e4d8a1c3b8a267877d3e06e48078deabbfa164b0e0"
+  },
+  {
+   "job_id": "2dd441cd-718a-449b-9e5f-a9a0bbd91c23",
+   "lineage_key": "corporate-financial-analyst@espoo",
+   "title": "Corporate Financial Analyst",
+   "department": "Finance",
+   "team": "FP&A",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-11-26T08:32:03.047+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/2dd441cd-718a-449b-9e5f-a9a0bbd91c23",
+   "description_sha256": "230779983b2cc64e1fb3ecb39ac1abaab2691b1d67ebf196192d811ed61e055d"
   },
   {
    "job_id": "2eaba1d2-8ed8-44f4-a769-31c9292cbe31",
@@ -621,21 +619,6 @@
    "description_sha256": "2494591ca1ac14230b8913f4b738c7ba1fe75b863e934c4393b558eda8376ee0"
   },
   {
-   "job_id": "339329ca-5f4d-4f29-b681-47dab7ffb88f",
-   "lineage_key": "security-officer@lisbon",
-   "title": "Security Officer",
-   "department": "Security",
-   "team": "Security",
-   "location": "Lisbon",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-08-18T11:49:18.685+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/339329ca-5f4d-4f29-b681-47dab7ffb88f",
-   "description_sha256": "9bdc54f8cbb529f10e16006abaf9143a48005167ba4e5a6292a73e36648f42a4"
-  },
-  {
    "job_id": "33dd68d3-cd02-47ee-b3ec-24f39d51308d",
    "lineage_key": "radio-frequency-engineer@valencia",
    "title": "Radio Frequency Engineer",
@@ -696,21 +679,6 @@
    "description_sha256": "bf5fad8d8c59303bd5ef42bb175cfc3a338c4e9c95b8d710c834138635d8ed4f"
   },
   {
-   "job_id": "368d2f1f-bf5c-43fa-85ec-8d6b7b529347",
-   "lineage_key": "ehs-specialist@amsterdam",
-   "title": "EHS Specialist",
-   "department": "Global Manufacturing Organization",
-   "team": "Manufacturing Assurance",
-   "location": "Amsterdam",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-11-23T09:02:32.121+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/368d2f1f-bf5c-43fa-85ec-8d6b7b529347",
-   "description_sha256": "a9ebf86e6f5526d6cab8b7b8b08a63ed4ddb3a5c4416534a1c7970d8ce7d3122"
-  },
-  {
    "job_id": "37ce25c9-e16c-45d7-8891-f808c76e1102",
    "lineage_key": "senior-system-engineer-ground-systems-hardware@espoo",
    "title": "Senior System Engineer (Ground Systems Hardware)",
@@ -741,21 +709,6 @@
    "published_at": "2026-11-24T14:11:14.559+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/3d7f14e7-e116-4885-9d3d-a66080532999",
    "description_sha256": "812b1544d6b78e4f94ac18659245c940981a62bf2cb842119b3ebf87f7e9dbd5"
-  },
-  {
-   "job_id": "3d996476-2c6c-4170-894b-f48ee218c9e4",
-   "lineage_key": "customer-excellence-specialist@south-korea",
-   "title": "Customer Excellence Specialist",
-   "department": "Data",
-   "team": "Customer Excellence",
-   "location": "South Korea",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Remote",
-   "is_remote": true,
-   "published_at": "2026-10-23T07:14:17.278+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/3d996476-2c6c-4170-894b-f48ee218c9e4",
-   "description_sha256": "fe7707b86db51c6ced8e4915540eceb2649fba8304b395e93b98f819dc11d418"
   },
   {
    "job_id": "3eb0f7b1-ab19-4d41-b633-dfeea0990086",
@@ -1109,21 +1062,6 @@
    "description_sha256": "c9065403d17ff50122550fcccb7b825ef8d80baa4c941cea26b424634df589de"
   },
   {
-   "job_id": "5b61f138-6bc9-4d81-b820-d1bf7b30a224",
-   "lineage_key": "customer-excellence-specialist@singapore",
-   "title": "Customer Excellence Specialist",
-   "department": "Data",
-   "team": "Customer Excellence",
-   "location": "Singapore",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "OnSite",
-   "is_remote": false,
-   "published_at": "2026-10-23T07:14:24.390+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/5b61f138-6bc9-4d81-b820-d1bf7b30a224",
-   "description_sha256": "d0eea7188f286b95407a550acda0df4eff7175e28318b84d592fdf64eab2fb40"
-  },
-  {
    "job_id": "5bc4767f-7ae6-429a-a784-a9d260680462",
    "lineage_key": "smart-manufacturing-engineer-sw-electronics@espoo",
    "title": "Smart Manufacturing Engineer, SW & Electronics",
@@ -1152,21 +1090,6 @@
    "published_at": "2026-11-10T11:15:54.202+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/5befc085-a80e-4586-bf99-9a49450163ba",
    "description_sha256": "0c61928f3885216c6a72054c9ece649a1599d29ca893b25d99b32a0adcf126f6"
-  },
-  {
-   "job_id": "5c68a956-9359-4045-9664-c42f79b163fa",
-   "lineage_key": "customer-excellence-specialist@new-delhi",
-   "title": "Customer Excellence Specialist",
-   "department": "Data",
-   "team": "Customer Excellence",
-   "location": "New Delhi",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-10-23T07:14:21.001+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/5c68a956-9359-4045-9664-c42f79b163fa",
-   "description_sha256": "1dc8d7d34e2f0c0216aae9d4afd5c8dbf0f2e40c7dd8d4737d9f81487b0fb145"
   },
   {
    "job_id": "5d1c9124-8b45-4b12-b3b4-8e91168afbbc",
@@ -1886,23 +1809,6 @@
    "description_sha256": "570d428859fd7c2fc6c072e3a885a518c0a1c33b516650f6bb49f632de8387fb"
   },
   {
-   "job_id": "9e92da27-90b8-4822-a79d-4525f0b8b0e9",
-   "lineage_key": "senior-fp-a-manager@espoo",
-   "title": "Senior FP&A Manager",
-   "department": "Finance",
-   "team": "FP&A",
-   "location": "Espoo",
-   "secondary_locations": [
-    "Warsaw"
-   ],
-   "employment_type": "FullTime",
-   "workplace_type": "Hybrid",
-   "is_remote": true,
-   "published_at": "2026-11-17T14:31:59.433+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/9e92da27-90b8-4822-a79d-4525f0b8b0e9",
-   "description_sha256": "f815b2a3915b03ade60b5338f0e00d658f276b91a098d55d2527dfa60daa9924"
-  },
-  {
    "job_id": "a3267648-4ec9-475c-9013-ab2313927047",
    "lineage_key": "stock-and-logistics-specialist@valencia",
    "title": "Stock and Logistics Specialist",
@@ -1928,7 +1834,7 @@
    "employment_type": "FullTime",
    "workplace_type": "OnSite",
    "is_remote": false,
-   "published_at": "2026-11-09T07:49:27.147+00:00",
+   "published_at": "2026-11-26T09:23:28.478+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/a6d0bba0-2219-4f01-8c79-f4d945de5af7",
    "description_sha256": "52e0aaf157d39471c937b696c810211ffdf8f2b4b09cf4e9b8cf3ffe906bce26"
   },
@@ -2130,6 +2036,21 @@
    "published_at": "2026-11-11T12:21:36.741+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/b4a193de-415e-4320-a95c-17e925ca56f7",
    "description_sha256": "25440cc408ba4db9ec55fab946b9d78e37a3b40ad155e00c263154ca2e897bc4"
+  },
+  {
+   "job_id": "b6afce4f-317c-4154-82c6-dcd5fa9895ae",
+   "lineage_key": "forward-deployed-ai-engineer-finland@espoo",
+   "title": "Forward Deployed AI Engineer, Finland",
+   "department": "Product",
+   "team": "Forward Deployed Engineering",
+   "location": "Espoo",
+   "secondary_locations": [],
+   "employment_type": "FullTime",
+   "workplace_type": "Hybrid",
+   "is_remote": true,
+   "published_at": "2026-10-19T07:05:58.649+00:00",
+   "url": "https://jobs.ashbyhq.com/iceye/b6afce4f-317c-4154-82c6-dcd5fa9895ae",
+   "description_sha256": "e0a83d2abdf6f071bb82e74006dba3b335902ca40c1d81d36bda99ccdf84389d"
   },
   {
    "job_id": "b6b2f254-e8af-466c-b08f-75664d5e440d",
@@ -2578,21 +2499,6 @@
    "description_sha256": "0a6b5a546c690ff7be2484808269a92933c8bfd4a46939bafe55da20bf28d70e"
   },
   {
-   "job_id": "d3295e83-b609-43dd-888e-b1efcdfae51b",
-   "lineage_key": "business-development-manager@australia",
-   "title": "Business Development Manager",
-   "department": "Data",
-   "team": "Data Sales",
-   "location": "Australia",
-   "secondary_locations": [],
-   "employment_type": "FullTime",
-   "workplace_type": "Remote",
-   "is_remote": true,
-   "published_at": "2026-10-16T12:10:46.027+00:00",
-   "url": "https://jobs.ashbyhq.com/iceye/d3295e83-b609-43dd-888e-b1efcdfae51b",
-   "description_sha256": "6b57fdfce265ba19c6ebec9d3183d75396ed4f8cb651790fd37e5ece5e145b35"
-  },
-  {
    "job_id": "d3c2ba94-9d66-48e6-bbf0-d4d02ab73866",
    "lineage_key": "director-supply-chain-strategy@valencia",
    "title": "Director, Supply Chain Strategy",
@@ -2850,7 +2756,7 @@
    "is_remote": false,
    "published_at": "2026-11-10T09:56:34.895+00:00",
    "url": "https://jobs.ashbyhq.com/iceye/e52eedf8-f847-4fb5-91c6-2c7521fb99cc",
-   "description_sha256": "6e1ab6f11cdfa0ad82b4db7daecf873e7b137fc3630f8fd4c8eec1fb9f42836b"
+   "description_sha256": "fb6588944e0055b987dc6e0f7d4d99e64b45f9a3ee99c767f0220de9e4773605"
   },
   {
    "job_id": "e7d59b96-29fb-4d6c-8e4b-4cdb4e38da1b",

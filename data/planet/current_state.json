@@ -2,7 +2,7 @@
  "company": "planet",
  "source": "greenhouse",
  "board": "planetlabs",
- "fetched_at": "2026-11-25T20:06:20+00:00",
+ "fetched_at": "2026-11-26T00:39:43+00:00",
  "job_count": 106,
  "jobs": [
   {
@@ -171,21 +171,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "8014103",
-   "lineage_key": "technical-program-manager-trade-compliance@washington-dc",
-   "title": "Technical Program Manager, Trade Compliance",
-   "department": "Program Management",
-   "team": "",
-   "location": "Washington, DC",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-29T16:58:04-04:00",
-   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8014103",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "8042428",
    "lineage_key": "technical-support-engineer-iii@berlin-germany",
    "title": "Technical Support Engineer III",
@@ -303,6 +288,21 @@
    "is_remote": false,
    "published_at": "2026-08-20T06:51:54-04:00",
    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8128479",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "8140278",
+   "lineage_key": "pcb-design-engineer@san-francisco-ca",
+   "title": "PCB Design Engineer",
+   "department": "RF, Comms & Electrical Engineering",
+   "team": "",
+   "location": "San Francisco, CA",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-08-24T10:37:50-04:00",
+   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8140278",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

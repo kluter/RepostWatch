@@ -2,8 +2,8 @@
  "company": "umbra",
  "source": "workable",
  "board": "umbra-1",
- "fetched_at": "2026-11-25T20:06:20+00:00",
- "job_count": 27,
+ "fetched_at": "2026-11-26T00:39:43+00:00",
+ "job_count": 26,
  "jobs": [
   {
    "job_id": "0652C1D7B7",
@@ -432,21 +432,6 @@
    "published_at": "2026-07-21T00:00:00+00:00",
    "url": "https://apply.workable.com/j/E548043C79",
    "description_sha256": "bd03fa7d5dab0c29cb2079b55aec7abbfb093c426bc90770deb19544df754505"
-  },
-  {
-   "job_id": "F0F2DD7F5D",
-   "lineage_key": "senior-cyber-threat-operations-engineer@arlington-united-states",
-   "title": "Senior Cyber Threat Operations Engineer",
-   "department": "Shared Services",
-   "team": "",
-   "location": "Arlington, United States",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-06-24T00:00:00+00:00",
-   "url": "https://apply.workable.com/j/F0F2DD7F5D",
-   "description_sha256": "74dbc7f7bf33fe2f72886639724975933c8ab69d218462e75ef434f895af0dc6"
   },
   {
    "job_id": "F33DC8C6EE",

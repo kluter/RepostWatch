@@ -2,7 +2,7 @@
  "company": "opencosmos",
  "source": "teamtailor",
  "board": "careers.open-cosmos.com",
- "fetched_at": "2026-11-25T20:06:20+00:00",
+ "fetched_at": "2026-11-27T00:48:12+00:00",
  "job_count": 58,
  "jobs": [
   {
@@ -67,11 +67,11 @@
   },
   {
    "job_id": "1548e628-08e7-4b94-a08b-fc4a49c7ece2",
-   "lineage_key": "senior-rf-electronics-engineer@porto-portugal",
+   "lineage_key": "senior-rf-electronics-engineer@harwell-uk",
    "title": "Senior RF Electronics Engineer",
    "department": "ELECTRONICS",
    "team": "",
-   "location": "Porto, Portugal",
+   "location": "Harwell, UK",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
@@ -93,7 +93,7 @@
    "is_remote": true,
    "published_at": "2026-11-15T23:37:38+00:00",
    "url": "https://careers.open-cosmos.com/jobs/8744509-integration-test-engineer",
-   "description_sha256": "2691eb4f734aebff6636b1b83abb900773d658825ad1137e529347962183a7fc"
+   "description_sha256": "390d23320df56efaee23b890a81fe884f03597909b91c833475c1a6991dcac09"
   },
   {
    "job_id": "17e97ae5-fa4e-4bff-9393-8f67308437d7",

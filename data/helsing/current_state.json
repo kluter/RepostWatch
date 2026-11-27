@@ -2,8 +2,8 @@
  "company": "helsing",
  "source": "greenhouse",
  "board": "helsing",
- "fetched_at": "2026-11-26T19:46:41+00:00",
- "job_count": 175,
+ "fetched_at": "2026-11-27T19:36:42+00:00",
+ "job_count": 176,
  "jobs": [
   {
    "job_id": "4125061101",
@@ -96,18 +96,18 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4642812101",
-   "lineage_key": "production-engineer-mechatronic-systems@munich",
-   "title": "Production Engineer - Mechatronic Systems",
-   "department": "Production Operations",
+   "job_id": "4538119101",
+   "lineage_key": "forward-strategist@munich",
+   "title": "Forward Strategist",
+   "department": "Deployed Engineering",
    "team": "",
    "location": "Munich",
    "secondary_locations": [],
    "employment_type": "",
    "workplace_type": "",
    "is_remote": false,
-   "published_at": "2025-09-01T09:03:41-04:00",
-   "url": "https://helsing.ai/jobs/4642812101?gh_jid=4642812101",
+   "published_at": "2026-08-20T08:58:17-04:00",
+   "url": "https://helsing.ai/jobs/4538119101?gh_jid=4538119101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -438,6 +438,21 @@
    "is_remote": false,
    "published_at": "2026-05-08T09:17:14-04:00",
    "url": "https://helsing.ai/jobs/4861198101?gh_jid=4861198101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4862537101",
+   "lineage_key": "procurement-project-manager@munich",
+   "title": "Procurement Project Manager",
+   "department": "Core Operations",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-05-08T09:18:26-04:00",
+   "url": "https://helsing.ai/jobs/4862537101?gh_jid=4862537101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
@@ -921,21 +936,6 @@
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-   "job_id": "4943195101",
-   "lineage_key": "robotics-software-engineer@barcelona",
-   "title": "Robotics Software Engineer",
-   "department": "Hardware Engineering",
-   "team": "",
-   "location": "Barcelona",
-   "secondary_locations": [],
-   "employment_type": "",
-   "workplace_type": "",
-   "is_remote": false,
-   "published_at": "2026-08-03T11:22:35-04:00",
-   "url": "https://helsing.ai/jobs/4943195101?gh_jid=4943195101",
-   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
    "job_id": "4947377101",
    "lineage_key": "product-manager-autonomous-systems-command-control@munich",
    "title": "Product Manager, Autonomous Systems Command & Control",
@@ -1233,6 +1233,21 @@
    "is_remote": false,
    "published_at": "2026-09-01T03:56:30-04:00",
    "url": "https://helsing.ai/jobs/4964970101?gh_jid=4964970101",
+   "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "job_id": "4968741101",
+   "lineage_key": "senior-programme-manager-mission-systems@munich",
+   "title": "(Senior) Programme Manager Mission Systems",
+   "department": "AI & Engineering",
+   "team": "",
+   "location": "Munich",
+   "secondary_locations": [],
+   "employment_type": "",
+   "workplace_type": "",
+   "is_remote": false,
+   "published_at": "2026-09-07T02:51:23-04:00",
+   "url": "https://helsing.ai/jobs/4968741101?gh_jid=4968741101",
    "description_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {

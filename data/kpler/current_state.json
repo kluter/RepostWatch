@@ -1651,5 +1651,10 @@
    "url": "https://jobs.lever.co/kpler/fd027bed-7a3f-4e51-ab7b-6da91fcf26bb",
    "description_sha256": "f5b4e3fab3512dc174dffb104d7c1889f8676ac59c02cb02161241e915054684"
   }
- ]
+ ],
+ "feed_error": {
+  "code": 502,
+  "message": "HTTP 502",
+  "checked_at": "2026-11-28T00:13:53+00:00"
+ }
 }
